@@ -5,7 +5,7 @@ actions:
     link: /guide/introduction.html
     type: primary
 footerHtml: true
-footer: <a href="https://beian.miit.gov.cn/" target="_blank">沪ICP备2023027725号</a></br>Copyright © 2024 Skydom - Powered by Vuepress
+footer: Copyright © 2024 RSerene - Powered by Vuepress
 ---
 
 <!--<style>
@@ -22,7 +22,7 @@ footer: <a href="https://beian.miit.gov.cn/" target="_blank">沪ICP备2023027725
 }
 </style>
 <div class="container">
-  <img src="/images/Skydom.png" alt="Your Image">
+  <img src="/images/ico.png" alt="Your Image">
 </div>-->
 
 ::: warning 注意
@@ -54,9 +54,9 @@ footer: <a href="https://beian.miit.gov.cn/" target="_blank">沪ICP备2023027725
 
 ## 💖 支持我们
 
-**Skydom是一个公益服务器，只接受无偿赞助，如果你想赞助我们，请点击下方链接，您的支持是我们最大的动力！**
+**雨润是一个公益服务器，只接受无偿赞助，如果你想赞助我们，请点击下方链接，您的支持是我们最大的动力！**
 
-支持我们：[爱发电](https://afdian.net/a/Chosen_1st)
+支持我们：[赞助](/guide/sponsor.html)
 
 非常感谢您对我们的支持！
 
@@ -66,6 +66,6 @@ footer: <a href="https://beian.miit.gov.cn/" target="_blank">沪ICP备2023027725
 
 <html lang="">
 <div style="text-align: center;">
-<iframe style="width:728px;height:90px;max-width:100%;border:none;display:block;margin:auto" src="https://namemc.com/server/play.Skydom.cc/embed" width="728" height="90"></iframe>
+<iframe style="width:728px;height:90px;max-width:100%;border:none;display:block;margin:auto" src="https://namemc.com/server/Play.RSerene.com/embed" width="728" height="90"></iframe>
 </div>
 </html>

@@ -1,7 +1,7 @@
 {
-  "name": "skydomwiki",
+  "name": "rserenewiki",
   "version": "1.0.0",
-  "description": "Minecraft Skydom Server Wiki",
+  "description": "Minecraft Rain Serenity Server Wiki",
   "license": "MIT",
   "type": "module",
   "scripts": {
@@ -20,6 +20,6 @@
     "@vuepress/plugin-search": "2.0.0-rc.26",
     "@vuepress/theme-default": "^2.0.0-rc.11",
     "vue": "^3.4.0",
-    "vuepress": "^2.0.0-rc.7"
+    "vuepress": "^2.0.0-rc.14"
   }
 }
