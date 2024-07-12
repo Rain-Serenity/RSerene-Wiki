@@ -1,4 +1,4 @@
-# Skydom-Wiki
+# RSerene-Wiki
 ## 安装
 
 安装该项目所需的依赖
