@@ -38,7 +38,7 @@ export default defineUserConfig({
     navbar: [
       { text: '首页', link: '/' },
       { text: '玩家手册', children: [ {text: '简单介绍', link: '/guide/introduction.html'}, {text: '基本设定', link: '/guide/settings.html'}, {text: '指令列表', link: '/guide/command.html'}, {text: '常见问题', link: '/guide/faq.html'} ] },
-      { text: '相关链接', children: [ {text: 'GitHub', link: 'https://GitHub.com/Rain-Serenity/'}, {text: 'Minecraft Wiki', link: 'https://Minecraft.Wiki/'} ]}
+      { text: '相关链接', children: [ {text: 'MineBBS', link: 'https://www.MineBBS.com/threads/1-21.28390/'}, {text: 'GitHub', link: 'https://GitHub.com/Rain-Serenity/'}, {text: 'Minecraft Wiki', link: 'https://Minecraft.Wiki/'} ]}
     ],
     sidebar: {
       '/guide/': [{
