@@ -23,17 +23,21 @@
       const systemDarkMode =
         window.matchMedia &&
         window.matchMedia('(prefers-color-scheme: dark)').matches
-      if (userMode === 'dark' || (userMode !== 'light' && systemDarkMode)) {
+
+      if (userMode === 'light') {
+        document.documentElement.dataset.theme = 'light'
+      } else if (userMode === 'dark' || systemDarkMode) {
         document.documentElement.classList.toggle('dark', true)
+        document.documentElement.dataset.theme = 'dark'
       }
     </script>
     <link rel="icon" href="/favicons.ico"><title>雨润服务器 Wiki</title><meta name="description" content="欢迎来到 RSerene Wiki 主页">
-    <link rel="preload" href="/assets/style-D4Lj78jN.css" as="style"><link rel="stylesheet" href="/assets/style-D4Lj78jN.css">
-    <link rel="modulepreload" href="/assets/app-DGgjue7n.js"><link rel="modulepreload" href="/assets/404.html-Do80LsHc.js">
-    <link rel="prefetch" href="/assets/index.html-BdEe32an.js" as="script"><link rel="prefetch" href="/assets/command.html-DjGchezr.js" as="script"><link rel="prefetch" href="/assets/faq.html-IugAR1yR.js" as="script"><link rel="prefetch" href="/assets/introduction.html-Bxyo3x-f.js" as="script"><link rel="prefetch" href="/assets/settings.html-BLhEFAA_.js" as="script"><link rel="prefetch" href="/assets/sponsor.html-DBBJ0RaR.js" as="script">
+    <link rel="preload" href="/assets/style-jhXx_ej8.css" as="style"><link rel="stylesheet" href="/assets/style-jhXx_ej8.css">
+    <link rel="modulepreload" href="/assets/app-DAvxwVzd.js"><link rel="modulepreload" href="/assets/404.html-BD7vNP1d.js">
+    <link rel="prefetch" href="/assets/index.html-ZF_wOarh.js" as="script"><link rel="prefetch" href="/assets/command.html-C_ixSZSR.js" as="script"><link rel="prefetch" href="/assets/faq.html-BVXRAeql.js" as="script"><link rel="prefetch" href="/assets/introduction.html-D5DG6RQ1.js" as="script"><link rel="prefetch" href="/assets/settings.html-ha4Q5abP.js" as="script"><link rel="prefetch" href="/assets/sponsor.html--8I5GuCm.js" as="script">
   </head>
   <body>
-    <div id="app"><!--[--><div class="vp-theme-container" data-v-1eb38ef9><main class="page" data-v-1eb38ef9><div class="theme-default-content" data-v-1eb38ef9><h1 data-v-1eb38ef9>404</h1><blockquote data-v-1eb38ef9>Looks like we&#39;ve got some broken links.</blockquote><a class="route-link" href="/" data-v-1eb38ef9>Take me home</a></div></main></div><!--[--><!----><!--]--><!--]--></div>
-    <script type="module" src="/assets/app-DGgjue7n.js" defer></script>
+    <div id="app"><!--[--><div class="vp-theme-container" data-v-0c01291c><main class="page" data-v-0c01291c><div class="theme-default-content" data-v-0c01291c><h1 data-v-0c01291c>404</h1><blockquote data-v-0c01291c>That&#39;s a Four-Oh-Four.</blockquote><a class="route-link" href="/" data-v-0c01291c>Take me home</a></div></main></div><!--[--><!----><!--]--><!--]--></div>
+    <script type="module" src="/assets/app-DAvxwVzd.js" defer></script>
   </body>
 </html>
