@@ -3,8 +3,8 @@
 <!--::: danger 注意
 机器请勿过于密集，谢谢配合！
 :::-->
-**本服务器采用的是[Paper](https://GitHub.com/PaperMC/Paper)核心。** <br>
-**禁用了Paper默认禁用的特性** <br>
+**本服务器采用的是[Leave](https://GitHub.com/LeavesMC/Leaves)核心。** <br>
+**开放了原版大多数的特性** <br>
 ## 死亡不掉落
 **我们已开启死亡不掉落。**
 <!--## 死亡掉落
