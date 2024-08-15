@@ -16,7 +16,7 @@ bannerBrand:
   buttons:
     # - { text: 收到, icon: 'EarthFilled', link: '/blogs/category1/blog2' }
     - { text: 开始阅读, link: '/guide/introduction.html' }
-    - { text: 下载客户端, link: '/guide/introduction.html', type: 'plain', icon: 'Alien' }
+    - { text: 下载客户端, link: 'https://www.mcmod.cn/modpack/467.html', type: 'plain' }
     # - { text: safsdfdsfdssdsdfsdf, link: '/blogs/category1/blog2', type: 'text', icon: 'Alien' }
   socialLinks:
     - { icon: 'LogoGithub', link: 'https://GitHub.com/Rain-Serenity/RSerene-Wiki/' }
