@@ -4,7 +4,7 @@
 安装该项目所需的依赖
 
 ```bash
-npm install -g pnpm && pnpm install
+npm install
 ```
 
 
@@ -14,5 +14,5 @@ npm install -g pnpm && pnpm install
 编译并运行该项目
 
 ```bash
-pnpm run docs:dev
+npm run docs:dev
 ```
