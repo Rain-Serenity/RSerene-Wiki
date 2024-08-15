@@ -63,7 +63,7 @@ export default defineUserConfig({
             {
               type: 'buttongroup',
               children: [
-                { text: '赞助', link: '/sponsor.html' }
+                { text: '赞助', link: '/guide/sponsor.html' }
               ]
             }
           ],
@@ -106,7 +106,7 @@ export default defineUserConfig({
             {
               type: 'buttongroup',
               children: [
-                { text: '赞助', link: '/sponsor.html' }
+                { text: '赞助', link: '/guide/sponsor.html' }
               ]
             }
           ],
