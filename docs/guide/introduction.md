@@ -18,6 +18,6 @@
 | 有无白名单    | 无                      |
 | 联系方式     | QQ群: 902620497         |
 | 服务器IP/域名 | Play.RSerene.com       |
-::: warning 注意
+::: tip 提示
 离线用户需要在你的ID前面加#。举个例子，假设我的ID是Player，那么加#后的ID就是#Player。
 :::
