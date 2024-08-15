@@ -32,7 +32,7 @@ export default defineUserConfig({
         selectLanguageText: 'Languages',
         lastUpdatedText: "Last Updated",
         series: {
-          '/guide/': [{
+          '/en/guide/': [{
             text: '玩家手册',
             children: ['/guide/introduction.md', '/guide/settings.md', '/guide/command.md', '/guide/faq.md', '/guide/sponsor.md'],
           }],
