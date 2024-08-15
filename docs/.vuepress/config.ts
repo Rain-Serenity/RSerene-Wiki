@@ -1,44 +1,87 @@
 import { defineUserConfig } from "vuepress";
-import recoTheme from "vuepress-theme-reco";
+import { recoTheme } from "vuepress-theme-reco";
 import { viteBundler } from '@vuepress/bundler-vite'
 
 export default defineUserConfig({
-  title: "vuepress-theme-reco",
-  description: "Just playing around",
+  locales: {
+    // 键名是该语言所属的子路径
+    // 作为特例，默认语言可以使用 '/' 作为其路径。
+    '/en/': {
+      lang: 'en-US',
+      title: 'VuePress',
+      description: 'Vue-powered Static Site Generator',
+    },
+    '/': {
+      lang: 'zh-CN',
+      title: '雨润服务器 Wiki',
+      description: '欢迎来到 RSerene Wiki 主页',
+    },
+  },
   bundler: viteBundler(),
   // bundler: webpackBundler(),
   theme: recoTheme({
     style: "@vuepress-reco/style-default",
-    logo: "/logo.png",
-    author: "reco_luan",
+    logo: "/favicons.ico",
+    author: "Chosen_1st",
     authorAvatar: "/head.png",
-    docsRepo: "https://github.com/vuepress-reco/vuepress-theme-reco-next",
+    docsRepo: "https://GitHub.com/Rain-Serenity/RSerene-Wiki",
     docsBranch: "main",
-    docsDir: "example",
-    lastUpdatedText: "",
-    // series 为原 sidebar
-    series: {
-      "/theme-reco/": [
-        {
-          text: "module one",
-          children: ["home", "theme"],
+    docsDir: "/docs",
+    locales: {
+      '/en/': {
+        selectLanguageName: 'English',
+        lastUpdatedText: "Last Updated",
+        series: {
+          "/theme-reco/": [
+            {
+              text: "module one",
+              children: ["home", "theme"],
+            },
+//            {
+//              text: "module two",
+//              children: ["api", "plugin"],
+//            },
+          ],
         },
-        {
-          text: "module two",
-          children: ["api", "plugin"],
-        },
-      ],
-    },
-    navbar: [
-      { text: "Home", link: "/" },
-      {
-        text: "Docs",
-        children: [
-          { text: "vuepress-reco", link: "/theme-reco/theme" },
-          { text: "vuepress-theme-reco", link: "/other/guide" },
+        navbar: [
+          { text: "Home", link: "/" },
+          {
+            text: "Docs",
+            children: [
+              { text: "vuepress-reco", link: "/theme-reco/theme" },
+              { text: "vuepress-theme-reco", link: "/other/guide" },
+            ],
+          },
         ],
       },
-    ],
+      '/': {
+        selectLanguageName: '简体中文',
+        lastUpdatedText: "最后更新",
+        // series 为原 sidebar
+        series: {
+          "/theme-reco/": [
+            {
+              text: "module one",
+              children: ["home", "theme"],
+            },
+//            {
+//              text: "module two",
+//              children: ["api", "plugin"],
+//            },
+          ],
+        },
+        navbar: [
+          { text: "Home", link: "/" },
+          {
+            text: "Docs",
+            children: [
+              { text: "vuepress-reco", link: "/theme-reco/theme" },
+              { text: "vuepress-theme-reco", link: "/other/guide" },
+            ],
+          },
+        ],
+      },
+    },
     // commentConfig: {
     //   type: 'valine',
     //   // options 与 1.x 的 valineConfig 配置一致

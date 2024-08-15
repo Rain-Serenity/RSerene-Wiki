@@ -2,6 +2,12 @@
 
 ## 快速开始
 
+**npx**
+
+```bash
+# 初始化，并选择 2.x
+npx @vuepress-reco/theme-cli init
+```
 
 **npm**
 
