@@ -34,20 +34,19 @@ export default defineUserConfig({
         series: {
           '/en/guide/': [{
             text: '玩家手册',
-            children: ['/guide/introduction.md', '/guide/settings.md', '/guide/command.md', '/guide/faq.md', '/guide/sponsor.md'],
+            children: ['/en/guide/introduction.md', '/en/guide/settings.md', '/en/guide/command.md', '/en/guide/faq.md', '/en/guide/sponsor.md'],
           }],
         },
         navbar: [
-          { text: "主页", link: "/" },
-          { text: '玩家手册', children: [ {text: '简单介绍', link: '/guide/introduction.html'}, {text: '基本设定', link: '/guide/settings.html'}, {text: '指令列表', link: '/guide/command.html'}, {text: '常见问题', link: '/guide/faq.html'} ] },
+          { text: "主页", link: "/en/" },
+          { text: '玩家手册', children: [ {text: '简单介绍', link: '/en/guide/introduction.html'}, {text: '基本设定', link: '/en/guide/settings.html'}, {text: '指令列表', link: '/en/guide/command.html'}, {text: '常见问题', link: '/en/guide/faq.html'} ] },
           { text: '相关链接', children: [ {text: 'Copilot', link: 'https://Copilot.RSerene.com/'}, {text: 'GitHub', link: 'https://GitHub.com/Rain-Serenity/'}, {text: 'MineBBS', link: 'https://www.MineBBS.com/threads/1-21.28390/'}, {text: 'Minecraft Wiki', link: 'https://Minecraft.Wiki/'} ]}
         ],
         bulletin: {
           body: [
             {
               type: 'text',
-              content: `🎉🎉🎉 reco 主题 2.x 已经发布 RC 版本，在发布 Latest 版本之前不会再有大的更新，
-          大家可以尽情尝鲜了，并且希望大家在 QQ 群和 GitHub 踊跃反馈使用体验，我会在第一时间响应。`,
+              content: `🎉🎉🎉 服务器已经更新到1.21.1。`,
               style: 'font-size: 12px;'
             },
             { type: 'hr' },
@@ -56,20 +55,7 @@ export default defineUserConfig({
               type: 'text',
               content: `
           <ul>
-            <li>QQ群1：1037296104</li>
-            <li>QQ群2：1061561395</li>
-            <li>QQ群3：962687802</li>
-          </ul>`,
-              style: 'font-size: 12px;'
-            },
-            { type: 'hr' },
-            { type: 'title', content: 'GitHub' },
-            {
-              type: 'text',
-              content: `
-          <ul>
-            <li><a href="https://github.com/vuepress-reco/vuepress-theme-reco/issues">Issues<a/></li>
-            <li><a href="https://github.com/vuepress-reco/vuepress-theme-reco/discussions/1">Discussions<a/></li>
+            <li>QQ群：902620497</li>
           </ul>`,
               style: 'font-size: 12px;'
             },
@@ -77,7 +63,7 @@ export default defineUserConfig({
             {
               type: 'buttongroup',
               children: [
-                { text: '打赏', link: '/docs/others/donate.html' }
+                { text: '赞助', link: '/sponsor.html' }
               ]
             }
           ],
