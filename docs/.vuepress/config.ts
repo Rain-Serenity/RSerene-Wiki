@@ -8,8 +8,8 @@ export default defineUserConfig({
     // 作为特例，默认语言可以使用 '/' 作为其路径。
     '/en/': {
       lang: 'en-US',
-      title: 'VuePress',
-      description: 'Vue-powered Static Site Generator',
+      title: '雨润服务器 Wiki',
+      description: '欢迎来到 RSerene Wiki 主页',
     },
     '/': {
       lang: 'zh-CN',
@@ -23,8 +23,6 @@ export default defineUserConfig({
     style: "@vuepress-reco/style-default",
     logo: "/favicons.ico",
     author: "Chosen_1st",
-    authorAvatar: "/head.png",
-    docsRepo: "https://GitHub.com/Rain-Serenity/RSerene-Wiki",
     docsBranch: "main",
     docsDir: "/docs",
     locales: {
@@ -33,54 +31,32 @@ export default defineUserConfig({
         selectLanguageText: 'Languages',
         lastUpdatedText: "Last Updated",
         series: {
-          "/theme-reco/": [
-            {
-              text: "module one",
-              children: ["home", "theme"],
-            },
-//            {
-//              text: "module two",
-//              children: ["api", "plugin"],
-//            },
-          ],
+          '/guide/': [{
+            text: '玩家手册',
+            children: ['/guide/introduction.md', '/guide/settings.md', '/guide/command.md', '/guide/faq.md', '/guide/sponsor.md'],
+          }],
         },
         navbar: [
-          { text: "Home", link: "/" },
-          {
-            text: "Docs",
-            children: [
-              { text: "vuepress-reco", link: "/theme-reco/theme" },
-              { text: "vuepress-theme-reco", link: "/other/guide" },
-            ],
-          },
+          { text: "主页", link: "/" },
+          { text: '玩家手册', children: [ {text: '简单介绍', link: '/guide/introduction.html'}, {text: '基本设定', link: '/guide/settings.html'}, {text: '指令列表', link: '/guide/command.html'}, {text: '常见问题', link: '/guide/faq.html'} ] },
+          { text: '相关链接', children: [ {text: 'MineBBS', link: 'https://www.MineBBS.com/threads/1-21.28390/'}, {text: 'GitHub', link: 'https://GitHub.com/Rain-Serenity/'}, {text: 'Minecraft Wiki', link: 'https://Minecraft.Wiki/'} ]}
         ],
       },
       '/': {
         selectLanguageName: '简体中文',
-        lastUpdatedText: "最后更新",
         selectLanguageText: '选择语言',
+        lastUpdatedText: "最后更新",
         // series 为原 sidebar
         series: {
-          "/theme-reco/": [
-            {
-              text: "module one",
-              children: ["home", "theme"],
-            },
-//            {
-//              text: "module two",
-//              children: ["api", "plugin"],
-//            },
-          ],
+          '/guide/': [{
+            text: '玩家手册',
+            children: ['/guide/introduction.md', '/guide/settings.md', '/guide/command.md', '/guide/faq.md', '/guide/sponsor.md'],
+          }],
         },
         navbar: [
-          { text: "Home", link: "/" },
-          {
-            text: "Docs",
-            children: [
-              { text: "vuepress-reco", link: "/theme-reco/theme" },
-              { text: "vuepress-theme-reco", link: "/other/guide" },
-            ],
-          },
+          { text: "主页", link: "/" },
+          { text: '玩家手册', children: [ {text: '简单介绍', link: '/guide/introduction.html'}, {text: '基本设定', link: '/guide/settings.html'}, {text: '指令列表', link: '/guide/command.html'}, {text: '常见问题', link: '/guide/faq.html'} ] },
+          { text: '相关链接', children: [ {text: 'MineBBS', link: 'https://www.MineBBS.com/threads/1-21.28390/'}, {text: 'GitHub', link: 'https://GitHub.com/Rain-Serenity/'}, {text: 'Minecraft Wiki', link: 'https://Minecraft.Wiki/'} ]}
         ],
       },
     },
