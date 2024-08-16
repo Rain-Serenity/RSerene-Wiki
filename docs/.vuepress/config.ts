@@ -38,7 +38,7 @@ export default defineUserConfig({
         navbar: [
           { text: "主页", link: "/en/" },
           { text: '玩家手册', children: [ {text: '简单介绍', link: '/en/guide/introduction.html'}, {text: '基本设定', link: '/en/guide/settings.html'}, {text: '指令列表', link: '/en/guide/command.html'}, {text: '常见问题', link: '/en/guide/faq.html'} ] },
-          { text: '相关链接', children: [ {text: 'Copilot', link: 'https://Copilot.RSerene.com/'}, {text: 'GitHub', link: 'https://GitHub.com/Rain-Serenity/'}, {text: 'MineBBS', link: 'https://www.MineBBS.com/threads/1-21.28390/'}, {text: 'Minecraft Wiki', link: 'https://Minecraft.Wiki/'} ]}
+          { text: '相关链接', children: [ {text: 'Copilot', link: 'https://Copilot.RSerene.com/'}, {text: 'GitHub', link: 'https://GitHub.com/Rain-Serenity/'}, {text: 'MineBBS', link: 'https://www.MineBBS.com/threads/1-21.28390/'}, {text: 'Minecraft Wiki', link: 'https://Minecraft.Wiki/'}, {text: 'Status', link: 'https://Stats.UptimeRobot.com/ErgTAP18m2'} ]}
         ],
         bulletin: {
           body: [
@@ -81,7 +81,7 @@ export default defineUserConfig({
         navbar: [
           { text: "主页", link: "/" },
           { text: '玩家手册', children: [ {text: '简单介绍', link: '/guide/introduction.html'}, {text: '基本设定', link: '/guide/settings.html'}, {text: '指令列表', link: '/guide/command.html'}, {text: '常见问题', link: '/guide/faq.html'} ] },
-          { text: '相关链接', children: [ {text: 'Copilot', link: 'https://Copilot.RSerene.com/'}, {text: 'GitHub', link: 'https://GitHub.com/Rain-Serenity/'}, {text: 'MineBBS', link: 'https://www.MineBBS.com/threads/1-21.28390/'}, {text: 'Minecraft Wiki', link: 'https://Minecraft.Wiki/'} ]}
+          { text: '相关链接', children: [ {text: 'Copilot', link: 'https://Copilot.RSerene.com/'}, {text: 'GitHub', link: 'https://GitHub.com/Rain-Serenity/'}, {text: 'MineBBS', link: 'https://www.MineBBS.com/threads/1-21.28390/'}, {text: 'Minecraft Wiki', link: 'https://Minecraft.Wiki/'}, {text: 'Status', link: 'https://Stats.UptimeRobot.com/ErgTAP18m2'} ]}
         ],
         bulletin: {
           body: [
