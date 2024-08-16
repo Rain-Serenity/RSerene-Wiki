@@ -1,7 +1,7 @@
-# 常见问题
-<!--::: warning 注意
-本页正在施工中......
+# FAQ
+<!--::: warning Note
+This page is under construction...
 :::-->
-## 为什么我无法进入服务器？
-### 提示 无效会话
-**如果你是正版玩家，请检查你的登录状态；如果你是离线玩家，请在你的ID前面加#。举个例子，假设我的ID是Player，那么加#后的ID就是#Player。**
+## Why can't I enter the server?
+### Error: Invalid Session
+**If you are a premium (official) player, please check your login status. If you are an offline (non-premium) player, please add a `#` before your ID. For example, if your ID is `Player`, then after adding `#`, your ID would be `#Player`.**

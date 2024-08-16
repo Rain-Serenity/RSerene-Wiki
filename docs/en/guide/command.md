@@ -1,26 +1,26 @@
-# 指令列表
-| 指令名称                       | 功能                        | 备注            |
-|----------------------------|---------------------------|---------------|
-| /afk                       | 进入离开状态                    |               |
-| /back                      | 返回上一个保存的地点                |
-| /balance                   | 查看你的余额                    |               |
-| /baltop                    | 查看余额排行榜                   |               |
-| /dback                     | 返回上一个死亡的地点                |               |
-| /gmp mailbox               | 打开你的邮箱，你在全球市场下架的东西都会存放在这里 |               |
-| /gmp market gui            | 打开全球市场                    |               |
-| /gmp market sell <价格> <数量> | 将你手上的物品以一定的价格上架到全球市场      |               |
-| /co i                      | 查询一个方块的记录                 |               |
-| /hat                       | 将你手上拿的东西戴在头上              |               |
-| /msg                       | 给某位玩家发送私聊                 |               |
-| /ping                      | 查看你的延迟                    |               |
-| /playtime                  | 查看你的在线时长                  |               |
-| /playtimetop               | 查看服务器在线时长排行榜              |               |
-| /res help                  | 获取领地插件的帮助                 |               |
-| /ride                      | 骑上准心所指的实体上                | 可以是玩家         |
-| /rtp                       | 随机传送                      | 范围32000*32000 |
-| /sell                      | 卖出手上的物品获得余额               |               |
-| /spawn                     | 传送到主城                     |               |
-| /tpa                       | 申请传送到其他玩家处                |               |
-| /tpahere                   | 申请其他玩家传送到你这               |               |
-| /worth                     | 查询手上物品的出售价值               |               |
-| /worthlist                 | 查询所有可出售物品的价值              |               |
+# Command List
+| Command Name                                    | Function                                                                    | Remarks            |
+|-------------------------------------------------|-----------------------------------------------------------------------------|--------------------|
+| /afk                                            | Enter AFK mode                                                              |                    |
+| /back                                           | Return to the last saved location                                           |                    |
+| /balance                                        | Check your balance                                                          |                    |
+| /baltop                                         | View the balance leaderboard                                                |                    |
+| /dback                                          | Return to the last death location                                           |                    |
+| /gmp mailbox                                    | Open your mailbox; items removed from the global market will be stored here |                    |
+| /gmp market gui                                 | Open the global market                                                      |                    |
+| /gmp market sell &lt;price&gt; &lt;quantity&gt; | List the item in your hand on the global market at a specified price        |                    |
+| /co i                                           | Check the history of a block                                                |                    |
+| /hat                                            | Wear the item in your hand as a hat                                         |                    |
+| /msg                                            | Send a private message to a player                                          |                    |
+| /ping                                           | Check your latency                                                          |                    |
+| /playtime                                       | Check your total playtime                                                   |                    |
+| /playtimetop                                    | View the server playtime leaderboard                                        |                    |
+| /res help                                       | Get help with the residence plugin                                          |                    |
+| /ride                                           | Ride the entity you are aiming at                                           | Can be a player    |
+| /rtp                                            | Random teleport                                                             | Range: 32000*32000 |
+| /sell                                           | Sell the item in your hand for balance                                      |                    |
+| /spawn                                          | Teleport to the main city                                                   |                    |
+| /tpa                                            | Request to teleport to another player                                       |                    |
+| /tpahere                                        | Request another player to teleport to you                                   |                    |
+| /worth                                          | Check the selling value of the item in your hand                            |                    |
+| /worthlist                                      | View the selling value of all sellable items                                |                    |
