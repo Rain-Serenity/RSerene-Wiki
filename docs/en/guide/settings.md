@@ -1,29 +1,34 @@
-# 基本设定
-## 使用的服务器核心
-<!--::: danger 注意
-机器请勿过于密集，谢谢配合！
-:::-->
-**本服务器采用的是[Leave](https://GitHub.com/LeavesMC/Leaves)核心。** <br>
-**开放了原版大多数的特性** <br>
-## 死亡不掉落
-**我们已开启死亡不掉落。**
-<!--## 死亡掉落
-::: warning 注意
-我们与原版不同，掉落物会在3分钟后刷新！
+# Basic Settings
+## Server Core
+::: danger Warning
+Please avoid excessive machine density. Thank you for your cooperation!
 :::
-**请注意，我们没有开启死亡不掉落，请尽量不要死亡，如果你死亡了，那你需要赶紧找回你的装备！**-->
-## 睡眠系统
-**我们不采用睡觉加速机制，而是采用原创的睡眠系统，使用[NoPhantomSleep](https://GitHub.com/SkydomGroup/NoPhantomSleep)插件实现。具体设定如下，只要你在夜晚右键床，睡眠超过5秒，就会判定你已经度过了整个夜晚，在你周围的64格内不会刷新幻翼，有效时长为30分钟。** <br>
-## 视距设置
-**我们的视距为8个区块。**
-<!--## 实体生成
-**我们虽然降低了视距和实体的计算距离，但是我们显著提升了玩家附近区块的刷怪效率。**-->
-## 领地
-**我们创建领地的工具设置为木锄头，最大领地范围为512×512(X×Z)，高度不限(-64~328均可)。**
-## 可出售给服务器的物品
-| 物品    | 价格   |
-|-------|------|
-| 煤炭    | 2.5  |
-| 煤炭块   | 23.0 |
-| 钻石    | 35.0 |
-| 下界合金锭 | 80.0 |
+**This server uses the [Leave](https://GitHub.com/LeavesMC/Leaves) core.** <br>
+**Most vanilla features are enabled.** <br>
+
+## No Item Drop on Death
+**We have enabled no item drop on death.**
+<!--## Item Drop on Death
+::: warning Note
+Unlike vanilla, dropped items will despawn after 3 minutes!
+:::
+**Please note, we have not enabled no item drop on death. Try to avoid dying, and if you do, quickly retrieve your items!**-->
+
+## Sleep System
+**We do not use a sleep acceleration mechanism but instead employ a custom sleep system using the [NoPhantomSleep](https://GitHub.com/SkydomGroup/NoPhantomSleep) plugin. The specifics are as follows: as long as you right-click a bed at night and sleep for more than 5 seconds, it will count as having passed the entire night. No phantoms will spawn within a 64-block radius around you, and this effect lasts for 30 minutes.** <br>
+
+## View Distance
+**Our view distance is set to 8 chunks.**
+<!--## Entity Spawning
+**Although we've reduced the view distance and entity calculation range, we've significantly increased the mob spawn rate in chunks near players.**-->
+
+## Land Claim
+**The tool for creating land claims is set to a wooden hoe. The maximum claim size is 512×512 (X×Z), with no height limit (-64~328 is allowed).**
+
+## Items Sellable to the Server
+| Item            | Price |
+|-----------------|-------|
+| Coal            | 2.5   |
+| Coal Block      | 23.0  |
+| Diamond         | 35.0  |
+| Netherite Ingot | 80.0  |
