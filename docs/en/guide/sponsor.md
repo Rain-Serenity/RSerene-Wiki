@@ -1,4 +1,4 @@
-# Sponsorship
+# Sponsor
 ## WeChat
 ![WeChat](/images/sponsor-wechat.png)
 ## Alipay
