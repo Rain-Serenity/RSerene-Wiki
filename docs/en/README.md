@@ -3,8 +3,9 @@ home: true
 isShowTitleInHome: true
 modules:
   - BannerBrand
-#  - MdContent
+  - Features
   - Footer
+  #  - MdContent
 bannerBrand:
   title: 雨润服务器 Wiki
   description: '欢迎来到 RSerene Wiki 主页'
@@ -14,8 +15,8 @@ bannerBrand:
   #   height: 450px
   buttons:
     # - { text: 收到, icon: 'EarthFilled', link: '/blogs/category1/blog2' }
-    - { text: 开始阅读, link: '/blogs/category1/blog2' }
-    - { text: 下载客户端, link: '/blogs/category1/blog2', type: 'plain', icon: 'Alien' }
+    - { text: 开始阅读, link: '/guide/introduction.html' }
+    - { text: 下载客户端, link: 'https://www.mcmod.cn/modpack/467.html', type: 'plain' }
     # - { text: safsdfdsfdssdsdfsdf, link: '/blogs/category1/blog2', type: 'text', icon: 'Alien' }
   socialLinks:
     - { icon: 'LogoGithub', link: 'https://GitHub.com/Rain-Serenity/RSerene-Wiki/' }
@@ -24,11 +25,11 @@ footer: # 底部模块的配置
   startYear: 2020
 features:
   - title: 过去
-    details: 开发一款看着开心、写着顺手的 vuepress 博客主题。
+    details: 开发一款有特别玩法的服务器。
   - title: 当下
-    details: 帮助更多的朋友节省时间去用心书写内容，而不是仅仅配置一个博客去孤芳自赏。
+    details: 不在弄特别的玩法，追求纯净流畅的生存。
   - title: 未来
-    details: 吸引更多的朋友参与到开发中来，继续强大功能。
+    details: 吸引更多的玩家参与到服务器来，继续完善服务器。
 ---
 ## 快速开始
 
