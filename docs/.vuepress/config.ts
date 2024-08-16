@@ -66,7 +66,7 @@ export default defineUserConfig({
             {
               type: 'buttongroup',
               children: [
-                { text: 'Sponsor', link: '/guide/sponsor.html' }
+                { text: 'Sponsor', link: '/en/guide/sponsor.html' }
               ]
             }
           ],
