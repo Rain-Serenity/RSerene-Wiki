@@ -25,3 +25,12 @@
 5. Overworld random teleport:  
    `Maximum distance is now 32,000 (50,000 -> 32,000)`  
    `Minimum distance is now 512 (1,024 -> 512)`  
+
+## Release 1 Update 4
+**2024/9/5**
+1. Restored mob AI
+2. Fixed issue with turtles not laying eggs
+3. Fixed abnormal piston behavior
+4. Fixed lag when lever is triggered repeatedly
+5. Optimized map loading speed
+6. Updated Leave version
