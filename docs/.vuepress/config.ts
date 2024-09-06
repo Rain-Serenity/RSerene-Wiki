@@ -4,15 +4,15 @@ import { viteBundler } from '@vuepress/bundler-vite'
 
 export default defineUserConfig({
   locales: {
-    '/en/': {
-      lang: 'en-US',
-      title: 'RSerene Server Wiki',
-      description: 'Welcome to the RSerene Wiki homepage',
-    },
     '/': {
       lang: 'zh-CN',
       title: '雨润服务器 Wiki',
       description: '欢迎来到 RSerene Wiki 主页',
+    },
+    '/en/': {
+      lang: 'en-US',
+      title: 'RSerene Server Wiki',
+      description: 'Welcome to the RSerene Wiki homepage',
     },
   },
   bundler: viteBundler(),
@@ -25,53 +25,6 @@ export default defineUserConfig({
     docsDir: "/docs",
     docsRepo: 'https://github.com/Rain-Serenity/RSerene-Wiki',
     locales: {
-      '/en/': {
-        selectLanguageName: 'English',
-        selectLanguageText: 'Languages',
-        lastUpdatedText: "Last Updated",
-        series: {
-          '/en/guide/': [{
-            text: 'Player Manual',
-            children: ['/en/guide/introduction.md', '/en/guide/settings.md', '/en/guide/command.md', '/en/guide/faq.md', '/en/guide/sponsor.md'],
-          }],
-          '/en/changelog/': [{
-            text: 'Changelog',
-            children: ['/en/changelog/changelog.md'],
-          }],
-        },
-        navbar: [
-          { text: "Home", link: "/en/" },
-          { text: 'Player Manual', children: [ {text: 'Introduction', link: '/en/guide/introduction.html'}, {text: 'Settings', link: '/en/guide/settings.html'}, {text: 'Command List', link: '/en/guide/command.html'}, {text: 'FAQ', link: '/en/guide/faq.html'} ] },
-          { text: 'Changelog', children: [ {text: 'Changelog', link: '/en/changelog/changelog.html'} ] },
-          { text: 'Related Links', children: [ {text: 'Copilot', link: 'https://Copilot.RSerene.com/'}, {text: 'GitHub', link: 'https://GitHub.com/Rain-Serenity/'}, {text: 'MineBBS', link: 'https://www.MineBBS.com/threads/1-21.28390/'}, {text: 'Minecraft Wiki', link: 'https://Minecraft.Wiki/'}, {text: 'Status', link: 'https://Stats.UptimeRobot.com/ErgTAP18m2'} ]}
-        ],
-        bulletin: {
-          body: [
-            {
-              type: 'text',
-              content: `🎉🎉🎉 The server has been updated to 1.21.1.`,
-              style: 'font-size: 12px;'
-            },
-            { type: 'hr' },
-            { type: 'title', content: 'QQ Group' },
-            {
-              type: 'text',
-              content: `
-      <ul>
-        <li>QQ Group: 902620497</li>
-      </ul>`,
-              style: 'font-size: 12px;'
-            },
-            { type: 'hr', },
-            {
-              type: 'buttongroup',
-              children: [
-                { text: 'Sponsor', link: '/en/guide/sponsor.html' }
-              ]
-            }
-          ],
-        }
-      },
       '/': {
         selectLanguageName: '简体中文',
         selectLanguageText: '选择语言',
@@ -115,6 +68,53 @@ export default defineUserConfig({
               type: 'buttongroup',
               children: [
                 { text: '赞助', link: '/guide/sponsor.html' }
+              ]
+            }
+          ],
+        }
+      },
+      '/en/': {
+        selectLanguageName: 'English',
+        selectLanguageText: 'Languages',
+        lastUpdatedText: "Last Updated",
+        series: {
+          '/en/guide/': [{
+            text: 'Player Manual',
+            children: ['/en/guide/introduction.md', '/en/guide/settings.md', '/en/guide/command.md', '/en/guide/faq.md', '/en/guide/sponsor.md'],
+          }],
+          '/en/changelog/': [{
+            text: 'Changelog',
+            children: ['/en/changelog/changelog.md'],
+          }],
+        },
+        navbar: [
+          { text: "Home", link: "/en/" },
+          { text: 'Player Manual', children: [ {text: 'Introduction', link: '/en/guide/introduction.html'}, {text: 'Settings', link: '/en/guide/settings.html'}, {text: 'Command List', link: '/en/guide/command.html'}, {text: 'FAQ', link: '/en/guide/faq.html'} ] },
+          { text: 'Changelog', children: [ {text: 'Changelog', link: '/en/changelog/changelog.html'} ] },
+          { text: 'Related Links', children: [ {text: 'Copilot', link: 'https://Copilot.RSerene.com/'}, {text: 'GitHub', link: 'https://GitHub.com/Rain-Serenity/'}, {text: 'MineBBS', link: 'https://www.MineBBS.com/threads/1-21.28390/'}, {text: 'Minecraft Wiki', link: 'https://Minecraft.Wiki/'}, {text: 'Status', link: 'https://Stats.UptimeRobot.com/ErgTAP18m2'} ]}
+        ],
+        bulletin: {
+          body: [
+            {
+              type: 'text',
+              content: `🎉🎉🎉 The server has been updated to 1.21.1.`,
+              style: 'font-size: 12px;'
+            },
+            { type: 'hr' },
+            { type: 'title', content: 'QQ Group' },
+            {
+              type: 'text',
+              content: `
+      <ul>
+        <li>QQ Group: 902620497</li>
+      </ul>`,
+              style: 'font-size: 12px;'
+            },
+            { type: 'hr', },
+            {
+              type: 'buttongroup',
+              children: [
+                { text: 'Sponsor', link: '/en/guide/sponsor.html' }
               ]
             }
           ],
