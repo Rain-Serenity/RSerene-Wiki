@@ -1,4 +1,4 @@
-# Changelog
+# Server Changelog
 
 ## Release 1 Update 1
 *2024/7/14*  
