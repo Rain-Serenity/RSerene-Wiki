@@ -34,3 +34,7 @@
 4. Fixed lag when lever is triggered repeatedly  
 5. Optimized map loading speed  
 6. Updated Leave version  
+
+## Release 1 Update 5
+**2024/11/23**  
+1.Fix some bugs
