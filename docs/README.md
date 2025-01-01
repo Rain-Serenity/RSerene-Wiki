@@ -21,7 +21,7 @@ bannerBrand:
   socialLinks:
     - { icon: 'LogoGithub', link: 'https://GitHub.com/Rain-Serenity/RSerene-Wiki/' }
     # - { icon: 'LogoTwitter', link: 'https://twitter.com/reco_luan' }
-footer:
+footer: # 底部模块的配置
   startYear: 2020
 features:
   - title: 过去
