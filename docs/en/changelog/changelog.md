@@ -36,5 +36,5 @@
 6. Updated Leave version  
 
 ## Release 1 Update 5
-**2024/11/23**  
+**2024/11/23**   
 1.Fix some bugs
