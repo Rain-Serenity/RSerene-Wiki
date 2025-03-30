@@ -18,7 +18,7 @@ Unlike vanilla, dropped items will despawn after 3 minutes!
 **We do not use a sleep acceleration mechanism but instead employ a custom sleep system using the [NoPhantomSleep](https://GitHub.com/SkydomGroup/NoPhantomSleep) plugin. The specifics are as follows: as long as you right-click a bed at night and sleep for more than 5 seconds, it will count as having passed the entire night. No phantoms will spawn within a 64-block radius around you, and this effect lasts for 30 minutes.** <br>
 
 ## View Distance
-**Our view distance is set to 16 chunks.**
+**Our view distance is set to 12 chunks.**
 <!--## Entity Spawning
 **Although we've reduced the view distance and entity calculation range, we've significantly increased the mob spawn rate in chunks near players.**-->
 
