@@ -4,7 +4,7 @@
 安装该项目所需的依赖
 
 ```bash
-npm install
+npm install --legacy-peer-deps
 ```
 
 
@@ -16,5 +16,3 @@ npm install
 ```bash
 npm run docs:dev
 ```
-
-
