@@ -18,7 +18,6 @@ export default defineUserConfig({
   bundler: viteBundler(),
   // bundler: webpackBundler(),
   theme: recoTheme({
-    style: "@vuepress-reco/style-default",
     logo: "/favicons.ico",
     author: "Chosen_1st",
     docsBranch: "main",
