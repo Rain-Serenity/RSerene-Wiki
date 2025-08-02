@@ -1,6 +1,6 @@
 # Basic Introduction
 
-![Minecraft Rain Serenity Server Logo](/images/ico.png)
+![Minecraft Rain Serenity Server Logo](/images/logo.png)
 
 ## Minecraft Rain Serenity Server
 **Known as "雨润" (Rain Serenity) in Chinese, and abbreviated as "RSerene" in English, we aim to create a top-tier Minecraft server that fosters a positive gaming community. We operate as a public service, offering a free-to-play environment that ensures fairness and harmony. Our custom-written anti-cheat system enhances the gaming experience by maintaining a clean environment.**  

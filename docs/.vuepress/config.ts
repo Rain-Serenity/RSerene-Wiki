@@ -1,6 +1,6 @@
 import { defineUserConfig } from "vuepress";
 import { recoTheme } from "vuepress-theme-reco";
-import { viteBundler } from '@vuepress/bundler-vite'
+import { webpackBundler } from '@vuepress/bundler-webpack'
 
 export default defineUserConfig({
   locales: {
@@ -15,10 +15,9 @@ export default defineUserConfig({
       description: 'Welcome to the RSerene Wiki homepage',
     },
   },
-  bundler: viteBundler(),
-  // bundler: webpackBundler(),
+  bundler: webpackBundler(),
   theme: recoTheme({
-    logo: "/favicons.ico",
+    logo: "/images/logo.png",
     author: "Chosen_1st",
     docsBranch: "main",
     docsDir: "/docs",
