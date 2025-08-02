@@ -9,7 +9,7 @@ export default defineUserConfig({
       title: '雨润服务器 Wiki',
       description: '欢迎来到 RSerene Wiki 主页',
     },
-    '/en/': {
+    '/en-us/': {
       lang: 'en-US',
       title: 'RSerene Server Wiki',
       description: 'Welcome to the RSerene Wiki homepage',
@@ -73,24 +73,24 @@ export default defineUserConfig({
           ],
         }
       },
-      '/en/': {
+      '/en-us/': {
         selectLanguageName: 'English',
         selectLanguageText: 'Languages',
         lastUpdatedText: "Last Updated",
         series: {
-          '/en/guide/': [{
+          '/en-us/guide/': [{
             text: 'Player Manual',
-            children: ['/en/guide/introduction.md', '/en/guide/settings.md', '/en/guide/command.md', '/en/guide/faq.md', '/en/guide/sponsor.md'],
+            children: ['/en-us/guide/introduction.md', '/en-us/guide/settings.md', '/en-us/guide/command.md', '/en-us/guide/faq.md', '/en-us/guide/sponsor.md'],
           }],
-          '/en/changelog/': [{
+          '/en-us/changelog/': [{
             text: 'Changelog',
-            children: ['/en/changelog/changelog.md'],
+            children: ['/en-us/changelog/changelog.md'],
           }],
         },
         navbar: [
-          { text: "Home", link: "/en/" },
-          { text: 'Player Manual', children: [ {text: 'Introduction', link: '/en/guide/introduction.html'}, {text: 'Settings', link: '/en/guide/settings.html'}, {text: 'Command List', link: '/en/guide/command.html'}, {text: 'FAQ', link: '/en/guide/faq.html'} ] },
-          { text: 'Changelog', children: [ {text: 'Server Changelog', link: '/en/changelog/changelog.html'} ] },
+          { text: "Home", link: "/en-us/" },
+          { text: 'Player Manual', children: [ {text: 'Introduction', link: '/en-us/guide/introduction.html'}, {text: 'Settings', link: '/en-us/guide/settings.html'}, {text: 'Command List', link: '/en-us/guide/command.html'}, {text: 'FAQ', link: '/en-us/guide/faq.html'} ] },
+          { text: 'Changelog', children: [ {text: 'Server Changelog', link: '/en-us/changelog/changelog.html'} ] },
           { text: 'Related Links', children: [ {text: 'Copilot', link: 'https://Copilot.RSerene.com/'}, {text: 'GitHub', link: 'https://GitHub.com/Rain-Serenity/'}, {text: 'MineBBS', link: 'https://www.MineBBS.com/threads/1-21-1.28390/'}, {text: 'Minecraft Wiki', link: 'https://Minecraft.Wiki/'}, {text: 'Status', link: 'https://Stats.UptimeRobot.com/ErgTAP18m2'} ]}
         ],
         bulletin: {
@@ -114,7 +114,7 @@ export default defineUserConfig({
             {
               type: 'buttongroup',
               children: [
-                { text: 'Sponsor', link: '/en/guide/sponsor.html' }
+                { text: 'Sponsor', link: '/en-us/guide/sponsor.html' }
               ]
             }
           ],
