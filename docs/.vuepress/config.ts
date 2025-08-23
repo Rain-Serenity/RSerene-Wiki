@@ -15,7 +15,7 @@ export default defineUserConfig({
       description: 'Welcome to the RSerene Wiki homepage',
     },
   },
-  bundler: webpackBundler(),
+  bundler: viteBundler(),
   theme: recoTheme({
     logo: "/images/logo.png",
     author: "Chosen_1st",
