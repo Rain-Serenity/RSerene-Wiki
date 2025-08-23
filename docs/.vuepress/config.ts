@@ -1,6 +1,6 @@
 import { defineUserConfig } from "vuepress";
 import { recoTheme } from "vuepress-theme-reco";
-import { webpackBundler } from '@vuepress/bundler-webpack'
+import { viteBundler } from '@vuepress/bundler-vite'
 
 export default defineUserConfig({
   locales: {
