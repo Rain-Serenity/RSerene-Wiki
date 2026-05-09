@@ -9,18 +9,15 @@
 ## 服务器基本状况
 | 类型       | 状况                     |
 |----------|------------------------|
-| 支持版本     | 1.21.1                 |
+| 支持版本     | 26.1.2                 |
 | 营利模式     | 公益服务器 » 全部免费+接受“无条件”捐助 |
 | 游戏模式     | 生存                     |
-| 网络类型     | 多线                     |
+| 网络类型     | 电信                     |
 | 正版验证     | 无                      |
 | 最大在线人数   | 20                     |
 | 有无白名单    | 无                      |
 | 联系方式     | QQ群: 902620497         |
 | 服务器IP/域名 | Play.RSerene.com       |
-::: tip 提示
-离线用户需要在你的ID前面加`#`。举个例子，假设我的ID是`Player`，那么加#后的ID就是`#Player`。
-:::
 <html lang="">
 <div style="text-align: center;">
 <iframe style="width:728px;height:90px;max-width:100%;border:none;display:block;margin:auto" src="https://NameMC.com/Server/Play.RSerene.com/embed" width="728" height="90"></iframe>
