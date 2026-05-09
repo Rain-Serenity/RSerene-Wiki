@@ -49,7 +49,7 @@ export default defineUserConfig({
           body: [
             {
               type: 'text',
-              content: `🎉🎉🎉 服务器已经更新到1.21.1。`,
+              content: `🎉🎉🎉 服务器已经更新到26.1.2。`,
               style: 'font-size: 12px;'
             },
             { type: 'hr' },
