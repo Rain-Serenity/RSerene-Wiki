@@ -16,9 +16,8 @@ export default defineUserConfig({
     },
   },
   bundler: viteBundler(),
-  // bundler: webpackBundler(),
   theme: recoTheme({
-    logo: "/favicons.ico",
+    logo: "/images/logo.png",
     author: "Chosen_1st",
     docsBranch: "main",
     docsDir: "/docs",

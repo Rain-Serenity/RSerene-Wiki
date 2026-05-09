@@ -1,6 +1,6 @@
 # 基本介绍
 
-![Minecraft Rain Serenity Server Logo](/images/ico.png)
+![Minecraft Rain Serenity Server Logo](/images/logo.png)
 
 ## Minecraft Rain Serenity Server
 **中文名为"雨润"，英文简称"RSerene"，我们助力打造顶尖Minecraft服务器，营造良好游戏圈子的公益服务器。我们采用的的公益免费的运营模式，让游戏环境公平和谐。同时拥有独立编写配置文件的~~反玩家~~(反作弊)系统，让游戏体验变得更好！
