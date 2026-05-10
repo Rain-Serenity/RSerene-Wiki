@@ -20,6 +20,6 @@
 | 服务器IP/域名 | Play.RSerene.com       |
 <html lang="">
 <div style="text-align: center;">
-<iframe style="width:728px;height:90px;max-width:100%;border:none;display:block;margin:auto" src="https://NameMC.com/Server/Play.RSerene.com/embed" width="728" height="90"></iframe>
+<iframe style="width:728px;height:90px;max-width:100%;border:none;display:block;margin:auto" src="https://zh-cn.namemc.com/server/play.rserene.com/embed" width="728" height="90"></iframe>
 </div>
 </html>
