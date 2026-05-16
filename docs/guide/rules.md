@@ -11,7 +11,7 @@
 ## I. 总条例 | General Regulations
 
 1. **公益属性 / Non-profit Nature**
-    * Minecraft Rain Serenity Server 是一个 Minecraft Java 版公益服务器。
+    * 雨润服务器 是一个 Minecraft Java 版公益服务器。
     * Minecraft Rain Serenity Server is a non-profit, free-to-play Minecraft Java Edition server.
 
 2. **赞助原则 / Donation Policy**
