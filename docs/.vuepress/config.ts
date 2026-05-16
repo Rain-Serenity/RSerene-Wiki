@@ -31,7 +31,7 @@ export default defineUserConfig({
         series: {
           '/guide/': [{
             text: '玩家手册',
-            children: ['/guide/introduction.md', '/guide/settings.md', '/guide/command.md', '/guide/faq.md', '/guide/sponsor.md'],
+            children: ['/guide/introduction.md', '/guide/settings.md', '/guide/command.md', '/guide/faq.md','/guide/rules.md', '/guide/sponsor.md'],
           }],
           '/changelog/': [{
             text: '更新日志',
