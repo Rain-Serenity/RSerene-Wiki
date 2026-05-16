@@ -1,7 +1,7 @@
 # 服务器管理条例
 
 ::: tip 变更日志 | Changelog
-* **当前版本 (Version):** `1.1`
+* **当前版本 (Version):** `1.0`
 * **编码格式 (Encoding):** `UTF-8 / LF`
 * **最后更新 (Last Updated):** 2026-05-17 00:00 (UTC+8)
   :::
