@@ -42,7 +42,7 @@
 以下行为一经发现，管理团队将根据情节严重程度给予 **警告、暂封（Temp-Ban）或踢出** 处罚。
 :::
 
-### 1. 社区言论规范 / Chat & Community
+#### 1. 社区言论规范 / Chat & Community
 
 * **发表不当言论 / Offensive Speech**
     * 发表歧视、攻击性或严重不当的言论。*(详情请见下文第 III 节)*
@@ -57,21 +57,21 @@
     * 冒充他人、发布未经许可的广告或进行其他不当行为。
     * Impersonating others, advertising without permission, or engaging in inappropriate behavior.
 
-### 2. 游戏内行为规范 / In-Game Actions
+#### 2. 游戏内行为规范 / In-Game Actions
 
-#### ⚖️ 作弊行为 / Cheating
+**⚖️ 作弊行为 / Cheating**
 * a. 使用作弊客户端、外挂或违规模组（Mods）。<br>b. 恶意利用服务器或游戏本身的漏洞（Bug）。
 * a. Using cheat clients, hacks, or forbidden modifications.<br>b. Maliciously exploiting server or vanilla game vulnerabilities.
 
-#### ⚔️ 恶意破坏 / Griefing
+**⚔️ 恶意破坏 / Griefing**
 * a. 未经许可破坏或篡改他人的建筑与劳动成果。<br>b. 未经许可拿取、偷盗他人容器内的物品。<br>c. 恶意 PvP（在非允许区域或未经双方同意强行击杀玩家）。
 * a. Unauthorized destruction or modification of other players' structures.<br>b. Stealing items from other players' containers.<br>c. Malicious PvP or player killing (PK) without mutual consent.
 
-#### 🛠️ 滥用机制 / Abuse of Mechanics
+**🛠️ 滥用机制 / Abuse of Mechanics**
 * a. 滥用插件功能（如利用领地插件圈占他人建筑、在他人箱子上强行创建锁保护）。<br>b. 故意不断重复发送相同的指令（指令刷屏）。
 * a. Abusing plugin functions (e.g., claiming over others' structures, locking others' containers).<br>b. Spamming server commands.
 
-#### 🏗️ 违规建筑 / Illegal Structures
+**🏗️ 违规建筑 / Illegal Structures**
 * 建造任何不雅、违规或令人反感的建筑。
 * Building any inappropriate, indecent, or offensive structures.
 
@@ -84,22 +84,22 @@
 The following actions will result in an **immediate, permanent ban and removal from community groups without prior warning**. These punishments are final and strictly non-appealable.
 :::
 
-### 🚫 言论红线 / Hate Speech & Harassment
+**🚫 言论红线 / Hate Speech & Harassment**
 
 | 违规项目 (ZH)     | Violation Description (EN)                                         |
 |:--------------|:-------------------------------------------------------------------|
-| **种族主义**      | Racial slurs or racist hate speech.                                |
-| **性别歧视**      | Sexist remarks or gender-based discrimination.                     |
-| **性少数群体歧视**   | Homophobic, transphobic slurs, or anti-LGBTQ+ speech.              |
-| **残疾人侮辱**     | Ableist slurs or hate speech targeting disabled individuals.       |
-| **其他仇恨言论**    | Any other forms of hate speech not listed above.                   |
+| **种族主义** | Racial slurs or racist hate speech.                                |
+| **性别歧视** | Sexist remarks or gender-based discrimination.                     |
+| **性少数群体歧视** | Homophobic, transphobic slurs, or anti-LGBTQ+ speech.              |
+| **残疾人侮辱** | Ableist slurs or hate speech targeting disabled individuals.       |
+| **其他仇恨言论** | Any other forms of hate speech not listed above.                   |
 | **隐私泄露 (人肉)** | Doxxing, leaking, or distributing others' private real-world info. |
-| **严重人身攻击**    | Severe personal attacks or toxic harassment.                       |
+| **严重人身攻击** | Severe personal attacks or toxic harassment.                       |
 
 ---
 
 ## IV. 封禁申诉 | Ban Appeals
 
-### 🕊️ 常规申诉流程 / Standard Appeal Process
+**🕊️ 常规申诉流程 / Standard Appeal Process**
 * 如果您对非“零容忍项目”的封禁处理结果持有异议，可以通过官方渠道向管理员提交申诉，申请减轻处罚或解除封禁。
 * If you disagree with a ban resulting from a non-zero-tolerance violation, you may submit an appeal to the administration through the official channels to request a reduced penalty or an unban.

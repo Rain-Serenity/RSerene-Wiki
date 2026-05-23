@@ -3,6 +3,9 @@ import { recoTheme } from "vuepress-theme-reco";
 import { viteBundler } from '@vuepress/bundler-vite'
 
 export default defineUserConfig({
+  head: [
+    ['link', { rel: 'icon', href: '/images/logo.png' }]
+  ],
   locales: {
     '/': {
       lang: 'zh-CN',
@@ -24,6 +27,7 @@ export default defineUserConfig({
     docsRepo: 'https://github.com/Rain-Serenity/RSerene-Wiki',
     locales: {
       '/': {
+        logo: "/images/logo.png",
         selectLanguageName: '简体中文',
         selectLanguageText: '选择语言',
         lastUpdatedText: "最后更新",
@@ -48,7 +52,7 @@ export default defineUserConfig({
         },
         navbar: [
           { text: "主页", link: "/" },
-          { text: '玩家手册', children: [ {text: '简单介绍', link: '/guide/introduction.html'}, {text: '基本设定', link: '/guide/settings.html'}, {text: '指令列表', link: '/guide/command.html'}, {text: '常见问题', link: '/guide/faq.html'}, {text: '服务器管理条例', link: '/guide/rules.html'} ] },
+          { text: '玩家手册', children: [ {text: '简单介绍', link: '/guide/introduction.html'}, {text: '基本设定', link: '/guide/settings.html'}, {text: '指令列表', link: '/guide/command.html'}, {text: '常见问题', link: '/guide/faq.html'} ] },
           { text: '服务器管理条例', children: [ {text: '服务器管理条例', link: '/rules/rules.html'} ] },
           { text: '更新日志', children: [ {text: '服务器更新日志', link: '/changelog/changelog.html'} ] },
           { text: '赞助服务器', children: [ {text: '赞助服务器', link: '/sponsor/sponsor.html'} ] },
@@ -75,13 +79,14 @@ export default defineUserConfig({
             {
               type: 'buttongroup',
               children: [
-                { text: '赞助', link: '/guide/sponsor.html' }
+                { text: '赞助', link: '/sponsor/sponsor.html' }
               ]
             }
           ],
         }
       },
       '/en-us/': {
+        logo: "/images/logo.png",
         selectLanguageName: 'English',
         selectLanguageText: 'Languages',
         lastUpdatedText: "Last Updated",
