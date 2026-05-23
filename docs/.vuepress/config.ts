@@ -95,6 +95,10 @@ export default defineUserConfig({
             text: 'Player Manual',
             children: ['/en-us/guide/introduction.md', '/en-us/guide/settings.md', '/en-us/guide/command.md', '/en-us/guide/faq.md', '/en-us/guide/sponsor.md'],
           }],
+          '/en-us/rules/': [{
+            text: 'Server Rules',
+            children: ['/en-us/rules/rules.md'],
+          }],
           '/en-us/changelog/': [{
             text: 'Changelog',
             children: ['/en-us/changelog/changelog.md'],
@@ -103,14 +107,16 @@ export default defineUserConfig({
         navbar: [
           { text: "Home", link: "/en-us/" },
           { text: 'Player Manual', children: [ {text: 'Introduction', link: '/en-us/guide/introduction.html'}, {text: 'Settings', link: '/en-us/guide/settings.html'}, {text: 'Command List', link: '/en-us/guide/command.html'}, {text: 'FAQ', link: '/en-us/guide/faq.html'} ] },
+          { text: 'Server Rules', children: [ {text: 'Server Rules', link: '/en-us/rules/rules.html'} ] },
           { text: 'Changelog', children: [ {text: 'Server Changelog', link: '/en-us/changelog/changelog.html'} ] },
+          { text: 'Sponsor', children: [ {text: 'Sponsor', link: '/en-us/guide/sponsor.html'} ] },
           { text: 'Related Links', children: [ {text: 'Copilot', link: 'https://Copilot.RSerene.com/'}, {text: 'GitHub', link: 'https://GitHub.com/Rain-Serenity/'}, {text: 'MineBBS', link: 'https://www.MineBBS.com/threads/1-21-1.28390/'}, {text: 'Minecraft Wiki', link: 'https://Minecraft.Wiki/'}, {text: 'Status', link: 'https://Stats.UptimeRobot.com/ErgTAP18m2'} ]}
         ],
         bulletin: {
           body: [
             {
               type: 'text',
-              content: `🎉🎉🎉 The server has been updated to 1.21.1.`,
+              content: `🎉🎉🎉 The server has been updated to 26.1.2.`,
               style: 'font-size: 12px;'
             },
             { type: 'hr' },

@@ -3,26 +3,26 @@
 ![Minecraft Rain Serenity Server Logo](/images/logo.png)
 
 ## Minecraft Rain Serenity Server
-**Known as "雨润" (Rain Serenity) in Chinese, and abbreviated as "RSerene" in English, we aim to create a top-tier Minecraft server that fosters a positive gaming community. We operate as a public service, offering a free-to-play environment that ensures fairness and harmony. Our custom-written anti-cheat system enhances the gaming experience by maintaining a clean environment.**  
+**Known as "雨润" (Rain Serenity) in Chinese, and abbreviated as "RSerene" in English, we are a non-profit public service server dedicated to creating a top-tier Minecraft server and fostering a positive gaming community. We operate with a free-to-play model, ensuring a fair and harmonious game environment. Our custom-written anti-cheat system enhances the gaming experience.**  
 **We update the server in line with the latest Minecraft versions, allowing you to experience new content as soon as it's released.**
 
 ## Server Overview
 | Type                   | Status                                                                 |
 |------------------------|------------------------------------------------------------------------|
-| Supported Version      | 1.21.1                                                                 |
+| Supported Version      | 26.1.2                                                                 |
 | Operating Model        | Public Service » Completely free + accepting "unconditional" donations |
 | Game Mode              | Survival                                                               |
-| Network Type           | Multi-line                                                             |
+| Network Type           | Telecom                                                                |
 | Premium Authentication | None                                                                   |
 | Max Online Players     | 20                                                                     |
 | Whitelist              | No                                                                     |
 | Contact Info           | QQ Group: 902620497                                                    |
 | Server IP/Domain       | Play.RSerene.com                                                       |
-::: tip Note
-Offline users need to add `#` before their ID. For example, if your ID is `Player`, then after adding `#`, your ID would be `#Player`.
-:::
-<html lang="">
-<div style="text-align: center;">
-<iframe style="width:728px;height:90px;max-width:100%;border:none;display:block;margin:auto" src="https://NameMC.com/Server/Play.RSerene.com/embed" width="728" height="90"></iframe>
-</div>
-</html>
+<ClientOnly>
+  <iframe 
+    src="https://zh-cn.namemc.com/server/play.rserene.com/embed" 
+    width="728" 
+    height="90" 
+    style="width: 100%; max-width: 728px; height: 90px; border: none; display: block; margin: 0 auto;"
+  ></iframe>
+</ClientOnly>

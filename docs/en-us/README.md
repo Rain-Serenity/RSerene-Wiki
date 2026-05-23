@@ -31,26 +31,13 @@ features:
   - title: Future
     details: Attracting more players to participate in the server and continuing to improve it.
 ---
-## 快速开始
-
-**npx**
-
-```bash
-npx @vuepress-reco/theme-cli init
-```
+## Quick Start
 
 **npm**
 
 ```bash
-# 初始化
-npm install @vuepress-reco/theme-cli -g
-theme-cli init
-```
-
-**yarn**
-
-```bash
-# 初始化
-yarn global add @vuepress-reco/theme-cli
-theme-cli init
+# Initialize
+npm install
+# Run documentation
+npm run docs:dev
 ```

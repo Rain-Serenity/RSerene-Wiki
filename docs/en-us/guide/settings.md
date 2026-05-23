@@ -3,8 +3,8 @@
 ::: danger Warning
 Please avoid excessive machine density. Thank you for your cooperation!
 :::
-**This server uses the [Leave](https://GitHub.com/LeavesMC/Leaves) core.** <br>
-**Most vanilla features are enabled.** <br>
+**This server uses the [Paper](https://GitHub.com/PaperMC/Paper) core.** <br>
+**All duplication-related features are disabled.** <br>
 
 ## No Item Drop on Death
 **We have enabled no item drop on death.**
@@ -15,7 +15,8 @@ Unlike vanilla, dropped items will despawn after 3 minutes!
 **Please note, we have not enabled no item drop on death. Try to avoid dying, and if you do, quickly retrieve your items!**-->
 
 ## Sleep System
-**We do not use a sleep acceleration mechanism but instead employ a custom sleep system using the [NoPhantomSleep](https://GitHub.com/SkydomGroup/NoPhantomSleep) plugin. The specifics are as follows: as long as you right-click a bed at night and sleep for more than 5 seconds, it will count as having passed the entire night. No phantoms will spawn within a 64-block radius around you, and this effect lasts for 30 minutes.** <br>
+**We use both a sleep acceleration mechanism and a custom sleep system, implemented via the [NoPhantomSleep](https://GitHub.com/Rain-Serenity/NoPhantomSleep) plugin. As long as you right-click a bed at night, it will count as having passed the entire night, and no phantoms will spawn around you.** <br>
+**Night acceleration starts when 30% of players are in bed.**
 
 ## View Distance
 **Our view distance is set to 12 chunks.**
@@ -30,5 +31,8 @@ Unlike vanilla, dropped items will despawn after 3 minutes!
 |-----------------|-------|
 | Coal            | 2.5   |
 | Coal Block      | 23.0  |
-| Diamond         | 35.0  |
-| Netherite Ingot | 80.0  |
+| Diamond         | 25.0  |
+| Netherite Ingot | 75.0  |
+::: tip Note
+We are still refining the sell prices. These are only the basic prices for now.
+:::
