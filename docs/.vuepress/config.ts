@@ -31,18 +31,28 @@ export default defineUserConfig({
         series: {
           '/guide/': [{
             text: '玩家手册',
-            children: ['/guide/introduction.md', '/guide/settings.md', '/guide/command.md', '/guide/faq.md','/guide/rules.md', '/guide/sponsor.md'],
+            children: ['/guide/introduction.md', '/guide/settings.md', '/guide/command.md', '/guide/faq.md'],
+          }],
+          '/rules/': [{
+            text: '服务器规定',
+            children: ['/rules/rules.md'],
           }],
           '/changelog/': [{
             text: '更新日志',
             children: ['/changelog/changelog.md'],
           }],
+          '/sponsor/': [{
+            text: '赞助',
+            children: ['/sponsor/sponsor.md'],
+          }],
         },
         navbar: [
           { text: "主页", link: "/" },
           { text: '玩家手册', children: [ {text: '简单介绍', link: '/guide/introduction.html'}, {text: '基本设定', link: '/guide/settings.html'}, {text: '指令列表', link: '/guide/command.html'}, {text: '常见问题', link: '/guide/faq.html'}, {text: '服务器管理条例', link: '/guide/rules.html'} ] },
+          { text: '服务器管理条例', children: [ {text: '服务器管理条例', link: '/rules/rules.html'} ] },
           { text: '更新日志', children: [ {text: '服务器更新日志', link: '/changelog/changelog.html'} ] },
-          { text: '相关链接', children: [ {text: 'Copilot', link: 'https://Copilot.RSerene.com/'}, {text: 'GitHub', link: 'https://GitHub.com/Rain-Serenity/'}, {text: 'MineBBS', link: 'https://www.MineBBS.com/threads/1-21-1.28390/'}, {text: 'Minecraft Wiki', link: 'https://Minecraft.Wiki/'}, {text: 'Status', link: 'https://Stats.UptimeRobot.com/ErgTAP18m2'} ]}
+          { text: '赞助服务器', children: [ {text: '赞助服务器', link: '/sponsor/sponsor.html'} ] },
+          { text: '相关链接', children: [ {text: 'GitHub', link: 'https://GitHub.com/Rain-Serenity/'}, {text: 'MineBBS', link: 'https://www.MineBBS.com/threads/1-21-1.28390/'},  {text: 'MCBBS纪念版', link: 'https://www.MCBBS.co/thread-5031-1-1.html'}, {text: 'Minecraft Wiki', link: 'https://Minecraft.Wiki/'} ]}
         ],
         bulletin: {
           body: [
