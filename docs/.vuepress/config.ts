@@ -14,7 +14,7 @@ export default defineUserConfig({
     },
     '/en-us/': {
       lang: 'en-US',
-      title: 'RSerene Server Wiki',
+      title: 'RSerene Wiki',
       description: 'Welcome to the RSerene Wiki homepage',
     },
   },
