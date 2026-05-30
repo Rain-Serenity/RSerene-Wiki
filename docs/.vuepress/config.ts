@@ -17,6 +17,16 @@ export default defineUserConfig({
       title: 'RSerene Wiki',
       description: 'Welcome to the RSerene Wiki homepage',
     },
+    '/ru-ru/': {
+      lang: 'ru-RU',
+      title: 'RSerene Wiki',
+      description: 'Добро пожаловать на главную страницу RSerene Wiki',
+    },
+    '/ja-jp/': {
+      lang: 'ja-JP',
+      title: 'RSerene Wiki',
+      description: 'RSerene Wiki ホームページへようこそ',
+    },
   },
   bundler: viteBundler(),
   theme: recoTheme({
@@ -118,6 +128,102 @@ export default defineUserConfig({
               type: 'buttongroup',
               children: [
                 { text: 'Sponsor', link: '/en-us/about/sponsor.html' }
+              ]
+            }
+          ],
+        }
+      },
+      '/ru-ru/': {
+        logo: "/images/logo.png",
+        selectLanguageName: 'Русский',
+        selectLanguageText: 'Языки',
+        lastUpdatedText: "Последнее обновление",
+        series: {
+          '/ru-ru/guide/': [{
+            text: 'Руководство игрока',
+            children: ['/ru-ru/guide/introduction.md', '/ru-ru/guide/settings.md', '/ru-ru/guide/command.md', '/ru-ru/guide/faq.md'],
+          }],
+          '/ru-ru/about/': [{
+            text: 'О сервере',
+            children: ['/ru-ru/about/rules.md', '/ru-ru/about/history.md', '/ru-ru/about/contributions.md', '/ru-ru/about/sponsor.md'],
+          }],
+        },
+        navbar: [
+          { text: "Главная", link: "/ru-ru/" },
+          { text: 'Руководство', children: [ {text: 'Введение', link: '/ru-ru/guide/introduction.html'}, {text: 'Настройки', link: '/ru-ru/guide/settings.html'}, {text: 'Команды', link: '/ru-ru/guide/command.html'}, {text: 'FAQ', link: '/ru-ru/guide/faq.html'} ] },
+          { text: 'О нас', children: [ {text: 'Правила', link: '/ru-ru/about/rules.html'}, {text: 'История', link: '/ru-ru/about/history.html'}, {text: 'Авторы', link: '/ru-ru/about/contributions.html'}, {text: 'Спонсорство', link: '/ru-ru/about/sponsor.html'} ] },
+          { text: 'Ссылки', children: [ {text: 'GitHub', link: 'https://GitHub.com/Rain-Serenity/'}, {text: 'MineBBS', link: 'https://www.MineBBS.com/threads/1-21-1.28390/'}, {text: 'Minecraft Wiki', link: 'https://Minecraft.Wiki/'} ]}
+        ],
+        bulletin: {
+          body: [
+            {
+              type: 'text',
+              content: `🎉🎉🎉 Сервер обновлён до версии 26.1.2.`,
+              style: 'font-size: 12px;'
+            },
+            { type: 'hr' },
+            { type: 'title', content: 'QQ Group' },
+            {
+              type: 'text',
+              content: `
+      <ul>
+        <li>QQ Group: 902620497</li>
+      </ul>`,
+              style: 'font-size: 12px;'
+            },
+            { type: 'hr', },
+            {
+              type: 'buttongroup',
+              children: [
+                { text: 'Спонсорство', link: '/ru-ru/about/sponsor.html' }
+              ]
+            }
+          ],
+        }
+      },
+      '/ja-jp/': {
+        logo: "/images/logo.png",
+        selectLanguageName: '日本語',
+        selectLanguageText: '言語',
+        lastUpdatedText: "最終更新",
+        series: {
+          '/ja-jp/guide/': [{
+            text: 'プレイヤーマニュアル',
+            children: ['/ja-jp/guide/introduction.md', '/ja-jp/guide/settings.md', '/ja-jp/guide/command.md', '/ja-jp/guide/faq.md'],
+          }],
+          '/ja-jp/about/': [{
+            text: 'サーバーについて',
+            children: ['/ja-jp/about/rules.md', '/ja-jp/about/history.md', '/ja-jp/about/contributions.md', '/ja-jp/about/sponsor.md'],
+          }],
+        },
+        navbar: [
+          { text: "ホーム", link: "/ja-jp/" },
+          { text: 'プレイヤーマニュアル', children: [ {text: '紹介', link: '/ja-jp/guide/introduction.html'}, {text: '設定', link: '/ja-jp/guide/settings.html'}, {text: 'コマンド一覧', link: '/ja-jp/guide/command.html'}, {text: 'FAQ', link: '/ja-jp/guide/faq.html'} ] },
+          { text: 'サーバーについて', children: [ {text: 'ルール', link: '/ja-jp/about/rules.html'}, {text: '歴史', link: '/ja-jp/about/history.html'}, {text: '貢献者', link: '/ja-jp/about/contributions.html'}, {text: 'スポンサー', link: '/ja-jp/about/sponsor.html'} ] },
+          { text: '関連リンク', children: [ {text: 'GitHub', link: 'https://GitHub.com/Rain-Serenity/'}, {text: 'MineBBS', link: 'https://www.MineBBS.com/threads/1-21-1.28390/'}, {text: 'Minecraft Wiki', link: 'https://Minecraft.Wiki/'} ]}
+        ],
+        bulletin: {
+          body: [
+            {
+              type: 'text',
+              content: `🎉🎉🎉 サーバーは26.1.2に更新されました。`,
+              style: 'font-size: 12px;'
+            },
+            { type: 'hr' },
+            { type: 'title', content: 'QQ Group' },
+            {
+              type: 'text',
+              content: `
+      <ul>
+        <li>QQ Group: 902620497</li>
+      </ul>`,
+              style: 'font-size: 12px;'
+            },
+            { type: 'hr', },
+            {
+              type: 'buttongroup',
+              children: [
+                { text: 'スポンサー', link: '/ja-jp/about/sponsor.html' }
               ]
             }
           ],
