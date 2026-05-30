@@ -20,8 +20,6 @@
 6. **Age Guidelines**
    * According to Mojang's official guidelines, the recommended minimum age for Minecraft is 9+. If you are under this age, please play under the supervision of a guardian.
 
----
-
 ## II. Prohibited Actions
 
 ::: warning Penalty Notice
@@ -57,8 +55,6 @@ Violations found will result in **warnings, temporary bans, or permanent removal
 **Illegal Structures**
 * Building any inappropriate, indecent, or offensive structures.
 
----
-
 ## III. Zero-Tolerance Violations
 
 ::: danger Absolute Red Line
@@ -76,8 +72,6 @@ The following actions will result in an **immediate, permanent ban and removal f
 | **Other Hate Speech**  | Any other forms of hate speech not listed above.               |
 | **Doxxing**            | Doxxing, leaking, or distributing others' private real-world info. |
 | **Severe Harassment**  | Severe personal attacks or toxic harassment.                   |
-
----
 
 ## IV. Ban Appeals
 
