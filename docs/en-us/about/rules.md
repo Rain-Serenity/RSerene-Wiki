@@ -1,7 +1,5 @@
 # Server Rules
 
----
-
 ## I. General Regulations
 
 1. **Non-profit Nature**
