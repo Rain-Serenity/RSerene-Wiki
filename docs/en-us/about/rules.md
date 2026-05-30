@@ -1,32 +1,26 @@
 # Server Rules
 
-::: tip Changelog
-* **Current Version:** `1.0`
-* **Encoding:** `UTF-8 / LF`
-* **Last Updated:** 2026-05-17 00:00 (UTC+8)
-:::
-
 ---
 
 ## I. General Regulations
 
 1. **Non-profit Nature**
-    * Minecraft Rain Serenity Server is a non-profit, free-to-play Minecraft Java Edition server.
+   * Minecraft Rain Serenity Server is a non-profit, free-to-play Minecraft Java Edition server.
 
 2. **Donation Policy**
-    * This server does not feature any paid items or pay-to-win elements, but unconditional voluntary donations are accepted.
+   * This server does not feature any paid items or pay-to-win elements, but unconditional voluntary donations are accepted.
 
 3. **RMT Disclaimer**
-    * This server does not restrict players from real-money trading (RMT) of in-game items; however, the server team assumes no responsibility for any real-world economic disputes between players.
+   * This server does not restrict players from real-money trading (RMT) of in-game items; however, the server team assumes no responsibility for any real-world economic disputes between players.
 
 4. **Conflict Resolution**
-    * If you encounter any issues, conflicts, or arguments while playing on the server, please handle them calmly and rationally, and contact an administrator for assistance if necessary.
+   * If you encounter any issues, conflicts, or arguments while playing on the server, please handle them calmly and rationally, and contact an administrator for assistance if necessary.
 
 5. **Community Respect**
-    * Please respect others and treat everyone with kindness.
+   * Please respect others and treat everyone with kindness.
 
 6. **Age Guidelines**
-    * According to Mojang's official guidelines, the recommended minimum age for Minecraft is 9+. If you are under this age, please play under the supervision of a guardian.
+   * According to Mojang's official guidelines, the recommended minimum age for Minecraft is 9+. If you are under this age, please play under the supervision of a guardian.
 
 ---
 
@@ -39,13 +33,13 @@ Violations found will result in **warnings, temporary bans, or permanent removal
 #### 1. Chat & Community
 
 * **Offensive Speech**
-    * Posting discriminatory, offensive, or grossly inappropriate remarks. *(See Section III below)*
+   * Posting discriminatory, offensive, or grossly inappropriate remarks. *(See Section III below)*
 * **Objectionable Content**
-    * Posting pornographic, objectionable, or excessively violent content.
+   * Posting pornographic, objectionable, or excessively violent content.
 * **Spamming**
-    * Spamming or flooding the chat with excessive messages.
+   * Spamming or flooding the chat with excessive messages.
 * **Inappropriate Acts**
-    * Impersonating others, advertising without permission, or engaging in inappropriate behavior.
+   * Impersonating others, advertising without permission, or engaging in inappropriate behavior.
 
 #### 2. In-Game Actions
 
