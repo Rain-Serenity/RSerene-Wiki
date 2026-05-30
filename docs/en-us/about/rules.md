@@ -49,7 +49,7 @@ Violations found will result in **warnings, temporary bans, or permanent removal
 * c. Malicious PvP or player killing (PK) without mutual consent.
 
 **Abuse of Mechanics**
-* a. Abusing plugin functions (e.g., claiming over others' structures, locking others' containers).
+* a. Abusing plugin functions (e.g., claiming over others' structures).
 * b. Spamming server commands.
 
 **Illegal Structures**
