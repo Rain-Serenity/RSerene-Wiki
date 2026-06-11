@@ -55,7 +55,7 @@ export default defineUserConfig({
         navbar: [
           { text: "主页", link: "/" },
           { text: '玩家手册', children: [ {text: '简单介绍', link: '/guide/introduction.html'}, {text: '基本设定', link: '/guide/settings.html'}, {text: '指令列表', link: '/guide/command.html'}, {text: '常见问题', link: '/guide/faq.html'} ] },
-          { text: '关于我们', children: [ {text: '服务器规定', link: '/about/rules.html'}, {text: '服务器历史', link: '/about/history.html'}, {text: '服务器贡献者', link: '/about/contributions.html'}, {text: '赞助服务器', link: '/about/sponsor.html'} ] },
+          { text: '关于我们', children: [ {text: '服务器管理条例', link: '/about/rules.html'}, {text: '服务器历史', link: '/about/history.html'}, {text: '服务器贡献者', link: '/about/contributions.html'}, {text: '赞助服务器', link: '/about/sponsor.html'} ] },
           { text: '相关链接', children: [ {text: 'GitHub', link: 'https://GitHub.com/Rain-Serenity/'}, {text: 'MCBBS纪念版', link: 'https://www.MCBBS.co/thread-5031-1-1.html'}, {text: 'MineBBS', link: 'https://www.MineBBS.com/threads/1-21-1.28390/'}, {text: 'Minecraft Wiki', link: 'https://Minecraft.Wiki/'} ]}
         ],
         bulletin: {
