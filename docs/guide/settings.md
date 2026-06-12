@@ -25,7 +25,7 @@
 **我们创建领地的工具设置为木锄头，最大领地范围为256×256(X×Z)，高度不限(-64~328均可)。**
 **每格0.8游戏币**
 ## 对JEI的额外支持
-**本服务器采用原创插件[JEIBukkit](https://GitHub.com/Rain-Serenity/JEIBukkit)，会在您加入服务器时候自动同步配方给您。**
+**本服务器采用原创插件[JEIBukkit](https://GitHub.com/Rain-Serenity/JEIBukkit)，会在你加入服务器时候自动同步配方给你。**
 ## 可出售给服务器的物品
 | 物品    | 价格   |
 |-------|------|
