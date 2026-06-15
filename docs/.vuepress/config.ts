@@ -53,7 +53,7 @@ export default defineUserConfig({
           }],
           '/about/': [{
             text: '关于我们',
-            children: ['/about/rules.md', '/about/history.md', '/about/contributions.md', '/about/sponsor.md'],
+            children: ['/about/introduction.md', '/about/history.md', '/about/contributions.md', '/about/rules.md', '/about/sponsor.md'],
           }],
         },
         navbar: [

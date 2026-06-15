@@ -1,4 +1,4 @@
-# 基本介绍
+# 服务器介绍
 
 ![Minecraft Rain Serenity Server Logo](/images/logo.png)
 
