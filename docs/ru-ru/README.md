@@ -12,7 +12,7 @@ bannerBrand:
   tagline: Minecraft-сервер, который обновляется вместе с версиями Minecraft.
   bgImage: /bg.svg
   buttons:
-    - { text: Начать чтение, link: '/ru-ru/guide/introduction' }
+    - { text: Начать чтение, link: '/ru-ru/survival/introduction' }
     - { text: Скачать клиент, link: 'https://www.mcmod.cn/modpack/467.html', type: 'plain' }
   socialLinks:
     - { icon: 'LogoGithub', link: 'https://GitHub.com/Rain-Serenity/RSerene-Wiki/' }

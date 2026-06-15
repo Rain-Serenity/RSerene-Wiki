@@ -43,20 +43,25 @@ export default defineUserConfig({
         lastUpdatedText: "最后更新",
         // series 为原 sidebar
         series: {
-          '/guide/': [{
-            text: '玩家手册',
-            children: ['/guide/introduction.md', '/guide/settings.md', '/guide/command.md', '/guide/faq.md'],
+          '/survival/': [{
+            text: '纯净生存',
+            children: ['/survival/introduction.md', '/survival/settings.md', '/survival/command.md', '/survival/faq.md'],
+          }],
+          '/island/': [{
+            text: '空岛生存',
+            children: ['/island/introduction.md', '/island/settings.md', '/island/command.md', '/island/faq.md'],
           }],
           '/about/': [{
-            text: '关于服务器',
+            text: '关于我们',
             children: ['/about/rules.md', '/about/history.md', '/about/contributions.md', '/about/sponsor.md'],
           }],
         },
         navbar: [
           { text: "主页", link: "/" },
-          { text: '玩家手册', children: [ {text: '简单介绍', link: '/guide/introduction.html'}, {text: '基本设定', link: '/guide/settings.html'}, {text: '指令列表', link: '/guide/command.html'}, {text: '常见问题', link: '/guide/faq.html'} ] },
-          { text: '关于我们', children: [ {text: '服务器管理条例', link: '/about/rules.html'}, {text: '服务器历史', link: '/about/history.html'}, {text: '服务器贡献者', link: '/about/contributions.html'}, {text: '赞助服务器', link: '/about/sponsor.html'} ] },
-          { text: '相关链接', children: [ {text: 'GitHub', link: 'https://GitHub.com/Rain-Serenity/'}, {text: 'MCBBS纪念版', link: 'https://www.MCBBS.co/thread-5031-1-1.html'}, {text: 'MineBBS', link: 'https://www.MineBBS.com/threads/1-21-1.28390/'}, {text: 'Minecraft Wiki', link: 'https://Minecraft.Wiki/'} ]}
+          { text: '纯净生存', children: [ {text: '简单介绍', link: '/survival/introduction.html'}, {text: '基本设定', link: '/survival/settings.html'}, {text: '指令列表', link: '/survival/command.html'}, {text: '常见问题', link: '/survival/faq.html'} ] },
+          { text: '空岛生存', children: [ {text: '简单介绍', link: '/island/introduction.html'}, {text: '基本设定', link: '/island/settings.html'}, {text: '指令列表', link: '/island/command.html'}, {text: '常见问题', link: '/island/faq.html'} ] },
+          { text: '关于我们', children: [ {text: '服务器介绍', link: '/about/introduction.html'}, {text: '服务器历史', link: '/about/history.html'}, {text: '服务器贡献者', link: '/about/contributions.html'}, {text: '服务器管理条例', link: '/about/rules.html'}, {text: '赞助服务器', link: '/about/sponsor.html'} ] },
+          { text: '相关链接', children: [ {text: '服务器封禁列表', link: 'https://Bans.RSerene.com/'}, {text: 'GitHub', link: 'https://GitHub.com/Rain-Serenity/'}, {text: 'MCBBS纪念版', link: 'https://www.MCBBS.co/thread-5031-1-1.html'}, {text: 'MineBBS', link: 'https://www.MineBBS.com/threads/1-21-1.28390/'}, {text: 'Minecraft Wiki', link: 'https://Minecraft.Wiki/'} ]}
         ],
         bulletin: {
           body: [
@@ -93,7 +98,7 @@ export default defineUserConfig({
         series: {
           '/en-us/guide/': [{
             text: 'Player Manual',
-            children: ['/en-us/guide/introduction.md', '/en-us/guide/settings.md', '/en-us/guide/command.md', '/en-us/guide/faq.md'],
+            children: ['/en-us/survival/introduction.md', '/en-us/survival/settings.md', '/en-us/survival/command.md', '/en-us/survival/faq.md'],
           }],
           '/en-us/about/': [{
             text: 'About Server',
@@ -102,7 +107,7 @@ export default defineUserConfig({
         },
         navbar: [
           { text: "Home", link: "/en-us/" },
-          { text: 'Player Manual', children: [ {text: 'Introduction', link: '/en-us/guide/introduction.html'}, {text: 'Settings', link: '/en-us/guide/settings.html'}, {text: 'Command List', link: '/en-us/guide/command.html'}, {text: 'FAQ', link: '/en-us/guide/faq.html'} ] },
+          { text: 'Player Manual', children: [ {text: 'Introduction', link: '/en-us/survival/introduction.html'}, {text: 'Settings', link: '/en-us/survival/settings.html'}, {text: 'Command List', link: '/en-us/survival/command.html'}, {text: 'FAQ', link: '/en-us/survival/faq.html'} ] },
           { text: 'About Us', children: [ {text: 'Server Rules', link: '/en-us/about/rules.html'}, {text: 'Server History', link: '/en-us/about/history.html'}, {text: 'Contributors', link: '/en-us/about/contributions.html'}, {text: 'Sponsor', link: '/en-us/about/sponsor.html'} ] },
           { text: 'Related Links', children: [ {text: 'GitHub', link: 'https://GitHub.com/Rain-Serenity/'}, {text: 'MineBBS', link: 'https://www.MineBBS.com/threads/1-21-1.28390/'}, {text: 'Minecraft Wiki', link: 'https://Minecraft.Wiki/'} ]}
         ],
@@ -141,7 +146,7 @@ export default defineUserConfig({
         series: {
           '/ru-ru/guide/': [{
             text: 'Руководство игрока',
-            children: ['/ru-ru/guide/introduction.md', '/ru-ru/guide/settings.md', '/ru-ru/guide/command.md', '/ru-ru/guide/faq.md'],
+            children: ['/ru-ru/survival/introduction.md', '/ru-ru/survival/settings.md', '/ru-ru/survival/command.md', '/ru-ru/survival/faq.md'],
           }],
           '/ru-ru/about/': [{
             text: 'О сервере',
@@ -150,7 +155,7 @@ export default defineUserConfig({
         },
         navbar: [
           { text: "Главная", link: "/ru-ru/" },
-          { text: 'Руководство', children: [ {text: 'Введение', link: '/ru-ru/guide/introduction.html'}, {text: 'Настройки', link: '/ru-ru/guide/settings.html'}, {text: 'Команды', link: '/ru-ru/guide/command.html'}, {text: 'FAQ', link: '/ru-ru/guide/faq.html'} ] },
+          { text: 'Руководство', children: [ {text: 'Введение', link: '/ru-ru/survival/introduction.html'}, {text: 'Настройки', link: '/ru-ru/survival/settings.html'}, {text: 'Команды', link: '/ru-ru/survival/command.html'}, {text: 'FAQ', link: '/ru-ru/survival/faq.html'} ] },
           { text: 'О нас', children: [ {text: 'Правила', link: '/ru-ru/about/rules.html'}, {text: 'История', link: '/ru-ru/about/history.html'}, {text: 'Авторы', link: '/ru-ru/about/contributions.html'}, {text: 'Спонсорство', link: '/ru-ru/about/sponsor.html'} ] },
           { text: 'Ссылки', children: [ {text: 'GitHub', link: 'https://GitHub.com/Rain-Serenity/'}, {text: 'MineBBS', link: 'https://www.MineBBS.com/threads/1-21-1.28390/'}, {text: 'Minecraft Wiki', link: 'https://Minecraft.Wiki/'} ]}
         ],
@@ -189,7 +194,7 @@ export default defineUserConfig({
         series: {
           '/ja-jp/guide/': [{
             text: 'プレイヤーマニュアル',
-            children: ['/ja-jp/guide/introduction.md', '/ja-jp/guide/settings.md', '/ja-jp/guide/command.md', '/ja-jp/guide/faq.md'],
+            children: ['/ja-jp/survival/introduction.md', '/ja-jp/survival/settings.md', '/ja-jp/survival/command.md', '/ja-jp/survival/faq.md'],
           }],
           '/ja-jp/about/': [{
             text: 'サーバーについて',
@@ -198,7 +203,7 @@ export default defineUserConfig({
         },
         navbar: [
           { text: "ホーム", link: "/ja-jp/" },
-          { text: 'プレイヤーマニュアル', children: [ {text: '紹介', link: '/ja-jp/guide/introduction.html'}, {text: '設定', link: '/ja-jp/guide/settings.html'}, {text: 'コマンド一覧', link: '/ja-jp/guide/command.html'}, {text: 'FAQ', link: '/ja-jp/guide/faq.html'} ] },
+          { text: 'プレイヤーマニュアル', children: [ {text: '紹介', link: '/ja-jp/survival/introduction.html'}, {text: '設定', link: '/ja-jp/survival/settings.html'}, {text: 'コマンド一覧', link: '/ja-jp/survival/command.html'}, {text: 'FAQ', link: '/ja-jp/survival/faq.html'} ] },
           { text: 'サーバーについて', children: [ {text: 'ルール', link: '/ja-jp/about/rules.html'}, {text: '歴史', link: '/ja-jp/about/history.html'}, {text: '貢献者', link: '/ja-jp/about/contributions.html'}, {text: 'スポンサー', link: '/ja-jp/about/sponsor.html'} ] },
           { text: '関連リンク', children: [ {text: 'GitHub', link: 'https://GitHub.com/Rain-Serenity/'}, {text: 'MineBBS', link: 'https://www.MineBBS.com/threads/1-21-1.28390/'}, {text: 'Minecraft Wiki', link: 'https://Minecraft.Wiki/'} ]}
         ],

@@ -12,7 +12,7 @@ bannerBrand:
   tagline: Minecraftのバージョンアップに合わせて更新されるMinecraftサーバー。
   bgImage: /bg.svg
   buttons:
-    - { text: 読み始める, link: '/ja-jp/guide/introduction' }
+    - { text: 読み始める, link: '/ja-jp/survival/introduction' }
     - { text: クライアントをダウンロード, link: 'https://www.mcmod.cn/modpack/467.html', type: 'plain' }
   socialLinks:
     - { icon: 'LogoGithub', link: 'https://GitHub.com/Rain-Serenity/RSerene-Wiki/' }
