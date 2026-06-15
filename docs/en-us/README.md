@@ -17,7 +17,6 @@ bannerBrand:
     # - { text: Received, icon: 'EarthFilled', link: '/blogs/category1/blog2' }
     - { text: Start Reading, link: '/en-us/survival/introduction' }
     - { text: Download Client, link: 'https://www.mcmod.cn/modpack/467.html', type: 'plain' }
-    # - { text: safsdfdsfdssdsdfsdf, link: '/blogs/category1/blog2', type: 'text', icon: 'Alien' }
   socialLinks:
     - { icon: 'LogoGithub', link: 'https://GitHub.com/Rain-Serenity/RSerene-Wiki/' }
     # - { icon: 'LogoTwitter', link: 'https://twitter.com/reco_luan' }

@@ -27,6 +27,11 @@ export default defineUserConfig({
       title: 'RSerene Wiki',
       description: 'RSerene Wiki ホームページへようこそ',
     },
+    '/zh-tw/': {
+      lang: 'zh-TW',
+      title: '雨潤伺服器 Wiki',
+      description: '歡迎來到 RSerene Wiki 首頁',
+    },
   },
   bundler: viteBundler(),
   theme: recoTheme({
@@ -96,20 +101,25 @@ export default defineUserConfig({
         selectLanguageText: 'Languages',
         lastUpdatedText: "Last Updated",
         series: {
-          '/en-us/guide/': [{
-            text: 'Player Manual',
+          '/en-us/survival/': [{
+            text: 'Survival Mode',
             children: ['/en-us/survival/introduction.md', '/en-us/survival/settings.md', '/en-us/survival/command.md', '/en-us/survival/faq.md'],
+          }],
+          '/en-us/island/': [{
+            text: 'Skyblock Mode',
+            children: ['/en-us/island/introduction.md', '/en-us/island/settings.md', '/en-us/island/command.md', '/en-us/island/faq.md'],
           }],
           '/en-us/about/': [{
             text: 'About Server',
-            children: ['/en-us/about/rules.md', '/en-us/about/history.md', '/en-us/about/contributions.md', '/en-us/about/sponsor.md'],
+            children: ['/en-us/about/introduction.md', '/en-us/about/rules.md', '/en-us/about/history.md', '/en-us/about/contributions.md', '/en-us/about/sponsor.md'],
           }],
         },
         navbar: [
           { text: "Home", link: "/en-us/" },
-          { text: 'Player Manual', children: [ {text: 'Introduction', link: '/en-us/survival/introduction.html'}, {text: 'Settings', link: '/en-us/survival/settings.html'}, {text: 'Command List', link: '/en-us/survival/command.html'}, {text: 'FAQ', link: '/en-us/survival/faq.html'} ] },
-          { text: 'About Us', children: [ {text: 'Server Rules', link: '/en-us/about/rules.html'}, {text: 'Server History', link: '/en-us/about/history.html'}, {text: 'Contributors', link: '/en-us/about/contributions.html'}, {text: 'Sponsor', link: '/en-us/about/sponsor.html'} ] },
-          { text: 'Related Links', children: [ {text: 'GitHub', link: 'https://GitHub.com/Rain-Serenity/'}, {text: 'MineBBS', link: 'https://www.MineBBS.com/threads/1-21-1.28390/'}, {text: 'Minecraft Wiki', link: 'https://Minecraft.Wiki/'} ]}
+          { text: 'Survival Mode', children: [ {text: 'Introduction', link: '/en-us/survival/introduction.html'}, {text: 'Settings', link: '/en-us/survival/settings.html'}, {text: 'Command List', link: '/en-us/survival/command.html'}, {text: 'FAQ', link: '/en-us/survival/faq.html'} ] },
+          { text: 'Skyblock Mode', children: [ {text: 'Introduction', link: '/en-us/island/introduction.html'}, {text: 'Settings', link: '/en-us/island/settings.html'}, {text: 'Command List', link: '/en-us/island/command.html'}, {text: 'FAQ', link: '/en-us/island/faq.html'} ] },
+          { text: 'About Us', children: [ {text: 'Server Introduction', link: '/en-us/about/introduction.html'}, {text: 'Server Rules', link: '/en-us/about/rules.html'}, {text: 'Server History', link: '/en-us/about/history.html'}, {text: 'Contributors', link: '/en-us/about/contributions.html'}, {text: 'Sponsor', link: '/en-us/about/sponsor.html'} ] },
+          { text: 'Related Links', children: [ {text: 'Ban List', link: 'https://Bans.RSerene.com/'}, {text: 'GitHub', link: 'https://GitHub.com/Rain-Serenity/'}, {text: 'MCBBS Memorial', link: 'https://www.MCBBS.co/thread-5031-1-1.html'}, {text: 'MineBBS', link: 'https://www.MineBBS.com/threads/1-21-1.28390/'}, {text: 'Minecraft Wiki', link: 'https://Minecraft.Wiki/'} ]}
         ],
         bulletin: {
           body: [
@@ -144,20 +154,25 @@ export default defineUserConfig({
         selectLanguageText: 'Языки',
         lastUpdatedText: "Последнее обновление",
         series: {
-          '/ru-ru/guide/': [{
-            text: 'Руководство игрока',
+          '/ru-ru/survival/': [{
+            text: 'Режим выживания',
             children: ['/ru-ru/survival/introduction.md', '/ru-ru/survival/settings.md', '/ru-ru/survival/command.md', '/ru-ru/survival/faq.md'],
+          }],
+          '/ru-ru/island/': [{
+            text: 'Островной режим',
+            children: ['/ru-ru/island/introduction.md', '/ru-ru/island/settings.md', '/ru-ru/island/command.md', '/ru-ru/island/faq.md'],
           }],
           '/ru-ru/about/': [{
             text: 'О сервере',
-            children: ['/ru-ru/about/rules.md', '/ru-ru/about/history.md', '/ru-ru/about/contributions.md', '/ru-ru/about/sponsor.md'],
+            children: ['/ru-ru/about/introduction.md', '/ru-ru/about/rules.md', '/ru-ru/about/history.md', '/ru-ru/about/contributions.md', '/ru-ru/about/sponsor.md'],
           }],
         },
         navbar: [
           { text: "Главная", link: "/ru-ru/" },
-          { text: 'Руководство', children: [ {text: 'Введение', link: '/ru-ru/survival/introduction.html'}, {text: 'Настройки', link: '/ru-ru/survival/settings.html'}, {text: 'Команды', link: '/ru-ru/survival/command.html'}, {text: 'FAQ', link: '/ru-ru/survival/faq.html'} ] },
-          { text: 'О нас', children: [ {text: 'Правила', link: '/ru-ru/about/rules.html'}, {text: 'История', link: '/ru-ru/about/history.html'}, {text: 'Авторы', link: '/ru-ru/about/contributions.html'}, {text: 'Спонсорство', link: '/ru-ru/about/sponsor.html'} ] },
-          { text: 'Ссылки', children: [ {text: 'GitHub', link: 'https://GitHub.com/Rain-Serenity/'}, {text: 'MineBBS', link: 'https://www.MineBBS.com/threads/1-21-1.28390/'}, {text: 'Minecraft Wiki', link: 'https://Minecraft.Wiki/'} ]}
+          { text: 'Выживание', children: [ {text: 'Введение', link: '/ru-ru/survival/introduction.html'}, {text: 'Настройки', link: '/ru-ru/survival/settings.html'}, {text: 'Команды', link: '/ru-ru/survival/command.html'}, {text: 'FAQ', link: '/ru-ru/survival/faq.html'} ] },
+          { text: 'Островной режим', children: [ {text: 'Введение', link: '/ru-ru/island/introduction.html'}, {text: 'Настройки', link: '/ru-ru/island/settings.html'}, {text: 'Команды', link: '/ru-ru/island/command.html'}, {text: 'FAQ', link: '/ru-ru/island/faq.html'} ] },
+          { text: 'О нас', children: [ {text: 'О сервере', link: '/ru-ru/about/introduction.html'}, {text: 'Правила', link: '/ru-ru/about/rules.html'}, {text: 'История', link: '/ru-ru/about/history.html'}, {text: 'Авторы', link: '/ru-ru/about/contributions.html'}, {text: 'Спонсорство', link: '/ru-ru/about/sponsor.html'} ] },
+          { text: 'Ссылки', children: [ {text: 'Список банов', link: 'https://Bans.RSerene.com/'}, {text: 'GitHub', link: 'https://GitHub.com/Rain-Serenity/'}, {text: 'MCBBS Memorial', link: 'https://www.MCBBS.co/thread-5031-1-1.html'}, {text: 'MineBBS', link: 'https://www.MineBBS.com/threads/1-21-1.28390/'}, {text: 'Minecraft Wiki', link: 'https://Minecraft.Wiki/'} ]}
         ],
         bulletin: {
           body: [
@@ -192,20 +207,25 @@ export default defineUserConfig({
         selectLanguageText: '言語',
         lastUpdatedText: "最終更新",
         series: {
-          '/ja-jp/guide/': [{
-            text: 'プレイヤーマニュアル',
+          '/ja-jp/survival/': [{
+            text: 'サバイバルモード',
             children: ['/ja-jp/survival/introduction.md', '/ja-jp/survival/settings.md', '/ja-jp/survival/command.md', '/ja-jp/survival/faq.md'],
+          }],
+          '/ja-jp/island/': [{
+            text: 'スカイブロックモード',
+            children: ['/ja-jp/island/introduction.md', '/ja-jp/island/settings.md', '/ja-jp/island/command.md', '/ja-jp/island/faq.md'],
           }],
           '/ja-jp/about/': [{
             text: 'サーバーについて',
-            children: ['/ja-jp/about/rules.md', '/ja-jp/about/history.md', '/ja-jp/about/contributions.md', '/ja-jp/about/sponsor.md'],
+            children: ['/ja-jp/about/introduction.md', '/ja-jp/about/rules.md', '/ja-jp/about/history.md', '/ja-jp/about/contributions.md', '/ja-jp/about/sponsor.md'],
           }],
         },
         navbar: [
           { text: "ホーム", link: "/ja-jp/" },
-          { text: 'プレイヤーマニュアル', children: [ {text: '紹介', link: '/ja-jp/survival/introduction.html'}, {text: '設定', link: '/ja-jp/survival/settings.html'}, {text: 'コマンド一覧', link: '/ja-jp/survival/command.html'}, {text: 'FAQ', link: '/ja-jp/survival/faq.html'} ] },
-          { text: 'サーバーについて', children: [ {text: 'ルール', link: '/ja-jp/about/rules.html'}, {text: '歴史', link: '/ja-jp/about/history.html'}, {text: '貢献者', link: '/ja-jp/about/contributions.html'}, {text: 'スポンサー', link: '/ja-jp/about/sponsor.html'} ] },
-          { text: '関連リンク', children: [ {text: 'GitHub', link: 'https://GitHub.com/Rain-Serenity/'}, {text: 'MineBBS', link: 'https://www.MineBBS.com/threads/1-21-1.28390/'}, {text: 'Minecraft Wiki', link: 'https://Minecraft.Wiki/'} ]}
+          { text: 'サバイバル', children: [ {text: '紹介', link: '/ja-jp/survival/introduction.html'}, {text: '設定', link: '/ja-jp/survival/settings.html'}, {text: 'コマンド一覧', link: '/ja-jp/survival/command.html'}, {text: 'FAQ', link: '/ja-jp/survival/faq.html'} ] },
+          { text: 'スカイブロック', children: [ {text: '紹介', link: '/ja-jp/island/introduction.html'}, {text: '設定', link: '/ja-jp/island/settings.html'}, {text: 'コマンド一覧', link: '/ja-jp/island/command.html'}, {text: 'FAQ', link: '/ja-jp/island/faq.html'} ] },
+          { text: 'サーバーについて', children: [ {text: 'サーバー紹介', link: '/ja-jp/about/introduction.html'}, {text: 'ルール', link: '/ja-jp/about/rules.html'}, {text: '歴史', link: '/ja-jp/about/history.html'}, {text: '貢献者', link: '/ja-jp/about/contributions.html'}, {text: 'スポンサー', link: '/ja-jp/about/sponsor.html'} ] },
+          { text: '関連リンク', children: [ {text: 'BANリスト', link: 'https://Bans.RSerene.com/'}, {text: 'GitHub', link: 'https://GitHub.com/Rain-Serenity/'}, {text: 'MCBBS Memorial', link: 'https://www.MCBBS.co/thread-5031-1-1.html'}, {text: 'MineBBS', link: 'https://www.MineBBS.com/threads/1-21-1.28390/'}, {text: 'Minecraft Wiki', link: 'https://Minecraft.Wiki/'} ]}
         ],
         bulletin: {
           body: [
@@ -229,6 +249,59 @@ export default defineUserConfig({
               type: 'buttongroup',
               children: [
                 { text: 'スポンサー', link: '/ja-jp/about/sponsor.html' }
+              ]
+            }
+          ],
+        }
+      },
+      '/zh-tw/': {
+        logo: "/images/logo.png",
+        selectLanguageName: '繁體中文',
+        selectLanguageText: '選擇語言',
+        lastUpdatedText: "最後更新",
+        series: {
+          '/zh-tw/survival/': [{
+            text: '純淨生存',
+            children: ['/zh-tw/survival/introduction.md', '/zh-tw/survival/settings.md', '/zh-tw/survival/command.md', '/zh-tw/survival/faq.md'],
+          }],
+          '/zh-tw/island/': [{
+            text: '空島生存',
+            children: ['/zh-tw/island/introduction.md', '/zh-tw/island/settings.md', '/zh-tw/island/command.md', '/zh-tw/island/faq.md'],
+          }],
+          '/zh-tw/about/': [{
+            text: '關於我們',
+            children: ['/zh-tw/about/introduction.md', '/zh-tw/about/history.md', '/zh-tw/about/contributions.md', '/zh-tw/about/rules.md', '/zh-tw/about/sponsor.md'],
+          }],
+        },
+        navbar: [
+          { text: "首頁", link: "/zh-tw/" },
+          { text: '純淨生存', children: [ {text: '簡單介紹', link: '/zh-tw/survival/introduction.html'}, {text: '基本設定', link: '/zh-tw/survival/settings.html'}, {text: '指令列表', link: '/zh-tw/survival/command.html'}, {text: '常見問題', link: '/zh-tw/survival/faq.html'} ] },
+          { text: '空島生存', children: [ {text: '簡單介紹', link: '/zh-tw/island/introduction.html'}, {text: '基本設定', link: '/zh-tw/island/settings.html'}, {text: '指令列表', link: '/zh-tw/island/command.html'}, {text: '常見問題', link: '/zh-tw/island/faq.html'} ] },
+          { text: '關於我們', children: [ {text: '伺服器介紹', link: '/zh-tw/about/introduction.html'}, {text: '伺服器歷史', link: '/zh-tw/about/history.html'}, {text: '伺服器貢獻者', link: '/zh-tw/about/contributions.html'}, {text: '伺服器管理條例', link: '/zh-tw/about/rules.html'}, {text: '贊助伺服器', link: '/zh-tw/about/sponsor.html'} ] },
+          { text: '相關連結', children: [ {text: '伺服器封禁列表', link: 'https://Bans.RSerene.com/'}, {text: 'GitHub', link: 'https://GitHub.com/Rain-Serenity/'}, {text: 'MCBBS紀念版', link: 'https://www.MCBBS.co/thread-5031-1-1.html'}, {text: 'MineBBS', link: 'https://www.MineBBS.com/threads/1-21-1.28390/'}, {text: 'Minecraft Wiki', link: 'https://Minecraft.Wiki/'} ]}
+        ],
+        bulletin: {
+          body: [
+            {
+              type: 'text',
+              content: `🎉🎉🎉 伺服器已經更新到26.1.2。`,
+              style: 'font-size: 12px;'
+            },
+            { type: 'hr' },
+            { type: 'title', content: 'QQ 群' },
+            {
+              type: 'text',
+              content: `
+      <ul>
+        <li>QQ群：902620497</li>
+      </ul>`,
+              style: 'font-size: 12px;'
+            },
+            { type: 'hr', },
+            {
+              type: 'buttongroup',
+              children: [
+                { text: '贊助', link: '/zh-tw/about/sponsor.html' }
               ]
             }
           ],
