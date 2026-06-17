@@ -12,6 +12,11 @@ export default defineUserConfig({
       title: '雨润服务器 Wiki',
       description: '欢迎来到 RSerene Wiki 主页',
     },
+    '/zh-tw/': {
+      lang: 'zh-TW',
+      title: '雨潤伺服器 Wiki',
+      description: '歡迎來到 RSerene Wiki 首頁',
+    },
     '/en-us/': {
       lang: 'en-US',
       title: 'RSerene Wiki',
@@ -27,10 +32,10 @@ export default defineUserConfig({
       title: 'RSerene Wiki',
       description: 'RSerene Wiki ホームページへようこそ',
     },
-    '/zh-tw/': {
-      lang: 'zh-TW',
-      title: '雨潤伺服器 Wiki',
-      description: '歡迎來到 RSerene Wiki 首頁',
+    '/ko-kr/': {
+      lang: 'ko-KR',
+      title: 'RSerene Wiki',
+      description: 'RSerene Wiki 홈페이지에 오신 것을 환영합니다',
     },
   },
   bundler: viteBundler(),
@@ -90,6 +95,59 @@ export default defineUserConfig({
               type: 'buttongroup',
               children: [
                 { text: '赞助', link: '/about/sponsor.html' }
+              ]
+            }
+          ],
+        }
+      },
+      '/zh-tw/': {
+        logo: "/images/logo.png",
+        selectLanguageName: '繁體中文',
+        selectLanguageText: '選擇語言',
+        lastUpdatedText: "最後更新",
+        series: {
+          '/zh-tw/survival/': [{
+            text: '純淨生存',
+            children: ['/zh-tw/survival/introduction.md', '/zh-tw/survival/settings.md', '/zh-tw/survival/command.md', '/zh-tw/survival/faq.md'],
+          }],
+          '/zh-tw/island/': [{
+            text: '空島生存',
+            children: ['/zh-tw/island/introduction.md', '/zh-tw/island/settings.md', '/zh-tw/island/command.md', '/zh-tw/island/faq.md'],
+          }],
+          '/zh-tw/about/': [{
+            text: '關於我們',
+            children: ['/zh-tw/about/introduction.md', '/zh-tw/about/history.md', '/zh-tw/about/contributions.md', '/zh-tw/about/rules.md', '/zh-tw/about/sponsor.md'],
+          }],
+        },
+        navbar: [
+          { text: "首頁", link: "/zh-tw/" },
+          { text: '純淨生存', children: [ {text: '簡單介紹', link: '/zh-tw/survival/introduction.html'}, {text: '基本設定', link: '/zh-tw/survival/settings.html'}, {text: '指令列表', link: '/zh-tw/survival/command.html'}, {text: '常見問題', link: '/zh-tw/survival/faq.html'} ] },
+          { text: '空島生存', children: [ {text: '簡單介紹', link: '/zh-tw/island/introduction.html'}, {text: '基本設定', link: '/zh-tw/island/settings.html'}, {text: '指令列表', link: '/zh-tw/island/command.html'}, {text: '常見問題', link: '/zh-tw/island/faq.html'} ] },
+          { text: '關於我們', children: [ {text: '伺服器介紹', link: '/zh-tw/about/introduction.html'}, {text: '伺服器歷史', link: '/zh-tw/about/history.html'}, {text: '伺服器貢獻者', link: '/zh-tw/about/contributions.html'}, {text: '伺服器管理條例', link: '/zh-tw/about/rules.html'}, {text: '贊助伺服器', link: '/zh-tw/about/sponsor.html'} ] },
+          { text: '相關連結', children: [ {text: '伺服器封禁列表', link: 'https://Bans.RSerene.com/'}, {text: 'GitHub', link: 'https://GitHub.com/Rain-Serenity/'}, {text: 'MCBBS紀念版', link: 'https://www.MCBBS.co/thread-5031-1-1.html'}, {text: 'MineBBS', link: 'https://www.MineBBS.com/threads/1-21-1.28390/'}, {text: 'Minecraft Wiki', link: 'https://Minecraft.Wiki/'} ]}
+        ],
+        bulletin: {
+          body: [
+            {
+              type: 'text',
+              content: `🎉🎉🎉 伺服器已經更新到26.1.2。`,
+              style: 'font-size: 12px;'
+            },
+            { type: 'hr' },
+            { type: 'title', content: 'QQ 群' },
+            {
+              type: 'text',
+              content: `
+      <ul>
+        <li>QQ群：902620497</li>
+      </ul>`,
+              style: 'font-size: 12px;'
+            },
+            { type: 'hr', },
+            {
+              type: 'buttongroup',
+              children: [
+                { text: '贊助', link: '/zh-tw/about/sponsor.html' }
               ]
             }
           ],
@@ -254,46 +312,46 @@ export default defineUserConfig({
           ],
         }
       },
-      '/zh-tw/': {
+      '/ko-kr/': {
         logo: "/images/logo.png",
-        selectLanguageName: '繁體中文',
-        selectLanguageText: '選擇語言',
-        lastUpdatedText: "最後更新",
+        selectLanguageName: '한국어',
+        selectLanguageText: '언어 선택',
+        lastUpdatedText: "마지막 업데이트",
         series: {
-          '/zh-tw/survival/': [{
-            text: '純淨生存',
-            children: ['/zh-tw/survival/introduction.md', '/zh-tw/survival/settings.md', '/zh-tw/survival/command.md', '/zh-tw/survival/faq.md'],
+          '/ko-kr/survival/': [{
+            text: '서바이벌 모드',
+            children: ['/ko-kr/survival/introduction.md', '/ko-kr/survival/settings.md', '/ko-kr/survival/command.md', '/ko-kr/survival/faq.md'],
           }],
-          '/zh-tw/island/': [{
-            text: '空島生存',
-            children: ['/zh-tw/island/introduction.md', '/zh-tw/island/settings.md', '/zh-tw/island/command.md', '/zh-tw/island/faq.md'],
+          '/ko-kr/island/': [{
+            text: '스카이블록 모드',
+            children: ['/ko-kr/island/introduction.md', '/ko-kr/island/settings.md', '/ko-kr/island/command.md', '/ko-kr/island/faq.md'],
           }],
-          '/zh-tw/about/': [{
-            text: '關於我們',
-            children: ['/zh-tw/about/introduction.md', '/zh-tw/about/history.md', '/zh-tw/about/contributions.md', '/zh-tw/about/rules.md', '/zh-tw/about/sponsor.md'],
+          '/ko-kr/about/': [{
+            text: '서버 소개',
+            children: ['/ko-kr/about/introduction.md', '/ko-kr/about/rules.md', '/ko-kr/about/history.md', '/ko-kr/about/contributions.md', '/ko-kr/about/sponsor.md'],
           }],
         },
         navbar: [
-          { text: "首頁", link: "/zh-tw/" },
-          { text: '純淨生存', children: [ {text: '簡單介紹', link: '/zh-tw/survival/introduction.html'}, {text: '基本設定', link: '/zh-tw/survival/settings.html'}, {text: '指令列表', link: '/zh-tw/survival/command.html'}, {text: '常見問題', link: '/zh-tw/survival/faq.html'} ] },
-          { text: '空島生存', children: [ {text: '簡單介紹', link: '/zh-tw/island/introduction.html'}, {text: '基本設定', link: '/zh-tw/island/settings.html'}, {text: '指令列表', link: '/zh-tw/island/command.html'}, {text: '常見問題', link: '/zh-tw/island/faq.html'} ] },
-          { text: '關於我們', children: [ {text: '伺服器介紹', link: '/zh-tw/about/introduction.html'}, {text: '伺服器歷史', link: '/zh-tw/about/history.html'}, {text: '伺服器貢獻者', link: '/zh-tw/about/contributions.html'}, {text: '伺服器管理條例', link: '/zh-tw/about/rules.html'}, {text: '贊助伺服器', link: '/zh-tw/about/sponsor.html'} ] },
-          { text: '相關連結', children: [ {text: '伺服器封禁列表', link: 'https://Bans.RSerene.com/'}, {text: 'GitHub', link: 'https://GitHub.com/Rain-Serenity/'}, {text: 'MCBBS紀念版', link: 'https://www.MCBBS.co/thread-5031-1-1.html'}, {text: 'MineBBS', link: 'https://www.MineBBS.com/threads/1-21-1.28390/'}, {text: 'Minecraft Wiki', link: 'https://Minecraft.Wiki/'} ]}
+          { text: "홈", link: "/ko-kr/" },
+          { text: '서바이벌', children: [ {text: '소개', link: '/ko-kr/survival/introduction.html'}, {text: '설정', link: '/ko-kr/survival/settings.html'}, {text: '명령어 목록', link: '/ko-kr/survival/command.html'}, {text: 'FAQ', link: '/ko-kr/survival/faq.html'} ] },
+          { text: '스카이블록', children: [ {text: '소개', link: '/ko-kr/island/introduction.html'}, {text: '설정', link: '/ko-kr/island/settings.html'}, {text: '명령어 목록', link: '/ko-kr/island/command.html'}, {text: 'FAQ', link: '/ko-kr/island/faq.html'} ] },
+          { text: '서버 정보', children: [ {text: '서버 소개', link: '/ko-kr/about/introduction.html'}, {text: '규칙', link: '/ko-kr/about/rules.html'}, {text: '역사', link: '/ko-kr/about/history.html'}, {text: '기여자', link: '/ko-kr/about/contributions.html'}, {text: '후원', link: '/ko-kr/about/sponsor.html'} ] },
+          { text: '관련 링크', children: [ {text: '밴 목록', link: 'https://Bans.RSerene.com/'}, {text: 'GitHub', link: 'https://GitHub.com/Rain-Serenity/'}, {text: 'MCBBS Memorial', link: 'https://www.MCBBS.co/thread-5031-1-1.html'}, {text: 'MineBBS', link: 'https://www.MineBBS.com/threads/1-21-1.28390/'}, {text: 'Minecraft Wiki', link: 'https://Minecraft.Wiki/'} ]}
         ],
         bulletin: {
           body: [
             {
               type: 'text',
-              content: `🎉🎉🎉 伺服器已經更新到26.1.2。`,
+              content: `🎉🎉🎉 서버가 26.1.2로 업데이트되었습니다.`,
               style: 'font-size: 12px;'
             },
             { type: 'hr' },
-            { type: 'title', content: 'QQ 群' },
+            { type: 'title', content: 'QQ Group' },
             {
               type: 'text',
               content: `
       <ul>
-        <li>QQ群：902620497</li>
+        <li>QQ Group: 902620497</li>
       </ul>`,
               style: 'font-size: 12px;'
             },
@@ -301,7 +359,7 @@ export default defineUserConfig({
             {
               type: 'buttongroup',
               children: [
-                { text: '贊助', link: '/zh-tw/about/sponsor.html' }
+                { text: '후원', link: '/ko-kr/about/sponsor.html' }
               ]
             }
           ],
