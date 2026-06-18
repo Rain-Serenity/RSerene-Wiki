@@ -4,8 +4,8 @@
 机器请勿过于密集，谢谢配合！
 :::
 **本服务器开服配置为 AMD Ryzen ThreadRipper Pro 5995WX 8核心 + 24G内存** <br>
-**本服务器采用的是[Paper](https://GitHub.com/PaperMC/Paper)核心。** <br>
-**启用了TNT复制、铁轨复制、地毯复制等** <br>
+**本服务器采用的是[Luminol](https://GitHub.com/LuminolMC/Luminol)核心。** <br>
+**启用了TNT复制、铁轨复制、地毯复制、重力方块复制等** <br>
 **禁用了所有(不包含以上)关于“复制”的特性** <br>
 ## 死亡不掉落
 **我们已开启死亡不掉落。**
