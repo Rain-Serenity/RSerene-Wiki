@@ -4,8 +4,8 @@
 機器請勿過於密集，謝謝配合！
 :::
 **本伺服器開服配置為 AMD Ryzen ThreadRipper Pro 5995WX 8核心 + 24G記憶體** <br>
-**本伺服器採用的是[Paper](https://GitHub.com/PaperMC/Paper)核心。** <br>
-**啟用了TNT複製、鐵軌複製、地毯複製等** <br>
+**本伺服器採用的是[Luminol](https://GitHub.com/LuminolMC/Luminol)核心。** <br>
+**啟用了TNT複製、鐵軌複製、地毯複製、重力方塊複製等** <br>
 **禁用了所有(不包含以上)關於「複製」的特性** <br>
 ## 死亡不掉落
 **我們已開啟死亡不掉落。**

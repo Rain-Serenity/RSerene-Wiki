@@ -4,8 +4,8 @@
 Please avoid excessive machine density. Thank you for your cooperation!
 :::
 **This server uses the following hardware: AMD Ryzen ThreadRipper Pro 5995WX 8 cores + 24GB RAM** <br>
-**This server uses the [Paper](https://GitHub.com/PaperMC/Paper) core.** <br>
-**TNT duplication, rail duplication, carpet duplication and similar mechanics are enabled.** <br>
+**This server uses the [Luminol](https://GitHub.com/LuminolMC/Luminol) core.** <br>
+**TNT duplication, rail duplication, carpet duplication, gravity block duplication and similar mechanics are enabled.** <br>
 **All other duplication-related features (excluding the above) are disabled.** <br>
 ## No Item Drop on Death
 **We have enabled keep inventory on death.**
