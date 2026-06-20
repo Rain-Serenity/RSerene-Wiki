@@ -9,7 +9,7 @@
 ## Server Overview
 | Type                   | Status                                                                 |
 |------------------------|------------------------------------------------------------------------|
-| Supported Version      | 26.1.2                                                                 |
+| Supported Version      | 26.1.2 & 26.2                                                         |
 | Operating Model        | Public Service » Completely free + accepting "unconditional" donations |
 | Game Mode              | Survival                                                               |
 | Network Type           | Multi-line                                                             |
