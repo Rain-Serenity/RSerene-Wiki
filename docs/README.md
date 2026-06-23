@@ -23,6 +23,8 @@ bannerBrand:
     # - { icon: 'LogoTwitter', link: 'https://twitter.com/reco_luan' }
 footer: # 底部模块的配置
   startYear: 2020
+  record: 粤ICP备
+  recordLink: http://beian.miit.gov.cn
 features:
   - title: 过去
     details: 开发一款有特别玩法的服务器。
