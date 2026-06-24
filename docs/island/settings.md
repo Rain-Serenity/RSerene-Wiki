@@ -3,7 +3,6 @@
 ::: danger 警告
 机器请勿过于密集，谢谢配合！
 :::
-**本服务器开服配置为 Intel Xeon Platinum 8270 Processor 8核心 + 40G内存** <br>
 **本服务器采用的是[Paper](https://GitHub.com/PaperMC/Paper)核心。** <br>
 **启用了大部分原版复制(少部分目前无法启用 等待Leaves更新)特性** <br>
 ## 岛屿设定
