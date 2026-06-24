@@ -22,6 +22,8 @@ bannerBrand:
     # - { icon: 'LogoTwitter', link: 'https://twitter.com/reco_luan' }
 footer: # Configuration for the footer module
   startYear: 2020
+  record: 粤ICP备
+  recordLink: http://beian.miit.gov.cn
 features:
   - title: Past
     details: Developing a server with unique gameplay.

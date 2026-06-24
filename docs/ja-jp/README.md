@@ -18,6 +18,8 @@ bannerBrand:
     - { icon: 'LogoGithub', link: 'https://GitHub.com/Rain-Serenity/RSerene-Wiki/' }
 footer:
   startYear: 2020
+  record: 粤ICP备
+  recordLink: http://beian.miit.gov.cn
 features:
   - title: 過去
     details: ユニークなゲームプレイを備えたサーバーの開発。

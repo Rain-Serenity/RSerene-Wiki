@@ -26,7 +26,7 @@
 
 ## Core Features
 
-* **Pure Vanilla Experience, Back to the Essence: Fully based on Minecraft 26.1.2 official vanilla mechanics, with no gameplay alterations. Start with your first wooden pickaxe and build magnificent automated farms and structures with your own hands, experiencing the most authentic survival experience.**
+* **Pure Vanilla Experience, Back to the Essence: Fully based on Minecraft 26.2 official vanilla mechanics, with no gameplay alterations. Start with your first wooden pickaxe and build magnificent automated farms and structures with your own hands, experiencing the most authentic survival experience.**
 
 * **Non-profit Forever, Save Data Never Deleted: The server is operated out of passion by the owner on a non-profit basis. We are committed to permanent save data retention and regular backups, ensuring that your painstaking builds and memories are well protected.**
 
