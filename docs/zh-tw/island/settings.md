@@ -3,7 +3,6 @@
 ::: danger 警告
 機器請勿過於密集，謝謝配合！
 :::
-**本伺服器開服配置為 Intel Xeon Platinum 8270 Processor 8核心 + 40G記憶體** <br>
 **本伺服器採用的是[Paper](https://GitHub.com/PaperMC/Paper)核心。** <br>
 **啟用了大部分原版複製(少部分目前無法啟用 等待Leaves更新)特性** <br>
 ## 島嶼設定

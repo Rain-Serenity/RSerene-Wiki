@@ -3,7 +3,6 @@
 ::: danger 경고
 기계를 너무 밀집하게 배치하지 마세요. 협조 감사합니다!
 :::
-**서버 하드웨어: Intel Xeon Platinum 8270 Processor 8코어 + 40GB 메모리** <br>
 **이 서버는 [Paper](https://GitHub.com/PaperMC/Paper) 코어를 사용합니다.** <br>
 **대부분의 바닐라 복제 기능이 활성화되어 있습니다(일부는 현재 사용 불가, Leaves 업데이트 대기 중).** <br>
 ## 섬 설정

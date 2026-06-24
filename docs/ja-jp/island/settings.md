@@ -3,7 +3,6 @@
 ::: danger 警告
 機械を密集させすぎないでください。ご協力ありがとうございます！
 :::
-**このサーバーのハードウェア構成：Intel Xeon Platinum 8270 Processor 8コア + 40GBメモリ** <br>
 **このサーバーは [Paper](https://GitHub.com/PaperMC/Paper) コアを使用しています。** <br>
 **ほとんどのバニラ複製機能が有効化されています（一部は現在利用不可、Leavesの更新待ち）。** <br>
 ## 島の設定

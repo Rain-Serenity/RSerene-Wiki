@@ -3,7 +3,6 @@
 ::: danger Warning
 Please avoid excessive machine density. Thank you for your cooperation!
 :::
-**This server uses the following hardware: AMD Ryzen ThreadRipper Pro 5995WX 8 cores + 24GB RAM** <br>
 **This server uses the [Luminol](https://GitHub.com/LuminolMC/Luminol) core.** <br>
 **TNT duplication, rail duplication, carpet duplication, gravity block duplication and similar mechanics are enabled.** <br>
 **All other duplication-related features (excluding the above) are disabled.** <br>
@@ -23,7 +22,7 @@ Unlike vanilla, dropped items will despawn after 3 minutes!
 **Although we've reduced the view distance and entity calculation range, we've significantly increased the mob spawn rate in chunks near players.**-->
 ## Land Claim
 **The tool for creating land claims is set to a wooden hoe. The maximum claim size is 256×256 (X×Z), with no height limit (-64~328 is allowed).**
-**0.5 in-game currency per block**
+**0.1 in-game currency per block**
 ## JEI Support
 **This server uses the custom plugin [JEIBukkit](https://GitHub.com/Rain-Serenity/JEIBukkit), which automatically syncs recipes to your client when you join.**
 ## Items Sellable to the Server

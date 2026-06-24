@@ -3,7 +3,6 @@
 ::: danger Warning
 Please avoid excessive machine density. Thank you for your cooperation!
 :::
-**This server uses the following hardware: Intel Xeon Platinum 8270 Processor 8 cores + 40GB RAM** <br>
 **This server uses the [Paper](https://GitHub.com/PaperMC/Paper) core.** <br>
 **Most vanilla duplication mechanics are enabled (a few are currently unavailable, pending Leaves update).** <br>
 ## Island Settings
