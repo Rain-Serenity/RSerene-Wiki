@@ -7,6 +7,9 @@
 **We update the server in line with the latest Minecraft versions, allowing you to experience new content as soon as it's released.**
 
 ## Server Overview
+::: tips Note
+Although the server does not have premium authentication enabled, non-premium users need to use LittleSkin's external login system. Please register an account at LittleSkin and log in with your LittleSkin account in a third-party launcher before joining the server!
+:::
 | Type                   | Status                                                                 |
 |------------------------|------------------------------------------------------------------------|
 | Supported Version      | 26.2                                                                   |
