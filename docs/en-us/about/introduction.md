@@ -8,7 +8,7 @@
 
 ## Server Overview
 ::: tip Note
-Although the server does not have premium authentication enabled, non-premium users need to use LittleSkin's external login system. Please register an account at LittleSkin and log in with your LittleSkin account in a third-party launcher before joining the server!
+Although the server does not have premium authentication enabled, non-premium users need LittleSkin login to join the server. Therefore, non-premium users, please register an account at LittleSkin and log in with your LittleSkin account in a third-party launcher before joining the server!
 :::
 | Type                   | Status                                                                 |
 |------------------------|------------------------------------------------------------------------|
