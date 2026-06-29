@@ -2,6 +2,9 @@
 
 ## Rain Serenity Survival Server
 **Welcome to the Rain Serenity Survival Server, a completely non-profit vanilla survival server dedicated to restoring the purest essence of Minecraft. We insist on not adding any plugins or mods that affect survival balance, with no paid items — all content is freely accessible.**
+::: tips Note
+Although the server does not have premium authentication enabled, non-premium users need to use LittleSkin's external login system. Please register an account at LittleSkin and log in with your LittleSkin account in a third-party launcher before joining the server!
+:::
 
 | Type                   | Status                                                                 |
 |------------------------|------------------------------------------------------------------------|

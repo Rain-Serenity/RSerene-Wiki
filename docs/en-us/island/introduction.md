@@ -3,6 +3,9 @@
 ## Rain Serenity Skyblock Server
 **Imagine waking up on a tiny floating island with nothing but the vast starry sky above you. That is our world — a skyblock challenge that starts from scratch, full of infinite possibilities!** <br><br>
 **As a server built with custom crafting recipes and unique settings, we are dedicated to delivering an authentic yet surprising skyblock experience. Say goodbye to the tedious cobblestone generator loops of traditional skyblock — expand your domain bit by bit through rich and interesting custom recipes. Whether you're a master builder, a redstone enthusiast, or a casual farmer, you'll find your own peace and sense of achievement in this ever-growing sky-bound world.**
+::: tips Note
+Although the server does not have premium authentication enabled, non-premium users need to use LittleSkin's external login system. Please register an account at LittleSkin and log in with your LittleSkin account in a third-party launcher before joining the server!
+:::
 
 | Type                   | Status                                                                 |
 |------------------------|------------------------------------------------------------------------|
