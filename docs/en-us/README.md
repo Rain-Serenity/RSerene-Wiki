@@ -22,7 +22,7 @@ bannerBrand:
     # - { icon: 'LogoTwitter', link: 'https://twitter.com/reco_luan' }
 footer: # Configuration for the footer module
   startYear: 2020
-  record: 粤ICP备
+  record: 粤ICP备2026085798号-1
   recordLink: http://beian.miit.gov.cn
 features:
   - title: Past

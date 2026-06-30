@@ -10,6 +10,7 @@
 ::: tip Note
 Although the server does not have premium authentication enabled, non-premium users need LittleSkin login to join the server. Therefore, non-premium users, please register an account at LittleSkin and log in with your LittleSkin account in a third-party launcher before joining the server!
 :::
+
 | Type                   | Status                                                                 |
 |------------------------|------------------------------------------------------------------------|
 | Supported Version      | 26.2                                                                   |
