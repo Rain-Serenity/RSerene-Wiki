@@ -21,7 +21,7 @@ Unlike vanilla, dropped items will despawn after 3 minutes!
 ## Sleep System
 **Implemented via the [NoPhantomSleep](https://GitHub.com/Rain-Serenity/NoPhantomSleep) plugin. As long as you right-click a bed at night, it will count as having passed the entire night, and no phantoms will spawn around you.** <br>
 ## View Distance
-**Our view distance is set to 12 chunks.**
+**Our view distance is set to 10 chunks.**
 <!--## Entity Spawning
 **Although we've reduced the view distance and entity calculation range, we've significantly increased the mob spawn rate in chunks near players.**-->
 ## Obtaining Sunflowers

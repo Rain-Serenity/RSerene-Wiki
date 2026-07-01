@@ -17,7 +17,7 @@ Unlike vanilla, dropped items will despawn after 3 minutes!
 **We use both a sleep acceleration mechanism and a custom sleep system, implemented via the [NoPhantomSleep](https://GitHub.com/Rain-Serenity/NoPhantomSleep) plugin. As long as you right-click a bed at night, it will count as having passed the entire night, and no phantoms will spawn around you.** <br>
 **Night acceleration starts when 30% of players are in bed.**
 ## View Distance
-**Our view distance is set to 12 chunks.**
+**Our view distance is set to 10 chunks.**
 <!--## Entity Spawning
 **Although we've reduced the view distance and entity calculation range, we've significantly increased the mob spawn rate in chunks near players.**-->
 ## Land Claim
@@ -31,10 +31,11 @@ Unlike vanilla, dropped items will despawn after 3 minutes!
 | Raw Copper              | 0.4   |
 | Coal                    | 2.5   |
 | Coal Block              | 22.5  |
-| Diamond                 | 25.0  |
+| Diamond                 | 20.0  |
 | Heart of the Sea        | 35.0  |
-| Netherite Ingot         | 75.0  |
+| Netherite Ingot         | 70.0  |
 | Enchanted Golden Apple  | 80.0  |
+| Heavy Core              | 200.0 |
 ::: tip Note
 We are still refining the sell prices. These are only the basic prices for now.
 :::

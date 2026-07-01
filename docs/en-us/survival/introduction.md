@@ -29,10 +29,10 @@ Although the server does not have premium authentication enabled, non-premium us
 
 ## Core Features
 
-* **Pure Vanilla Experience, Back to the Essence: Fully based on Minecraft 26.2 official vanilla mechanics, with no gameplay alterations. Start with your first wooden pickaxe and build magnificent automated farms and structures with your own hands, experiencing the most authentic survival experience.**
+* **Pure Vanilla Experience, Back to the Essence: Fully based on Minecraft 26.2 official vanilla mechanics, with no gameplay alterations. Start with your first wooden pickaxe and build magnificent automated farms and structures with your own hands, experiencing the most authentic survival experience.** <br>
 
-* **Non-profit Forever, Save Data Never Deleted: The server is operated out of passion by the owner on a non-profit basis. We are committed to permanent save data retention and regular backups, ensuring that your painstaking builds and memories are well protected.**
+* **Non-profit Forever, Save Data Never Deleted: The server is operated out of passion by the owner on a non-profit basis. We are committed to permanent save data retention and regular backups, ensuring that your painstaking builds and memories are well protected.** <br>
 
-* **Friendly Co-building, Harmonious Community: We promote a community atmosphere of mutual help and polite communication. Whether you're a master builder, redstone enthusiast, or a casual player, you can find your own comfortable space here.**
+* **Friendly Co-building, Harmonious Community: We promote a community atmosphere of mutual help and polite communication. Whether you're a master builder, redstone enthusiast, or a casual player, you can find your own comfortable space here.** <br>
 
 * **Fair and Just, Clean Environment: Cheating and griefing are strictly prohibited. Through clear rules and transparent management, we are committed to maintaining a pure survival environment where every player's efforts are respected.**
