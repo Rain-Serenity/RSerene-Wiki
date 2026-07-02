@@ -15,7 +15,7 @@
 | /removehome &lt;home name&gt;      | Delete a home                       |               |
 | /res help                          | Get help with the residence plugin                 |               |
 | /rtp                               | Random teleport                      | Range 12000*12000 |
-| /sell                              | Sell the item in your hand for balance               |               |
+| /sell gui                          | Open the sell menu                    | See "Basic Settings" for sellable items |
 | /spawn                             | Teleport to the main city                     |               |
 | /tpa                               | Request to teleport to another player                |               |
 | /tpahere                           | Request another player to teleport to you               |               |
