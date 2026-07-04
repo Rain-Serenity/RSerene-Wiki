@@ -28,7 +28,7 @@ Unlike vanilla, dropped items will despawn after 3 minutes!
 ## Items Sellable to the Server
 | Item                    | Price |
 |-------------------------|-------|
-| Raw Copper              | 0.4   |
+| Raw Copper              | 0.3   |
 | Coal                    | 2.5   |
 | Coal Block              | 22.5  |
 | Diamond                 | 20.0  |
