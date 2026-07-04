@@ -8,6 +8,7 @@
 | /gmp mailbox                       | Open your mailbox; items removed from the global market will be stored here |               |
 | /gmp market gui                    | Open the global market                    |               |
 | /gmp market sell &lt;price&gt; &lt;quantity&gt; | List the item in your hand on the global market at a specified price      |               |
+| /money                              | Check your balance                    |
 | /msg                               | Send a private message to a player                 |               |
 | /pay &lt;player&gt; &lt;amount&gt;            | Transfer money to a player                   | 3% fee          |
 | /ping                              | Check your latency                    |               |
