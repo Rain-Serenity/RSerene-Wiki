@@ -4,6 +4,7 @@
 | /back                              | Return to the last saved location                |
 | /balance                           | Check your balance                    |               |
 | /baltop                            | View the balance leaderboard                   |               |
+| /co i                              | Enable(disable) block record inquiry mode                    |
 | /dback                             | Return to the last death location                |               |
 | /gmp mailbox                       | Open your mailbox; items removed from the global market will be stored here |               |
 | /gmp market gui                    | Open the global market                    |               |
