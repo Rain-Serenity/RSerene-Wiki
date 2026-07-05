@@ -1,10 +1,8 @@
 # Basic Settings
 ## Server Core Configuration
-::: danger Warning
-Please avoid excessive machine density. Thank you for your cooperation!
-:::
-**This server uses the [Paper](https://GitHub.com/PaperMC/Paper) core.** <br>
-**Most vanilla duplication mechanics are enabled (a few are currently unavailable, pending Leaves update).** <br>
+**This server uses the [Luminol](https://GitHub.com/LuminolMC/Luminol) core.** <br>
+**TNT duplication, rail duplication, carpet duplication, gravity block duplication, etc. are enabled.** <br>
+**All other duplication-related features are disabled.** <br>
 ## Island Settings
 **Each player's island is 512×512**
 **Island biomes can be changed (see command list for details)**
