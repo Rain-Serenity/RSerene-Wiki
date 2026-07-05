@@ -8,7 +8,7 @@
 
 ## 서버 기본 현황
 ::: tip 주의
-서버가 정품 인증을 활성화하지 않았지만, 비정품 사용자가 서버에 접속하려면 LittleSkin 로그인이 필요합니다. 따라서 비정품 사용자는 먼저 LittleSkin에서 계정을 등록하고 서드파티 런처에서 LittleSkin 계정으로 로그인한 후 서버에 접속해 주세요!
+서버가 정품 인증을 활성화하지 않았지만, 비정품 사용자가 서버에 접속하려면 <a href="https://littleskin.cn" target="_blank">LittleSkin</a> 로그인이 필요합니다. 따라서 비정품 사용자는 먼저 <a href="https://littleskin.cn" target="_blank">LittleSkin</a>에서 계정을 등록하고 서드파티 런처에서 <a href="https://littleskin.cn" target="_blank">LittleSkin</a> 계정으로 로그인한 후 서버에 접속해 주세요!
 :::
 
 | 유형           | 상태                                                               |

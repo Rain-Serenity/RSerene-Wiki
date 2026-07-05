@@ -8,7 +8,7 @@
 
 ## サーバー概要
 ::: tip 注意
-サーバーは正規認証を有効にしていませんが、非正規ユーザーがサーバーに参加するにはLittleSkinログインが必要です。そのため、非正規ユーザーの方は先にLittleSkinでアカウントを登録し、サードパーティランチャーでLittleSkinアカウントにログインしてからサーバーに参加してください！
+サーバーは正規認証を有効にしていませんが、非正規ユーザーがサーバーに参加するには<a href="https://littleskin.cn" target="_blank">LittleSkin</a>ログインが必要です。そのため、非正規ユーザーの方は先に<a href="https://littleskin.cn" target="_blank">LittleSkin</a>でアカウントを登録し、サードパーティランチャーで<a href="https://littleskin.cn" target="_blank">LittleSkin</a>アカウントにログインしてからサーバーに参加してください！
 :::
 
 | 種類                 | ステータス                                                            |

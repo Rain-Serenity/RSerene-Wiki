@@ -28,9 +28,9 @@ features:
   - title: Past
     details: Developing a server with unique gameplay.
   - title: Present
-    details: No longer focusing on special gameplay, pursuing pure and smooth survival.
+    details: Improve existing server gameplay to create a first-class server.
   - title: Future
-    details: Attracting more players to participate in the server and continuing to improve it.
+    details: Develop more special gameplay features for lasting enjoyment.
 ---
 ## Quick Start
 
