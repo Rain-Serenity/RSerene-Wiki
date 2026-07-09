@@ -36,6 +36,7 @@ Unlike vanilla, dropped items will despawn after 3 minutes!
 | Coal                    | 2.00   |
 | Raw Gold Block          | 3.60   |
 | Emerald Ore             | 6.00   |
+| Diamond                 | 15.00  |
 | Coal Block              | 18.00  |
 | Deepslate Diamond Ore   | 22.00  |
 | Diamond Ore             | 30.00  |
