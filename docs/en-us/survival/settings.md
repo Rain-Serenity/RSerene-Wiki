@@ -3,7 +3,7 @@
 ::: danger Warning
 Please avoid excessive machine density. Thank you for your cooperation!
 :::
-**This server uses the [Luminol](https://GitHub.com/LuminolMC/Luminol) core.** <br>
+**This server uses the [Camellia](https://GitHub.com/MonnaiRealms/Camellia) core.** <br>
 **TNT duplication, rail duplication, carpet duplication, gravity block duplication and similar mechanics are enabled.** <br>
 **All other duplication-related features (excluding the above) are disabled.** <br>
 ## No Item Drop on Death

@@ -1,6 +1,6 @@
 # 基本設定
 ## 伺服器基本配置
-**本伺服器採用的是[Luminol](https://GitHub.com/LuminolMC/Luminol)核心。** <br>
+**本伺服器採用的是[Camellia](https://GitHub.com/MonnaiRealms/Camellia)核心。** <br>
 **啟用了TNT複製、鐵軌複製、地毯複製、重力方塊複製等** <br>
 **禁用了所有(不包含以上)關於"複製"的特性** <br>
 ## 島嶼設定

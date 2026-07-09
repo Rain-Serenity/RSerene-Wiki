@@ -3,7 +3,7 @@
 ::: danger 경고
 기계를 너무 밀집하게 배치하지 마세요. 협조 감사합니다!
 :::
-**이 서버는 [Luminol](https://GitHub.com/LuminolMC/Luminol) 코어를 사용합니다.** <br>
+**이 서버는 [Camellia](https://GitHub.com/MonnaiRealms/Camellia) 코어를 사용합니다.** <br>
 **TNT 복제, 레일 복제, 카펫 복제, 중력 블록 복제 등이 활성화되어 있습니다.** <br>
 **위 항목을 제외한 모든 복제 관련 기능은 비활성화되어 있습니다.** <br>
 ## 사망 시 아이템 드롭 없음
