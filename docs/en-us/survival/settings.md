@@ -22,16 +22,16 @@ Unlike vanilla, dropped items will despawn after 3 minutes!
 **Although we've reduced the view distance and entity calculation range, we've significantly increased the mob spawn rate in chunks near players.**-->
 ## Land Claim
 **The tool for creating land claims is set to a wooden hoe. The maximum claim size is 512×256×512 (X×Y×Z), with no height limit (-64~320 is allowed).**
-**0.05 in-game currency per block**
+**0.1 in-game currency per block**
 ## JEI Support
 **This server uses the custom plugin [JEIBukkit](https://GitHub.com/Rain-Serenity/JEIBukkit), which automatically syncs recipes to your client when you join.**
 ## Items Sellable to the Server
 | Item                    | Price |
 |-------------------------|-------|
 | Raw Copper              | 0.3   |
-| Coal                    | 2.5   |
-| Coal Block              | 22.5  |
+| Coal                    | 2.0   |
 | Diamond                 | 20.0  |
+| Coal Block              | 18.0  |
 | Heart of the Sea        | 35.0  |
 | Netherite Ingot         | 70.0  |
 | Enchanted Golden Apple  | 80.0  |
