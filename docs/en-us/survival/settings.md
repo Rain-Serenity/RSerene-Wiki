@@ -28,13 +28,20 @@ Unlike vanilla, dropped items will despawn after 3 minutes!
 ## Items Sellable to the Server
 | Item                    | Price |
 |-------------------------|-------|
+| Raw Iron                | 0.2   |
 | Raw Copper              | 0.3   |
+| Raw Gold                | 0.4   |
+| Raw Iron Block          | 1.8   |
+| Raw Copper Block        | 2.7   |
 | Coal                    | 2.0   |
-| Diamond                 | 20.0  |
+| Raw Gold Block          | 3.6   |
+| Emerald Ore             | 6.0   |
 | Coal Block              | 18.0  |
+| Diamond                 | 20.0  |
 | Heart of the Sea        | 35.0  |
 | Netherite Ingot         | 70.0  |
 | Enchanted Golden Apple  | 80.0  |
+| Deepslate Emerald Ore   | 90.0  |
 | Heavy Core              | 200.0 |
 ::: tip Note
 We are still refining the sell prices. These are only the basic prices for now.
