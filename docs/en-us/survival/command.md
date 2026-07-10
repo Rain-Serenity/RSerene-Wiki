@@ -18,6 +18,7 @@
 | /removehome &lt;home name&gt;      | Delete a home                       |               |
 | /res help                          | Get help with the residence plugin                 |               |
 | /rtp                               | Random teleport                      | Range 24000*24000 |
+| /tpsbar                            | View TPS, MSPT, etc. in your area    |                |
 | /sell gui                          | Open the sell menu                    | See "Basic Settings" for sellable items |
 | /spawn                             | Teleport to the main city                     |               |
 | /tpa                               | Request to teleport to another player                |               |
