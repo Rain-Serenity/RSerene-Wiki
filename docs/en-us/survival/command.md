@@ -18,10 +18,10 @@
 | /removehome &lt;home name&gt;      | Delete a home                       |               |
 | /res help                          | Get help with the residence plugin                 |               |
 | /rtp                               | Random teleport                      | Range 24000*24000 |
-| /tpsbar                            | Toggle the on-screen display of TPS, MSPT, etc. in your area |                |
 | /sell gui                          | Open the sell menu                    | See "Basic Settings" for sellable items |
 | /spawn                             | Teleport to the main city                     |               |
 | /tpa                               | Request to teleport to another player                |               |
 | /tpahere                           | Request another player to teleport to you               |               |
+| /tpsbar                            | Toggle the on-screen display of TPS, MSPT, etc. in your area |                |
 | /worth                             | Check the selling value of the item in your hand               |               |
 | /worthlist                         | View the selling value of all sellable items              |               |
