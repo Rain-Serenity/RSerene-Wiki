@@ -4,7 +4,7 @@
 | /rim tips          | ヒントを表示                |    |
 | /rim recipemenu    | 特殊レシピを表示            |    |
 | /rim slime         | スライムチャンクを検索       |    |
-| /tpsbar            | 自分のいるエリアのTPS、MSPTなどを表示 |    |
+| /tpsbar            | 自分のいるエリアのTPS、MSPTなどの表示バーを切り替える |    |
 | /plot auto         | 島を受け取る                |    |
 | /plot home         | 島に戻る                    |    |
 | /plot setbiome     | 島のバイオームを設定         |    |
