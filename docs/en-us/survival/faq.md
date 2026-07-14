@@ -29,7 +29,7 @@ A: Server domain: Play.RSerene.com<br>
 Supported game version: 26.2
 ## II. Server Mechanics & Rules
 ### Q1: Does the server have microtransactions, VIP, or paid items?
-A: Absolutely not. This server is purely non-profit with no paid features. Donations only cover server costs and do not grant flight, buffs, or any other perks.
+A: Absolutely not. This server is purely non-profit with no paid features. Donations only cover server costs and cannot be used for flight, buffs, or any other perks.
 ### Q2: Do I need to install any mods to join the server?
 A: No mods are required. You can add local mods that do not interfere with server gameplay.
 ### Q3: Will the server world reset periodically?
