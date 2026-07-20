@@ -1,6 +1,6 @@
 # 기본 설정
 ## 서버 기본 구성
-**이 서버는 [Camellia](https://GitHub.com/MonnaiRealms/Camellia) 코어를 사용합니다.** <br>
+**이 서버는 [Lophine](https://GitHub.com/LophineCraft/Lophine) 코어를 사용합니다.** <br>
 **TNT 복제, 레일 복제, 카펫 복제, 중력 블록 복제 등이 활성화되어 있습니다.** <br>
 **위를 제외한 모든 복제 관련 기능은 비활성화되어 있습니다.** <br>
 ## 섬 설정

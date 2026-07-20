@@ -1,6 +1,6 @@
 # 基本設定
 ## サーバー基本構成
-**このサーバーは [Camellia](https://GitHub.com/MonnaiRealms/Camellia) コアを使用しています。** <br>
+**このサーバーは [Lophine](https://GitHub.com/LophineCraft/Lophine) コアを使用しています。** <br>
 **TNT複製、レール複製、カーペット複製、重力ブロック複製などが有効化されています。** <br>
 **上記以外のすべての複製に関する機能は無効化されています。** <br>
 ## 島の設定

@@ -1,6 +1,6 @@
 # Basic Settings
 ## Server Core Configuration
-**This server uses the [Camellia](https://GitHub.com/MonnaiRealms/Camellia) core.** <br>
+**This server uses the [Lophine](https://GitHub.com/LophineCraft/Lophine) core.** <br>
 **TNT duplication, rail duplication, carpet duplication, gravity block duplication, etc. are enabled.** <br>
 **All other duplication-related features are disabled.** <br>
 ## Island Settings

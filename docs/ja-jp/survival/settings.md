@@ -3,7 +3,7 @@
 ::: danger 警告
 機械を密集させすぎないでください。ご協力ありがとうございます！
 :::
-**このサーバーは [Camellia](https://GitHub.com/MonnaiRealms/Camellia) コアを使用しています。** <br>
+**このサーバーは [Lophine](https://GitHub.com/LophineCraft/Lophine) コアを使用しています。** <br>
 **TNT複製、レール複製、カーペット複製、重力ブロック複製などが有効化されています。** <br>
 **上記以外の複製に関する機能はすべて無効化されています。** <br>
 ## 死亡時のアイテムロストなし
