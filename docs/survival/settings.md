@@ -4,8 +4,7 @@
 机器请勿过于密集，谢谢配合！
 :::
 **本服务器采用的是[Lophine](https://GitHub.com/LophineCraft/Lophine)核心。** <br>
-**启用了TNT复制、铁轨复制、地毯复制、重力方块复制等** <br>
-**禁用了所有(不包含以上)关于“复制”的特性** <br>
+**你可以通过查看[服务器配置文件](https://GitHub.com/Rain-Serenity/ServerConfig)来了解服务器特性** <br>
 ## 死亡不掉落
 **我们已开启死亡不掉落。**
 <!--## 死亡掉落
