@@ -4,8 +4,7 @@
 Please avoid excessive machine density. Thank you for your cooperation!
 :::
 **This server uses the [Lophine](https://GitHub.com/LophineCraft/Lophine) core.** <br>
-**TNT duplication, rail duplication, carpet duplication, gravity block duplication and similar mechanics are enabled.** <br>
-**All other duplication-related features (excluding the above) are disabled.** <br>
+**You can learn about server features by viewing the [server configuration file](https://GitHub.com/Rain-Serenity/ServerConfig).** <br>
 ## No Item Drop on Death
 **We have enabled keep inventory on death.**
 <!--## Item Drop on Death

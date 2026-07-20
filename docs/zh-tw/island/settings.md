@@ -1,8 +1,7 @@
 # 基本設定
 ## 伺服器基本配置
 **本伺服器採用的是[Lophine](https://GitHub.com/LophineCraft/Lophine)核心。** <br>
-**啟用了TNT複製、鐵軌複製、地毯複製、重力方塊複製等** <br>
-**禁用了所有(不包含以上)關於"複製"的特性** <br>
+**你可以通過查看[伺服器配置文件](https://GitHub.com/Rain-Serenity/ServerConfig)來了解伺服器特性** <br>
 ## 島嶼設定
 **每個人的島嶼都為512×512**
 **島嶼生態系可以切換(指令詳見指令列表)**
