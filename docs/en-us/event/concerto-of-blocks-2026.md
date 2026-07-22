@@ -22,7 +22,7 @@ Why vanilla-only? RSerene is a **pure public-benefit, pure vanilla survival** se
 
 | Phase             | Date                         | Description                                        |
 |-------------------|------------------------------|----------------------------------------------------|
-| Preparation       | Now — August 15, 2026        | Build in your survival world or designated area    |
+| Preparation       | Now — August 15, 2026        | Build anywhere on the server                       |
 | **Judging Day**   | **August 16, 2026**          | Scheduled performances throughout the day + scoring|
 | Results           | August 17, 2026              | Announced on QQ group (902620497) and RSerene.com  |
 | Prize Distribution| Starting August 18, 2026     | Rewards will be distributed by the server        |
