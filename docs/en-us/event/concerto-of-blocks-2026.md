@@ -1,0 +1,98 @@
+# Concerto of Blocks
+
+> Supported Version: **Minecraft Java Edition 26.2 (Chaos Cubed)**  
+> Server: **RSerene** ｜ IP: `Play.RSerene.com` ｜ Vanilla Survival or Skyblock  
+> Judging Day: **August 16, 2026**  
+> This event is **not an official Minecraft event** and is not affiliated with Mojang / Microsoft
+
+---
+
+## 🎯 Theme & Concept
+
+**"Concerto of Blocks" Vanilla Music Festival** — Players must **use only vanilla game mechanics** to create musical performances in-game. The challenge: how amazing can a performance be using Note Blocks + Redstone + built-in game sounds?
+
+Why vanilla-only? RSerene is a **pure public-benefit, pure vanilla survival** server that doesn't modify gameplay. This festival pushes "what vanilla can achieve" to its limits.
+
+**The Three Pillars of Vanilla Music:**
+
+1. **Note Block**: Crafted with planks + redstone dust. Right-click to raise pitch by a semitone. **25 pitches (F#3 → F#5, two octaves)**. Requires air above to produce sound. Sound travels up to 48 blocks.  
+   **Timbre depends on the block below**: Wood → Bass, Sand/Gravel → Snare Drum, Glass → Click, Stone → Bass Drum, Gold Block → Bells, Clay → Flute, Packed Ice → Chimes, Wool → Guitar, Bone Block → Xylophone, Iron Block → Vibraphone, Soul Sand → Cow Bell, Pumpkin → Didgeridoo, Emerald Block → Square Wave, Hay Bale → Banjo, Glowstone → Electric Piano, Dirt/Air → Piano/Harp
+2. **Redstone Performance**: Use buttons, pressure plates, levers, redstone torches, repeaters (delay = rhythm) to control circuits, making multiple note blocks play in sequence to form melodies and chords
+3. **Vanilla Sound Effects**: The new **Sulfur Cube** in 26.2 absorbs different blocks and changes physical properties, which can serve as stage machinery or interactive installations — or you can choose other vanilla block sounds.
+
+---
+
+## 📅 Timeline
+
+| Phase             | Date                         | Description                                        |
+|-------------------|------------------------------|----------------------------------------------------|
+| Preparation       | Now — August 15, 2026        | Build in your survival world or designated area    |
+| **Judging Day**   | **August 16, 2026**          | Scheduled performances throughout the day + scoring|
+| Results           | August 17, 2026              | Announced on QQ group (902620497) and RSerene.com  |
+| Prize Distribution| Starting August 18, 2026     | Virtual honorary awards + unconditional donation pool allocation |
+
+---
+
+## 📋 Entry Rules
+
+**Eligibility**
+- Any registered RSerene player may participate, **entry fee: 999.99 in-game balance**
+- Solo or team entry allowed (teams ≤ 4 players)
+
+**Technical Requirements**
+1. **100% Vanilla**: Only Note Blocks, redstone components, and built-in game sounds (e.g., jukebox playing vanilla discs, mob sounds) are allowed. **Mods, plugins, external audio files, and resource packs that replace sounds are prohibited**
+2. **Performance duration**: 30 seconds — 5 minutes
+3. The entry must be fully playable in the 26.2 vanilla environment
+4. Original compositions are encouraged; if covering existing songs, **contestants must secure the necessary music usage rights**
+5. Stage construction may use vanilla blocks for visual decoration
+
+**Prohibited**
+- Sound-altering mods or resource packs
+- Copying others' redstone circuits without attribution
+- Malicious interference with other contestants
+- Violating any of the above will result in **immediate disqualification** and action per the Server Rules
+
+---
+
+## 🏆 Judging Criteria (100 points total)
+
+| Category               | Points | Key Points                                    |
+|------------------------|--------|-----------------------------------------------|
+| **Melody**             | 25     | Pitch accuracy, arrangement quality, clear melody line |
+| **Arrangement Richness**| 20    | Use of multiple timbres (different base blocks) for layering |
+| **Rhythm & Redstone Tech**| 20 | Repeater timing accuracy, stable looping capability |
+| **Stage Performance**  | 15     | Visual design, integration of 26.2 new features, ceremony |
+| **Creativity & Originality**| 15 | Originality, innovative gameplay ideas         |
+| **Vanilla Purity**     | 5      | Strict compliance with 100% vanilla requirements |
+
+**Judging Process**: On August 16, 2026, contestants trigger their entries in the designated server area. The judging panel (all server admin members + 2 player representatives) scores on-site. Final score = average of all judges' scores.
+
+---
+
+## 🎁 Prizes
+
+- 🥇 **Champion**: Name on event page + exclusive title + 33,333 in-game balance + all music discs + all trim templates + 1 Dragon Egg
+- 🥈 **Runner-up**: Name on event page + exclusive title + 29,999 in-game balance + all music discs + all trim templates
+- 🥉 **Third Place**: Name on event page + exclusive title + 26,666 in-game balance + all trim templates
+- 🌟 **Best Creative Award** (judge-nominated, 1 winner): Name on event page + exclusive title + 19,999 in-game balance + all trim templates
+- 🎼 **Best Vanilla Tech Award** (judge-nominated, 1 winner): Name on event page + exclusive title + 19,999 in-game balance + all trim templates
+
+> ::: warning Warning
+> Dragon eggs obtained through this event must not be duplicated. Duplication will be treated as violating Server Rules [II-2] — Malicious exploitation of server or game bugs.
+> :::
+
+---
+
+## ⚠️ Disclaimers
+
+1. **Non-Official Event**: This event is **not an official Minecraft event**, is not approved by Mojang or Microsoft, and is not affiliated with Mojang or Microsoft. All responsibility lies with the RSerene server organizers, not Mojang / Microsoft.
+
+2. **Music Copyright**: Contestants who cover existing songs **must obtain permission from the original artist/copyright holder**. Any disputes, takedowns, or consequences arising from audio copyright are **the sole responsibility of the contestant**. The RSerene server and organizers assume no liability.
+
+3. **Vanilla Mechanics**: This event is limited to 100% vanilla mechanics. The organizers do not guarantee consistent performance across all environments if game updates (e.g., 26.2 patches) alter Note Block behavior or redstone timing.
+
+4. **Conduct**: Contestants must follow existing server rules and community guidelines. Harassment, abuse, or malicious interference during judging may result in disqualification and disciplinary action.
+
+5. **Final Interpretation**: Within the bounds of applicable law, the RSerene server management team reserves the right of final interpretation of this event.
+
+6. **Recording & Publicity**: Performance recordings and screenshots may be used for server promotional purposes. Participation implies consent for non-commercial, public-benefit use of such materials.
