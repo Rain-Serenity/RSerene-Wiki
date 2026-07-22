@@ -69,7 +69,7 @@ export default defineUserConfig({
         series: {
           '/event/': [{
             text: '最新活动',
-            children: ['/event/rs-music-fest-2026.md'],
+            children: ['/event/concerto-of-blocks-2026.md'],
           }],
           '/survival/': [{
             text: '纯净生存',
@@ -86,7 +86,7 @@ export default defineUserConfig({
         },
         navbar: [
           { text: "主页", link: "/" },
-          { text: "最新活动", children: [ {text: '2026音乐节', link: '/event/rs-music-fest-2026.html'} ]},
+          { text: "最新活动", children: [ {text: '2026音乐节', link: '/event/concerto-of-blocks-2026.html'} ]},
           { text: '纯净生存', children: [ {text: '简单介绍', link: '/survival/introduction.html'}, {text: '基本设定', link: '/survival/settings.html'}, {text: '指令列表', link: '/survival/command.html'}, {text: '常见问题', link: '/survival/faq.html'} ] },
           { text: '空岛生存', children: [ {text: '简单介绍', link: '/island/introduction.html'}, {text: '基本设定', link: '/island/settings.html'}, {text: '指令列表', link: '/island/command.html'}, {text: '常见问题', link: '/island/faq.html'} ] },
           { text: '关于我们', children: [ {text: '服务器介绍', link: '/about/introduction.html'}, {text: '服务器历史', link: '/about/history.html'}, {text: '服务器贡献者', link: '/about/contributions.html'}, {text: '服务器管理条例', link: '/about/rules.html'}, {text: '赞助服务器', link: '/about/sponsor.html'} ] },
@@ -154,6 +154,7 @@ export default defineUserConfig({
         },
         navbar: [
           { text: "首頁", link: "/zh-tw/" },
+          { text: "最新活動", children: [ {text: '2026音樂節', link: '/zh-tw/event/rs-music-fest-2026.html'} ]},
           { text: '純淨生存', children: [ {text: '簡單介紹', link: '/zh-tw/survival/introduction.html'}, {text: '基本設定', link: '/zh-tw/survival/settings.html'}, {text: '指令列表', link: '/zh-tw/survival/command.html'}, {text: '常見問題', link: '/zh-tw/survival/faq.html'} ] },
           { text: '空島生存', children: [ {text: '簡單介紹', link: '/zh-tw/island/introduction.html'}, {text: '基本設定', link: '/zh-tw/island/settings.html'}, {text: '指令列表', link: '/zh-tw/island/command.html'}, {text: '常見問題', link: '/zh-tw/island/faq.html'} ] },
           { text: '關於我們', children: [ {text: '伺服器介紹', link: '/zh-tw/about/introduction.html'}, {text: '伺服器歷史', link: '/zh-tw/about/history.html'}, {text: '伺服器貢獻者', link: '/zh-tw/about/contributions.html'}, {text: '伺服器管理條例', link: '/zh-tw/about/rules.html'}, {text: '贊助伺服器', link: '/zh-tw/about/sponsor.html'} ] },
@@ -221,6 +222,7 @@ export default defineUserConfig({
         },
         navbar: [
           { text: "Home", link: "/en-us/" },
+          { text: "Events", children: [ {text: '2026 Music Fest', link: '/en-us/event/rs-music-fest-2026.html'} ]},
           { text: 'Survival Mode', children: [ {text: 'Introduction', link: '/en-us/survival/introduction.html'}, {text: 'Settings', link: '/en-us/survival/settings.html'}, {text: 'Command List', link: '/en-us/survival/command.html'}, {text: 'FAQ', link: '/en-us/survival/faq.html'} ] },
           { text: 'Skyblock Mode', children: [ {text: 'Introduction', link: '/en-us/island/introduction.html'}, {text: 'Settings', link: '/en-us/island/settings.html'}, {text: 'Command List', link: '/en-us/island/command.html'}, {text: 'FAQ', link: '/en-us/island/faq.html'} ] },
           { text: 'About Us', children: [ {text: 'Server Introduction', link: '/en-us/about/introduction.html'}, {text: 'Server History', link: '/en-us/about/history.html'}, {text: 'Contributors', link: '/en-us/about/contributions.html'}, {text: 'Server Rules', link: '/en-us/about/rules.html'}, {text: 'Sponsor', link: '/en-us/about/sponsor.html'} ] },
@@ -288,6 +290,7 @@ export default defineUserConfig({
         },
         navbar: [
           { text: "Главная", link: "/ru-ru/" },
+          { text: "События", children: [ {text: 'Музыкальный фестиваль 2026', link: '/ru-ru/event/rs-music-fest-2026.html'} ]},
           { text: 'Выживание', children: [ {text: 'Введение', link: '/ru-ru/survival/introduction.html'}, {text: 'Настройки', link: '/ru-ru/survival/settings.html'}, {text: 'Команды', link: '/ru-ru/survival/command.html'}, {text: 'FAQ', link: '/ru-ru/survival/faq.html'} ] },
           { text: 'Островной режим', children: [ {text: 'Введение', link: '/ru-ru/island/introduction.html'}, {text: 'Настройки', link: '/ru-ru/island/settings.html'}, {text: 'Команды', link: '/ru-ru/island/command.html'}, {text: 'FAQ', link: '/ru-ru/island/faq.html'} ] },
           { text: 'О нас', children: [ {text: 'О сервере', link: '/ru-ru/about/introduction.html'}, {text: 'История', link: '/ru-ru/about/history.html'}, {text: 'Авторы', link: '/ru-ru/about/contributions.html'}, {text: 'Правила', link: '/ru-ru/about/rules.html'}, {text: 'Спонсорство', link: '/ru-ru/about/sponsor.html'} ] },
@@ -355,6 +358,7 @@ export default defineUserConfig({
         },
         navbar: [
           { text: "ホーム", link: "/ja-jp/" },
+          { text: "イベント", children: [ {text: '2026音楽祭', link: '/ja-jp/event/rs-music-fest-2026.html'} ]},
           { text: 'サバイバル', children: [ {text: '紹介', link: '/ja-jp/survival/introduction.html'}, {text: '設定', link: '/ja-jp/survival/settings.html'}, {text: 'コマンド一覧', link: '/ja-jp/survival/command.html'}, {text: 'FAQ', link: '/ja-jp/survival/faq.html'} ] },
           { text: 'スカイブロック', children: [ {text: '紹介', link: '/ja-jp/island/introduction.html'}, {text: '設定', link: '/ja-jp/island/settings.html'}, {text: 'コマンド一覧', link: '/ja-jp/island/command.html'}, {text: 'FAQ', link: '/ja-jp/island/faq.html'} ] },
           { text: 'サーバーについて', children: [ {text: 'サーバー紹介', link: '/ja-jp/about/introduction.html'}, {text: '歴史', link: '/ja-jp/about/history.html'}, {text: '貢献者', link: '/ja-jp/about/contributions.html'}, {text: 'ルール', link: '/ja-jp/about/rules.html'}, {text: 'スポンサー', link: '/ja-jp/about/sponsor.html'} ] },
@@ -422,6 +426,7 @@ export default defineUserConfig({
         },
         navbar: [
           { text: "홈", link: "/ko-kr/" },
+          { text: "이벤트", children: [ {text: '2026 음악 축제', link: '/ko-kr/event/rs-music-fest-2026.html'} ]},
           { text: '서바이벌', children: [ {text: '소개', link: '/ko-kr/survival/introduction.html'}, {text: '설정', link: '/ko-kr/survival/settings.html'}, {text: '명령어 목록', link: '/ko-kr/survival/command.html'}, {text: 'FAQ', link: '/ko-kr/survival/faq.html'} ] },
           { text: '스카이블록', children: [ {text: '소개', link: '/ko-kr/island/introduction.html'}, {text: '설정', link: '/ko-kr/island/settings.html'}, {text: '명령어 목록', link: '/ko-kr/island/command.html'}, {text: 'FAQ', link: '/ko-kr/island/faq.html'} ] },
           { text: '서버 정보', children: [ {text: '서버 소개', link: '/ko-kr/about/introduction.html'}, {text: '역사', link: '/ko-kr/about/history.html'}, {text: '기여자', link: '/ko-kr/about/contributions.html'}, {text: '규칙', link: '/ko-kr/about/rules.html'}, {text: '후원', link: '/ko-kr/about/sponsor.html'} ] },
