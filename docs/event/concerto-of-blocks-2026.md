@@ -1,7 +1,7 @@
 # 方块协奏曲
 
 > 适用版本：**Minecraft Java Edition 26.2（Chaos Cubed）**  
-> 服务器：**雨润** ｜ IP：`Play.RSerene.com` ｜ 原版生存或空岛  
+> 举办服务器：**雨润** ｜ IP：`Play.RSerene.com` ｜ 原版生存或空岛  
 > 评比日：**2026 年 8 月 16 日**  
 > 本活动为**非 Minecraft 官方活动**，与 Mojang / Microsoft 无关
 
