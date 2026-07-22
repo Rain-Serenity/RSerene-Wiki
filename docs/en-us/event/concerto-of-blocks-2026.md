@@ -5,8 +5,6 @@
 > Judging Day: **August 16, 2026**  
 > This event is **not an official Minecraft event** and is not affiliated with Mojang / Microsoft
 
----
-
 ## 🎯 Theme & Concept
 
 **"Concerto of Blocks" Vanilla Music Festival** — Players must **use only vanilla game mechanics** to create musical performances in-game. The challenge: how amazing can a performance be using Note Blocks + Redstone + built-in game sounds?
@@ -20,8 +18,6 @@ Why vanilla-only? RSerene is a **pure public-benefit, pure vanilla survival** se
 2. **Redstone Performance**: Use buttons, pressure plates, levers, redstone torches, repeaters (delay = rhythm) to control circuits, making multiple note blocks play in sequence to form melodies and chords
 3. **Vanilla Sound Effects**: The new **Sulfur Cube** in 26.2 absorbs different blocks and changes physical properties, which can serve as stage machinery or interactive installations — or you can choose other vanilla block sounds.
 
----
-
 ## 📅 Timeline
 
 | Phase             | Date                         | Description                                        |
@@ -29,9 +25,7 @@ Why vanilla-only? RSerene is a **pure public-benefit, pure vanilla survival** se
 | Preparation       | Now — August 15, 2026        | Build in your survival world or designated area    |
 | **Judging Day**   | **August 16, 2026**          | Scheduled performances throughout the day + scoring|
 | Results           | August 17, 2026              | Announced on QQ group (902620497) and RSerene.com  |
-| Prize Distribution| Starting August 18, 2026     | Virtual honorary awards + unconditional donation pool allocation |
-
----
+| Prize Distribution| Starting August 18, 2026     | Rewards will be distributed by the server        |
 
 ## 📋 Entry Rules
 
@@ -52,8 +46,6 @@ Why vanilla-only? RSerene is a **pure public-benefit, pure vanilla survival** se
 - Malicious interference with other contestants
 - Violating any of the above will result in **immediate disqualification** and action per the Server Rules
 
----
-
 ## 🏆 Judging Criteria (100 points total)
 
 | Category               | Points | Key Points                                    |
@@ -67,8 +59,6 @@ Why vanilla-only? RSerene is a **pure public-benefit, pure vanilla survival** se
 
 **Judging Process**: On August 16, 2026, contestants trigger their entries in the designated server area. The judging panel (all server admin members + 2 player representatives) scores on-site. Final score = average of all judges' scores.
 
----
-
 ## 🎁 Prizes
 
 - 🥇 **Champion**: Name on event page + exclusive title + 33,333 in-game balance + all music discs + all trim templates + 1 Dragon Egg
@@ -77,11 +67,9 @@ Why vanilla-only? RSerene is a **pure public-benefit, pure vanilla survival** se
 - 🌟 **Best Creative Award** (judge-nominated, 1 winner): Name on event page + exclusive title + 19,999 in-game balance + all trim templates
 - 🎼 **Best Vanilla Tech Award** (judge-nominated, 1 winner): Name on event page + exclusive title + 19,999 in-game balance + all trim templates
 
-> ::: warning Warning
-> Dragon eggs obtained through this event must not be duplicated. Duplication will be treated as violating Server Rules [II-2] — Malicious exploitation of server or game bugs.
-> :::
-
----
+::: warning Warning
+Dragon eggs obtained through this event must not be duplicated. Duplication will be treated as violating Server Rules [II-2] — Malicious exploitation of server or game bugs.
+:::
 
 ## ⚠️ Disclaimers
 
