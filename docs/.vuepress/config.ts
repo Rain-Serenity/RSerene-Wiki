@@ -67,6 +67,10 @@ export default defineUserConfig({
         unlockFailuerText: '密码错误，请重新输入！',
         // series 为原 sidebar
         series: {
+          '/event/': [{
+            text: '最新活动',
+            children: ['/event/rs-music-fest-2026.md'],
+          }],
           '/survival/': [{
             text: '纯净生存',
             children: ['/survival/introduction.md', '/survival/settings.md', '/survival/command.md', '/survival/faq.md'],
