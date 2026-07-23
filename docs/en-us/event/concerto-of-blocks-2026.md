@@ -66,7 +66,7 @@ Why vanilla-only? RSerene is a **pure public-benefit, pure vanilla survival** se
 - 🥉 **Third Place**: Name on event page + exclusive title + 26,666 in-game balance + all trim templates
 - 🌟 **Best Creative Award** (judge-nominated, 1 winner): Name on event page + exclusive title + 19,999 in-game balance + all trim templates
 - 🎼 **Best Vanilla Tech Award** (judge-nominated, 1 winner): Name on event page + exclusive title + 19,999 in-game balance + all trim templates
-- 🎶 **Concerto of Blocks Award** (all participants who did not win other prizes): Name on event page + exclusive title + 9,999 in-game balance + Nether Heart × 2
+- 🎶 **Concerto of Blocks Award** (all participants who did not win other prizes): Name on event page + exclusive title + 9,999 in-game balance + Nether Heart × 3
 
 ::: warning Warning
 Dragon eggs obtained through this event must not be duplicated. Duplication will be treated as violating Server Rules [II-2] — Malicious exploitation of server or game bugs.
