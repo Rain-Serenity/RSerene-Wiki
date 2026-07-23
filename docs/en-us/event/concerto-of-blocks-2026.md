@@ -79,7 +79,7 @@ Skyblock players are advised to **create a new island** for better performance.
 - 🎶 **Concerto of Blocks Award** (all participants who did not win other prizes): Vanilla Survival balance 9,999 + Nether Heart × 3
 
 :::tip Tip
-All prizes are distributed on **both** Vanilla Survival and Skyblock servers **unless otherwise specified**.
+All prizes are distributed on **both** Vanilla Survival and Skyblock servers **unless otherwise specified**.  
 All registered participants who meet the technical requirements will receive the Special User Group.  
 The Special User Group grants the following privileges:  
 Name on event page + exclusive title  
