@@ -71,14 +71,15 @@ Skyblock players are advised to **create a new island** for better performance.
 
 ## 🎁 Prizes
 
-- 🥇 **Champion**: Special User Group + Vanilla Survival balance 33,333 + all music discs + all trim templates + Mace × 1 + Dragon Egg × 1
-- 🥈 **Runner-up**: Special User Group + Vanilla Survival balance 29,999 + all music discs + all trim templates + Mace × 1
-- 🥉 **Third Place**: Special User Group + Vanilla Survival balance 26,666 + all trim templates + Mace × 1
-- 🌟 **Best Creative Award** (judge-nominated, 1 winner): Special User Group + Vanilla Survival balance 19,999 + all trim templates
-- 🎼 **Best Vanilla Tech Award** (judge-nominated, 1 winner): Special User Group + Vanilla Survival balance 19,999 + all trim templates
-- 🎶 **Concerto of Blocks Award** (all participants who did not win other prizes): Special User Group + Vanilla Survival balance 9,999 + Nether Heart × 3
+- 🥇 **Champion**: Vanilla Survival balance 33,333 + all music discs + all trim templates + Mace × 1 + Dragon Egg × 1
+- 🥈 **Runner-up**: Vanilla Survival balance 29,999 + all music discs + all trim templates + Mace × 1
+- 🥉 **Third Place**: Vanilla Survival balance 26,666 + all trim templates + Mace × 1
+- 🌟 **Best Creative Award** (judge-nominated, 1 winner): Vanilla Survival balance 19,999 + all trim templates
+- 🎼 **Best Vanilla Tech Award** (judge-nominated, 1 winner): Vanilla Survival balance 19,999 + all trim templates
+- 🎶 **Concerto of Blocks Award** (all participants who did not win other prizes): Vanilla Survival balance 9,999 + Nether Heart × 3
 
 :::tip Tip
+All prizes are distributed on **both** Vanilla Survival and Skyblock servers **unless otherwise specified**.
 All registered participants who meet the technical requirements will receive the Special User Group.  
 The Special User Group grants the following privileges:  
 Name on event page + exclusive title  
@@ -96,7 +97,7 @@ Dragon eggs obtained through this event **must not be duplicated**. Duplication 
 
 2. **Music Copyright**: Contestants who cover existing songs **must obtain permission from the original artist/copyright holder**. Any disputes, takedowns, or consequences arising from audio copyright are **the sole responsibility of the contestant**. The RSerene server and organizers assume no liability.
 
-3. **Vanilla Mechanics**: This event is limited to 100% vanilla mechanics. The organizers do not guarantee consistent performance across all environments if game updates (e.g., 26.2 patches) alter Note Block behavior or redstone timing.
+3. **Vanilla Mechanics**: This event is limited to 100% vanilla mechanics. The organizers do not guarantee consistent performance across all environments if game updates alter Note Block behavior or redstone timing.
 
 4. **Conduct**: Contestants must follow existing server rules and community guidelines. Harassment, abuse, or malicious interference during judging may result in disqualification and disciplinary action per the [Server Rules](/en-us/about/rules.html).
 
@@ -104,6 +105,6 @@ Dragon eggs obtained through this event **must not be duplicated**. Duplication 
 
 6. **Recording & Publicity**: Performance recordings and screenshots may be used for server promotional purposes. Participation implies consent for non-commercial, public-benefit use of such materials.
 
-:::tip Tip
-You've read this far and still not thinking about joining?
+::: tip Tip
+**You've read this far and still not thinking about joining?**
 :::
