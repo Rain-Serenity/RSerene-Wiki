@@ -22,7 +22,7 @@ Why vanilla-only? RSerene is a **pure public-benefit, pure vanilla survival** se
 
 | Phase             | Date                         | Description                                        |
 |-------------------|------------------------------|----------------------------------------------------|
-| Preparation       | Now — August 15, 2026        | Build anywhere on the server                       |
+| Preparation       | July 23, 2026 — August 15, 2026 | Build anywhere on the server                       |
 | **Judging Day**   | **August 16, 2026**          | Scheduled performances throughout the day + scoring|
 | Results           | August 17, 2026              | Announced on QQ group (902620497) and RSerene.com  |
 | Prize Distribution| Starting August 18, 2026     | Rewards will be distributed by the server        |
@@ -44,7 +44,7 @@ Why vanilla-only? RSerene is a **pure public-benefit, pure vanilla survival** se
 - Sound-altering mods or resource packs
 - Copying others' redstone circuits without attribution
 - Malicious interference with other contestants
-- Violating any of the above will result in **immediate disqualification** and action per the Server Rules
+- Violating any of the above will result in **immediate disqualification** and action per the [Server Rules](/en-us/about/rules.html)
 
 ## 🏆 Judging Criteria (100 points total)
 
@@ -66,6 +66,7 @@ Why vanilla-only? RSerene is a **pure public-benefit, pure vanilla survival** se
 - 🥉 **Third Place**: Name on event page + exclusive title + 26,666 in-game balance + all trim templates
 - 🌟 **Best Creative Award** (judge-nominated, 1 winner): Name on event page + exclusive title + 19,999 in-game balance + all trim templates
 - 🎼 **Best Vanilla Tech Award** (judge-nominated, 1 winner): Name on event page + exclusive title + 19,999 in-game balance + all trim templates
+- 🎶 **Concerto of Blocks Award** (all participants who did not win other prizes): Name on event page + exclusive title + 9,999 in-game balance + Nether Heart × 2
 
 ::: warning Warning
 Dragon eggs obtained through this event must not be duplicated. Duplication will be treated as violating Server Rules [II-2] — Malicious exploitation of server or game bugs.
@@ -79,7 +80,7 @@ Dragon eggs obtained through this event must not be duplicated. Duplication will
 
 3. **Vanilla Mechanics**: This event is limited to 100% vanilla mechanics. The organizers do not guarantee consistent performance across all environments if game updates (e.g., 26.2 patches) alter Note Block behavior or redstone timing.
 
-4. **Conduct**: Contestants must follow existing server rules and community guidelines. Harassment, abuse, or malicious interference during judging may result in disqualification and disciplinary action.
+4. **Conduct**: Contestants must follow existing server rules and community guidelines. Harassment, abuse, or malicious interference during judging may result in disqualification and disciplinary action per the [Server Rules](/en-us/about/rules.html).
 
 5. **Final Interpretation**: Within the bounds of applicable law, the RSerene server management team reserves the right of final interpretation of this event.
 
