@@ -1,6 +1,6 @@
 # 基本设定
 ## 服务器基本配置
-**本服务器采用的是[Lophine](https://GitHub.com/LophineCraft/Lophine)核心。** <br>
+**本服务器采用的是[Lophine](https://GitHub.com/LophineLabs/Lophine)核心。** <br>
 **你可以通过查看[服务器配置文件](https://GitHub.com/Rain-Serenity/ServerConfig)来了解服务器特性** <br>
 ## 岛屿设定
 **每个人的岛屿都为512×512**
