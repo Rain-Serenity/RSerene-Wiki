@@ -1,6 +1,6 @@
 # 기본 설정
 ## 서버 기본 구성
-**이 서버는 [Lophine](https://GitHub.com/LophineCraft/Lophine) 코어를 사용합니다.** <br>
+**이 서버는 [Lophine](https://GitHub.com/LophineLabs/Lophine) 코어를 사용합니다.** <br>
 **서버 기능은 [서버 구성 파일](https://GitHub.com/Rain-Serenity/ServerConfig)을 통해 확인할 수 있습니다.** <br>
 ## 섬 설정
 **각 플레이어의 섬 크기는 512×512**

@@ -3,7 +3,7 @@
 ::: danger Warning
 Please avoid excessive machine density. Thank you for your cooperation!
 :::
-**This server uses the [Lophine](https://GitHub.com/LophineCraft/Lophine) core.** <br>
+**This server uses the [Lophine](https://GitHub.com/LophineLabs/Lophine) core.** <br>
 **You can learn about server features by viewing the [server configuration file](https://GitHub.com/Rain-Serenity/ServerConfig).** <br>
 ## No Item Drop on Death
 **We have enabled keep inventory on death.**

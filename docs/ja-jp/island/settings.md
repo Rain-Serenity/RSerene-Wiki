@@ -1,6 +1,6 @@
 # 基本設定
 ## サーバー基本構成
-**このサーバーは [Lophine](https://GitHub.com/LophineCraft/Lophine) コアを使用しています。** <br>
+**このサーバーは [Lophine](https://GitHub.com/LophineLabs/Lophine) コアを使用しています。** <br>
 **サーバーの機能については[サーバー設定ファイル](https://GitHub.com/Rain-Serenity/ServerConfig)をご確認ください。** <br>
 ## 島の設定
 **各プレイヤーの島は512×512**

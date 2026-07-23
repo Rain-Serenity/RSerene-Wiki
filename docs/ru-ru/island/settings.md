@@ -1,6 +1,6 @@
 # Основные настройки
 ## Базовая конфигурация сервера
-**Этот сервер использует ядро [Lophine](https://GitHub.com/LophineCraft/Lophine).** <br>
+**Этот сервер использует ядро [Lophine](https://GitHub.com/LophineLabs/Lophine).** <br>
 **Вы можете узнать о возможностях сервера, просмотрев [файл конфигурации сервера](https://GitHub.com/Rain-Serenity/ServerConfig).** <br>
 ## Настройки острова
 **Каждый остров имеет размер 512×512**

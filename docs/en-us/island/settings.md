@@ -1,6 +1,6 @@
 # Basic Settings
 ## Server Core Configuration
-**This server uses the [Lophine](https://GitHub.com/LophineCraft/Lophine) core.** <br>
+**This server uses the [Lophine](https://GitHub.com/LophineLabs/Lophine) core.** <br>
 **You can learn about server features by viewing the [server configuration file](https://GitHub.com/Rain-Serenity/ServerConfig).** <br>
 ## Island Settings
 **Each player's island is 512×512**

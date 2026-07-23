@@ -3,7 +3,7 @@
 ::: danger 警告
 機器請勿過於密集，謝謝配合！
 :::
-**本伺服器採用的是[Lophine](https://GitHub.com/LophineCraft/Lophine)核心。** <br>
+**本伺服器採用的是[Lophine](https://GitHub.com/LophineLabs/Lophine)核心。** <br>
 **你可以通過查看[伺服器配置文件](https://GitHub.com/Rain-Serenity/ServerConfig)來了解伺服器特性** <br>
 ## 死亡不掉落
 **我們已開啟死亡不掉落。**

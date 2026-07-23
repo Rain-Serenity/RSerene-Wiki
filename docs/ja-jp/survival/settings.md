@@ -3,7 +3,7 @@
 ::: danger 警告
 機械を密集させすぎないでください。ご協力ありがとうございます！
 :::
-**このサーバーは [Lophine](https://GitHub.com/LophineCraft/Lophine) コアを使用しています。** <br>
+**このサーバーは [Lophine](https://GitHub.com/LophineLabs/Lophine) コアを使用しています。** <br>
 **サーバーの機能については[サーバー設定ファイル](https://GitHub.com/Rain-Serenity/ServerConfig)をご確認ください。** <br>
 ## 死亡時のアイテムロストなし
 **死亡時のアイテムドロップを無効にしています。**
