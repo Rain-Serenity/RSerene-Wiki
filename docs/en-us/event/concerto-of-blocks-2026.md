@@ -30,12 +30,18 @@ Why vanilla-only? RSerene is a **pure public-benefit, pure vanilla survival** se
 ## 📋 Entry Rules
 
 **Eligibility**
-- Any registered RSerene player may participate, **entry fee: 999.99 in-game balance**
-- Solo or team entry allowed (teams ≤ 4 players)
+- **All players** on the RSerene server may participate
+- **Solo** or **team** entry allowed (teams ≤ 4 players)
+- **Contact @Chosen_1st in the QQ group, or DM Chosen_1st to register for the event**
+
+:::tip Tip
+Vanilla survival players are advised to **build beyond 32000 blocks** for better performance.  
+Skyblock players are advised to **create a new island** for better performance.
+:::
 
 **Technical Requirements**
 1. **100% Vanilla**: Only Note Blocks, redstone components, and built-in game sounds (e.g., jukebox playing vanilla discs, mob sounds) are allowed. **Mods, plugins, external audio files, and resource packs that replace sounds are prohibited**
-2. **Performance duration**: 30 seconds — 5 minutes
+2. **Performance duration**: **30 seconds** — 5 minutes
 3. The entry must be fully playable in the 26.2 vanilla environment
 4. Original compositions are encouraged; if covering existing songs, **contestants must secure the necessary music usage rights**
 5. Stage construction may use vanilla blocks for visual decoration
@@ -61,20 +67,28 @@ Why vanilla-only? RSerene is a **pure public-benefit, pure vanilla survival** se
 
 ## 🎁 Prizes
 
-- 🥇 **Champion**: Name on event page + exclusive title + 33,333 in-game balance + all music discs + all trim templates + 1 Dragon Egg
-- 🥈 **Runner-up**: Name on event page + exclusive title + 29,999 in-game balance + all music discs + all trim templates
-- 🥉 **Third Place**: Name on event page + exclusive title + 26,666 in-game balance + all trim templates
-- 🌟 **Best Creative Award** (judge-nominated, 1 winner): Name on event page + exclusive title + 19,999 in-game balance + all trim templates
-- 🎼 **Best Vanilla Tech Award** (judge-nominated, 1 winner): Name on event page + exclusive title + 19,999 in-game balance + all trim templates
-- 🎶 **Concerto of Blocks Award** (all participants who did not win other prizes): Name on event page + exclusive title + 9,999 in-game balance + Nether Heart × 3
+- 🥇 **Champion**: Special User Group + Vanilla Survival balance 33,333 + all music discs + all trim templates + Mace × 1 + Dragon Egg × 1
+- 🥈 **Runner-up**: Special User Group + Vanilla Survival balance 29,999 + all music discs + all trim templates + Mace × 1
+- 🥉 **Third Place**: Special User Group + Vanilla Survival balance 26,666 + all trim templates + Mace × 1
+- 🌟 **Best Creative Award** (judge-nominated, 1 winner): Special User Group + Vanilla Survival balance 19,999 + all trim templates
+- 🎼 **Best Vanilla Tech Award** (judge-nominated, 1 winner): Special User Group + Vanilla Survival balance 19,999 + all trim templates
+- 🎶 **Concerto of Blocks Award** (all participants who did not win other prizes): Special User Group + Vanilla Survival balance 9,999 + Nether Heart × 3
+
+:::tip Tip
+All registered participants who meet the technical requirements will receive the Special User Group.  
+The Special User Group grants the following privileges:  
+Name on event page + exclusive title  
+Vanilla Survival: 1. Tax-free item selling 2. Claim price reduced to 0.03 per block 3. Flight permission for 7 days  
+Skyblock: 1. Flight permission for 30 days 2. Claim one extra island
+:::
 
 ::: warning Warning
-Dragon eggs obtained through this event must not be duplicated. Duplication will be treated as violating Server Rules [II-2] — Malicious exploitation of server or game bugs.
+Dragon eggs obtained through this event **must not be duplicated**. Duplication will be treated as violating Server Rules [II-2] — Malicious exploitation of server or game bugs.
 :::
 
 ## ⚠️ Disclaimers
 
-1. **Non-Official Event**: This event is **not an official Minecraft event**, is not approved by Mojang or Microsoft, and is not affiliated with Mojang or Microsoft. All responsibility lies with the RSerene server organizers, not Mojang / Microsoft.
+1. **Non-Official Event**: This event is **not an official Minecraft event**, is not approved by Mojang or Microsoft, and is not affiliated with Mojang or Microsoft. All responsibility lies with the RSerene server management members, not Mojang / Microsoft.
 
 2. **Music Copyright**: Contestants who cover existing songs **must obtain permission from the original artist/copyright holder**. Any disputes, takedowns, or consequences arising from audio copyright are **the sole responsibility of the contestant**. The RSerene server and organizers assume no liability.
 
@@ -85,3 +99,7 @@ Dragon eggs obtained through this event must not be duplicated. Duplication will
 5. **Final Interpretation**: Within the bounds of applicable law, the RSerene server management team reserves the right of final interpretation of this event.
 
 6. **Recording & Publicity**: Performance recordings and screenshots may be used for server promotional purposes. Participation implies consent for non-commercial, public-benefit use of such materials.
+
+:::tip Tip
+You've read this far and still not thinking about joining?
+:::
