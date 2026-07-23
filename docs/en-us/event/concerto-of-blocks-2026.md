@@ -34,9 +34,8 @@ Why vanilla-only? RSerene is a **pure public-benefit, pure vanilla survival** se
 - **Solo** or **team** entry allowed (teams ≤ 4 players)
 - **Contact @Chosen_1st in the QQ group, or DM Chosen_1st to register for the event**
 
-:::tip Tip
-Vanilla survival players are advised to **build beyond 32000 blocks** for better performance.  
-Skyblock players are advised to **create a new island** for better performance.
+::: warning Warning
+Registration without participation or failing to meet technical requirements will result in a deduction of 999.99 from in-game balance.
 :::
 
 **Technical Requirements**
@@ -64,6 +63,11 @@ Skyblock players are advised to **create a new island** for better performance.
 | **Vanilla Purity**     | 5      | Strict compliance with 100% vanilla requirements |
 
 **Judging Process**: On August 16, 2026, contestants trigger their entries in the designated server area. The judging panel (all server admin members + 2 player representatives) scores on-site. Final score = average of all judges' scores.
+
+:::tip Tip
+Vanilla survival players are advised to **build beyond 32000 blocks** for better performance.  
+Skyblock players are advised to **create a new island** for better performance.
+:::
 
 ## 🎁 Prizes
 
