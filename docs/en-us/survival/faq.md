@@ -35,7 +35,7 @@ A: No mods are required. You can add local mods that do not interfere with serve
 ### Q3: Will the server world reset periodically?
 A: There are no reset plans. The world will be preserved long-term. Only in the event of major failures will advance notice be given in the QQ group for backups.
 ### Q4: Is there a player limit?
-A: Maximum 30 players online. If full, you can wait or join during off-peak hours. Paid capacity expansion is NOT available!!!
+A: Maximum 20 players online. If full, you can wait on the skyblock server or join during off-peak hours. Paid capacity expansion is NOT available!!!
 ## III. Global Economy & Market
 ### Q1: Why did my coin balance decrease after transferring or selling items?
 A: To prevent inflation, player-to-player transfers and market listings are charged a 3% and 5% fee respectively.
