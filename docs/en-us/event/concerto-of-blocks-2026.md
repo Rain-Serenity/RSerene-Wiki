@@ -82,7 +82,7 @@ Skyblock players are advised to **create a new island** for better performance.
 All prizes are distributed on **both** Vanilla Survival and Skyblock servers **unless otherwise specified**.  
 All registered participants who meet the technical requirements will receive the Special User Group.  
 The Special User Group grants the following privileges:  
-Name on event page + exclusive title  
+Name on event page + exclusive title「Rhythm Weaver」  
 Vanilla Survival: 1. Tax-free item selling 2. Claim price reduced to 0.03 per block 3. Flight permission for 7 days  
 Skyblock: 1. Flight permission for 30 days 2. Claim one extra island
 :::

@@ -146,7 +146,7 @@ export default defineUserConfig({
         series: {
           '/zh-tw/event/': [{
             text: '最新活動',
-            children: ['/zh-tw/event/concerto-of-blocks-2026.md'],
+            children: ['/zh-tw/event/concerto-of-blocks-2026.md','/zh-tw/event/chasing-shadows-2026.md'],
           }],
           '/zh-tw/survival/': [{
             text: '純淨生存',
@@ -163,7 +163,7 @@ export default defineUserConfig({
         },
         navbar: [
           { text: "首頁", link: "/zh-tw/" },
-          { text: "最新活動", children: [ {text: '方塊協奏曲', link: '/zh-tw/event/concerto-of-blocks-2026.html'} ]},
+          { text: "最新活動", children: [ {text: '方塊協奏曲', link: '/zh-tw/event/concerto-of-blocks-2026.html'}, {text: '流光逐影', link: '/zh-tw/event/chasing-shadows-2026.html'} ]},
           { text: '純淨生存', children: [ {text: '簡單介紹', link: '/zh-tw/survival/introduction.html'}, {text: '基本設定', link: '/zh-tw/survival/settings.html'}, {text: '指令列表', link: '/zh-tw/survival/command.html'}, {text: '常見問題', link: '/zh-tw/survival/faq.html'} ] },
           { text: '空島生存', children: [ {text: '簡單介紹', link: '/zh-tw/island/introduction.html'}, {text: '基本設定', link: '/zh-tw/island/settings.html'}, {text: '指令列表', link: '/zh-tw/island/command.html'}, {text: '常見問題', link: '/zh-tw/island/faq.html'} ] },
           { text: '關於我們', children: [ {text: '伺服器介紹', link: '/zh-tw/about/introduction.html'}, {text: '伺服器歷史', link: '/zh-tw/about/history.html'}, {text: '伺服器貢獻者', link: '/zh-tw/about/contributions.html'}, {text: '伺服器管理條例', link: '/zh-tw/about/rules.html'}, {text: '贊助伺服器', link: '/zh-tw/about/sponsor.html'} ] },
@@ -171,19 +171,24 @@ export default defineUserConfig({
         ],
         bulletin: {
           body: [
+            { type: 'title', content: '最新消息' },
             {
               type: 'text',
-              content: `🎉🎉🎉 伺服器已經更新到26.2。`,
+              // 🎉🎉🎉
+              content: `<ul><li>伺服器已經更新到26.2！</li></ul>`,
+              style: 'font-size: 12px;'
+            },
+            {
+              type: 'text',
+              // 🎉🎉🎉
+              content: `<ul><li>伺服器現在正在舉辦<a href="/zh-tw/event/concerto-of-blocks-2026.html" style="color:#3498db;text-decoration:underline;">方塊協奏曲</a>、<a href="/zh-tw/event/chasing-shadows-2026.html" style="color:#3498db;text-decoration:underline;">流光逐影</a>活動，歡迎點擊最新活動了解活動詳情！</li></ul>`,
               style: 'font-size: 12px;'
             },
             { type: 'hr' },
-            { type: 'title', content: 'QQ 群' },
+            { type: 'title', content: '加入 QQ 群' },
             {
               type: 'text',
-              content: `
-      <ul>
-        <li>QQ群：902620497</li>
-      </ul>`,
+              content: `<ul><li>QQ群：<a href="https://qm.qq.com/q/bThHNL6Q3S" style="color:#3498db;text-decoration:underline;">902620497</a></li></ul>`,
               style: 'font-size: 12px;'
             },
             { type: 'hr', },
@@ -218,7 +223,7 @@ export default defineUserConfig({
         series: {
           '/en-us/event/': [{
             text: 'Events',
-            children: ['/en-us/event/concerto-of-blocks-2026.md'],
+            children: ['/en-us/event/concerto-of-blocks-2026.md','/en-us/event/chasing-shadows-2026.md'],
           }],
           '/en-us/survival/': [{
             text: 'Survival Mode',
@@ -235,7 +240,7 @@ export default defineUserConfig({
         },
         navbar: [
           { text: "Home", link: "/en-us/" },
-          { text: "Events", children: [ {text: 'Concerto of Blocks', link: '/en-us/event/concerto-of-blocks-2026.html'} ]},
+          { text: "Events", children: [ {text: 'Concerto of Blocks', link: '/en-us/event/concerto-of-blocks-2026.html'}, {text: 'Chasing Shadows', link: '/en-us/event/chasing-shadows-2026.html'} ]},
           { text: 'Survival Mode', children: [ {text: 'Introduction', link: '/en-us/survival/introduction.html'}, {text: 'Settings', link: '/en-us/survival/settings.html'}, {text: 'Command List', link: '/en-us/survival/command.html'}, {text: 'FAQ', link: '/en-us/survival/faq.html'} ] },
           { text: 'Skyblock Mode', children: [ {text: 'Introduction', link: '/en-us/island/introduction.html'}, {text: 'Settings', link: '/en-us/island/settings.html'}, {text: 'Command List', link: '/en-us/island/command.html'}, {text: 'FAQ', link: '/en-us/island/faq.html'} ] },
           { text: 'About Us', children: [ {text: 'Server Introduction', link: '/en-us/about/introduction.html'}, {text: 'Server History', link: '/en-us/about/history.html'}, {text: 'Contributors', link: '/en-us/about/contributions.html'}, {text: 'Server Rules', link: '/en-us/about/rules.html'}, {text: 'Sponsor', link: '/en-us/about/sponsor.html'} ] },
@@ -243,19 +248,24 @@ export default defineUserConfig({
         ],
         bulletin: {
           body: [
+            { type: 'title', content: 'Latest News' },
             {
               type: 'text',
-              content: `🎉🎉🎉 The server has been updated to 26.2.`,
+              // 🎉🎉🎉
+              content: `<ul><li>The server has been updated to 26.2!</li></ul>`,
+              style: 'font-size: 12px;'
+            },
+            {
+              type: 'text',
+              // 🎉🎉🎉
+              content: `<ul><li>The server is now hosting <a href="/en-us/event/concerto-of-blocks-2026.html" style="color:#3498db;text-decoration:underline;">Concerto of Blocks</a> and <a href="/en-us/event/chasing-shadows-2026.html" style="color:#3498db;text-decoration:underline;">Chasing Shadows</a> events! Click Events to learn more!</li></ul>`,
               style: 'font-size: 12px;'
             },
             { type: 'hr' },
-            { type: 'title', content: 'QQ Group' },
+            { type: 'title', content: 'Join QQ Group' },
             {
               type: 'text',
-              content: `
-      <ul>
-        <li>QQ Group: 902620497</li>
-      </ul>`,
+              content: `<ul><li>QQ Group: <a href="https://qm.qq.com/q/bThHNL6Q3S" style="color:#3498db;text-decoration:underline;">902620497</a></li></ul>`,
               style: 'font-size: 12px;'
             },
             { type: 'hr', },
@@ -290,7 +300,7 @@ export default defineUserConfig({
         series: {
           '/ru-ru/event/': [{
             text: 'События',
-            children: ['/ru-ru/event/concerto-of-blocks-2026.md'],
+            children: ['/ru-ru/event/concerto-of-blocks-2026.md','/ru-ru/event/chasing-shadows-2026.md'],
           }],
           '/ru-ru/survival/': [{
             text: 'Режим выживания',
@@ -307,7 +317,7 @@ export default defineUserConfig({
         },
         navbar: [
           { text: "Главная", link: "/ru-ru/" },
-          { text: "События", children: [ {text: 'Концерт блоков', link: '/ru-ru/event/concerto-of-blocks-2026.html'} ]},
+          { text: "События", children: [ {text: 'Концерт блоков', link: '/ru-ru/event/concerto-of-blocks-2026.html'}, {text: 'В погоне за тенью', link: '/ru-ru/event/chasing-shadows-2026.html'} ]},
           { text: 'Выживание', children: [ {text: 'Введение', link: '/ru-ru/survival/introduction.html'}, {text: 'Настройки', link: '/ru-ru/survival/settings.html'}, {text: 'Команды', link: '/ru-ru/survival/command.html'}, {text: 'FAQ', link: '/ru-ru/survival/faq.html'} ] },
           { text: 'Островной режим', children: [ {text: 'Введение', link: '/ru-ru/island/introduction.html'}, {text: 'Настройки', link: '/ru-ru/island/settings.html'}, {text: 'Команды', link: '/ru-ru/island/command.html'}, {text: 'FAQ', link: '/ru-ru/island/faq.html'} ] },
           { text: 'О нас', children: [ {text: 'О сервере', link: '/ru-ru/about/introduction.html'}, {text: 'История', link: '/ru-ru/about/history.html'}, {text: 'Авторы', link: '/ru-ru/about/contributions.html'}, {text: 'Правила', link: '/ru-ru/about/rules.html'}, {text: 'Спонсорство', link: '/ru-ru/about/sponsor.html'} ] },
@@ -315,19 +325,24 @@ export default defineUserConfig({
         ],
         bulletin: {
           body: [
+            { type: 'title', content: 'Последние новости' },
             {
               type: 'text',
-              content: `🎉🎉🎉 Сервер обновлён до версии 26.2.`,
+              // 🎉🎉🎉
+              content: `<ul><li>Сервер обновлён до версии 26.2!</li></ul>`,
+              style: 'font-size: 12px;'
+            },
+            {
+              type: 'text',
+              // 🎉🎉🎉
+              content: `<ul><li>На сервере сейчас проходят события <a href="/ru-ru/event/concerto-of-blocks-2026.html" style="color:#3498db;text-decoration:underline;">Концерт блоков</a> и <a href="/ru-ru/event/chasing-shadows-2026.html" style="color:#3498db;text-decoration:underline;">В погоне за тенью</a>! Нажмите «События», чтобы узнать подробности!</li></ul>`,
               style: 'font-size: 12px;'
             },
             { type: 'hr' },
-            { type: 'title', content: 'QQ Group' },
+            { type: 'title', content: 'Присоединиться к QQ' },
             {
               type: 'text',
-              content: `
-      <ul>
-        <li>QQ Group: 902620497</li>
-      </ul>`,
+              content: `<ul><li>QQ Group: <a href="https://qm.qq.com/q/bThHNL6Q3S" style="color:#3498db;text-decoration:underline;">902620497</a></li></ul>`,
               style: 'font-size: 12px;'
             },
             { type: 'hr', },
@@ -362,7 +377,7 @@ export default defineUserConfig({
         series: {
           '/ja-jp/event/': [{
             text: 'イベント',
-            children: ['/ja-jp/event/concerto-of-blocks-2026.md'],
+            children: ['/ja-jp/event/concerto-of-blocks-2026.md','/ja-jp/event/chasing-shadows-2026.md'],
           }],
           '/ja-jp/survival/': [{
             text: 'サバイバルモード',
@@ -379,7 +394,7 @@ export default defineUserConfig({
         },
         navbar: [
           { text: "ホーム", link: "/ja-jp/" },
-          { text: "イベント", children: [ {text: 'ブロック協奏曲', link: '/ja-jp/event/concerto-of-blocks-2026.html'} ]},
+          { text: "イベント", children: [ {text: 'ブロック協奏曲', link: '/ja-jp/event/concerto-of-blocks-2026.html'}, {text: '流光逐影', link: '/ja-jp/event/chasing-shadows-2026.html'} ]},
           { text: 'サバイバル', children: [ {text: '紹介', link: '/ja-jp/survival/introduction.html'}, {text: '設定', link: '/ja-jp/survival/settings.html'}, {text: 'コマンド一覧', link: '/ja-jp/survival/command.html'}, {text: 'FAQ', link: '/ja-jp/survival/faq.html'} ] },
           { text: 'スカイブロック', children: [ {text: '紹介', link: '/ja-jp/island/introduction.html'}, {text: '設定', link: '/ja-jp/island/settings.html'}, {text: 'コマンド一覧', link: '/ja-jp/island/command.html'}, {text: 'FAQ', link: '/ja-jp/island/faq.html'} ] },
           { text: 'サーバーについて', children: [ {text: 'サーバー紹介', link: '/ja-jp/about/introduction.html'}, {text: '歴史', link: '/ja-jp/about/history.html'}, {text: '貢献者', link: '/ja-jp/about/contributions.html'}, {text: 'ルール', link: '/ja-jp/about/rules.html'}, {text: 'スポンサー', link: '/ja-jp/about/sponsor.html'} ] },
@@ -387,19 +402,24 @@ export default defineUserConfig({
         ],
         bulletin: {
           body: [
+            { type: 'title', content: '最新情報' },
             {
               type: 'text',
-              content: `🎉🎉🎉 サーバーは26.2に更新されました。`,
+              // 🎉🎉🎉
+              content: `<ul><li>サーバーは26.2に更新されました！</li></ul>`,
+              style: 'font-size: 12px;'
+            },
+            {
+              type: 'text',
+              // 🎉🎉🎉
+              content: `<ul><li>サーバーでは現在<a href="/ja-jp/event/concerto-of-blocks-2026.html" style="color:#3498db;text-decoration:underline;">ブロック協奏曲</a>と<a href="/ja-jp/event/chasing-shadows-2026.html" style="color:#3498db;text-decoration:underline;">流光逐影</a>を開催中です！イベントページで詳細をご確認ください！</li></ul>`,
               style: 'font-size: 12px;'
             },
             { type: 'hr' },
-            { type: 'title', content: 'QQ Group' },
+            { type: 'title', content: 'QQグループに参加' },
             {
               type: 'text',
-              content: `
-      <ul>
-        <li>QQ Group: 902620497</li>
-      </ul>`,
+              content: `<ul><li>QQグループ：<a href="https://qm.qq.com/q/bThHNL6Q3S" style="color:#3498db;text-decoration:underline;">902620497</a></li></ul>`,
               style: 'font-size: 12px;'
             },
             { type: 'hr', },
@@ -434,7 +454,7 @@ export default defineUserConfig({
         series: {
           '/ko-kr/event/': [{
             text: '이벤트',
-            children: ['/ko-kr/event/concerto-of-blocks-2026.md'],
+            children: ['/ko-kr/event/concerto-of-blocks-2026.md','/ko-kr/event/chasing-shadows-2026.md'],
           }],
           '/ko-kr/survival/': [{
             text: '서바이벌 모드',
@@ -451,7 +471,7 @@ export default defineUserConfig({
         },
         navbar: [
           { text: "홈", link: "/ko-kr/" },
-          { text: "이벤트", children: [ {text: '블록 협주곡', link: '/ko-kr/event/concerto-of-blocks-2026.html'} ]},
+          { text: "이벤트", children: [ {text: '블록 협주곡', link: '/ko-kr/event/concerto-of-blocks-2026.html'}, {text: '그림자 추적', link: '/ko-kr/event/chasing-shadows-2026.html'} ]},
           { text: '서바이벌', children: [ {text: '소개', link: '/ko-kr/survival/introduction.html'}, {text: '설정', link: '/ko-kr/survival/settings.html'}, {text: '명령어 목록', link: '/ko-kr/survival/command.html'}, {text: 'FAQ', link: '/ko-kr/survival/faq.html'} ] },
           { text: '스카이블록', children: [ {text: '소개', link: '/ko-kr/island/introduction.html'}, {text: '설정', link: '/ko-kr/island/settings.html'}, {text: '명령어 목록', link: '/ko-kr/island/command.html'}, {text: 'FAQ', link: '/ko-kr/island/faq.html'} ] },
           { text: '서버 정보', children: [ {text: '서버 소개', link: '/ko-kr/about/introduction.html'}, {text: '역사', link: '/ko-kr/about/history.html'}, {text: '기여자', link: '/ko-kr/about/contributions.html'}, {text: '규칙', link: '/ko-kr/about/rules.html'}, {text: '후원', link: '/ko-kr/about/sponsor.html'} ] },
@@ -459,19 +479,24 @@ export default defineUserConfig({
         ],
         bulletin: {
           body: [
+            { type: 'title', content: '최신 소식' },
             {
               type: 'text',
-              content: `🎉🎉🎉 서버가 26.2로 업데이트되었습니다.`,
+              // 🎉🎉🎉
+              content: `<ul><li>서버가 26.2로 업데이트되었습니다!</li></ul>`,
+              style: 'font-size: 12px;'
+            },
+            {
+              type: 'text',
+              // 🎉🎉🎉
+              content: `<ul><li>서버에서 현재 <a href="/ko-kr/event/concerto-of-blocks-2026.html" style="color:#3498db;text-decoration:underline;">블록 협주곡</a>과 <a href="/ko-kr/event/chasing-shadows-2026.html" style="color:#3498db;text-decoration:underline;">그림자 추적</a> 이벤트를 진행 중입니다! 이벤트 페이지에서 자세한 내용을 확인하세요!</li></ul>`,
               style: 'font-size: 12px;'
             },
             { type: 'hr' },
-            { type: 'title', content: 'QQ Group' },
+            { type: 'title', content: 'QQ 그룹 가입' },
             {
               type: 'text',
-              content: `
-      <ul>
-        <li>QQ Group: 902620497</li>
-      </ul>`,
+              content: `<ul><li>QQ 그룹：<a href="https://qm.qq.com/q/bThHNL6Q3S" style="color:#3498db;text-decoration:underline;">902620497</a></li></ul>`,
               style: 'font-size: 12px;'
             },
             { type: 'hr', },
