@@ -69,7 +69,7 @@ export default defineUserConfig({
         series: {
           '/event/': [{
             text: '最新活动',
-            children: ['/event/concerto-of-blocks-2026.md'],
+            children: ['/event/concerto-of-blocks-2026.md','/event/chasing-shadows-2026.md'],
           }],
           '/survival/': [{
             text: '纯净生存',
@@ -86,7 +86,7 @@ export default defineUserConfig({
         },
         navbar: [
           { text: "主页", link: "/" },
-          { text: "最新活动", children: [ {text: '方块协奏曲', link: '/event/concerto-of-blocks-2026.html'} ]},
+          { text: "最新活动", children: [ {text: '方块协奏曲', link: '/event/concerto-of-blocks-2026.html'}, {text: '流光逐影', link: '/event/chasing-shadows-2026.html'} ]},
           { text: '纯净生存', children: [ {text: '简单介绍', link: '/survival/introduction.html'}, {text: '基本设定', link: '/survival/settings.html'}, {text: '指令列表', link: '/survival/command.html'}, {text: '常见问题', link: '/survival/faq.html'} ] },
           { text: '空岛生存', children: [ {text: '简单介绍', link: '/island/introduction.html'}, {text: '基本设定', link: '/island/settings.html'}, {text: '指令列表', link: '/island/command.html'}, {text: '常见问题', link: '/island/faq.html'} ] },
           { text: '关于我们', children: [ {text: '服务器介绍', link: '/about/introduction.html'}, {text: '服务器历史', link: '/about/history.html'}, {text: '服务器贡献者', link: '/about/contributions.html'}, {text: '服务器管理条例', link: '/about/rules.html'}, {text: '赞助服务器', link: '/about/sponsor.html'} ] },
@@ -94,19 +94,24 @@ export default defineUserConfig({
         ],
         bulletin: {
           body: [
+            { type: 'title', content: '最新消息' },
             {
               type: 'text',
-              content: `🎉🎉🎉 服务器已经更新到26.2。`,
+              // 🎉🎉🎉
+              content: `<ul><li>服务器已经更新到26.2！</li></ul>`,
+              style: 'font-size: 12px;'
+            },
+            {
+              type: 'text',
+              // 🎉🎉🎉
+              content: `<ul><li>服务器现在正在举办<a href="/event/concerto-of-blocks-2026.html" style="color:#3498db;text-decoration:underline;">方块协奏曲</a>、<a href="/event/chasing-shadows-2026.html" style="color:#3498db;text-decoration:underline;">流光逐影</a>活动，欢迎点击最新活动了解活动详情！</li></ul>`,
               style: 'font-size: 12px;'
             },
             { type: 'hr' },
-            { type: 'title', content: 'QQ 群' },
+            { type: 'title', content: '加入 QQ 群' },
             {
               type: 'text',
-              content: `
-          <ul>
-            <li>QQ群：902620497</li>
-          </ul>`,
+              content: `<ul><li>QQ群：<a href="https://qm.qq.com/q/bThHNL6Q3S" style="color:#3498db;text-decoration:underline;">902620497</a></li></ul>`,
               style: 'font-size: 12px;'
             },
             { type: 'hr', },
