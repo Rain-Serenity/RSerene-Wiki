@@ -1,7 +1,7 @@
 # 基本設定
 ## サーバー基本構成
-::: danger 警告
-機械を密集させすぎないでください。ご協力ありがとうございます！
+::: warning 注意
+サーバーに優しく接し、機械を密集させすぎないでください。/tpsbarを使用して自分のエリアの状態を確認しましょう！
 :::
 **このサーバーは [Lophine](https://GitHub.com/LophineLabs/Lophine) コアを使用しています。** <br>
 **サーバーの機能については[サーバー設定ファイル](https://GitHub.com/Rain-Serenity/ServerConfig)をご確認ください。** <br>
