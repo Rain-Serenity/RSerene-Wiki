@@ -190,10 +190,15 @@ export default defineUserConfig({
               style: 'font-size: 12px;'
             },
             { type: 'hr' },
-            { type: 'title', content: '加入 QQ 群' },
+            { type: 'title', content: '社区' },
             {
               type: 'text',
               content: `<ul><li>QQ群：<a href="https://qm.qq.com/q/bThHNL6Q3S" style="color:#3498db;text-decoration:underline;">902620497</a></li></ul>`,
+              style: 'font-size: 12px;'
+            },
+            {
+              type: 'text',
+              content: `<ul><li>KOOK频道：<a href="https://kook.vip/IVS3C5" style="color:#3498db;text-decoration:underline;">87157573</a></li></ul>`,
               style: 'font-size: 12px;'
             },
             { type: 'hr', },
@@ -267,10 +272,15 @@ export default defineUserConfig({
               style: 'font-size: 12px;'
             },
             { type: 'hr' },
-            { type: 'title', content: 'Join QQ Group' },
+            { type: 'title', content: 'Community' },
             {
               type: 'text',
               content: `<ul><li>QQ Group: <a href="https://qm.qq.com/q/bThHNL6Q3S" style="color:#3498db;text-decoration:underline;">902620497</a></li></ul>`,
+              style: 'font-size: 12px;'
+            },
+            {
+              type: 'text',
+              content: `<ul><li>KOOK Channel: <a href="https://kook.vip/IVS3C5" style="color:#3498db;text-decoration:underline;">87157573</a></li></ul>`,
               style: 'font-size: 12px;'
             },
             { type: 'hr', },
@@ -344,10 +354,15 @@ export default defineUserConfig({
               style: 'font-size: 12px;'
             },
             { type: 'hr' },
-            { type: 'title', content: 'Присоединиться к QQ' },
+            { type: 'title', content: 'Сообщество' },
             {
               type: 'text',
               content: `<ul><li>QQ Group: <a href="https://qm.qq.com/q/bThHNL6Q3S" style="color:#3498db;text-decoration:underline;">902620497</a></li></ul>`,
+              style: 'font-size: 12px;'
+            },
+            {
+              type: 'text',
+              content: `<ul><li>KOOK канал: <a href="https://kook.vip/IVS3C5" style="color:#3498db;text-decoration:underline;">87157573</a></li></ul>`,
               style: 'font-size: 12px;'
             },
             { type: 'hr', },
@@ -421,10 +436,15 @@ export default defineUserConfig({
               style: 'font-size: 12px;'
             },
             { type: 'hr' },
-            { type: 'title', content: 'QQグループに参加' },
+            { type: 'title', content: 'コミュニティ' },
             {
               type: 'text',
               content: `<ul><li>QQグループ：<a href="https://qm.qq.com/q/bThHNL6Q3S" style="color:#3498db;text-decoration:underline;">902620497</a></li></ul>`,
+              style: 'font-size: 12px;'
+            },
+            {
+              type: 'text',
+              content: `<ul><li>KOOKチャンネル：<a href="https://kook.vip/IVS3C5" style="color:#3498db;text-decoration:underline;">87157573</a></li></ul>`,
               style: 'font-size: 12px;'
             },
             { type: 'hr', },
@@ -498,10 +518,15 @@ export default defineUserConfig({
               style: 'font-size: 12px;'
             },
             { type: 'hr' },
-            { type: 'title', content: 'QQ 그룹 가입' },
+            { type: 'title', content: '커뮤니티' },
             {
               type: 'text',
               content: `<ul><li>QQ 그룹：<a href="https://qm.qq.com/q/bThHNL6Q3S" style="color:#3498db;text-decoration:underline;">902620497</a></li></ul>`,
+              style: 'font-size: 12px;'
+            },
+            {
+              type: 'text',
+              content: `<ul><li>KOOK 채널：<a href="https://kook.vip/IVS3C5" style="color:#3498db;text-decoration:underline;">87157573</a></li></ul>`,
               style: 'font-size: 12px;'
             },
             { type: 'hr', },
