@@ -1,10 +1,10 @@
 # Basic Settings
 ## Server Core Configuration
+**This server uses the [Lophine](https://GitHub.com/LophineLabs/Lophine) core.**  
+**You can learn about server features by viewing the [server configuration file](https://GitHub.com/Rain-Serenity/ServerConfig).**  
 ::: warning Note
 Please be kind to the server, avoid excessive machine density, and use /tpsbar to check the status of your area!
 :::
-**This server uses the [Lophine](https://GitHub.com/LophineLabs/Lophine) core.** <br>
-**You can learn about server features by viewing the [server configuration file](https://GitHub.com/Rain-Serenity/ServerConfig).** <br>
 ## No Item Drop on Death
 **We have enabled keep inventory on death.**
 <!--## Item Drop on Death

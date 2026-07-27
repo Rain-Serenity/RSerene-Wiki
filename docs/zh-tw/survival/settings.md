@@ -1,10 +1,10 @@
 # 基本設定
 ## 伺服器基本配置
+**本伺服器採用的是[Lophine](https://GitHub.com/LophineLabs/Lophine)核心。**  
+**你可以通過查看[伺服器配置文件](https://GitHub.com/Rain-Serenity/ServerConfig)來了解伺服器特性**  
 ::: warning 注意
 請善待伺服器，機器請不要過於密集，善用/tpsbar查看你所在區域的狀態！
 :::
-**本伺服器採用的是[Lophine](https://GitHub.com/LophineLabs/Lophine)核心。** <br>
-**你可以通過查看[伺服器配置文件](https://GitHub.com/Rain-Serenity/ServerConfig)來了解伺服器特性** <br>
 ## 死亡不掉落
 **我們已開啟死亡不掉落。**
 <!--## 死亡掉落

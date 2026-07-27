@@ -1,10 +1,10 @@
 # 기본 설정
 ## 서버 기본 구성
+**이 서버는 [Lophine](https://GitHub.com/LophineLabs/Lophine) 코어를 사용합니다.**  
+**서버 기능은 [서버 구성 파일](https://GitHub.com/Rain-Serenity/ServerConfig)을 통해 확인할 수 있습니다.**  
 ::: warning 주의
 서버를 소중히 다루고, 기계를 너무 밀집하게 배치하지 마세요. /tpsbar를 사용하여 해당 지역의 상태를 확인하세요!
 :::
-**이 서버는 [Lophine](https://GitHub.com/LophineLabs/Lophine) 코어를 사용합니다.** <br>
-**서버 기능은 [서버 구성 파일](https://GitHub.com/Rain-Serenity/ServerConfig)을 통해 확인할 수 있습니다.** <br>
 ## 사망 시 아이템 드롭 없음
 **사망 시 아이템 보관이 활성화되어 있습니다.**
 <!--## 사망 시 아이템 드롭

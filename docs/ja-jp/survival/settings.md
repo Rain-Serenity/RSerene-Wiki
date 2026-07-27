@@ -1,10 +1,10 @@
 # 基本設定
 ## サーバー基本構成
+**このサーバーは [Lophine](https://GitHub.com/LophineLabs/Lophine) コアを使用しています。**  
+**サーバーの機能については[サーバー設定ファイル](https://GitHub.com/Rain-Serenity/ServerConfig)をご確認ください。**  
 ::: warning 注意
 サーバーに優しく接し、機械を密集させすぎないでください。/tpsbarを使用して自分のエリアの状態を確認しましょう！
 :::
-**このサーバーは [Lophine](https://GitHub.com/LophineLabs/Lophine) コアを使用しています。** <br>
-**サーバーの機能については[サーバー設定ファイル](https://GitHub.com/Rain-Serenity/ServerConfig)をご確認ください。** <br>
 ## 死亡時のアイテムロストなし
 **死亡時のアイテムドロップを無効にしています。**
 <!--## 死亡時のアイテムドロップ
