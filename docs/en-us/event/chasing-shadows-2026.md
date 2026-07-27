@@ -23,20 +23,20 @@ This tournament is built entirely on vanilla survival mechanics:
 
 ## Entry Rules
 ### Eligibility
-- Only players without bans on the survival or skyblock servers may register
-- Register as a team of 4; submit captain's IGN, team name, and full roster to Chosen_1st in advance
-- Each player may join only one team
+- Only players **without bans** on the survival or skyblock servers may register
+- Register as a team of 4; **fill in the form in the group** to register
+- Each player may join only **1** team
 
 ### Requirements
-- Must wear unenchanted leather armor during matches — diamond/netherite armor, elytra, and Frost Walker boots are strictly prohibited
-- Match balls are provided by the organizer before each match; bringing your own items is forbidden
-- Players use Knockback I sticks or body collisions to control the sulfur block
+- Must wear **unenchanted leather armor** during matches — diamond/netherite armor, elytra, and Frost Walker boots are strictly prohibited
+- Match balls are provided by the organizer before each match; **bringing your own items is forbidden**
+- Players use **Knockback I sticks** or **body collisions** to control the sulfur block
 
 ### Prohibited
-- Using flight, speed hacks, or wall-clip cheats
-- Maliciously damaging the field, interfering with referees, or harassing players
-- Intentionally delaying the match or using terrain to trap the ball
-- Violations result in immediate disqualification; severe cases may lead to a ban
+- Using flight, speed hacks, or **wall-clip cheats**
+- **Maliciously damaging** the field, **interfering with referees**, or **harassing players**
+- Intentionally **delaying the match** or using terrain to **trap the ball**
+- Violations result in **immediate disqualification**; severe cases may lead to a ban
 
 ::: warning Gear Check
 Referees will inspect all players' equipment before each match. Armor with Protection, Thorns, or Knockback enchantments will result in an automatic forfeit. Do not take the risk.
@@ -78,5 +78,5 @@ Spectators must remain in the designated area. Entering the field or throwing eg
 6. If the event cannot be held due to force majeure, no additional compensation will be provided
 
 ::: tip Tip
-Still reading? Why not sign up and chase the ball in the wind at 155, 81, -377?
+**Still reading? Why not sign up?**
 :::

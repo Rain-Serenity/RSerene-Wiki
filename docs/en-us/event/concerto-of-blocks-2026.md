@@ -32,7 +32,7 @@ Why vanilla-only? RSerene is a **pure public-benefit, pure vanilla survival** se
 **Eligibility**
 - **All players** on the RSerene server may participate
 - **Solo** or **team** entry allowed (teams ≤ 4 players)
-- **Contact @Chosen_1st in the QQ group, or DM Chosen_1st to register for the event**
+- **Fill in the form in the group to register for the event**
 
 ::: warning Warning
 Registration without participation or failing to meet technical requirements will result in a deduction of 999.99 from in-game balance.
