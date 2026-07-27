@@ -1,7 +1,7 @@
 # 基本设定
 ## 服务器基本配置
-::: danger 警告
-机器请勿过于密集，谢谢配合！
+::: warning 注意
+请善待服务器，机器请不要过于密集，善用/tpsbar查看你所在区域的状态！
 :::
 **本服务器采用的是[Lophine](https://GitHub.com/LophineLabs/Lophine)核心。** <br>
 **你可以通过查看[服务器配置文件](https://GitHub.com/Rain-Serenity/ServerConfig)来了解服务器特性** <br>
