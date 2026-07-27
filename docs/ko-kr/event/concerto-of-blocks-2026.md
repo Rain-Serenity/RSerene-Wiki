@@ -31,7 +31,7 @@
 
 **자격**
 - RSerene 서버의 **모든 플레이어**가 참가 가능
-- **개인** 또는 **팀**（팀≤4명）참가 가능, <strong><a href="https://docs.qq.com/sheet/DUkNOSU1mclV2Z2FD" style="color:#3498db;text-decoration:underline;">양식</a>을 작성</strong>하여 신청해주세요
+- **개인** 또는 **팀**（팀≤4명）참가 가능, <strong>[양식](https://docs.qq.com/sheet/DUkNOSU1mclV2Z2FD)을 작성</strong>하여 신청해주세요
 
 ::: warning 경고
 신청 후 참여하지 않거나 작품 필수 요구사항을 충족하지 못할 경우 게임 내 잔액 999.99가 차감됩니다.

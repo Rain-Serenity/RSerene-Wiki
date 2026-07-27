@@ -24,7 +24,7 @@
 ## 참가 규칙
 ### 참가 자격
 - 서바이벌 또는 스카이블록 서버에서 **차단되지 않은** 플레이어만 참가 가능
-- 4인 1팀으로 등록. <strong><a href="https://docs.qq.com/sheet/DUkNOSU1mclV2Z2FD" style="color:#3498db;text-decoration:underline;">양식</a>을 작성</strong>하여 신청
+- 4인 1팀으로 등록. <strong>[양식](https://docs.qq.com/sheet/DUkNOSU1mclV2Z2FD)을 작성</strong>하여 신청
 - 한 플레이어는 **1개**의 팀에만 소속 가능
 
 ### 필수 요건

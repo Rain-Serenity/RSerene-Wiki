@@ -31,7 +31,7 @@
 
 **資格**
 - 雨潤伺服器**所有玩家**均可參加
-- 支援**個人**或**團隊**（團隊≤4 人）參賽，<strong>填寫<a href="https://docs.qq.com/sheet/DUkNOSU1mclV2Z2FD" style="color:#3498db;text-decoration:underline;">表格</a></strong>進行活動報名
+- 支援**個人**或**團隊**（團隊≤4 人）參賽，<strong>填寫[表格](https://docs.qq.com/sheet/DUkNOSU1mclV2Z2FD)</strong>進行活動報名
 
 ::: warning 警告
 報名後不參加或不滿足作品硬性要求需要扣除報名費餘額999.99

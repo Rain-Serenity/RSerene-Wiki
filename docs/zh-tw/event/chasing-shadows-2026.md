@@ -24,7 +24,7 @@
 ## 參賽規則
 ### 參賽資格
 - 僅限純淨生存、空島服**無封禁記錄**的玩家報名
-- 以隊伍為單位參賽，每隊4人，<strong>填寫<a href="https://docs.qq.com/sheet/DUkNOSU1mclV2Z2FD" style="color:#3498db;text-decoration:underline;">表格</a></strong>進行活動報名
+- 以隊伍為單位參賽，每隊4人，<strong>填寫[表格](https://docs.qq.com/sheet/DUkNOSU1mclV2Z2FD)</strong>進行活動報名
 - 單人最多同時加入**1支**隊伍，不得跨隊參賽
 
 ### 硬性要求

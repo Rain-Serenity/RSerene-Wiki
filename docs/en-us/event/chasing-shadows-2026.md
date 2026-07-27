@@ -24,7 +24,7 @@ This tournament is built entirely on vanilla survival mechanics:
 ## Entry Rules
 ### Eligibility
 - Only players **without bans** on the survival or skyblock servers may register
-- Register as a team of 4; <strong>fill in the <a href="https://docs.qq.com/sheet/DUkNOSU1mclV2Z2FD" style="color:#3498db;text-decoration:underline;">form</a></strong> to register
+- Register as a team of 4; <strong>fill in the [form](https://docs.qq.com/sheet/DUkNOSU1mclV2Z2FD)</strong> to register
 - Each player may join only **1** team
 
 ### Requirements
