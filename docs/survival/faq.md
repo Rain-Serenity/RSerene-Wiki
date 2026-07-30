@@ -19,6 +19,7 @@ author: Chosen_1st , maomaozhanshi
 <img src="/images/9.png" style="width:100%;" />
 <img src="/images/10.png" style="width:100%;" />
 </div>
+
 ::: tip 提示
 HMCL十分简单，直接在账户列表左侧点击LittleSkin输入你在LittleSkin中新建的游戏ID和LittleSkin的密码即可登录。
 :::
@@ -40,7 +41,7 @@ A：提供一下解决方案：<br>
 1.离线玩家确认是否正确登录<a href="https://littleskin.cn" target="_blank">LittleSkin</a>账号； <br>
 2.退出游戏在启动器页面刷新皮肤<br>
 3.装万用皮肤mod
-### Q6：服务器IP是什么？支持什么版本？
+### Q7：服务器IP是什么？支持什么版本？
 A：服务器域名是： Play.RSerene.com<br>
 支持游戏版本26.2
 ## 二、服务器机制与规则
