@@ -1,5 +1,5 @@
 ---
-author: Chonse_1st 、maomaozhanshi
+author: Chonse_1st , maomaozhanshi
 ---
 # 基本介绍
 
@@ -16,7 +16,7 @@ author: Chonse_1st 、maomaozhanshi
 | 游戏模式     | 生存                     |
 | 网络类型     | 多线                     |
 | 正版验证     | 无                      |
-| 最大在线人数   | 20                     |
+| 最大在线人数   | 40                     |
 | 有无白名单    | 无                      |
 | 联系方式     | QQ群: 902620497         |
 | 服务器IP/域名 | Play.RSerene.com       |
@@ -39,18 +39,3 @@ author: Chonse_1st 、maomaozhanshi
 * **友好共建，和谐社区： 我们倡导互相帮助、礼貌交流的社区氛围。在这里，无论是建筑大师、红石狂人还是休闲养老玩家，都能找到属于自己的舒适圈，享受慢节奏的生存乐趣。** <br>
 
 * **公平公正，绿色环境： 严禁任何作弊与破坏行为。通过清晰的规则与透明的管理，我们致力于维护一个纯粹的生存环境，让每一位玩家的努力都得到尊重。** <br>
-
-
-## 怎么外置登录（pcl2登录方式）
-<div style="display:grid; grid-template-columns: 1fr; gap:16px; max-width:720px; margin:20px auto;">
-<img src="/images/1.png" style="width:100%;" />
-<img src="/images/2.png" style="width:100%;" />
-<img src="/images/3.png" style="width:100%;" />
-<img src="/images/4.png" style="width:100%;" />
-<img src="/images/5.png" style="width:100%;" />
-<img src="/images/6.png" style="width:100%;" />
-<img src="/images/7.png" style="width:100%;" />
-<img src="/images/8.png" style="width:100%;" />
-<img src="/images/9.png" style="width:100%;" />
-<img src="/images/10.png" style="width:100%;" />
-</div>

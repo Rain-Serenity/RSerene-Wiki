@@ -1,25 +1,41 @@
 ---
-author: maomaozhanshi
+author: Chosen_1st , maomaozhanshi
 ---
 # 常见问题
 ::: tip 提示
 后续有其他问题欢迎反馈 (≧∀≦)
 :::
 ## 一、登入相关
-### Q1：因自身地区网络延迟过高怎么处理？
+### Q1：PCL2怎么LittleSkin外置登录？
+<div style="display:grid; grid-template-columns: 1fr; gap:16px; max-width:720px; margin:20px auto;">
+<img src="/images/1.png" style="width:100%;" />
+<img src="/images/2.png" style="width:100%;" />
+<img src="/images/3.png" style="width:100%;" />
+<img src="/images/4.png" style="width:100%;" />
+<img src="/images/5.png" style="width:100%;" />
+<img src="/images/6.png" style="width:100%;" />
+<img src="/images/7.png" style="width:100%;" />
+<img src="/images/8.png" style="width:100%;" />
+<img src="/images/9.png" style="width:100%;" />
+<img src="/images/10.png" style="width:100%;" />
+</div>
+::: tip 提示
+HMCL十分简单，直接在账户列表左侧点击LittleSkin输入你在LittleSkin中新建的游戏ID和LittleSkin的密码即可登录。
+:::
+### Q2：因自身地区网络延迟过高怎么处理？
 A：临时解决办法：使用游戏加速器、节点选择我的世界国服；<br>
 服务端正在优化线路，长期会降低网络卡顿情况。
-### Q2：游戏内延迟高怎么办？
+### Q3：游戏内延迟高怎么办？
 A：1.使用/ping 来查看自身延迟；
 2.切换网络（手机热点、宽带）。
-### Q3：进服黑屏、加载崩溃怎么办？
+### Q4：进服黑屏、加载崩溃怎么办？
 A：1.请核对游戏版本。
 2.卸载冲突mod，光影。
-### Q4：非正版账号为什么连不上服务器？
+### Q5：非正版账号为什么连不上服务器？
 A：为方便管理，服务器开启了正版验证。
 离线玩家必须通过注册<a href="https://littleskin.cn" target="_blank">LittleSkin</a>账号，在启动器登录该皮肤账号后方可进入；
 正版MC账号可直接连接，无需额外操作。
-### Q5：登陆后皮肤不显示怎么办？
+### Q6：登陆后皮肤不显示怎么办？
 A：提供一下解决方案：<br>
 1.离线玩家确认是否正确登录<a href="https://littleskin.cn" target="_blank">LittleSkin</a>账号； <br>
 2.退出游戏在启动器页面刷新皮肤<br>

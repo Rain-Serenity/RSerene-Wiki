@@ -69,7 +69,7 @@ export default defineUserConfig({
         series: {
           '/event/': [{
             text: '最新活动',
-            children: ['/event/concerto-of-blocks-2026.md','/event/chasing-shadows-2026.md'],
+            children: ['/event/concerto-of-blocks-2026.md'],
           }],
           '/survival/': [{
             text: '纯净生存',
@@ -81,15 +81,15 @@ export default defineUserConfig({
           }],
           '/about/': [{
             text: '关于我们',
-            children: ['/about/introduction.md', '/about/history.md', '/about/contributions.md', '/about/rules.md', '/about/sponsor.md'],
+            children: ['/about/history.md', '/about/contributions.md', '/about/rules.md', '/about/sponsor.md'],
           }],
         },
         navbar: [
           { text: "主页", link: "/" },
-          { text: "最新活动", children: [ {text: '方块协奏曲', link: '/event/concerto-of-blocks-2026.html'}, {text: '流光逐影', link: '/event/chasing-shadows-2026.html'} ]},
+          { text: "最新活动", children: [ {text: '方块协奏曲', link: '/event/concerto-of-blocks-2026.html'}]},
           { text: '纯净生存', children: [ {text: '简单介绍', link: '/survival/introduction.html'}, {text: '基本设定', link: '/survival/settings.html'}, {text: '指令列表', link: '/survival/command.html'}, {text: '常见问题', link: '/survival/faq.html'} ] },
           { text: '空岛生存', children: [ {text: '简单介绍', link: '/island/introduction.html'}, {text: '基本设定', link: '/island/settings.html'}, {text: '指令列表', link: '/island/command.html'}, {text: '常见问题', link: '/island/faq.html'} ] },
-          { text: '关于我们', children: [ {text: '服务器介绍', link: '/about/introduction.html'}, {text: '服务器历史', link: '/about/history.html'}, {text: '服务器贡献者', link: '/about/contributions.html'}, {text: '服务器管理条例', link: '/about/rules.html'}, {text: '赞助服务器', link: '/about/sponsor.html'} ] },
+          { text: '关于我们', children: [ {text: '服务器历史', link: '/about/history.html'}, {text: '服务器贡献者', link: '/about/contributions.html'}, {text: '服务器管理条例', link: '/about/rules.html'}, {text: '赞助服务器', link: '/about/sponsor.html'} ] },
           { text: '相关链接', children: [ {text: 'GitHub', link: 'https://GitHub.com/Rain-Serenity/'}, {text: 'MCBBS纪念版', link: 'https://www.MCBBS.co/thread-5031-1-1.html'}, {text: 'MineBBS', link: 'https://www.MineBBS.com/threads/1-21-1.28390/'}, {text: 'Minecraft Wiki', link: 'https://Minecraft.Wiki/'}, {text: 'NameMC', link: 'https://NameMC.com/server/play.rserene.com'}, {text: '服务器封禁列表', link: 'https://Bans.RSerene.com/'}, {text: '苦力怕论坛', link: 'https://KLPBBS.com/thread-171662-1-1.html'} ]}
         ],
         bulletin: {
@@ -104,7 +104,7 @@ export default defineUserConfig({
             {
               type: 'text',
               // 🎉🎉🎉
-              content: `<ul><li>服务器现在正在举办<a href="/event/concerto-of-blocks-2026.html" style="color:#3498db;text-decoration:underline;">方块协奏曲</a>、<a href="/event/chasing-shadows-2026.html" style="color:#3498db;text-decoration:underline;">流光逐影</a>活动，欢迎点击最新活动了解活动详情！</li></ul>`,
+              content: `<ul><li>服务器现在正在举办<a href="/event/concerto-of-blocks-2026.html" style="color:#3498db;text-decoration:underline;">方块协奏曲</a>活动，欢迎点击最新活动了解活动详情！</li></ul>`,
               style: 'font-size: 12px;'
             },
             { type: 'hr' },
