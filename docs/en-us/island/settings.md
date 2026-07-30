@@ -1,4 +1,7 @@
 # Basic Settings
+::: warning Note
+The skyblock server has been operating independently from the RSerene server since July 29, 2026. The following information is current as of that date and will no longer be updated.
+:::
 ## Server Core Configuration
 **This server uses the [Lophine](https://GitHub.com/LophineLabs/Lophine) core.** <br>
 **You can learn about server features by viewing the [server configuration file](https://GitHub.com/Rain-Serenity/ServerConfig).** <br>

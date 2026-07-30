@@ -1,30 +1,46 @@
 ---
-author: maomaozhanshi
+author: Chosen_1st , maomaozhanshi
 ---
 # 자주 묻는 질문
 ::: tip 팁
 다른 질문이 있으시면 언제든지 피드백해 주세요 (≧∀≦)
 :::
 ## I. 로그인 관련
-### Q1：자신의 지역 네트워크 지연이 높을 경우 어떻게 처리하나요？
-A：임시 해결책：게임 가속기를 사용하고 Minecraft China 서버를 선택하세요。<br>
+### Q1：PCL2 런처에서 LittleSkin 외부 로그인을 설정하는 방법은？
+<div style="display:grid; grid-template-columns: 1fr; gap:16px; max-width:720px; margin:20px auto;">
+<img src="/images/1.png" style="width:100%;" />
+<img src="/images/2.png" style="width:100%;" />
+<img src="/images/3.png" style="width:100%;" />
+<img src="/images/4.png" style="width:100%;" />
+<img src="/images/5.png" style="width:100%;" />
+<img src="/images/6.png" style="width:100%;" />
+<img src="/images/7.png" style="width:100%;" />
+<img src="/images/8.png" style="width:100%;" />
+<img src="/images/9.png" style="width:100%;" />
+<img src="/images/10.png" style="width:100%;" />
+</div>
+::: tip 팁
+HMCL 런처는 매우 간단합니다. 계정 목록 왼쪽의 LittleSkin을 클릭하고 LittleSkin에서 생성한 게임 ID와 비밀번호를 입력하기만 하면 로그인됩니다.
+:::
+### Q2：자신의 지역 네트워크 지연이 높을 경우 어떻게 처리하나요？
+A：임시 해결책：게임 가속기를 사용하고 Minecraft China 서버를 선택하세요.<br>
 서버에서 회선을 최적화 중이며, 장기적으로 지연을 줄일 예정입니다.
-### Q2：게임 내 지연이 높을 경우 어떻게 하나요？
+### Q3：게임 내 지연이 높을 경우 어떻게 하나요？
 A：1. /ping으로 자신의 지연 시간을 확인하세요.
 2. 네트워크를 전환하세요(모바일 핫스팟/광대역).
-### Q3：서버 접속 시 화면이 검게 나오거나 로딩 중 크래시가 발생하면 어떻게 하나요？
+### Q4：서버 접속 시 화면이 검게 나오거나 로딩 중 크래시가 발생하면 어떻게 하나요？
 A：1. 게임 버전을 확인하세요.
 2. 충돌하는 모드나 셰이더를 제거하세요.
-### Q4：비정품 계정으로 서버에 접속할 수 없는 이유는 무엇인가요？
+### Q5：비정품 계정으로 서버에 접속할 수 없는 이유는 무엇인가요？
 A：관리를 위해 서버에서 정품 인증을 활성화했습니다.
 오프라인 플레이어는 <a href="https://littleskin.cn" target="_blank">LittleSkin</a> 계정을 등록하고 런처에서 해당 스킨 계정으로 로그인해야 접속할 수 있습니다.
 정품 Minecraft 계정은 추가 작업 없이 직접 연결할 수 있습니다.
-### Q5：로그인 후 스킨이 표시되지 않으면 어떻게 하나요？
+### Q6：로그인 후 스킨이 표시되지 않으면 어떻게 하나요？
 A：다음 해결 방법을 시도해 보세요：<br>
 1. 오프라인 플레이어는 올바른 <a href="https://littleskin.cn" target="_blank">LittleSkin</a> 계정으로 로그인했는지 확인하세요.<br>
 2. 게임을 종료하고 런처 페이지에서 스킨을 새로고침하세요.<br>
 3. 유니버설 스킨 모드를 설치하세요.
-### Q6：서버 IP는 무엇인가요？지원 버전은 무엇인가요？
+### Q7：서버 IP는 무엇인가요？지원 버전은 무엇인가요？
 A：서버 도메인：Play.RSerene.com<br>
 지원 게임 버전：26.2
 ## II. 서버 메커니즘 및 규칙

@@ -1,30 +1,46 @@
 ---
-author: maomaozhanshi
+author: Chosen_1st , maomaozhanshi
 ---
 # FAQ
 ::: tip Tips
 Feel free to give feedback on other questions (≧∀≦)
 :::
 ## I. Login
-### Q1: What should I do if network latency is too high in my region?
+### Q1: How to set up LittleSkin external login in PCL2 launcher?
+<div style="display:grid; grid-template-columns: 1fr; gap:16px; max-width:720px; margin:20px auto;">
+<img src="/images/1.png" style="width:100%;" />
+<img src="/images/2.png" style="width:100%;" />
+<img src="/images/3.png" style="width:100%;" />
+<img src="/images/4.png" style="width:100%;" />
+<img src="/images/5.png" style="width:100%;" />
+<img src="/images/6.png" style="width:100%;" />
+<img src="/images/7.png" style="width:100%;" />
+<img src="/images/8.png" style="width:100%;" />
+<img src="/images/9.png" style="width:100%;" />
+<img src="/images/10.png" style="width:100%;" />
+</div>
+::: tip Tips
+HMCL is very simple — just click LittleSkin on the left side of the accounts list, enter the game ID and password you created on LittleSkin to log in.
+:::
+### Q2: What should I do if network latency is too high in my region?
 A: Temporary solution: Use a game accelerator and select Minecraft China server;<br>
 The server is optimizing its routes to reduce lag in the long term.
-### Q2: What should I do about high in-game latency?
+### Q3: What should I do about high in-game latency?
 A: 1. Use /ping to check your latency;
 2. Switch networks (mobile hotspot / broadband).
-### Q3: What if the screen goes black or the game crashes when joining?
+### Q4: What if the screen goes black or the game crashes when joining?
 A: 1. Check your game version.
 2. Remove conflicting mods or shaders.
-### Q4: Why can't I connect with a non-premium account?
+### Q5: Why can't I connect with a non-premium account?
 A: For management purposes, the server has online mode enabled.
 Offline players must register a <a href="https://littleskin.cn" target="_blank">LittleSkin</a> account and log in with that skin account in the launcher before joining;
 Premium Minecraft accounts can connect directly without any extra steps.
-### Q5: What if my skin doesn't show up after logging in?
+### Q6: What if my skin doesn't show up after logging in?
 A: Here are some solutions:<br>
 1. Offline players should confirm they are logged into the correct <a href="https://littleskin.cn" target="_blank">LittleSkin</a> account;<br>
 2. Exit the game and refresh the skin on the launcher page;<br>
 3. Install a universal skin mod.
-### Q6: What is the server IP and what versions are supported?
+### Q7: What is the server IP and what versions are supported?
 A: Server domain: Play.RSerene.com<br>
 Supported game version: 26.2
 ## II. Server Mechanics & Rules

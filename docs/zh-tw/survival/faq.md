@@ -1,30 +1,46 @@
 ---
-author: maomaozhanshi
+author: Chosen_1st , maomaozhanshi
 ---
 # 常見問題
 ::: tip 提示
 後續有其他問題歡迎回饋 (≧∀≦)
 :::
 ## 一、登入相關
-### Q1：因自身地區網路延遲過高怎麼處理？
+### Q1：PCL2啟動器怎麼LittleSkin外置登入？
+<div style="display:grid; grid-template-columns: 1fr; gap:16px; max-width:720px; margin:20px auto;">
+<img src="/images/1.png" style="width:100%;" />
+<img src="/images/2.png" style="width:100%;" />
+<img src="/images/3.png" style="width:100%;" />
+<img src="/images/4.png" style="width:100%;" />
+<img src="/images/5.png" style="width:100%;" />
+<img src="/images/6.png" style="width:100%;" />
+<img src="/images/7.png" style="width:100%;" />
+<img src="/images/8.png" style="width:100%;" />
+<img src="/images/9.png" style="width:100%;" />
+<img src="/images/10.png" style="width:100%;" />
+</div>
+::: tip 提示
+HMCL啟動器十分簡單，直接在帳戶列表左側點擊LittleSkin輸入你在LittleSkin中新建的遊戲ID和LittleSkin的密碼即可登入。
+:::
+### Q2：因自身地區網路延遲過高怎麼處理？
 A：臨時解決辦法：使用遊戲加速器、節點選擇我的世界國服；<br>
 服務端正在優化線路，長期會降低網路卡頓情況。
-### Q2：遊戲內延遲高怎麼辦？
+### Q3：遊戲內延遲高怎麼辦？
 A：1.使用/ping 來查看自身延遲；
 2.切換網路（手機熱點、寬頻）。
-### Q3：進服黑屏、載入崩潰怎麼辦？
+### Q4：進服黑屏、載入崩潰怎麼辦？
 A：1.請核對遊戲版本。
 2.卸載衝突mod，光影。
-### Q4：非正版帳號為什麼連不上伺服器？
+### Q5：非正版帳號為什麼連不上伺服器？
 A：為方便管理，伺服器開啟了正版驗證。
 離線玩家必須通過註冊<a href="https://littleskin.cn" target="_blank">LittleSkin</a>帳號，在啟動器登入該皮膚帳號後方可進入；
 正版MC帳號可直接連接，無需額外操作。
-### Q5：登入後皮膚不顯示怎麼辦？
+### Q6：登入後皮膚不顯示怎麼辦？
 A：提供一下解決方案：<br>
 1.離線玩家確認是否正確登入<a href="https://littleskin.cn" target="_blank">LittleSkin</a>帳號； <br>
 2.退出遊戲在啟動器頁面重新整理皮膚<br>
 3.裝萬用皮膚mod
-### Q6：伺服器IP是什麼？支援什麼版本？
+### Q7：伺服器IP是什麼？支援什麼版本？
 A：伺服器域名是： Play.RSerene.com<br>
 支援遊戲版本26.2
 ## 二、伺服器機制與規則

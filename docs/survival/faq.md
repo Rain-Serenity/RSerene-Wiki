@@ -6,8 +6,7 @@ author: Chosen_1st , maomaozhanshi
 后续有其他问题欢迎反馈 (≧∀≦)
 :::
 ## 一、登入相关
-### Q1：PCL2启动器怎么LittleSkin外置登录？
-
+### Q1：PCL2怎么LittleSkin外置登录？
 <div style="display:grid; grid-template-columns: 1fr; gap:16px; max-width:720px; margin:20px auto;">
 <img src="/images/1.png" style="width:100%;" />
 <img src="/images/2.png" style="width:100%;" />
@@ -20,9 +19,8 @@ author: Chosen_1st , maomaozhanshi
 <img src="/images/9.png" style="width:100%;" />
 <img src="/images/10.png" style="width:100%;" />
 </div>
-
 ::: tip 提示
-HMCL启动器十分简单，直接在账户列表左侧点击LittleSkin输入你在LittleSkin中新建的游戏ID和LittleSkin的密码即可登录。
+HMCL十分简单，直接在账户列表左侧点击LittleSkin输入你在LittleSkin中新建的游戏ID和LittleSkin的密码即可登录。
 :::
 ### Q2：因自身地区网络延迟过高怎么处理？
 A：临时解决办法：使用游戏加速器、节点选择我的世界国服；<br>
@@ -42,7 +40,7 @@ A：提供一下解决方案：<br>
 1.离线玩家确认是否正确登录<a href="https://littleskin.cn" target="_blank">LittleSkin</a>账号； <br>
 2.退出游戏在启动器页面刷新皮肤<br>
 3.装万用皮肤mod
-### Q7：服务器IP是什么？支持什么版本？
+### Q6：服务器IP是什么？支持什么版本？
 A：服务器域名是： Play.RSerene.com<br>
 支持游戏版本26.2
 ## 二、服务器机制与规则

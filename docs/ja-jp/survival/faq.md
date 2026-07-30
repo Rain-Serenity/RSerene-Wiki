@@ -1,30 +1,46 @@
 ---
-author: maomaozhanshi
+author: Chosen_1st , maomaozhanshi
 ---
 # よくある質問
 ::: tip ヒント
 その他の質問もお気軽にフィードバックしてください (≧∀≦)
 :::
 ## I. ログイン関連
-### Q1：自分の地域のネットワーク遅延が高い場合の対処法は？
+### Q1：PCL2ランチャーでLittleSkin外部ログインを設定する方法は？
+<div style="display:grid; grid-template-columns: 1fr; gap:16px; max-width:720px; margin:20px auto;">
+<img src="/images/1.png" style="width:100%;" />
+<img src="/images/2.png" style="width:100%;" />
+<img src="/images/3.png" style="width:100%;" />
+<img src="/images/4.png" style="width:100%;" />
+<img src="/images/5.png" style="width:100%;" />
+<img src="/images/6.png" style="width:100%;" />
+<img src="/images/7.png" style="width:100%;" />
+<img src="/images/8.png" style="width:100%;" />
+<img src="/images/9.png" style="width:100%;" />
+<img src="/images/10.png" style="width:100%;" />
+</div>
+::: tip ヒント
+HMCLランチャーは非常に簡単です。アカウントリスト左側のLittleSkinをクリックし、LittleSkinで作成したゲームIDとパスワードを入力するだけでログインできます。
+:::
+### Q2：自分の地域のネットワーク遅延が高い場合の対処法は？
 A：一時的な解決策：ゲームアクセラレーターを使用し、Minecraft Chinaサーバーを選択してください。<br>
 サーバー側で回線を最適化中で、長期的には遅延を低減します。
-### Q2：ゲーム内の遅延が高い場合の対処法は？
+### Q3：ゲーム内の遅延が高い場合の対処法は？
 A：1. /ping で自分の遅延を確認してください。
 2. ネットワークを切り替えてください（モバイルホットスポット／ブロードバンド）。
-### Q3：サーバー参加時に画面が真っ黒になったり、クラッシュしたりする場合の対処法は？
+### Q4：サーバー参加時に画面が真っ黒になったり、クラッシュしたりする場合の対処法は？
 A：1. ゲームバージョンを確認してください。
 2. 競合するmodやシェーダーを削除してください。
-### Q4：非正規アカウントでサーバーに接続できないのはなぜですか？
+### Q5：非正規アカウントでサーバーに接続できないのはなぜですか？
 A：管理のため、サーバーは正規認証を有効にしています。
 オフラインプレイヤーは<a href="https://littleskin.cn" target="_blank">LittleSkin</a>アカウントを登録し、ランチャーでそのスキンアカウントにログインしてから参加してください。
 正規Minecraftアカウントは追加操作なしで直接接続できます。
-### Q5：ログイン後にスキンが表示されない場合の対処法は？
+### Q6：ログイン後にスキンが表示されない場合の対処法は？
 A：以下の解決策をお試しください：<br>
 1. オフラインプレイヤーは正しい<a href="https://littleskin.cn" target="_blank">LittleSkin</a>アカウントにログインしているか確認してください。<br>
 2. ゲームを終了し、ランチャーページでスキンを更新してください。<br>
 3. ユニバーサルスキンmodをインストールしてください。
-### Q6：サーバーIPは？対応バージョンは？
+### Q7：サーバーIPは？対応バージョンは？
 A：サーバードメイン：Play.RSerene.com<br>
 対応ゲームバージョン：26.2
 ## II. サーバーの仕組みとルール

@@ -1,3 +1,6 @@
+---
+author: Chosen_1st , maomaozhanshi
+---
 # Basic Introduction
 
 ## Rain Serenity Survival Server
@@ -13,7 +16,7 @@ Although the server does not have premium authentication enabled, non-premium us
 | Game Mode              | Survival                                                               |
 | Network Type           | Multi-line                                                             |
 | Premium Authentication | None                                                                   |
-| Max Online Players     | 20                                                                     |
+| Max Online Players     | 40                                                                     |
 | Whitelist              | No                                                                     |
 | Contact Info           | QQ Group: 902620497                                                    |
 | Server IP/Domain       | Play.RSerene.com                                                       |

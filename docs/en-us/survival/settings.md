@@ -22,8 +22,8 @@ Unlike vanilla, dropped items will despawn after 3 minutes!
 ## Land Claim
 **The tool for creating land claims is set to a wooden hoe. The maximum claim size is 512×256×512 (X×Y×Z), with no height limit (-64~320 is allowed).**
 **0.05 in-game currency per block**
-## JEI Support
-**This server uses the custom plugin [JEIBukkit](https://GitHub.com/Rain-Serenity/JEIBukkit), which automatically syncs recipes to your client when you join.**
+<!--## JEI Support
+**This server uses the custom plugin [JEIBukkit](https://GitHub.com/Rain-Serenity/JEIBukkit), which automatically syncs recipes to your client when you join.**-->
 ## Items Sellable to the Server
 | Item               | Price | Item                   | Price | Item                   | Price |
 |--------------------|-------|------------------------|-------|------------------------|-------|

@@ -1,4 +1,7 @@
 # 基本設定
+::: warning 注意
+スカイブロックサーバーは2026.7.29に雨潤サーバーから独立して運営されています。以下の情報は2026.7.29時点のものであり、更新されません。
+:::
 ## サーバー基本構成
 **このサーバーは [Lophine](https://GitHub.com/LophineLabs/Lophine) コアを使用しています。** <br>
 **サーバーの機能については[サーバー設定ファイル](https://GitHub.com/Rain-Serenity/ServerConfig)をご確認ください。** <br>

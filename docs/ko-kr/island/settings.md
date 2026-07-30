@@ -1,4 +1,7 @@
 # 기본 설정
+::: warning 주의
+스카이블록 서버가 2026.7.29일자로 RSerene 서버에서 독립하여 운영됩니다. 아래 정보는 2026.7.29 기준이며 더 이상 업데이트되지 않습니다.
+:::
 ## 서버 기본 구성
 **이 서버는 [Lophine](https://GitHub.com/LophineLabs/Lophine) 코어를 사용합니다.** <br>
 **서버 기능은 [서버 구성 파일](https://GitHub.com/Rain-Serenity/ServerConfig)을 통해 확인할 수 있습니다.** <br>

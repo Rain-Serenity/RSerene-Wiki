@@ -1,4 +1,7 @@
 # Basic Introduction
+::: warning Note
+The skyblock server has been operating independently from the RSerene server since July 29, 2026. The following information is current as of that date and will no longer be updated.
+:::
 
 ## Rain Serenity Skyblock Server
 **Imagine waking up on a tiny floating island with nothing but the vast starry sky above you. That is our world — a skyblock challenge that starts from scratch, full of infinite possibilities!** <br><br>

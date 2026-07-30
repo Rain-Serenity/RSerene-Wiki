@@ -1,4 +1,7 @@
 # 基本設定
+::: warning 注意
+空島伺服器已於2026.7.29日獨立於雨潤伺服器運營，以下資訊截止於2026.7.29且不再更新。
+:::
 ## 伺服器基本配置
 **本伺服器採用的是[Lophine](https://GitHub.com/LophineLabs/Lophine)核心。** <br>
 **你可以通過查看[伺服器配置文件](https://GitHub.com/Rain-Serenity/ServerConfig)來了解伺服器特性** <br>
