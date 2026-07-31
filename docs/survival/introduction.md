@@ -5,7 +5,7 @@ author: Chonse_1st , maomaozhanshi
 
 ## 雨润纯净生存服务器
 **欢迎来到雨润纯净生存服务器，一个致力于还原Minecraft最本真乐趣的纯公益原版生存服务器。我们坚持不添加任何影响生存平衡的插件与模组，无付费项目，所有内容均无偿开放。**
-::: tip 注意
+::: tip 提醒
 服务器虽然没有开启正版验证，但非正版用户加入服务器需要 <a href="https://littleskin.cn" target="_blank">LittleSkin</a> 登录，因此非正版用户请先到 <a href="https://littleskin.cn" target="_blank">LittleSkin</a> 注册账号，并在第三方启动器登录你的 <a href="https://littleskin.cn" target="_blank">LittleSkin</a> 账户后才能加入服务器！
 :::
 
