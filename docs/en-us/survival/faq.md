@@ -7,6 +7,7 @@ Feel free to give feedback on other questions (≧∀≦)
 :::
 ## I. Login
 ### Q1: How to set up LittleSkin external login in PCL2 launcher?
+
 <div style="display:grid; grid-template-columns: 1fr; gap:16px; max-width:720px; margin:20px auto;">
 <img src="/images/1.png" style="width:100%;" />
 <img src="/images/2.png" style="width:100%;" />
@@ -19,6 +20,7 @@ Feel free to give feedback on other questions (≧∀≦)
 <img src="/images/9.png" style="width:100%;" />
 <img src="/images/10.png" style="width:100%;" />
 </div>
+
 ::: tip Tips
 HMCL is very simple — just click LittleSkin on the left side of the accounts list, enter the game ID and password you created on LittleSkin to log in.
 :::

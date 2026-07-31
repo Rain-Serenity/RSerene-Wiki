@@ -7,6 +7,7 @@ author: Chosen_1st , maomaozhanshi
 :::
 ## I. Вход в игру
 ### Q1: Как настроить внешний вход LittleSkin в лаунчере PCL2?
+
 <div style="display:grid; grid-template-columns: 1fr; gap:16px; max-width:720px; margin:20px auto;">
 <img src="/images/1.png" style="width:100%;" />
 <img src="/images/2.png" style="width:100%;" />
@@ -19,6 +20,7 @@ author: Chosen_1st , maomaozhanshi
 <img src="/images/9.png" style="width:100%;" />
 <img src="/images/10.png" style="width:100%;" />
 </div>
+
 ::: tip Подсказка
 HMCL очень прост — нажмите LittleSkin слева в списке аккаунтов, введите игровой ID и пароль, созданные в LittleSkin, и войдите.
 :::

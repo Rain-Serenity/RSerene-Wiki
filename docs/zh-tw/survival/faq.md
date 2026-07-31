@@ -7,6 +7,7 @@ author: Chosen_1st , maomaozhanshi
 :::
 ## 一、登入相關
 ### Q1：PCL2啟動器怎麼LittleSkin外置登入？
+
 <div style="display:grid; grid-template-columns: 1fr; gap:16px; max-width:720px; margin:20px auto;">
 <img src="/images/1.png" style="width:100%;" />
 <img src="/images/2.png" style="width:100%;" />
@@ -19,6 +20,7 @@ author: Chosen_1st , maomaozhanshi
 <img src="/images/9.png" style="width:100%;" />
 <img src="/images/10.png" style="width:100%;" />
 </div>
+
 ::: tip 提示
 HMCL啟動器十分簡單，直接在帳戶列表左側點擊LittleSkin輸入你在LittleSkin中新建的遊戲ID和LittleSkin的密碼即可登入。
 :::

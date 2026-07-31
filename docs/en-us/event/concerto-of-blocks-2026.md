@@ -77,7 +77,7 @@ Skyblock players are advised to **create a new island** for better performance.
 - 🎼 **Best Vanilla Tech Award** (judge-nominated, 1 winner): Vanilla Survival balance 19,999 + all trim templates
 - 🎶 **Concerto of Blocks Award** (all participants who did not win other prizes): Vanilla Survival balance 9,999 + Nether Heart × 3
 
-:::tip Tip
+::: tip Tip
 All prizes are distributed on **both** Vanilla Survival and Skyblock servers **unless otherwise specified**.  
 All registered participants who meet the technical requirements will receive the Special User Group.  
 The Special User Group grants the following privileges:  
