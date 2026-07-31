@@ -5,7 +5,7 @@ author: Chosen_1st , maomaozhanshi
 
 ## 雨潤サバイバルサーバー
 **雨潤サバイバルサーバーへようこそ。Minecraft本来の楽しさを取り戻すことに専念した、純粋な非営利バニラサバイバルサーバーです。サバイバルのバランスに影響を与えるプラグインやModは一切追加しておらず、有料要素もなく、すべてのコンテンツを無料で開放しています。**
-::: tip 注意
+::: tip リマインダー
 サーバーは正規認証を有効にしていませんが、非正規ユーザーがサーバーに参加するには<a href="https://littleskin.cn" target="_blank">LittleSkin</a>ログインが必要です。そのため、非正規ユーザーの方は先に<a href="https://littleskin.cn" target="_blank">LittleSkin</a>でアカウントを登録し、サードパーティランチャーで<a href="https://littleskin.cn" target="_blank">LittleSkin</a>アカウントにログインしてからサーバーに参加してください！
 :::
 
