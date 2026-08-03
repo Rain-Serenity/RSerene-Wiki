@@ -2,31 +2,31 @@
 
 ## I. General Regulations
 
-1. **Non-profit Nature**
-   * Minecraft Rain Serenity Server is a non-profit, free-to-play Minecraft Java Edition server.
+### 1. **Non-profit Nature**
+- Minecraft Rain Serenity Server is a non-profit, free-to-play Minecraft Java Edition server.
 
-2. **Donation Policy**
-   * This server does not feature any paid items or pay-to-win elements, but unconditional voluntary donations are accepted.
+### 2. **Donation Policy**
+- This server does not feature any paid items or pay-to-win elements, but unconditional voluntary donations are accepted.
 
-3. **RMT Disclaimer**
-   * This server does not restrict players from real-money trading (RMT) of in-game items; however, the server team assumes no responsibility for any real-world economic disputes between players.
+### 3. **RMT Disclaimer**
+- This server does not restrict players from real-money trading (RMT) of in-game items; however, the server team assumes no responsibility for any real-world economic disputes between players.
 
-4. **Conflict Resolution**
-   * If you encounter any issues, conflicts, or arguments while playing on the server, please handle them calmly and rationally, and contact an administrator for assistance if necessary.
+### 4. **Conflict Resolution**
+- If you encounter any issues, conflicts, or arguments while playing on the server, please handle them calmly and rationally, and contact an administrator for assistance if necessary.
 
-5. **Community Respect**
-   * Please respect others and treat everyone with kindness.
+### 5. **Community Respect**
+- Please respect others and treat everyone with kindness.
 
-6. **Age Guidelines**
-   * According to Mojang's official guidelines, the recommended minimum age for Minecraft is 9+. If you are under this age, please play under the supervision of a guardian.
+### 6. **Age Guidelines**
+- According to Mojang's official guidelines, the recommended minimum age for Minecraft is 9+. If you are under this age, please play under the supervision of a guardian.
 
 ## II. Prohibited Actions
 
 ::: warning Penalty Notice
-Violations found will result in **warnings, temporary bans, or permanent removal** depending on severity.
+Violations that **are discovered** but **do not result in serious consequences** will result in **warnings, temporary bans, or removal** depending on **severity**.
 :::
 
-#### 1. Chat & Community
+### 1. Chat & Community
 
 * **Offensive Speech**
    * Posting discriminatory, offensive, or grossly inappropriate remarks. *(See Section III below)*
@@ -37,7 +37,7 @@ Violations found will result in **warnings, temporary bans, or permanent removal
 * **Inappropriate Acts**
    * Impersonating others, advertising without permission, or engaging in inappropriate behavior.
 
-#### 2. In-Game Actions
+### 2. In-Game Actions
 
 **Cheating**
 * a. Using cheat clients, hacks, or forbidden modifications.
@@ -61,7 +61,7 @@ Violations found will result in **warnings, temporary bans, or permanent removal
 The following actions will result in an **immediate, permanent ban and removal from community groups without prior warning**. These punishments are final and strictly non-appealable.
 :::
 
-**Hate Speech & Harassment**
+### 1. Hate Speech & Harassment
 
 | Violation              | Description                                                    |
 |:-----------------------|:---------------------------------------------------------------|
@@ -73,7 +73,17 @@ The following actions will result in an **immediate, permanent ban and removal f
 | **Doxxing**            | Doxxing, leaking, or distributing others' private real-world info. |
 | **Severe Harassment**  | Severe personal attacks or toxic harassment.                   |
 
+### 2. Violations of II. Prohibited Actions That Result in Serious Consequences
+
+| Violation                                  | Description                                                                 |
+|:-------------------------------------------|:----------------------------------------------------------------------------|
+| **Serious Violations of Community Standards** | Posting inappropriate remarks, objectionable content, or malicious spam that results in serious consequences. |
+| **Serious Violations of In-Game Rules**       | Cheating, griefing, abusing mechanics, or building illegal structures that severely impact the server experience. |
+
 ## IV. Ban Appeals
 
-**Standard Appeal Process**
-* If you disagree with a ban resulting from a non-zero-tolerance violation, you may submit an appeal to the administration through the official channels to request a reduced penalty or an unban.
+### 1. Non-Appealable Cases
+- Violating any zero-tolerance rule.
+
+### 2. Appeal Process
+- If you disagree with a ban resulting from a non-zero-tolerance violation, you may submit an appeal to the administration through channels such as the server's QQ group to request a reduced penalty or an unban.
