@@ -7,7 +7,7 @@ author: Chosen_1st , maomaozhanshi
 :::
 ## 一、登入相关
 ### Q1：PCL2怎么LittleSkin外置登录？
-
+A：
 <div style="display:grid; grid-template-columns: 1fr; gap:16px; max-width:720px; margin:20px auto;">
 <img src="/images/1.png" style="width:100%;" />
 <img src="/images/2.png" style="width:100%;" />
