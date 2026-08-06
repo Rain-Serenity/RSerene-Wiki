@@ -14,7 +14,7 @@ A：
 <img src="/images/3.png" style="width:100%;" />
 <img src="/images/4.png" style="width:100%;" />
 <img src="/images/5.png" style="width:100%;" />
-<img src="/images/16.png" style="width:100%;" />
+<img src="/images/6.png" style="width:100%;" />
 <img src="/images/7.png" style="width:100%;" />
 <img src="/images/8.png" style="width:100%;" />
 <img src="/images/9.png" style="width:100%;" />
@@ -22,7 +22,7 @@ A：
 </div>
 
 ::: tip 提示
-HMCL十分简单，直接在账户列表左侧点击LittleSkin输入你在LittleSkin中新建的游戏ID和LittleSkin的密码即可登录。
+HMCL十分简单，注册好LittleSkin账户以及创建完游戏ID后直接在账户列表左侧点击LittleSkin输入你在LittleSkin中新建的游戏ID和LittleSkin的密码即可登录。
 :::
 ### Q2：因自身地区网络延迟过高怎么处理？
 A：临时解决办法：使用游戏加速器、节点选择我的世界国服；<br>
