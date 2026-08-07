@@ -22,7 +22,7 @@ A：
 </div>
 
 ::: tip 提示
-HMCL十分简单，注册好LittleSkin账户以及创建完游戏ID后直接在账户列表左侧点击LittleSkin输入你在LittleSkin中新建的游戏ID和LittleSkin的密码即可登录。
+HMCL十分简单，注册好LittleSkin账户并在LittleSkin创建完游戏ID后直接在HMCL账户列表左侧点击LittleSkin输入你在LittleSkin中创建的游戏ID和LittleSkin的密码即可登录。
 :::
 ### Q2：因自身地区网络延迟过高怎么处理？
 A：临时解决办法：使用游戏加速器、节点选择我的世界国服；<br>

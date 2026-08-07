@@ -7,14 +7,14 @@ author: Chosen_1st , maomaozhanshi
 :::
 ## 一、登入相關
 ### Q1：PCL2啟動器怎麼LittleSkin外置登入？
-
+A：
 <div style="display:grid; grid-template-columns: 1fr; gap:16px; max-width:720px; margin:20px auto;">
 <img src="/images/1.png" style="width:100%;" />
 <img src="/images/2.png" style="width:100%;" />
 <img src="/images/3.png" style="width:100%;" />
 <img src="/images/4.png" style="width:100%;" />
 <img src="/images/5.png" style="width:100%;" />
-<img src="/images/6.png"  style="width:100%;" />
+<img src="/images/6.png" style="width:100%;" />
 <img src="/images/7.png" style="width:100%;" />
 <img src="/images/8.png" style="width:100%;" />
 <img src="/images/9.png" style="width:100%;" />
@@ -22,7 +22,7 @@ author: Chosen_1st , maomaozhanshi
 </div>
 
 ::: tip 提示
-HMCL啟動器十分簡單，直接在帳戶列表左側點擊LittleSkin輸入你在LittleSkin中新建的遊戲ID和LittleSkin的密碼即可登入。
+HMCL啟動器十分簡單，註冊好LittleSkin帳戶並在LittleSkin創建完遊戲ID後直接在HMCL帳戶列表左側點擊LittleSkin輸入你在LittleSkin中建立的遊戲ID和LittleSkin的密碼即可登入。
 :::
 ### Q2：因自身地區網路延遲過高怎麼處理？
 A：臨時解決辦法：使用遊戲加速器、節點選擇我的世界國服；<br>

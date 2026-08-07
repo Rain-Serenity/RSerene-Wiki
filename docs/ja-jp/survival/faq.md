@@ -7,7 +7,7 @@ author: Chosen_1st , maomaozhanshi
 :::
 ## I. ログイン関連
 ### Q1：PCL2ランチャーでLittleSkin外部ログインを設定する方法は？
-
+A：
 <div style="display:grid; grid-template-columns: 1fr; gap:16px; max-width:720px; margin:20px auto;">
 <img src="/images/1.png" style="width:100%;" />
 <img src="/images/2.png" style="width:100%;" />
@@ -22,7 +22,7 @@ author: Chosen_1st , maomaozhanshi
 </div>
 
 ::: tip ヒント
-HMCLランチャーは非常に簡単です。アカウントリスト左側のLittleSkinをクリックし、LittleSkinで作成したゲームIDとパスワードを入力するだけでログインできます。
+HMCLランチャーは非常に簡単です。LittleSkinアカウントに登録し、LittleSkinでゲームIDを作成した後、HMCLのアカウントリスト左側のLittleSkinをクリックし、LittleSkinで作成したゲームIDとパスワードを入力するだけでログインできます。
 :::
 ### Q2：自分の地域のネットワーク遅延が高い場合の対処法は？
 A：一時的な解決策：ゲームアクセラレーターを使用し、Minecraft Chinaサーバーを選択してください。<br>

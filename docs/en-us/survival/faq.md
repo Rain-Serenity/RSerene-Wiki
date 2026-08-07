@@ -7,7 +7,7 @@ Feel free to give feedback on other questions (≧∀≦)
 :::
 ## I. Login
 ### Q1: How to set up LittleSkin external login in PCL2 launcher?
-
+A:
 <div style="display:grid; grid-template-columns: 1fr; gap:16px; max-width:720px; margin:20px auto;">
 <img src="/images/1.png" style="width:100%;" />
 <img src="/images/2.png" style="width:100%;" />
@@ -22,7 +22,7 @@ Feel free to give feedback on other questions (≧∀≦)
 </div>
 
 ::: tip Tips
-HMCL is very simple — just click LittleSkin on the left side of the accounts list, enter the game ID and password you created on LittleSkin to log in.
+HMCL is very simple — after registering a LittleSkin account and creating your game ID in LittleSkin, just click LittleSkin on the left side of the HMCL accounts list, enter the game ID and password you created in LittleSkin to log in.
 :::
 ### Q2: What should I do if network latency is too high in my region?
 A: Temporary solution: Use a game accelerator and select Minecraft China server;<br>

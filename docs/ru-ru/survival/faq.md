@@ -7,7 +7,7 @@ author: Chosen_1st , maomaozhanshi
 :::
 ## I. Вход в игру
 ### Q1: Как настроить внешний вход LittleSkin в лаунчере PCL2?
-
+A:
 <div style="display:grid; grid-template-columns: 1fr; gap:16px; max-width:720px; margin:20px auto;">
 <img src="/images/1.png" style="width:100%;" />
 <img src="/images/2.png" style="width:100%;" />
@@ -22,7 +22,7 @@ author: Chosen_1st , maomaozhanshi
 </div>
 
 ::: tip Подсказка
-HMCL очень прост — нажмите LittleSkin слева в списке аккаунтов, введите игровой ID и пароль, созданные в LittleSkin, и войдите.
+HMCL очень прост — зарегистрируйте аккаунт LittleSkin и создайте игровой ID в LittleSkin, затем нажмите LittleSkin слева в списке аккаунтов HMCL, введите игровой ID и пароль, созданные в LittleSkin, и войдите.
 :::
 ### Q2: Что делать, если высокая задержка из-за моего региона?
 A: Временное решение: используйте игровой ускоритель и выберите Minecraft China;<br>

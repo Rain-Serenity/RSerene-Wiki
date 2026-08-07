@@ -7,7 +7,7 @@ author: Chosen_1st , maomaozhanshi
 :::
 ## I. 로그인 관련
 ### Q1：PCL2 런처에서 LittleSkin 외부 로그인을 설정하는 방법은？
-
+A：
 <div style="display:grid; grid-template-columns: 1fr; gap:16px; max-width:720px; margin:20px auto;">
 <img src="/images/1.png" style="width:100%;" />
 <img src="/images/2.png" style="width:100%;" />
@@ -22,7 +22,7 @@ author: Chosen_1st , maomaozhanshi
 </div>
 
 ::: tip 팁
-HMCL 런처는 매우 간단합니다. 계정 목록 왼쪽의 LittleSkin을 클릭하고 LittleSkin에서 생성한 게임 ID와 비밀번호를 입력하기만 하면 로그인됩니다.
+HMCL 런처는 매우 간단합니다. LittleSkin 계정을 등록하고 LittleSkin에서 게임 ID를 만든 후 HMCL 계정 목록 왼쪽의 LittleSkin을 클릭하고 LittleSkin에서 생성한 게임 ID와 비밀번호를 입력하면 로그인됩니다.
 :::
 ### Q2：자신의 지역 네트워크 지연이 높을 경우 어떻게 처리하나요？
 A：임시 해결책：게임 가속기를 사용하고 Minecraft China 서버를 선택하세요.<br>
