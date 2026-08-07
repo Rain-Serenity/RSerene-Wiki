@@ -5,17 +5,23 @@ modules:
   - BannerBrand
   - Features
   - Footer
+  #  - MdContent
 bannerBrand:
   title: 雨潤伺服器 Wiki
   description: '歡迎來到 RSerene Wiki 首頁'
   tagline: 一個隨著Minecraft版本更新而更新的Minecraft伺服器。
   bgImage: /bg.svg
+  # bgImageStyle:
+  #   height: 450px
   buttons:
+    # - { text: 收到, icon: 'EarthFilled', link: '/blogs/category1/blog2' }
     - { text: 開始閱讀, link: '/zh-tw/survival/introduction' }
     - { text: 下載客戶端, link: 'https://www.mcmod.cn/modpack/467.html', type: 'plain' }
+    # - { text: safsdfdsfdssdsdfsdf, link: '/blogs/category1/blog2', type: 'text', icon: 'Alien' }
   socialLinks:
     - { icon: 'LogoGithub', link: 'https://GitHub.com/Rain-Serenity/RSerene-Wiki/' }
-footer:
+    # - { icon: 'LogoTwitter', link: 'https://twitter.com/reco_luan' }
+footer: # 底部模組的設定
   startYear: 2020
   record: 粤ICP备2026085798号-1
   recordLink: http://beian.miit.gov.cn
@@ -36,4 +42,3 @@ features:
 npm install
 # 運行文檔
 npm run docs:dev
-```

@@ -11,12 +11,17 @@ bannerBrand:
   description: 'RSerene Wiki ホームページへようこそ'
   tagline: Minecraftのバージョンアップに合わせて更新されるMinecraftサーバー。
   bgImage: /bg.svg
+  # bgImageStyle:
+  #   height: 450px
   buttons:
+    # - { text: 收到, icon: 'EarthFilled', link: '/blogs/category1/blog2' }
     - { text: 読み始める, link: '/ja-jp/survival/introduction' }
     - { text: クライアントをダウンロード, link: 'https://www.mcmod.cn/modpack/467.html', type: 'plain' }
+    # - { text: safsdfdsfdssdsdfsdf, link: '/blogs/category1/blog2', type: 'text', icon: 'Alien' }
   socialLinks:
     - { icon: 'LogoGithub', link: 'https://GitHub.com/Rain-Serenity/RSerene-Wiki/' }
-footer:
+    # - { icon: 'LogoTwitter', link: 'https://twitter.com/reco_luan' }
+footer: # 底部モジュールの設定
   startYear: 2020
   record: 粤ICP备2026085798号-1
   recordLink: http://beian.miit.gov.cn
@@ -37,4 +42,3 @@ features:
 npm install
 # ドキュメントを実行
 npm run docs:dev
-```

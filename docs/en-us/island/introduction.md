@@ -2,7 +2,6 @@
 ::: warning Note
 The skyblock server has been operating independently from the RSerene server since July 29, 2026. The following information is current as of that date and will no longer be updated.
 :::
-
 ## Rain Serenity Skyblock Server
 **Imagine waking up on a tiny floating island with nothing but the vast starry sky above you. That is our world — a skyblock challenge that starts from scratch, full of infinite possibilities!** <br><br>
 **As a server built with custom crafting recipes and unique settings, we are dedicated to delivering an authentic yet surprising skyblock experience. Say goodbye to the tedious cobblestone generator loops of traditional skyblock — expand your domain bit by bit through rich and interesting custom recipes. Whether you're a master builder, a redstone enthusiast, or a casual farmer, you'll find your own peace and sense of achievement in this ever-growing sky-bound world.**

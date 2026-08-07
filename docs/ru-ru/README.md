@@ -11,12 +11,17 @@ bannerBrand:
   description: 'Добро пожаловать на главную страницу RSerene Wiki'
   tagline: Minecraft-сервер, который обновляется вместе с версиями Minecraft.
   bgImage: /bg.svg
+  # bgImageStyle:
+  #   height: 450px
   buttons:
+    # - { text: 收到, icon: 'EarthFilled', link: '/blogs/category1/blog2' }
     - { text: Начать чтение, link: '/ru-ru/survival/introduction' }
     - { text: Скачать клиент, link: 'https://www.mcmod.cn/modpack/467.html', type: 'plain' }
+    # - { text: safsdfdsfdssdsdfsdf, link: '/blogs/category1/blog2', type: 'text', icon: 'Alien' }
   socialLinks:
     - { icon: 'LogoGithub', link: 'https://GitHub.com/Rain-Serenity/RSerene-Wiki/' }
-footer:
+    # - { icon: 'LogoTwitter', link: 'https://twitter.com/reco_luan' }
+footer: # Конфигурация нижнего модуля
   startYear: 2020
   record: 粤ICP备2026085798号-1
   recordLink: http://beian.miit.gov.cn
@@ -37,4 +42,3 @@ features:
 npm install
 # Запуск документации
 npm run docs:dev
-```
