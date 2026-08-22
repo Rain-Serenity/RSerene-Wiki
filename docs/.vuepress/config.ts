@@ -203,6 +203,11 @@ export default defineUserConfig({
             },
             {
               type: 'text',
+              content: `<ul><li>TeamSpeak頻道：<a href="https://tmspk.gg/CbgeEPJj" style="color:#3498db;text-decoration:underline;">TS.RSerene.com</a></li></ul>`,
+              style: 'font-size: 12px;'
+            },
+            {
+              type: 'text',
               content: `<ul><li>KOOK频道：<a href="https://kook.vip/IVS3C5" style="color:#3498db;text-decoration:underline;">87157573</a></li></ul>`,
               style: 'font-size: 12px;'
             },
@@ -281,6 +286,11 @@ export default defineUserConfig({
             {
               type: 'text',
               content: `<ul><li>QQ Group: <a href="https://qm.qq.com/q/bThHNL6Q3S" style="color:#3498db;text-decoration:underline;">902620497</a></li></ul>`,
+              style: 'font-size: 12px;'
+            },
+            {
+              type: 'text',
+              content: `<ul><li>TeamSpeak Channel: <a href="https://tmspk.gg/CbgeEPJj" style="color:#3498db;text-decoration:underline;">TS.RSerene.com</a></li></ul>`,
               style: 'font-size: 12px;'
             },
             {
@@ -367,6 +377,11 @@ export default defineUserConfig({
             },
             {
               type: 'text',
+              content: `<ul><li>Канал TeamSpeak: <a href="https://tmspk.gg/CbgeEPJj" style="color:#3498db;text-decoration:underline;">TS.RSerene.com</a></li></ul>`,
+              style: 'font-size: 12px;'
+            },
+            {
+              type: 'text',
               content: `<ul><li>KOOK канал: <a href="https://kook.vip/IVS3C5" style="color:#3498db;text-decoration:underline;">87157573</a></li></ul>`,
               style: 'font-size: 12px;'
             },
@@ -449,6 +464,11 @@ export default defineUserConfig({
             },
             {
               type: 'text',
+              content: `<ul><li>TeamSpeakチャンネル：<a href="https://tmspk.gg/CbgeEPJj" style="color:#3498db;text-decoration:underline;">TS.RSerene.com</a></li></ul>`,
+              style: 'font-size: 12px;'
+            },
+            {
+              type: 'text',
               content: `<ul><li>KOOKチャンネル：<a href="https://kook.vip/IVS3C5" style="color:#3498db;text-decoration:underline;">87157573</a></li></ul>`,
               style: 'font-size: 12px;'
             },
@@ -527,6 +547,11 @@ export default defineUserConfig({
             {
               type: 'text',
               content: `<ul><li>QQ 그룹：<a href="https://qm.qq.com/q/bThHNL6Q3S" style="color:#3498db;text-decoration:underline;">902620497</a></li></ul>`,
+              style: 'font-size: 12px;'
+            },
+            {
+              type: 'text',
+              content: `<ul><li>TeamSpeak 채널：<a href="https://tmspk.gg/CbgeEPJj" style="color:#3498db;text-decoration:underline;">TS.RSerene.com</a></li></ul>`,
               style: 'font-size: 12px;'
             },
             {
