@@ -116,6 +116,11 @@ export default defineUserConfig({
             },
             {
               type: 'text',
+              content: `<ul><li>TeamSpeak频道：<a href="https://tmspk.gg/CbgeEPJj" style="color:#3498db;text-decoration:underline;">TS.RSerene.com</a></li></ul>`,
+              style: 'font-size: 12px;'
+            },
+            {
+              type: 'text',
               content: `<ul><li>KOOK频道：<a href="https://kook.vip/IVS3C5" style="color:#3498db;text-decoration:underline;">87157573</a></li></ul>`,
               style: 'font-size: 12px;'
             },
