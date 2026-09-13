@@ -19,7 +19,7 @@ Although the server does not have premium authentication enabled, non-premium us
 | Max Online Players     | 20                                                                     |
 | Whitelist              | No                                                                     |
 | Contact Info           | QQ Group: 902620497                                                    |
-| Server IP/Domain       | Play.RSerene.com                                                       |
+| Server IP/Domain       | Island.RSerene.com                                                       |
 
 <ClientOnly>
   <iframe 

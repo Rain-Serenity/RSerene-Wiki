@@ -19,7 +19,7 @@
 | Макс. онлайн          | 20                                                                    |
 | Белый список          | Нет                                                                   |
 | Контакты              | QQ Group: 902620497                                                   |
-| IP/Домен сервера      | Play.RSerene.com                                                      |
+| IP/Домен сервера      | Island.RSerene.com                                                      |
 
 <ClientOnly>
   <iframe 

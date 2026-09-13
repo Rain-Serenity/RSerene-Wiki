@@ -19,7 +19,7 @@
 | 最大同時接続数       | 20                                                                    |
 | ホワイトリスト       | なし                                                                  |
 | 連絡先               | QQグループ: 902620497                                                 |
-| サーバーIP/ドメイン  | Play.RSerene.com                                                      |
+| サーバーIP/ドメイン  | Island.RSerene.com                                                      |
 
 <ClientOnly>
   <iframe 

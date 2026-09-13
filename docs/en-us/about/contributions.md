@@ -3,11 +3,11 @@
 ### Server Director (Overall Responsibility)
 * Chosen_1st
 ### Operations Staff (Server Management, Funding)
+* maomaozhanshi
 * starpole2007
 ### General Moderators (Server Order, Ban/Kick Permissions)
 * eeeprime
 * ENDINGBRINER
-* maomaozhanshi
 * Twigbone
 ### Other Moderators (QQ Group Affairs)
 * billyta
