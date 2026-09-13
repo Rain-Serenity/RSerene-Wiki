@@ -19,7 +19,7 @@
 | 最大在线人数   | 20                     |
 | 有无白名单    | 无                      |
 | 联系方式     | QQ群: 902620497         |
-| 服务器IP/域名 | Play.RSerene.com       |
+| 服务器IP/域名 | Island.RSerene.com     |
 
 <ClientOnly>
   <iframe 

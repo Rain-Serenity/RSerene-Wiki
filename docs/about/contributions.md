@@ -3,11 +3,11 @@
 ### 雨润服务器总负责(负责服务器全部事务)
 * Chosen_1st
 ### 其他运营人员(负责服务器管理、资金等)
+* maomaozhanshi
 * starpole2007
 ### 一般管理成员(负责服务器秩序维护，拥有封禁、踢出等权限)
 * eeeprime
 * ENDINGBRINER
-* maomaozhanshi
 * Twigbone
 ### 其他管理成员(负责服务器QQ群事务)
 * billyta
