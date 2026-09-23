@@ -153,6 +153,7 @@ export default defineUserConfig({
         inputPasswordText: '請輸入密碼',
         unlockSucessText: '密碼正確，玩得開心！',
         unlockFailuerText: '密碼錯誤，請重新輸入！',
+        // series 為原 sidebar
         series: {
           '/zh-tw/event/': [{
             text: '最新活動',
@@ -240,6 +241,7 @@ export default defineUserConfig({
         inputPasswordText: 'Please enter password',
         unlockSucessText: 'Correct password, have fun!',
         unlockFailuerText: 'Incorrect password, please try again!',
+        // series is the former sidebar
         series: {
           '/en-us/event/': [{
             text: 'Events',
@@ -327,6 +329,7 @@ export default defineUserConfig({
         inputPasswordText: 'Пожалуйста, введите пароль',
         unlockSucessText: 'Пароль верен, приятной игры!',
         unlockFailuerText: 'Неверный пароль, попробуйте снова!',
+        // series — это прежний sidebar
         series: {
           '/ru-ru/event/': [{
             text: 'События',
@@ -414,6 +417,7 @@ export default defineUserConfig({
         inputPasswordText: 'パスワードを入力してください',
         unlockSucessText: 'パスワードが正しいです、お楽しみください！',
         unlockFailuerText: 'パスワードが間違っています、再入力してください！',
+        // series は旧 sidebar
         series: {
           '/ja-jp/event/': [{
             text: 'イベント',
@@ -501,6 +505,7 @@ export default defineUserConfig({
         inputPasswordText: '비밀번호를 입력하세요',
         unlockSucessText: '비밀번호가 맞습니다, 즐기세요!',
         unlockFailuerText: '비밀번호가 틀렸습니다, 다시 입력하세요!',
+        // series는 기존 sidebar
         series: {
           '/ko-kr/event/': [{
             text: '이벤트',
