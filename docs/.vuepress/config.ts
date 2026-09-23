@@ -37,6 +37,11 @@ export default defineUserConfig({
       title: 'RSerene Wiki',
       description: 'RSerene Wiki 홈페이지에 오신 것을 환영합니다',
     },
+    '/de-de/': {
+      lang: 'de-DE',
+      title: 'RSerene Wiki',
+      description: 'Willkommen auf der RSerene Wiki Startseite',
+    },
   },
   bundler: viteBundler(),
   theme: recoTheme({
@@ -569,6 +574,94 @@ export default defineUserConfig({
               type: 'buttongroup',
               children: [
                 { text: '후원', link: '/ko-kr/about/sponsor.html' }
+              ]
+            }
+          ],
+        }
+      },
+      '/de-de/': {
+        logo: "/images/logo.png",
+        selectLanguageName: 'Deutsch',
+        selectLanguageText: 'Sprachen',
+        lastUpdatedText: "Zuletzt aktualisiert",
+        tip: 'Hinweis',
+        info: 'Info',
+        danger: 'Gefahr',
+        warning: 'Warnung',
+        details: 'Details',
+        tagsText: 'Tags',
+        backToHome: 'Zurück zur Startseite',
+        categoriesText: 'Kategorien',
+        catalogTitle: 'Seitennavigation',
+        editLinkText: 'Diese Seite bearbeiten',
+        notFound: 'Ups, diese Seite wurde nicht gefunden!',
+        inputPasswordText: 'Bitte Passwort eingeben',
+        unlockSucessText: 'Passwort korrekt, viel Spaß!',
+        unlockFailuerText: 'Falsches Passwort, bitte erneut eingeben!',
+        // series ist die ehemalige sidebar
+        series: {
+          '/de-de/event/': [{
+            text: 'Veranstaltungen',
+            children: ['/de-de/event/concerto-of-blocks-2026.md'],
+          }],
+          '/de-de/survival/': [{
+            text: 'Survival-Modus',
+            children: ['/de-de/survival/introduction.md', '/de-de/survival/settings.md', '/de-de/survival/command.md', '/de-de/survival/faq.md'],
+          }],
+          '/de-de/island/': [{
+            text: 'Skyblock-Modus',
+            children: ['/de-de/island/introduction.md', '/de-de/island/settings.md', '/de-de/island/command.md', '/de-de/island/faq.md'],
+          }],
+          '/de-de/about/': [{
+            text: 'Über den Server',
+            children: ['/de-de/about/history.md', '/de-de/about/contributions.md', '/de-de/about/rules.md', '/de-de/about/sponsor.md'],
+          }],
+        },
+        navbar: [
+          { text: "Startseite", link: "/de-de/" },
+          { text: "Veranstaltungen", children: [ {text: 'Block-Konzert', link: '/de-de/event/concerto-of-blocks-2026.html'}]},
+          { text: 'Survival', children: [ {text: 'Einführung', link: '/de-de/survival/introduction.html'}, {text: 'Einstellungen', link: '/de-de/survival/settings.html'}, {text: 'Befehlsliste', link: '/de-de/survival/command.html'}, {text: 'FAQ', link: '/de-de/survival/faq.html'} ] },
+          { text: 'Skyblock', children: [ {text: 'Einführung', link: '/de-de/island/introduction.html'}, {text: 'Einstellungen', link: '/de-de/island/settings.html'}, {text: 'Befehlsliste', link: '/de-de/island/command.html'}, {text: 'FAQ', link: '/de-de/island/faq.html'} ] },
+          { text: 'Über uns', children: [ {text: 'Servergeschichte', link: '/de-de/about/history.html'}, {text: 'Mitwirkende', link: '/de-de/about/contributions.html'}, {text: 'Serverregeln', link: '/de-de/about/rules.html'}, {text: 'Spenden', link: '/de-de/about/sponsor.html'} ] },
+          { text: 'Relevante Links', children: [ {text: 'GitHub', link: 'https://GitHub.com/Rain-Serenity/'}, {text: 'MCBBS Memorial', link: 'https://www.MCBBS.co/thread-5031-1-1.html'}, {text: 'MineBBS', link: 'https://www.MineBBS.com/threads/1-21-1.28390/'}, {text: 'Minecraft Wiki', link: 'https://Minecraft.Wiki/'}, {text: 'NameMC', link: 'https://NameMC.com/server/play.rserene.com'}, {text: 'Bannliste', link: 'https://Bans.RSerene.com/'}, {text: 'KLPBBS', link: 'https://KLPBBS.com/thread-171662-1-1.html'} ]}
+        ],
+        bulletin: {
+          body: [
+            { type: 'title', content: 'Neueste Nachrichten' },
+            {
+              type: 'text',
+              // 🎉🎉🎉
+              content: `<ul><li>Der Server wurde auf Version 26.2 aktualisiert!</li></ul>`,
+              style: 'font-size: 12px;'
+            },
+            {
+              type: 'text',
+              // 🎉🎉🎉
+              content: `<ul><li>Der Server veranstaltet derzeit das Event <a href="/de-de/event/concerto-of-blocks-2026.html" style="color:#3498db;text-decoration:underline;">Block-Konzert</a>! Klicke auf „Veranstaltungen“, um mehr zu erfahren!</li></ul>`,
+              style: 'font-size: 12px;'
+            },
+            { type: 'hr' },
+            { type: 'title', content: 'Community' },
+            {
+              type: 'text',
+              content: `<ul><li>QQ-Gruppe: <a href="https://qm.qq.com/q/bThHNL6Q3S" style="color:#3498db;text-decoration:underline;">902620497</a></li></ul>`,
+              style: 'font-size: 12px;'
+            },
+            {
+              type: 'text',
+              content: `<ul><li>TeamSpeak-Kanal: <a href="https://tmspk.gg/CbgeEPJj" style="color:#3498db;text-decoration:underline;">TS.RSerene.com</a></li></ul>`,
+              style: 'font-size: 12px;'
+            },
+            {
+              type: 'text',
+              content: `<ul><li>KOOK-Kanal: <a href="https://kook.vip/IVS3C5" style="color:#3498db;text-decoration:underline;">87157573</a></li></ul>`,
+              style: 'font-size: 12px;'
+            },
+            { type: 'hr', },
+            {
+              type: 'buttongroup',
+              children: [
+                { text: 'Spenden', link: '/de-de/about/sponsor.html' }
               ]
             }
           ],
