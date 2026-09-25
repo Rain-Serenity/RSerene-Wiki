@@ -17,7 +17,7 @@
 | /playtimetop                 | Die Bestenliste der Online-Zeiten des Servers anzeigen           |                                       |
 | /removehome &lt;Name deines Hauses&gt; | Ein Zuhause löschen                                         |                                       |
 | /res help                    | Die Hilfe des Grundstücks-Plugins aufrufen                       |                                       |
-| /rtp                         | Zufällige Teleportation                                          | Bereich 32000×32000                   |
+| /rtp                         | Zufällige Teleportation                                          | Bereich 32000*32000                   |
 | /sell gui                    | Das Verkaufsmenü öffnen                                          | Verkaufbare Items siehe „Grundeinstellungen“ |
 | /spawn                       | Zur Hauptstadt teleportieren                                     |                                       |
 | /tpa                         | Eine Teleportation zu einem anderen Spieler anfragen             |                                       |

@@ -38,4 +38,4 @@ Although the server does not have premium authentication enabled, non-premium us
 
 * **Friendly Co-building, Harmonious Community: We promote a community atmosphere of mutual help and polite communication. Whether you're a master builder, redstone enthusiast, or a casual player, you can find your own comfortable space here.** <br>
 
-* **Fair and Just, Clean Environment: Cheating and griefing are strictly prohibited. Through clear rules and transparent management, we are committed to maintaining a pure survival environment where every player's efforts are respected.**
+* **Fair and Just, Clean Environment: Cheating and griefing are strictly prohibited. Through clear rules and transparent management, we are committed to maintaining a pure survival environment where every player's efforts are respected.** <br>

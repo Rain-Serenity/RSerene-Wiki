@@ -20,13 +20,24 @@
 ### 6. **Altersempfehlung**
 - Laut der offiziellen Empfehlung von Minecraft liegt das Mindestalter bei 9 Jahren. Wenn du jünger bist, spiele bitte in Begleitung eines Erziehungsberechtigten.
 
+### 7. **Servicenumfang & Haftungsausschluss**
+- Dieser Server ist ein gemeinnütziger Server; das Verwaltungsteam ist **ausschließlich verantwortlich** für den Grundbetrieb des Servers, die Durchsetzung der Regeln und die Behandlung eindeutiger Verstöße und bietet **keine** „außergewöhnliche" Betreuung im individuellen Sinne an.
+- Das Verwaltungsteam nimmt grundsätzlich keine der folgenden Angebote an, trägt sie nicht und entschädigt nicht dafür:
+  1. **Bauten & Gelände**: Wir helfen Spielern nicht, Gebäude oder Bauwerke zu verschieben, zu verlagern, zu kopieren, zu reparieren, neu zu errichten oder abzubrechen; wir helfen nicht, Bedrock zu brechen, Gelände zu räumen oder Leerräume zu erstellen oder bereitzustellen.
+  2. **Unfälle & Verluste**: Wir bieten keine Regulierung, Rollbacks, Entschädigungen oder Wiederherstellung für Verluste von Gegenständen, Bauten oder Gelände durch Maschinenausfälle, Redstone-Störungen, Sprengstoffe, Creeper, fehlgeschlagene Experimente, Fehlbedienungen usw.
+  3. **Spielerstreitigkeiten**: Wir greifen nicht in Spielerkonflikte ein, die aus freiwilliger Kooperation, Leihen, Schenkungen, Handel, gemeinsam genutzten Maschinen/Einrichtungen usw. entstehen; Verstöße wie Cheaten, Stehlen, bösartiges Griefing und bösartiges PvP werden jedoch weiterhin nach den Regeln behandelt.
+- Spieler sollen die Risiken von Bauten, Redstone, Sprengstoff und Experimentieren im Spiel selbst bewerten und tragen.
+- Wurde der Verlust durch einen Regelverstoß eines anderen Spielers verursacht, bewahre bitte Beweise auf und melde es über die QQ-Gruppe oder andere Kanäle; das Verwaltungsteam wird nach den Regeln handeln.
+- Ob das Verwaltungsteam zusätzliche Hilfe leistet, liegt in seinem eigenen Ermessen; jede Hilfe stellt keine Verpflichtung, Zusage oder Präzedenz dar.
+- Bitte belästige, beschimpfe oder spame das Verwaltungsteam nicht, weil du die oben genannte nicht verpflichtende Hilfe nicht erhalten hast; andernfalls wird dies nach den Klauseln „unangemessene Äußerungen" und „bösartiges Spam" dieser Regeln behandelt.
+
 ## II. Streng verbotene Handlungen
 
 ::: warning Hinweis zu Verstößen und Strafen
 Handlungen, die **entdeckt** werden, aber **keine schwerwiegenden Folgen** haben, werden vom Verwaltungsteam je nach **Schweregrad** mit einer **Verwarnung, einem temporären Bann** oder einem **Kick** geahndet.
 :::
 
-### 1. Richtlinien für Community-Äußerungen
+### 1. Richtlinien für das Community-Verhalten
 
 * **Unangemessene Äußerungen**
     * Verbreiten diskriminierender, angriffslustiger oder grob unangemessener Äußerungen. *(Einzelheiten siehe Abschnitt III unten)*

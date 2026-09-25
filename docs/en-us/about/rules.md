@@ -20,13 +20,24 @@
 ### 6. **Age Guidelines**
 - According to Mojang's official guidelines, the recommended minimum age for Minecraft is 9+. If you are under this age, please play under the supervision of a guardian.
 
+### 7. **Service Scope & Disclaimer**
+- This server is a non-profit server; the management team is **only responsible** for basic server operation, rule enforcement, and handling clear violations, and does **not** provide "nanny-style" personalized service.
+- In principle, the management team does not accept, undertake, or compensate for the following:
+  1. **Builds & terrain**: We do not help players move, migrate, copy, repair, rebuild, or demolish buildings or structures; we do not help break bedrock, clear terrain, create or provide void areas.
+  2. **Accidents & losses**: We do not provide claims, rollbacks, compensation, or restoration for losses of items, builds, or terrain caused by machine crashes, redstone malfunction, explosives, creepers, failed experiments, misoperation, etc.
+  3. **Player disputes**: We do not intervene in in-game disputes arising from voluntary cooperation, borrowing, gifting, trading, shared machines/facilities, etc.; however, violations such as cheating, stealing, malicious griefing, and malicious PvP will still be handled according to the rules.
+- Players should assess and bear the risks of building, redstone, explosives, and experimental operations in-game themselves.
+- If a loss was caused by another player breaking the rules, please keep evidence and report it via the QQ group or other channels; the management team will handle it according to the rules.
+- Whether the management team provides additional assistance is at its own discretion; any assistance does not constitute an obligation, promise, or precedent.
+- Please do not harass, insult, or spam the management team for not receiving the above non-obligatory assistance; otherwise, you will be handled according to the "offensive speech" and "malicious spam" clauses of these rules.
+
 ## II. Prohibited Actions
 
 ::: warning Penalty Notice
-Violations that **are discovered** but **do not result in serious consequences** will result in **warnings, temporary bans, or removal** depending on **severity**.
+Violations that **are discovered** but **do not result in serious consequences** will result in **warnings, temporary bans** or **removal** depending on **severity**.
 :::
 
-### 1. Chat & Community
+### 1. Community Conduct
 
 * **Offensive Speech**
    * Posting discriminatory, offensive, or grossly inappropriate remarks. *(See Section III below)*
@@ -57,7 +68,7 @@ Violations that **are discovered** but **do not result in serious consequences**
 
 ## III. Zero-Tolerance Violations
 
-::: danger Absolute Red Line
+::: danger Extremely Important | Absolute Red Line
 The following actions will result in an **immediate, permanent ban and removal from community groups without prior warning**. These punishments are final and strictly non-appealable.
 :::
 
