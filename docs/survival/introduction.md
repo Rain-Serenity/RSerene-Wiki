@@ -1,5 +1,5 @@
 ---
-author: Chonse_1st , maomaozhanshi
+author: Chosen_1st , maomaozhanshi
 ---
 # 基本介绍
 
