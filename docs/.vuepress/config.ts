@@ -201,7 +201,7 @@ export default defineUserConfig({
               style: 'font-size: 12px;'
             },
             { type: 'hr' },
-            { type: 'title', content: '社区' },
+            { type: 'title', content: '社區' },
             {
               type: 'text',
               content: `<ul><li>QQ群：<a href="https://qm.qq.com/q/bThHNL6Q3S" style="color:#3498db;text-decoration:underline;">902620497</a></li></ul>`,
@@ -214,7 +214,7 @@ export default defineUserConfig({
             },
             {
               type: 'text',
-              content: `<ul><li>KOOK频道：<a href="https://kook.vip/IVS3C5" style="color:#3498db;text-decoration:underline;">87157573</a></li></ul>`,
+              content: `<ul><li>KOOK頻道：<a href="https://kook.vip/IVS3C5" style="color:#3498db;text-decoration:underline;">87157573</a></li></ul>`,
               style: 'font-size: 12px;'
             },
             { type: 'hr', },
@@ -380,7 +380,7 @@ export default defineUserConfig({
             { type: 'title', content: 'Сообщество' },
             {
               type: 'text',
-              content: `<ul><li>QQ Group: <a href="https://qm.qq.com/q/bThHNL6Q3S" style="color:#3498db;text-decoration:underline;">902620497</a></li></ul>`,
+              content: `<ul><li>QQ-группа: <a href="https://qm.qq.com/q/bThHNL6Q3S" style="color:#3498db;text-decoration:underline;">902620497</a></li></ul>`,
               style: 'font-size: 12px;'
             },
             {
