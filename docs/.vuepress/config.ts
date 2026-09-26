@@ -74,7 +74,7 @@ export default defineUserConfig({
         series: {
           '/event/': [{
             text: '最新活动',
-            children: ['/event/concerto-of-blocks-2026.md'],
+            children: ['/event/golden-autumn-bedwars-2026.md', '/event/concerto-of-blocks-2026.md'],
           }],
           '/survival/': [{
             text: '纯净生存',
@@ -91,7 +91,7 @@ export default defineUserConfig({
         },
         navbar: [
           { text: "主页", link: "/" },
-          { text: "最新活动", children: [ {text: '方块协奏曲', link: '/event/concerto-of-blocks-2026.html'}]},
+          { text: "最新活动", children: [ {text: '雨润九州·金秋床战', link: '/event/golden-autumn-bedwars-2026.html'}, {text: '方块协奏曲(已过期)', link: '/event/concerto-of-blocks-2026.html'}]},
           { text: '纯净生存', children: [ {text: '简单介绍', link: '/survival/introduction.html'}, {text: '基本设定', link: '/survival/settings.html'}, {text: '指令列表', link: '/survival/command.html'}, {text: '常见问题', link: '/survival/faq.html'} ] },
           { text: '空岛生存', children: [ {text: '简单介绍', link: '/island/introduction.html'}, {text: '基本设定', link: '/island/settings.html'}, {text: '指令列表', link: '/island/command.html'}, {text: '常见问题', link: '/island/faq.html'} ] },
           { text: '关于我们', children: [ {text: '服务器历史', link: '/about/history.html'}, {text: '服务器贡献者', link: '/about/contributions.html'}, {text: '服务器管理条例', link: '/about/rules.html'}, {text: '赞助服务器', link: '/about/sponsor.html'} ] },
@@ -109,7 +109,7 @@ export default defineUserConfig({
             {
               type: 'text',
               // 🎉🎉🎉
-              content: `<ul><li>服务器现在正在举办<a href="/event/concerto-of-blocks-2026.html" style="color:#3498db;text-decoration:underline;">方块协奏曲</a>活动，欢迎点击最新活动了解活动详情！</li></ul>`,
+              content: `<ul><li>服务器现在正在举办<a href="/event/golden-autumn-bedwars-2026.html" style="color:#3498db;text-decoration:underline;">雨润九州·金秋床战</a>活动，欢迎点击最新活动了解活动详情！</li></ul>`,
               style: 'font-size: 12px;'
             },
             { type: 'hr' },
