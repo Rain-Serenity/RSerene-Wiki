@@ -1,4 +1,4 @@
-# 方块协奏曲(已过期)
+# 方块协奏曲(已结束)
 
 > 适用版本：**Minecraft Java Edition 26.2（Chaos Cubed）**  
 > 举办服务器：**雨润** ｜ IP：`Play.RSerene.com` ｜ 纯净生存或空岛  
