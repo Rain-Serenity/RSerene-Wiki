@@ -18,7 +18,7 @@ author: Chosen_1st , maomaozhanshi
 | 정품 인증      | 없음                                                              |
 | 최대 동시 접속 | 40                                                                |
 | 화이트리스트   | 없음                                                              |
-| 연락처         | QQ Group: 902620497                                               |
+| 연락처         | QQ 그룹: 902620497                                                 |
 | 서버 IP/도메인 | Play.RSerene.com                                                  |
 
 <ClientOnly>

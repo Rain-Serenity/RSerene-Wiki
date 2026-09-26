@@ -27,12 +27,12 @@ Anders als im Original werden die Drop-Items nach 3 Minuten neu generiert!
 ## An den Server verkaufbare Items
 | Item               | Preis  | Item                | Preis  | Item           | Preis  |
 |:-------------------|:-------|:--------------------|:-------|:---------------|:-------|
-| Rohkupfer          | 0,30   | Roheisen            | 0,30   | Rohgold        | 0,60   |
-| Kohle              | 1,80   | Rohkupferblock      | 2,70   | Roheisenblock  | 2,70   |
-| Rohgoldblock       | 5,40   | Smaragderz          | 6,00   | Kohleblock     | 16,20  |
-| Diamant            | 18,00  | Tiefendiamanterz    | 30,00  | Herz des Meeres | 40,00 |
-| Diamanterz         | 45,00  | Netheritbarren      | 70,00  | Verzauberter Goldapfel | 80,00 |
-| Tiefensmaragderz   | 90,00  | Schwerer Kern       | 250,00 |                |        |
+| Rohkupfer          | 0,50   | Roheisen            | 0,80    | Rohgold        | 1,60     |
+| Kohleerz           | 1,80   | Rohkupferblock      | 4,50    | Roheisenblock  | 7,20     |
+| Diamant            | 12,00  | Rohgoldblock        | 14,40   | Smaragderz     | 18,00    |
+| Herz des Meeres    | 45,00  | Netheritbarren      | 70,00   | Diamantblock   | 108,00   |
+| Verzauberter Goldapfel | 160,00 | Tiefenkohleerz    | 280,00  | Tiefensmaragderz | 360,00 |
+| Schwerer Kern      | 3.600,00 |                    |         |                |          |
 ::: tip Hinweis
 Wir optimieren die Verkaufspreise noch weiter, dies sind derzeit nur die Grundpreise.
 :::

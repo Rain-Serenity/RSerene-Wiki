@@ -42,7 +42,7 @@ A: Folgende Lösungen:<br>
 1. Offline-Spieler prüfen, ob sie korrekt mit dem <a href="https://littleskin.cn" target="_blank">LittleSkin</a>-Konto angemeldet sind; <br>
 2. Spiel verlassen und den Skin auf der Launcher-Seite aktualisieren<br>
 3. Eine universelle Skin-Mod installieren
-### F6: Wie lautet die Server-IP und welche Version wird unterstützt?
+### F7: Wie lautet die Server-IP und welche Version wird unterstützt?
 A: Die Server-Domain lautet: Play.RSerene.com<br>
 Unterstützte Spielversion: 26.2
 ## II. Servermechanismen und Regeln

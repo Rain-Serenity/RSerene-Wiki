@@ -1,9 +1,9 @@
 # 方塊協奏曲
 
 > 適用版本：**Minecraft Java Edition 26.2（Chaos Cubed）**  
-> 伺服器：**雨潤** ｜ IP：`Play.RSerene.com` ｜ 純淨生存或空島  
+> 舉辦伺服器：**雨潤** ｜ IP：`Play.RSerene.com` ｜ 純淨生存或空島  
 > 評比日：**2026 年 8 月 16 日**  
-> 本活動為**非 Minecraft 官方活動**， 與 Mojang / Microsoft 無關
+> 本活動為**非 Minecraft 官方活動**，與 Mojang / Microsoft 無關
 
 ## 🎯 活動主題與定位
 
