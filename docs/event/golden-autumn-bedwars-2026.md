@@ -1,7 +1,7 @@
 # 雨润九州·金秋床战
 
 > 适用版本：**Minecraft Java Edition 26.3（Wilderness Bound）**  
-> 举办服务器：**雨润** ｜ IP：`Play.RSerene.com` ｜ 活动模式：**起床战争**  
+> 举办服务器：**雨润** ｜ IP：`Event.RSerene.com` ｜ 活动模式：**起床战争**  
 > 比赛日：**2026 年 10 月 1 日 — 10 月 7 日**  
 > 本活动为**非 Minecraft 官方活动**，与 Mojang / Microsoft 无关
 
