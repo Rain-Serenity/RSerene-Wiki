@@ -1,4 +1,4 @@
-# Block-Konzert
+# Block-Konzert (beendet)
 
 > Gültige Version: **Minecraft Java Edition 26.2 (Chaos Cubed)**  
 > Austragender Server: **Rain Serenity** ｜ IP: `Play.RSerene.com` ｜ Survival oder Skyblock  
@@ -104,6 +104,24 @@ Alle erhaltenen Dracheneier dürfen **auf keinen Fall dupliziert** werden. Dupli
 
 6. **Bildnisse und Inhalte**: Videoaufnahmen und Screenshots der Aufführungen vor Ort können für die Server-Werbung verwendet werden; mit der Teilnahme stimmen die Teilnehmer der Nutzung des entsprechenden Materials zu gemeinnützigen, nicht-kommerziellen Zwecken zu.
 
-::: tip Hinweis
-**Du hast bis hier gelesen und willst immer noch nicht teilnehmen?**
-:::
+## 📊Endergebnis
+| Spiel-ID des Teilnehmers | Werk-ID | Wertung 1 Chosen_1st | Wertung 2 maomaozhanshi | Gesamt |
+|--------------------------------------------|------|----------------|-------------------|-----|
+| yue_ling__                                 | 1    | 95             | 100               | 195 |
+| Domiii111                                  | 2    | 93             | 95                | 188 |
+| YE_77                                      | 3    | 90             | 90                | 180 |
+| pokeAvA                                    | 4    | 88             | 90                | 178 |
+| Tian_a233 CEA_Apple                        | 5    | 87             | 90                | 177 |
+| TJNSSXxy                                   | 6    | 90             | 85                | 175 |
+| yue_ling__                                 | 7    | 85             | 90                | 175 |
+| CEA_Apple                                  | 8    | 89             | 85                | 174 |
+| CEA_Apple                                  | 9    | 92             | 80                | 172 |
+| HeTun233 Ellian__116 CH3Cl  YUZHONGTIANHUA | 10   | 90             | 80                | 170 |
+| MC_MC121                                   | 11   | 85             | 80                | 165 |
+| CEA_Apple                                  | 12   | 85             | 80                | 165 |
+| Cillarr                                    | 13   | 83             | 80                | 163 |
+| YE_77                                      | 14   | 80             | 80                | 160 |
+| AoGZ                                       | 15   | 85             | 75                | 160 |
+| drhsr                                      | 16   | 85             | 75                | 160 |
+| pokeAvA                                    | 17   | 80             | 75                | 155 |
+| CEA_Apple                                  | 18   | 80             | 75                | 155 |

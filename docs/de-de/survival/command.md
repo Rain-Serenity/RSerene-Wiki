@@ -1,15 +1,15 @@
 # Befehlsliste
 | Befehl                       | Funktion                                                        | Anmerkung                             |
 |------------------------------|-----------------------------------------------------------------|---------------------------------------|
-| /back                        | Zum zuletzt gespeicherten Ort zurückkehren                       |                                       |
+| /back                        | Zum zuletzt gespeicherten Ort zurückkehren                       |
 | /balance                     | Deinen Kontostand anzeigen                                       |                                       |
 | /baltop                      | Die Bestenliste der Kontostände anzeigen                         |                                       |
-| /co i                        | Den Blockabfrage-Modus aktivieren (deaktivieren)                 |                                       |
+| /co i                        | Den Blockabfrage-Modus aktivieren (deaktivieren)                 |
 | /dback                       | Zum Ort deines letzten Todes zurückkehren                        |                                       |
 | /gmp mailbox                 | Dein Postfach öffnen – hier werden alle Artikel aus dem globalen Markt, die du vom Markt genommen hast, aufbewahrt |   |
 | /gmp market gui              | Den globalen Markt öffnen                                        |                                       |
 | /gmp market sell &lt;Preis&gt; &lt;Anzahl&gt; | Das Item in deiner Hand zu einem bestimmten Preis auf dem globalen Markt anbieten | |
-| /money                       | Deinen Kontostand anzeigen                                       |                                       |
+| /money                       | Deinen Kontostand anzeigen                                       |
 | /msg                         | Einem Spieler eine private Nachricht senden                      |                                       |
 | /pay &lt;Spielername&gt; &lt;Betrag&gt;  | Geld an einen anderen Spieler überweisen                         | Gebühr 3 %                            |
 | /ping                        | Deine Latenz anzeigen                                            |                                       |

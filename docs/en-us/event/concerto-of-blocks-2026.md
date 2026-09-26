@@ -1,4 +1,4 @@
-# Concerto of Blocks
+# Concerto of Blocks (Ended)
 
 > Supported Version: **Minecraft Java Edition 26.2 (Chaos Cubed)**  
 > Server: **RSerene** ｜ IP: `Play.RSerene.com` ｜ Vanilla Survival or Skyblock  
@@ -104,6 +104,24 @@ Dragon eggs obtained through this event **must not be duplicated**. Duplication 
 
 6. **Recording & Publicity**: Performance recordings and screenshots may be used for server promotional purposes. Participation implies consent for non-commercial, public-benefit use of such materials.
 
-::: tip Tip
-**You've read this far and still not thinking about joining?**
-:::
+## 📊Final Rankings
+| Contestant Game ID | Entry ID | Score 1 Chosen_1st | Score 2 maomaozhanshi | Total |
+|--------------------------------------------|------|----------------|-------------------|-----|
+| yue_ling__                                 | 1    | 95             | 100               | 195 |
+| Domiii111                                  | 2    | 93             | 95                | 188 |
+| YE_77                                      | 3    | 90             | 90                | 180 |
+| pokeAvA                                    | 4    | 88             | 90                | 178 |
+| Tian_a233 CEA_Apple                        | 5    | 87             | 90                | 177 |
+| TJNSSXxy                                   | 6    | 90             | 85                | 175 |
+| yue_ling__                                 | 7    | 85             | 90                | 175 |
+| CEA_Apple                                  | 8    | 89             | 85                | 174 |
+| CEA_Apple                                  | 9    | 92             | 80                | 172 |
+| HeTun233 Ellian__116 CH3Cl  YUZHONGTIANHUA | 10   | 90             | 80                | 170 |
+| MC_MC121                                   | 11   | 85             | 80                | 165 |
+| CEA_Apple                                  | 12   | 85             | 80                | 165 |
+| Cillarr                                    | 13   | 83             | 80                | 163 |
+| YE_77                                      | 14   | 80             | 80                | 160 |
+| AoGZ                                       | 15   | 85             | 75                | 160 |
+| drhsr                                      | 16   | 85             | 75                | 160 |
+| pokeAvA                                    | 17   | 80             | 75                | 155 |
+| CEA_Apple                                  | 18   | 80             | 75                | 155 |
