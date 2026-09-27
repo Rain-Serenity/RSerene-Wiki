@@ -70,9 +70,9 @@ Für Skyblock wird empfohlen, eine **neue Insel** zu errichten, um Flüssigkeit 
 
 ## 🎁 Preise
 
-- 🥇 **1. Platz**: Survival-Guthaben 33.333 + alle Arten von Schallplatten + alle Schmiedevorlagen + schwerer Hammer × 1 + Drachenei × 1
-- 🥈 **2. Platz**: Survival-Guthaben 29.999 + alle Arten von Schallplatten + alle Schmiedevorlagen + schwerer Hammer × 1
-- 🥉 **3. Platz**: Survival-Guthaben 26.666 + alle Schmiedevorlagen + schwerer Hammer × 1
+- 🥇 **1. Platz**: Survival-Guthaben 33.333 + alle Arten von Schallplatten + alle Schmiedevorlagen + Streitkolben × 1 + Drachenei × 1
+- 🥈 **2. Platz**: Survival-Guthaben 29.999 + alle Arten von Schallplatten + alle Schmiedevorlagen + Streitkolben × 1
+- 🥉 **3. Platz**: Survival-Guthaben 26.666 + alle Schmiedevorlagen + Streitkolben × 1
 - 🌟 **Preis für die beste Kreativität** (von der Jury nominiert, 1 Person): Survival-Guthaben 19.999 + alle Schmiedevorlagen
 - 🎼 **Preis für die beste Vanilla-Technik** (von der Jury nominiert, 1 Person): Survival-Guthaben 19.999 + alle Schmiedevorlagen
 - 🎶 **Block-Konzert-Preis** (alle Teilnehmer ohne anderen Preis): Survival-Guthaben 9.999 + Netherherz × 3

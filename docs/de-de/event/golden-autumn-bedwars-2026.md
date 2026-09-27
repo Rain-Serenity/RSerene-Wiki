@@ -13,7 +13,7 @@ Warum das Ganze? Rain Serenity hat von Anfang an eine gemeinnützige, freundlich
 
 **Die drei Kernpunkte des Bed Wars**:
 
-1. **Das Bett verteidigen**: Das Bett ist die Lebenslinie des Teams — solange es steht, können Teamkameraden wiederbelebt werden; ist es zerstört, beginnt für das ganze Team der Ausschluss-Countdown
+1. **Das Bett verteidigen**: Das Bett ist die Lebenslinie des Teams — solange es steht, können Teamkameraden respawnen; ist es zerstört, beginnt für das ganze Team der Ausschluss-Countdown
 2. **Betten zerstören**: Feindliche Betten durch Brücken, Hinterhalte, Teamkämpfe, Fallen usw. zerstören — das ist der Schlüssel zum Sieg
 3. **Teamwork**: Ressourcenverteilung, Verteidigung und Rotation, frontale Bindung und Flankenangriffe — nichts darf fehlen
 
@@ -31,9 +31,9 @@ Warum das Ganze? Rain Serenity hat von Anfang an eine gemeinnützige, freundlich
 
 **Teilnahmeberechtigung**
 - **Alle Spieler** des Rain-Serenity-Servers können teilnehmen
-- **Einzelanmeldung** oder **Teamanmeldung** möglich; Teamgröße **2 — 3 Personen**
+- **Einzelanmeldung** oder **Teamanmeldung** möglich; Teamgröße **2 — 4 Personen**
 - Das [Anmeldeformular](https://docs.qq.com/sheet/DUkNOSU1mclV2Z2FD) ausfüllen, um sich anzumelden
-- Teams mit weniger als 3 Personen können zufällig mit Teamkameraden aufgefüllt werden
+- Teams mit weniger als 4 Personen können zufällig mit Teamkameraden aufgefüllt werden
 
 ::: warning Warnung
 **Wer sich nach der Anmeldung ohne triftigen Grund zur geplanten Spielzeit nicht einfindet, sich kurzfristig zurückzieht oder die Teilnahmeanforderungen nicht erfüllt**, dem wird eine **Anmeldegebühr von 999,99** abgezogen; dies wirkt sich auch auf die Teilnahmeberechtigung künftiger Veranstaltungen aus.
@@ -43,8 +43,8 @@ Warum das Ganze? Rain Serenity hat von Anfang an eine gemeinnützige, freundlich
 1. **Der Client bleibt vanilla**: Nur das offizielle Bed-Wars-Spielplay des Servers ist erlaubt. Hacks, Röntgensicht, Fliegen, Auto-Klicker, Makros, Paketmanipulation und Cheating-Ressourcenpakete sind verboten
 2. **Anweisungen der Schiedsrichter befolgen**: Zum angegebenen Zeitpunkt auf den Veranstaltungsserver gehen und die zugewiesene Karte sowie den Teamraum betreten
 3. **Festes Team**: Keine eigenmächtigen Spielerwechsel während des Wettkampfs; in Ausnahmefällen ist eine vorherige Anfrage bei den Schiedsrichtern erforderlich
-4. **Keine Zusammenarbeit über Teams hinweg**: Kein Vorspiellassen, keine Ressourcenabgabe, kein böswilliges Teambilden und kein Spielen für Dritte
-5. **Kein böswilliges Ausnutzen von Fehlern**: Dazu gehören das Durch Wände gleiten, das Farmen von Ressourcen, das Vervielfachen von Gegenständen, das Verlassen der Karte und das vorsätzliche Hinauszögern des Spiels
+4. **Keine Zusammenarbeit über Teams hinweg**: Kein absichtliches Verlierenlassen, keine Ressourcenabgabe, kein böswilliges Teambilden und kein Spielen für Dritte
+5. **Kein böswilliges Ausnutzen von Fehlern**: Dazu gehören das Gleiten durch Wände, das Erzeugen von Ressourcen durch Fehlerausnutzung, das Vervielfachen von Gegenständen, das Herausglitchen aus der Karte und das vorsätzliche Hinauszögern des Spiels
 6. **Fairer Wettkampf**: Beleidigungen, Belästigungen und böswillige Störung anderer Teilnehmer sind verboten
 
 **Verbotene Handlungen**
@@ -67,7 +67,7 @@ Warum das Ganze? Rain Serenity hat von Anfang an eine gemeinnützige, freundlich
 | Sieg                        | +5                           |
 | Feindliches Bett zerstören  | +2 / Stück                   |
 | Kill                        | +1 / Person                  |
-| Letzter Überlebender        | +1                           |
+| Bis zum Ende überlebt       | +1                           |
 | Niederlage, aber Bett zerstört | Bettabbruch-Punkte werden angerechnet |
 
 **Rangregeln**
@@ -77,18 +77,18 @@ Warum das Ganze? Rain Serenity hat von Anfang an eine gemeinnützige, freundlich
 
 ## 🎁 Preise
 
-- 🥇 **1. Platz**: Survival-Guthabenscheck 33.333 + Drachenei × 1 + schwerer Hammer × 1 + alle Schmiedevorlagen + Titel „Herbst-Bettkönig“
-- 🥈 **2. Platz**: Survival-Guthabenscheck 29.999 + schwerer Hammer × 1 + alle Schmiedevorlagen + Titel „Eiserne Bettwand“
-- 🥉 **3. Platz**: Survival-Guthabenscheck 26.666 + schwerer Hammer × 1 + alle Schmiedevorlagen + Titel „Vorhut der Bettabrecher“
+- 🥇 **1. Platz**: Survival-Guthabenscheck 33.333 + Drachenei × 1 + Streitkolben × 1 + alle Schmiedevorlagen + Titel „Herbst-Bettkönig“
+- 🥈 **2. Platz**: Survival-Guthabenscheck 29.999 + Streitkolben × 1 + alle Schmiedevorlagen + Titel „Eiserne Bettwand“
+- 🥉 **3. Platz**: Survival-Guthabenscheck 26.666 + Streitkolben × 1 + alle Schmiedevorlagen + Titel „Vorhut der Bettabrecher“
 - 🌟 **Preis für den besten Bettabbruch**: Survival-Guthabenscheck 19.999 + Netherherz × 3 + Titel „Speer des Bettabbruchs“
 - 🛡️ **Preis für die beste Verteidigung**: Survival-Guthabenscheck 19.999 + Netherherz × 3 + Titel „Schild des Bettschutzes“
-- 🎶 **Goldener-Herbst-Teilnahmepreis**: Alle Teilnehmer, die mindestens ein Spiel abgeschlossen haben, erhalten einen Survival-Guthabenscheck 9.999 + Netherherz × 3 + Titel „Krieger des goldenen Herbstes“
+- 🎶 **Goldener-Herbst-Teilnahmepreis**: Alle Teilnehmer, die mindestens ein Spiel abgeschlossen haben, erhalten einen Survival-Guthabenscheck 9.999 + Netherherz × 3 + Titel „BedWars-Kämpfer des goldenen Herbstes“
 
 ::: tip Hinweis
 Alle Preise werden, **sofern nicht anders angegeben**, auf **beiden Servern** (Survival und Skyblock) vergeben  
-Alle Teilnehmer, die **sich angemeldet und mindestens ein Spiel abgeschlossen haben**, erhalten eine **spezielle Benutzergruppe „Krieger des goldenen Herbstes“**  
+Alle Teilnehmer, die **sich angemeldet und mindestens ein Spiel abgeschlossen haben**, erhalten eine **spezielle Benutzergruppe „BedWars-Kämpfer des goldenen Herbstes“**  
 Die spezielle Benutzergruppe hat folgende Privilegien  
-Nennung auf der Veranstaltungsseite der Website + exklusiver Titel „Krieger des goldenen Herbstes“  
+Nennung auf der Veranstaltungsseite der Website + exklusiver Titel „BedWars-Kämpfer des goldenen Herbstes“  
 Survival: 1. Keine Gebühr beim Verkauf von Waren 2. Grundstückspreis wird 0,03 pro Block 3. Flugrechte für 7 Tage  
 Skyblock: noch offen
 :::

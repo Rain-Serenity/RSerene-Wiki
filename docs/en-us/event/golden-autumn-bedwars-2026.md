@@ -23,7 +23,7 @@ Why do it? RSerene has always upheld a public-benefit, friendly, and fair commun
 |-------------------|-------------------------------------------------|------------------------------------------------------|
 | Registration      | September 27, 2026 — September 30, 2026 23:59   | Fill in the registration form, solo / team entry     |
 | Practice          | September 28, 2026 — September 30, 2026         | Event server open for practice; learn maps and rules |
-| **Main Event**    | **October 1, 2026 — October 5, 2026**           | Daily 14:30 — 22:30 (subject to change), group point matches |
+| **Main Event**    | **October 1, 2026 — October 5, 2026**           | Daily 14:30 — 22:30 (as applicable), group point matches     |
 | Results           | October 6, 2026                                 | Announced in QQ group (902620497) and on RSerene.com |
 | Prize Distribution| October 7, 2026                                 | Rewards distributed by the server                    |
 
@@ -31,9 +31,9 @@ Why do it? RSerene has always upheld a public-benefit, friendly, and fair commun
 
 **Eligibility**
 - **All players** on the RSerene server may participate
-- **Solo** or **team** registration supported; team size **2 — 3 players**
+- **Solo** or **team** registration supported; team size **2 — 4 players**
 - Fill in the [registration form](https://docs.qq.com/sheet/DUkNOSU1mclV2Z2FD) to register
-- Teams with fewer than 3 players can be matched with teammates randomly
+- Teams with fewer than 4 players can be matched with teammates randomly
 
 ::: warning Warning
 **Failing to show up without reason during the expected match times after registration, withdrawing late, or not meeting entry requirements** will result in **a deduction of the registration fee 999.99** and will affect eligibility for future events.
@@ -77,9 +77,9 @@ Why do it? RSerene has always upheld a public-benefit, friendly, and fair commun
 
 ## 🎁 Prizes
 
-- 🥇 **Champion**: Vanilla Survival balance cheque 33,333 + Dragon Egg × 1 + Mace × 1 + all trim templates + title「Golden Autumn Bed King」
-- 🥈 **Runner-up**: Vanilla Survival balance cheque 29,999 + Mace × 1 + all trim templates + title「Iron Wall Bedkeeper」
-- 🥉 **Third Place**: Vanilla Survival balance cheque 26,666 + Mace × 1 + all trim templates + title「Bed-Breaking Vanguard」
+- 🥇 **Champion**: Vanilla Survival balance cheque 33,333 + Dragon Egg × 1 + Mace × 1 + all smithing templates + title「Golden Autumn Bed King」
+- 🥈 **Runner-up**: Vanilla Survival balance cheque 29,999 + Mace × 1 + all smithing templates + title「Iron Wall Bedkeeper」
+- 🥉 **Third Place**: Vanilla Survival balance cheque 26,666 + Mace × 1 + all smithing templates + title「Bed-Breaking Vanguard」
 - 🌟 **Best Bed-Breaking Award**: Vanilla Survival balance cheque 19,999 + Nether Heart × 3 + title「Spear of Bedbreaking」
 - 🛡️ **Best Defense Award**: Vanilla Survival balance cheque 19,999 + Nether Heart × 3 + title「Shield of Bed Protection」
 - 🎶 **Golden Autumn Participation Award**: All participants who completed at least one match receive a Vanilla Survival balance cheque 9,999 + Nether Heart × 3 + title「Golden Autumn Bed Warrior」

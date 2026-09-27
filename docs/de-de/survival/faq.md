@@ -62,14 +62,14 @@ A: Neue Spieler können Geld erhalten, indem sie entsprechende Items an den Syst
 Auf diesem Server gibt es keine Bezahlmöglichkeit – Geld kann nicht durch Echtgeld erworben werden!!
 ### F3: Wofür kann das Geld verwendet werden?
 A: Spieler können mit /gmp market gui auf dem Wirtschaftsmarkt Items verkaufen oder kaufen.
-Mit der Feldhacke können außerdem Grundstücke gekauft werden; Grundstücke schützen wirksam vor Zerstörung durch bösartige Spieler.
+Mit der Holzhacke können außerdem Grundstücke gekauft werden; Grundstücke schützen wirksam vor Zerstörung durch bösartige Spieler.
 ::: warning Hinweis
 Die Preise auf dem globalen Wirtschaftsmarkt werden von den Spielern selbst festgelegt; um eine Wirtschaftsinflation zu verhindern, werden die Preise im Systemshop vom Server festgelegt (๑•́ω•̀๑)
 :::
 ## IV. Fragen zu Befehlen
-### F1: Wie benutzt man die Feldhacke?
-A: Geh zu dem untersten, äußersten Eckblock deines Hausbereichs, nimm die Feldhacke in die Hand und klicke mit der linken Maustaste, um den ersten Punkt Pos1 zu markieren;<br>
-geh dann zum höchsten, diagonal gegenüberliegenden Eckblock des Hauses und klicke mit der Feldhacke mit der rechten Maustaste, um den zweiten Punkt Pos2 zu markieren;<br>
+### F1: Wie benutzt man die Holzhacke?
+A: Geh zu dem untersten, äußersten Eckblock deines Hausbereichs, nimm die Holzhacke in die Hand und klicke mit der linken Maustaste, um den ersten Punkt Pos1 zu markieren;<br>
+geh dann zum höchsten, diagonal gegenüberliegenden Eckblock des Hauses und klicke mit der Holzhacke mit der rechten Maustaste, um den zweiten Punkt Pos2 zu markieren;<br>
 Der gesamte Quader zwischen den beiden Punkten wird geschützt. Es wird empfohlen, oben und unten einige Blöcke Reserve zu lassen, damit Dach und Keller innerhalb des Grundstücks liegen.<br>
 Gib nach der Auswahl /res create Grundstücksname ein, um automatisch den Betrag abzubuchen und das Grundstück zu erstellen;<br>
 Weitere Grundstücksbefehle findest du mit /res help auf der Befehlsseite.

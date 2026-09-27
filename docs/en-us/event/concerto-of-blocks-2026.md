@@ -25,7 +25,7 @@ Why vanilla-only? RSerene is a **pure public-benefit, pure vanilla survival** se
 | Preparation       | July 23, 2026 — August 15, 2026 | Build anywhere on the server                       |
 | **Judging Day**   | **August 16, 2026**          | Scheduled performances throughout the day + scoring|
 | Results           | August 17, 2026              | Announced on QQ group (902620497) and RSerene.com  |
-| Prize Distribution| Starting August 18, 2026     | Rewards will be distributed by the server        |
+| Prize Distribution| August 18, 2026              | Rewards will be distributed by the server        |
 
 ## 📋 Entry Rules
 
@@ -70,11 +70,11 @@ Skyblock players are advised to **create a new island** for better performance.
 
 ## 🎁 Prizes
 
-- 🥇 **Champion**: Vanilla Survival balance 33,333 + all music discs + all trim templates + Mace × 1 + Dragon Egg × 1
-- 🥈 **Runner-up**: Vanilla Survival balance 29,999 + all music discs + all trim templates + Mace × 1
-- 🥉 **Third Place**: Vanilla Survival balance 26,666 + all trim templates + Mace × 1
-- 🌟 **Best Creative Award** (judge-nominated, 1 winner): Vanilla Survival balance 19,999 + all trim templates
-- 🎼 **Best Vanilla Tech Award** (judge-nominated, 1 winner): Vanilla Survival balance 19,999 + all trim templates
+- 🥇 **Champion**: Vanilla Survival balance 33,333 + all music discs + all smithing templates + Mace × 1 + Dragon Egg × 1
+- 🥈 **Runner-up**: Vanilla Survival balance 29,999 + all music discs + all smithing templates + Mace × 1
+- 🥉 **Third Place**: Vanilla Survival balance 26,666 + all smithing templates + Mace × 1
+- 🌟 **Best Creative Award** (judge-nominated, 1 winner): Vanilla Survival balance 19,999 + all smithing templates
+- 🎼 **Best Vanilla Tech Award** (judge-nominated, 1 winner): Vanilla Survival balance 19,999 + all smithing templates
 - 🎶 **Concerto of Blocks Award** (all participants who did not win other prizes): Vanilla Survival balance 9,999 + Nether Heart × 3
 
 ::: tip Tip

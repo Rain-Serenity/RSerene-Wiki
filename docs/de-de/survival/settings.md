@@ -20,7 +20,7 @@ Anders als im Original werden die Drop-Items nach 3 Minuten neu generiert!
 <!--## Entitäten-Spawn
 **Wir haben die Sichtweite und die Berechnungsdistanz von Entitäten verringert, dafür aber die Spawn-Effizienz von Monstern in Chunks nahe dem Spieler deutlich erhöht.**-->
 ## Grundstücke
-**Unser Werkzeug zum Erstellen von Grundstücken ist die Feldhacke, die maximale Grundstücksgröße beträgt 512×256×512 (X×Y×Z), die Höhe ist nicht begrenzt (–64 bis 320 sind möglich).**
+**Unser Werkzeug zum Erstellen von Grundstücken ist die Holzhacke, die maximale Grundstücksgröße beträgt 512×256×512 (X×Y×Z), die Höhe ist nicht begrenzt (–64 bis 320 sind möglich).**
 **0,05 Spielwährung pro Block**
 <!--## Zusätzliche Unterstützung für JEI
 **Dieser Server verwendet das eigene Plugin [JEIBukkit](https://GitHub.com/Rain-Serenity/JEIBukkit), das dir beim Beitritt automatisch die Rezepte synchronisiert.**-->
