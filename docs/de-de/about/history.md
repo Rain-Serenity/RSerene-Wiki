@@ -16,7 +16,7 @@
 ## Minecraft Rain Serenity Server (15.06.2024 — )
 **Dieser Server hat sich am 15. Juni 2024 von Skydom getrennt**
 
-**In dieser Phase läuft der Server auf den Versionen 1.21.4 — 26.2**
+**In dieser Phase läuft der Server auf den Versionen 1.21.4 — 26.3**
 
 **Es wird die Domain `RSerene.com` verwendet**
 

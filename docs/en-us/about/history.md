@@ -16,7 +16,7 @@
 ## Minecraft Rain Serenity Server(2024.6.15——)
 **This server split from Skydom on June 15, 2024**
 
-**Server version: 1.21.4——26.2**
+**Server version: 1.21.4——26.3**
 
 **Domain: `RSerene.com`**
 

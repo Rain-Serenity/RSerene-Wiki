@@ -11,7 +11,7 @@ Obwohl auf dem Server keine Premium-Authentifizierung aktiviert ist, benötigen 
 
 | Typ                        | Status                                                                        |
 |----------------------------|-------------------------------------------------------------------------------|
-| Unterstützte Version       | 26.2                                                                          |
+| Unterstützte Version       | 26.3                                                                          |
 | Geschäftsmodell            | Gemeinnütziger Server » Alles kostenlos + akzeptiert „bedingungslose“ Spenden |
 | Spielmodus                 | Survival                                                                      |
 | Netzwerktyp                | Multi-Line                                                                    |

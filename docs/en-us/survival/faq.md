@@ -44,7 +44,7 @@ A: Here are some solutions:<br>
 3. Install a universal skin mod.
 ### Q7: What is the server IP and what versions are supported?
 A: Server domain: Play.RSerene.com<br>
-Supported game version: 26.2
+Supported game version: 26.3
 ## II. Server Mechanics & Rules
 ### Q1: Does the server have microtransactions, VIP, or paid items?
 A: Absolutely not. This server is purely non-profit with no paid features. Donations only cover server costs and cannot be used for flight, buffs, or any other perks.

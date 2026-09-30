@@ -11,7 +11,7 @@ Obwohl auf dem Server keine Premium-Authentifizierung aktiviert ist, benötigen 
 
 | Typ                    | Status                                                                     |
 |------------------------|----------------------------------------------------------------------------|
-| Unterstützte Version   | 26.2                                                                       |
+| Unterstützte Version   | 26.3                                                                       |
 | Geschäftsmodell        | Gemeinnütziger Server » Alles kostenlos + akzeptiert „bedingungslose“ Spenden |
 | Spielmodus             | Survival                                                                   |
 | Netzwerktyp            | Multi-Line                                                                 |
@@ -32,7 +32,7 @@ Obwohl auf dem Server keine Premium-Authentifizierung aktiviert ist, benötigen 
 
 ## Kernmerkmale
 
-* **Reines Vanilla-Erlebnis, zurück zum Wesentlichen: Vollständig auf den offiziellen Vanilla-Mechaniken von Minecraft 26.2 basierend, ohne jegliche Veränderung des Gameplays. Du beginnst mit deiner ersten Holzspitzhacke und erschaffst mit eigenen Händen gewaltige automatisierte Farmen und beeindruckende Bauwerke – für den ursprünglichsten Survival-Spaß.** <br>
+* **Reines Vanilla-Erlebnis, zurück zum Wesentlichen: Vollständig auf den offiziellen Vanilla-Mechaniken von Minecraft 26.3 basierend, ohne jegliche Veränderung des Gameplays. Du beginnst mit deiner ersten Holzspitzhacke und erschaffst mit eigenen Händen gewaltige automatisierte Farmen und beeindruckende Bauwerke – für den ursprünglichsten Survival-Spaß.** <br>
 
 * **Gemeinnützig und dauerhaft, Spielstand wird nicht gelöscht: Der Server wird aus Leidenschaft vom Serverbesitzer gemeinnützig betrieben. Wir verpflichten uns zur dauerhaften Aufbewahrung und regelmäßigen Sicherung des Spielstands, damit deine mit viel Mühe errichteten Bauwerke und Erinnerungen sorgfältig bewahrt werden und keine Arbeit verloren geht.** <br>
 

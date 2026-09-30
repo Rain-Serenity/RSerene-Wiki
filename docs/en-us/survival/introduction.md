@@ -11,7 +11,7 @@ Although the server does not have premium authentication enabled, non-premium us
 
 | Type                   | Status                                                                 |
 |------------------------|------------------------------------------------------------------------|
-| Supported Version      | 26.2                                                                   |
+| Supported Version      | 26.3                                                                   |
 | Operating Model        | Public Service » Completely free + accepting "unconditional" donations |
 | Game Mode              | Survival                                                               |
 | Network Type           | Multi-line                                                             |
@@ -32,7 +32,7 @@ Although the server does not have premium authentication enabled, non-premium us
 
 ## Core Features
 
-* **Pure Vanilla Experience, Back to the Essence: Fully based on Minecraft 26.2 official vanilla mechanics, with no gameplay alterations. Start with your first wooden pickaxe and build magnificent automated farms and structures with your own hands, experiencing the most authentic survival experience.** <br>
+* **Pure Vanilla Experience, Back to the Essence: Fully based on Minecraft 26.3 official vanilla mechanics, with no gameplay alterations. Start with your first wooden pickaxe and build magnificent automated farms and structures with your own hands, experiencing the most authentic survival experience.** <br>
 
 * **Non-profit Forever, Save Data Never Deleted: The server is operated out of passion by the owner on a non-profit basis. We are committed to permanent save data retention and regular backups, ensuring that your painstaking builds and memories are well protected.** <br>
 

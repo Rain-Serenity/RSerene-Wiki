@@ -103,7 +103,7 @@ export default defineUserConfig({
             {
               type: 'text',
               // 🎉🎉🎉
-              content: `<ul><li>服务器已经更新到26.2！</li></ul>`,
+              content: `<ul><li>服务器已经更新到26.3！</li></ul>`,
               style: 'font-size: 12px;'
             },
             {
@@ -191,7 +191,7 @@ export default defineUserConfig({
             {
               type: 'text',
               // 🎉🎉🎉
-              content: `<ul><li>伺服器已經更新到26.2！</li></ul>`,
+              content: `<ul><li>伺服器已經更新到26.3！</li></ul>`,
               style: 'font-size: 12px;'
             },
             {
@@ -279,7 +279,7 @@ export default defineUserConfig({
             {
               type: 'text',
               // 🎉🎉🎉
-              content: `<ul><li>The server has been updated to 26.2!</li></ul>`,
+              content: `<ul><li>The server has been updated to 26.3!</li></ul>`,
               style: 'font-size: 12px;'
             },
             {
@@ -367,7 +367,7 @@ export default defineUserConfig({
             {
               type: 'text',
               // 🎉🎉🎉
-              content: `<ul><li>Сервер обновлён до версии 26.2!</li></ul>`,
+              content: `<ul><li>Сервер обновлён до версии 26.3!</li></ul>`,
               style: 'font-size: 12px;'
             },
             {
@@ -455,7 +455,7 @@ export default defineUserConfig({
             {
               type: 'text',
               // 🎉🎉🎉
-              content: `<ul><li>サーバーは26.2に更新されました！</li></ul>`,
+              content: `<ul><li>サーバーは26.3に更新されました！</li></ul>`,
               style: 'font-size: 12px;'
             },
             {
@@ -543,7 +543,7 @@ export default defineUserConfig({
             {
               type: 'text',
               // 🎉🎉🎉
-              content: `<ul><li>서버가 26.2로 업데이트되었습니다!</li></ul>`,
+              content: `<ul><li>서버가 26.3로 업데이트되었습니다!</li></ul>`,
               style: 'font-size: 12px;'
             },
             {
@@ -631,7 +631,7 @@ export default defineUserConfig({
             {
               type: 'text',
               // 🎉🎉🎉
-              content: `<ul><li>Der Server wurde auf Version 26.2 aktualisiert!</li></ul>`,
+              content: `<ul><li>Der Server wurde auf Version 26.3 aktualisiert!</li></ul>`,
               style: 'font-size: 12px;'
             },
             {

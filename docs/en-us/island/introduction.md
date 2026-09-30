@@ -11,7 +11,7 @@ Although the server does not have premium authentication enabled, non-premium us
 
 | Type                   | Status                                                                 |
 |------------------------|------------------------------------------------------------------------|
-| Supported Version      | 26.2                                                                   |
+| Supported Version      | 26.3                                                                   |
 | Operating Model        | Public Service » Completely free + accepting "unconditional" donations |
 | Game Mode              | Survival                                                               |
 | Network Type           | Multi-line                                                             |

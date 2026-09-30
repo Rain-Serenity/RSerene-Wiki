@@ -44,7 +44,7 @@ A: Folgende Lösungen:<br>
 3. Eine universelle Skin-Mod installieren
 ### F7: Wie lautet die Server-IP und welche Version wird unterstützt?
 A: Die Server-Domain lautet: Play.RSerene.com<br>
-Unterstützte Spielversion: 26.2
+Unterstützte Spielversion: 26.3
 ## II. Servermechanismen und Regeln
 ### F1: Gibt es Bezahlangebote, VIP oder kostenpflichtige Items auf dem Server?
 A: Überhaupt nicht. Dieser Server ist rein gemeinnützig und hat keinerlei kostenpflichtige Angebote. Spenden dienen ausschließlich der Deckung der Serverkosten und können nicht gegen Fliegen, Buffs oder ähnliche Rechte eingetauscht werden.
