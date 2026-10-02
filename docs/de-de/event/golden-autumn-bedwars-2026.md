@@ -2,7 +2,7 @@
 
 > Gültige Version: **Minecraft Java Edition 26.3 (Wilderness Bound)**  
 > Austragender Server: **Rain Serenity** ｜ IP: `Event.RSerene.com` ｜ Spielmodus: **BedWars**  
-> Wettkampftage: **1. — 7. Oktober 2026**  
+> Wettkampftage: **1. — 4. Oktober 2026**  
 > Diese Veranstaltung ist **keine offizielle Minecraft-Veranstaltung** und steht in keinem Zusammenhang mit Mojang / Microsoft
 
 ## 🎯 Thema und Ausrichtung der Veranstaltung
@@ -23,9 +23,9 @@ Warum das Ganze? Rain Serenity hat von Anfang an eine gemeinnützige, freundlich
 |------------------------|-------------------------------------------------------|---------------------------------------------------------------|
 | Anmeldephase           | 27. September 2026 — 30. September 2026, 23:59 Uhr    | Anmeldeformular ausfüllen, Einzel- / Teamaanmeldung            |
 | Übungsphase            | 28. September 2026 — 30. September 2026               | Veranstaltungsserver für Übungen geöffnet; Karten und Regeln kennenlernen |
-| **Wettkampf**          | **1. — 5. Oktober 2026**                              | Täglich 14:30 — 22:30 (nach Situation), Gruppen-Punktespiele  |
-| Bekanntgabe der Ergebnisse | 6. Oktober 2026                                    | Bekanntgabe in der QQ-Gruppe (902620497) und auf der Website RSerene.com |
-| Preisvergabe           | 7. Oktober 2026                                       | Die Preise werden offiziell vom Server vergeben                |
+| **Wettkampf**          | **2. Oktober 2026**                                   | Täglich 20:00-21:30, Gruppen-Punktespiele                     |
+| Bekanntgabe der Ergebnisse | 3. Oktober 2026                                    | Bekanntgabe in der QQ-Gruppe (902620497) und auf der Website RSerene.com |
+| Preisvergabe           | 4. Oktober 2026                                       | Die Preise werden offiziell vom Server vergeben                |
 
 ## 📋 Teilnahmeregeln
 
@@ -53,6 +53,15 @@ Warum das Ganze? Rain Serenity hat von Anfang an eine gemeinnützige, freundlich
 - Bösartige Störung der Spiele anderer Teilnehmer
 - Bei Verstoß gegen einen dieser Punkte erfolgt **die sofortige Disqualifikation und die Behandlung gemäß der [Server-Verwaltungsordnung](/de-de/about/rules.html)**
 
+## 📊 Spielplan
+| Runde  | Teilnehmende Teams                              | Freilos-Team |
+|--------|-------------------------------------------------|--------------|
+| Runde 1 | Ad vs MLT vs Zero Gravity vs 奶奶的龙            | greenland    |
+| Runde 2 | greenland vs MLT vs Zero Gravity vs 奶奶的龙     | Ad           |
+| Runde 3 | Ad vs greenland vs Zero Gravity vs 奶奶的龙      | MLT          |
+| Runde 4 | Ad vs greenland vs MLT vs 奶奶的龙               | Zero Gravity |
+| Runde 5 | Ad vs greenland vs MLT vs Zero Gravity          | 奶奶的龙       |
+
 ## 🏆 Spielmodus und Wertung
 
 **Spielmodus**
@@ -70,7 +79,7 @@ Warum das Ganze? Rain Serenity hat von Anfang an eine gemeinnützige, freundlich
 | Finaler Kill                | +1 / Person                  |
 
 **Rangregeln**
-- Rangfolge nach Gesamtpunkten; bei Gleichstand werden verglichen: zerstörte Betten → Kills → Gesamtüberlebenszeit → direkter Vergleich
+- Rangfolge nach den durchschnittlichen Punkten pro Spieler im Team; bei Gleichstand werden verglichen: zerstörte Betten → Kills → Gesamtüberlebenszeit → direkter Vergleich
 - Die Top 4 ziehen ins Finale ein; das Finale wird im Best-of-three-Format ausgetragen
 - Wird bei Zeitablauf kein Sieger ermittelt, entscheiden verbleibende Betten, Kills und zerstörte Betten
 

@@ -2,7 +2,7 @@
 
 > Supported Version: **Minecraft Java Edition 26.3 (Wilderness Bound)**  
 > Server: **RSerene** ｜ IP: `Event.RSerene.com` ｜ Game Mode: **Bed Wars**  
-> Tournament Dates: **October 1 – October 7, 2026**  
+> Tournament Dates: **October 1 – October 4, 2026**  
 > This event is **not an official Minecraft event** and is not affiliated with Mojang / Microsoft
 
 ## 🎯 Theme & Concept
@@ -23,9 +23,9 @@ Why do it? RSerene has always upheld a public-benefit, friendly, and fair commun
 |-------------------|-------------------------------------------------|------------------------------------------------------|
 | Registration      | September 27, 2026 — September 30, 2026 23:59   | Fill in the registration form, solo / team entry     |
 | Practice          | September 28, 2026 — September 30, 2026         | Event server open for practice; learn maps and rules |
-| **Main Event**    | **October 1, 2026 — October 5, 2026**           | Daily 14:30 — 22:30 (as applicable), group point matches     |
-| Results           | October 6, 2026                                 | Announced in QQ group (902620497) and on RSerene.com |
-| Prize Distribution| October 7, 2026                                 | Rewards distributed by the server                    |
+| **Main Event**    | **October 2, 2026**                             | Daily 20:00-21:30, group point matches                       |
+| Results           | October 3, 2026                                 | Announced in QQ group (902620497) and on RSerene.com |
+| Prize Distribution| October 4, 2026                                 | Rewards distributed by the server                    |
 
 ## 📋 Entry Rules
 
@@ -53,6 +53,15 @@ Why do it? RSerene has always upheld a public-benefit, friendly, and fair commun
 - Maliciously disrupting other contestants' matches
 - Violating any of the above will result in **immediate disqualification and action per the [Server Rules](/en-us/about/rules.html)**
 
+## 📊 Match Schedule
+| Round  | Participating Teams                             | Bye Team     |
+|--------|-------------------------------------------------|--------------|
+| Round 1 | Ad vs MLT vs Zero Gravity vs 奶奶的龙            | greenland    |
+| Round 2 | greenland vs MLT vs Zero Gravity vs 奶奶的龙     | Ad           |
+| Round 3 | Ad vs greenland vs Zero Gravity vs 奶奶的龙      | MLT          |
+| Round 4 | Ad vs greenland vs MLT vs 奶奶的龙               | Zero Gravity |
+| Round 5 | Ad vs greenland vs MLT vs Zero Gravity          | 奶奶的龙       |
+
 ## 🏆 Format & Scoring
 
 **Match Mode**
@@ -70,7 +79,7 @@ Why do it? RSerene has always upheld a public-benefit, friendly, and fair commun
 | Final kill         | +1 / each                   |
 
 **Ranking Rules**
-- Ranked by total points; ties broken in order: beds broken → kills → total survival time → head-to-head record
+- Ranked by team average points per player; ties broken in order: beds broken → kills → total survival time → head-to-head record
 - The top four advance to the finals; the finals use a best-of-three format
 - If time runs out without a winner, decided by remaining beds, kills, and beds broken
 
