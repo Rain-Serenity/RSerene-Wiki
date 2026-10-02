@@ -14,7 +14,7 @@ bannerBrand:
   # bgImageStyle:
   #   height: 450px
   buttons:
-    # - { text: 收到, icon: 'EarthFilled', link: '/blogs/category1/blog2' }
+    # - { text: 受信済み, icon: 'EarthFilled', link: '/blogs/category1/blog2' }
     - { text: 読み始める, link: '/ja-jp/survival/introduction' }
     - { text: クライアントをダウンロード, link: 'https://www.mcmod.cn/modpack/467.html', type: 'plain' }
     # - { text: safsdfdsfdssdsdfsdf, link: '/blogs/category1/blog2', type: 'text', icon: 'Alien' }
