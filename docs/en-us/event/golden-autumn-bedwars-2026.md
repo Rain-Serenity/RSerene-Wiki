@@ -67,8 +67,7 @@ Why do it? RSerene has always upheld a public-benefit, friendly, and fair commun
 | Win                | +5                          |
 | Break an enemy bed | +2 / each                   |
 | Kill               | +1 / each                   |
-| Last one standing  | +1                          |
-| Lose but broke a bed | Bed-break points still counted |
+| Final kill         | +1 / each                   |
 
 **Ranking Rules**
 - Ranked by total points; ties broken in order: beds broken → kills → total survival time → head-to-head record

@@ -67,8 +67,7 @@ Warum das Ganze? Rain Serenity hat von Anfang an eine gemeinnützige, freundlich
 | Sieg                        | +5                           |
 | Feindliches Bett zerstören  | +2 / Stück                   |
 | Kill                        | +1 / Person                  |
-| Bis zum Ende überlebt       | +1                           |
-| Niederlage, aber Bett zerstört | Bettabbruch-Punkte werden angerechnet |
+| Finaler Kill                | +1 / Person                  |
 
 **Rangregeln**
 - Rangfolge nach Gesamtpunkten; bei Gleichstand werden verglichen: zerstörte Betten → Kills → Gesamtüberlebenszeit → direkter Vergleich
