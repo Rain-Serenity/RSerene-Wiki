@@ -53,7 +53,7 @@ A: Nein, es sind keine Mods erforderlich. Du kannst lokale Mods hinzufügen, die
 ### F3: Wird der Spielstand des Servers regelmäßig zurückgesetzt?
 A: Es gibt keine Reset-Pläne, der Spielstand bleibt langfristig stabil erhalten. Nur bei schwerwiegenden Störungen wird vorab in der QQ-Gruppe über eine Sicherung informiert.
 ### F4: Gibt es eine Obergrenze für die Spielerzahl?
-A: Maximal 20 Spieler gleichzeitig online. Wenn der Server voll ist, kannst du auf dem Skyblock-Server warten oder zu einer anderen Zeit kommen; ein kostenpflichtiger Ausbau wird nicht angeboten!!!
+A: Maximal 40 Spieler gleichzeitig online. Wenn der Server voll ist, kannst du auf dem Skyblock-Server warten oder zu einer anderen Zeit kommen; ein kostenpflichtiger Ausbau wird nicht angeboten!!!
 ## III. Fragen zur globalen Wirtschaft und zum Markt
 ### F1: Warum werden die Münzen beim Überweisen und beim Verkauf von Items weniger?
 A: Um Inflation zu verhindern, werden bei Überweisungen zwischen Spielern und beim Einstellen von Artikeln auf dem Markt Gebühren von 3 % bzw. 5 % erhoben.
