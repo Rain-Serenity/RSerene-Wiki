@@ -34,7 +34,7 @@ A: 1. Verwende /ping, um deine Latenz zu prüfen;
 A: 1. Bitte prüfe die Spielversion.
 2. Entferne inkompatible Mods und Shader.
 ### F5: Warum kann mein Nicht-Premium-Account keine Verbindung zum Server herstellen?
-A: Zur einfacheren Verwaltung hat der Server die Premium-Authentifizierung aktiviert.
+A: Zur einfacheren Verwaltung hat der Server die Premium-Authentifizierung und die externe Login-Authentifizierung aktiviert.
 Offline-Spieler müssen ein <a href="https://littleskin.cn" target="_blank">LittleSkin</a>-Konto registrieren und sich im Launcher mit diesem Skin-Account anmelden, bevor sie den Server betreten können;
 Premium-Minecraft-Accounts können sich direkt verbinden, ohne weitere Schritte.
 ### F6: Was tun, wenn der Skin nach dem Login nicht angezeigt wird?

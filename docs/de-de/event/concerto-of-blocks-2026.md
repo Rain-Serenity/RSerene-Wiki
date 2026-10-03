@@ -24,7 +24,7 @@ Warum auf Vanilla beschränkt? Rain Serenity ist von Grund auf ein **rein gemein
 |---------------------------|------------------------------------------|------------------------------------------------------------------------------------|
 | Vorbereitungsphase        | 23. Juli 2026 — 15. August 2026          | Die Spieler bauen an einem beliebigen Ort auf dem Server                            |
 | **Offizielle Bewertung**  | **16. August 2026**                      | Den ganzen Tag über Aufführungen in Zeitabschnitten + Punktevergabe der Jury         |
-| Bekanntgabe der Ergebnisse| 17. August 2026                          | Bekanntgabe in der QQ-Gruppe (902620497) und auf der Website RSerene.com             |
+| Bekanntgabe der Ergebnisse| 17. August 2026                          | Bekanntgabe in der QQ-Gruppe (902620497) und auf der offiziellen Website RSerene.com             |
 | Preisvergabe              | 18. August 2026                          | Die Preise werden offiziell vom Server vergeben                                     |
 
 ## 📋 Teilnahmeregeln

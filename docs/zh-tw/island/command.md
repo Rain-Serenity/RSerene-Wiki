@@ -10,5 +10,5 @@
 | /tpsbar         | 開啟(關閉)查看你所在區域的TPS、MSPT等的懸浮條 |    |
 | /plot auto      | 領取你的島嶼            |    |
 | /plot home      | 回到你的島嶼            |    |
-| /plot setbiome  | 設定你的島嶼的生態系       |    |
+| /plot setbiome  | 設定你的島嶼的生態域       |    |
 | /plot sethome   | 設定你的島嶼傳送位置        |    |

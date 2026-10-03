@@ -34,7 +34,7 @@ A: 1. Use /ping to check your latency;
 A: 1. Check your game version.
 2. Remove conflicting mods or shaders.
 ### Q5: Why can't I connect with a non-premium account?
-A: For management purposes, the server has online mode enabled.
+A: For management purposes, the server has enabled premium and external login authentication.
 Offline players must register a <a href="https://littleskin.cn" target="_blank">LittleSkin</a> account and log in with that skin account in the launcher before joining;
 Premium Minecraft accounts can connect directly without any extra steps.
 ### Q6: What if my skin doesn't show up after logging in?

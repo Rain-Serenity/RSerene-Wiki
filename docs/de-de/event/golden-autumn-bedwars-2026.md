@@ -24,7 +24,7 @@ Warum das Ganze? Rain Serenity hat von Anfang an eine gemeinnützige, freundlich
 | Anmeldephase           | 27. September 2026 — 30. September 2026, 23:59 Uhr    | Anmeldeformular ausfüllen, Einzel- / Teamaanmeldung            |
 | Übungsphase            | 28. September 2026 — 30. September 2026               | Veranstaltungsserver für Übungen geöffnet; Karten und Regeln kennenlernen |
 | **Wettkampf**          | **2. Oktober 2026**                                   | Täglich 20:00-21:30, Gruppen-Punktespiele                     |
-| Bekanntgabe der Ergebnisse | 3. Oktober 2026                                    | Bekanntgabe in der QQ-Gruppe (902620497) und auf der Website RSerene.com |
+| Bekanntgabe der Ergebnisse | 3. Oktober 2026                                    | Bekanntgabe in der QQ-Gruppe (902620497) und auf der offiziellen Website RSerene.com |
 | Preisvergabe           | 4. Oktober 2026                                       | Die Preise werden offiziell vom Server vergeben                |
 
 ## 📋 Teilnahmeregeln

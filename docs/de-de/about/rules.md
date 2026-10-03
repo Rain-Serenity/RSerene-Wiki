@@ -21,8 +21,8 @@
 - Laut der offiziellen Empfehlung von Minecraft liegt das Mindestalter bei 9 Jahren. Wenn du jünger bist, spiele bitte in Begleitung eines Erziehungsberechtigten.
 
 ### 7. **Servicenumfang & Haftungsausschluss**
-- Dieser Server ist ein gemeinnütziger Server; das Verwaltungsteam ist **ausschließlich verantwortlich** für den Grundbetrieb des Servers, die Durchsetzung der Regeln und die Behandlung eindeutiger Verstöße und bietet **keine** „außergewöhnliche" Betreuung im individuellen Sinne an.
-- Das Verwaltungsteam nimmt grundsätzlich keine der folgenden Angebote an, trägt sie nicht und entschädigt nicht dafür:
+- Dieser Server ist ein gemeinnütziger Server; das Verwaltungsteam ist **ausschließlich verantwortlich** für den Grundbetrieb des Servers, die Durchsetzung der Regeln und die Behandlung eindeutiger Verstöße und bietet **keine** „Rundum-Betreuung" („Nanny-Service") im individuellen Sinne an.
+- Das Verwaltungsteam nimmt grundsätzlich keine der folgenden Angelegenheiten an, übernimmt sie nicht und entschädigt nicht dafür:
   1. **Bauten & Gelände**: Wir helfen Spielern nicht, Gebäude oder Bauwerke zu verschieben, zu verlagern, zu kopieren, zu reparieren, neu zu errichten oder abzubrechen; wir helfen nicht, Bedrock zu brechen, Gelände zu räumen oder Leerräume zu erstellen oder bereitzustellen.
   2. **Unfälle & Verluste**: Wir bieten keine Regulierung, Rollbacks, Entschädigungen oder Wiederherstellung für Verluste von Gegenständen, Bauten oder Gelände durch Maschinenausfälle, Redstone-Störungen, Sprengstoffe, Creeper, fehlgeschlagene Experimente, Fehlbedienungen usw.
   3. **Spielerstreitigkeiten**: Wir greifen nicht in Spielerkonflikte ein, die aus freiwilliger Kooperation, Leihen, Schenkungen, Handel, gemeinsam genutzten Maschinen/Einrichtungen usw. entstehen; Verstöße wie Cheaten, Stehlen, bösartiges Griefing und bösartiges PvP werden jedoch weiterhin nach den Regeln behandelt.
@@ -78,7 +78,7 @@ Werden die folgenden Handlungen festgestellt, führt dies zu einem **sofortigen,
 |:---------------------------------|:-----------------------------------------------------------------------------------|
 | **Rassismus**                    | Rassistische Diskriminierung, Rassenhass oder entsprechende beleidigende Äußerungen. |
 | **Sexismus**                     | Sexistische Äußerungen oder Angriffe gegen ein bestimmtes Geschlecht.                |
-| **Diskriminierung von Minderheiten** | Diskriminierung, Beleidigung oder Hassäußerungen gegenüber homosexuellen, transgeschlechtlichen und anderen LGBTQ+-Gruppen. |
+| **Diskriminierung sexueller Minderheiten** | Diskriminierung, Beleidigung oder Hassäußerungen gegenüber homosexuellen, transgeschlechtlichen und anderen LGBTQ+-Gruppen. |
 | **Beleidigung von Menschen mit Behinderung** | Beleidigung, Verspottung oder Hassäußerungen gegenüber Menschen mit Behinderung. |
 | **Sonstige Hassäußerungen**      | Jede andere Form von Hassäußerungen, die oben nicht aufgeführt ist.                  |
 | **Verletzung der Privatsphäre**  | Unerlaubtes Veröffentlichen, Verbreiten oder Handeln mit privaten oder echten Daten anderer aus der realen Welt. |

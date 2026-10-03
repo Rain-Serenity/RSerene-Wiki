@@ -6,7 +6,7 @@ author: Chosen_1st , maomaozhanshi
 ## 雨潤純淨生存伺服器
 **歡迎來到雨潤純淨生存伺服器，一個致力於還原Minecraft最本真樂趣的純公益原版生存伺服器。我們堅持不添加任何影響生存平衡的插件與模組，無付費項目，所有內容均無償開放。**
 ::: tip 提醒
-伺服器雖然沒有開啟正版驗證，但非正版用戶加入伺服器需要<a href="https://littleskin.cn" target="_blank">LittleSkin</a>登入，因此非正版用戶請先到<a href="https://littleskin.cn" target="_blank">LittleSkin</a>註冊帳號並在第三方啟動器登入你的<a href="https://littleskin.cn" target="_blank">LittleSkin</a>帳戶後才能加入伺服器！
+伺服器雖然沒有開啟正版驗證，但非正版用戶加入伺服器需要 <a href="https://littleskin.cn" target="_blank">LittleSkin</a> 登入，因此非正版用戶請先到 <a href="https://littleskin.cn" target="_blank">LittleSkin</a> 註冊帳號，並在第三方啟動器登入你的 <a href="https://littleskin.cn" target="_blank">LittleSkin</a> 帳戶後才能加入伺服器！
 :::
 
 | 類型       | 狀況                     |
@@ -38,4 +38,4 @@ author: Chosen_1st , maomaozhanshi
 
 * **友好共建，和諧社區： 我們倡導互相幫助、禮貌交流的社區氛圍。在這裡，無論是建築大師、紅石狂人還是休閒養老玩家，都能找到屬於自己的舒適圈，享受慢節奏的生存樂趣。** <br>
 
-* **公平公正，綠色環境：嚴禁任何作弊與破壞行為。透過清晰的規則與透明的管理，我們致力於維護一個純粹的生存環境，讓每一位玩家的努力都得到尊重。** <br>
+* **公平公正，綠色環境： 嚴禁任何作弊與破壞行為。透過清晰的規則與透明的管理，我們致力於維護一個純粹的生存環境，讓每一位玩家的努力都得到尊重。** <br>

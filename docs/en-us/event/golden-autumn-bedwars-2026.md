@@ -24,7 +24,7 @@ Why do it? RSerene has always upheld a public-benefit, friendly, and fair commun
 | Registration      | September 27, 2026 — September 30, 2026 23:59   | Fill in the registration form, solo / team entry     |
 | Practice          | September 28, 2026 — September 30, 2026         | Event server open for practice; learn maps and rules |
 | **Main Event**    | **October 2, 2026**                             | Daily 20:00-21:30, group point matches                       |
-| Results           | October 3, 2026                                 | Announced in QQ group (902620497) and on RSerene.com |
+| Results           | October 3, 2026                                 | Announced in QQ group (902620497) and on the official website RSerene.com |
 | Prize Distribution| October 4, 2026                                 | Rewards distributed by the server                    |
 
 ## 📋 Entry Rules

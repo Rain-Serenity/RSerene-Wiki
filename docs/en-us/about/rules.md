@@ -57,7 +57,7 @@ Violations that **are discovered** but **do not result in serious consequences**
 **Griefing**
 * a. Unauthorized destruction or modification of other players' structures.
 * b. Stealing items from other players' containers.
-* c. Malicious PvP or player killing (PK) without mutual consent.
+* c. Malicious PvP — forcefully killing players in non-permitted areas or without mutual consent.
 
 **Abuse of Mechanics**
 * a. Abusing plugin functions (e.g., claiming over others' structures).
@@ -81,7 +81,7 @@ The following actions will result in an **immediate, permanent ban and removal f
 | **Anti-LGBTQ+**        | Homophobic, transphobic slurs, or anti-LGBTQ+ speech.          |
 | **Ableism**            | Ableist slurs or hate speech targeting disabled individuals.   |
 | **Other Hate Speech**  | Any other forms of hate speech not listed above.               |
-| **Doxxing**            | Doxxing, leaking, or distributing others' private real-world info. |
+| **Doxxing**            | Unauthorized doxxing, leaking, distributing, or selling of others' private real-world information. |
 | **Severe Harassment**  | Severe personal attacks or toxic harassment.                   |
 
 ### 2. Violations of II. Prohibited Actions That Result in Serious Consequences

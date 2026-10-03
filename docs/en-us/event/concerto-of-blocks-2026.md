@@ -24,7 +24,7 @@ Why vanilla-only? RSerene is a **pure public-benefit, pure vanilla survival** se
 |-------------------|------------------------------|----------------------------------------------------|
 | Preparation       | July 23, 2026 — August 15, 2026 | Build anywhere on the server                       |
 | **Judging Day**   | **August 16, 2026**          | Scheduled performances throughout the day + scoring|
-| Results           | August 17, 2026              | Announced on QQ group (902620497) and RSerene.com  |
+| Results           | August 17, 2026              | Announced on QQ group (902620497) and the official website RSerene.com  |
 | Prize Distribution| August 18, 2026              | Rewards will be distributed by the server        |
 
 ## 📋 Entry Rules
@@ -34,7 +34,7 @@ Why vanilla-only? RSerene is a **pure public-benefit, pure vanilla survival** se
 - **Solo** or **team** entry allowed (teams ≤ 4 players), <strong>fill in the [form](https://docs.qq.com/sheet/DUkNOSU1mclV2Z2FD)</strong> to register
 
 ::: warning Warning
-**Registration without participation or failing to meet technical requirements** will result in **a deduction of 999.99 from in-game balance**.
+**Registration without participation or failing to meet technical requirements** will result in **a deduction of the registration fee 999.99**.
 :::
 
 **Technical Requirements**
