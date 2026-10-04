@@ -1,4 +1,4 @@
-# 雨潤九州·金秋床戰
+# 雨潤九州·金秋床戰(已結束)
 
 > 適用版本：**Minecraft Java Edition 26.3（Wilderness Bound）**  
 > 舉辦伺服器：**雨潤** ｜ IP：`Event.RSerene.com` ｜ 活動模式：**起床戰爭**  
@@ -119,6 +119,27 @@
 
 6. **外掛與作弊**：一經發現使用外掛、作弊工具或惡意漏洞，立即取消資格並封禁處理，不另行退還報名費。
 
-::: tip 提示
-**都看到這了還不打算參加嗎？**
-:::
+## 🎉最終排名
+
+| 隊伍           | 隊員            | 隊伍總得分 | 隊伍每名隊員場均得分  |
+|:-------------|:--------------|:------|:------------|
+| Greenland    | Hetun233      | 143   | 8.9375      |
+| Greenland    | CH3Cl_        | 143   | 8.9375      |
+| Greenland    | Ellan__116    | 143   | 8.9375      |
+| Greenland    | Chosen_1st    | 143   | 8.9375      |
+| MLT          | Myth_EGO      | 76    | 4.75        |
+| MLT          | Tian_a233     | 76    | 4.75        |
+| MLT          | Luo_QingZhu   | 76    | 4.75        |
+| MLT          | w3kl          | 76    | 4.75        |
+| Zero Gravity | Korvahet      | 47    | 2.9375      |
+| Zero Gravity | YE__77        | 47    | 2.9375      |
+| Zero Gravity | HDD2603       | 47    | 2.9375      |
+| Zero Gravity | sensuikuuki   | 47    | 2.9375      |
+| Ad           | return_to_mc  | 26    | 1.770833333 |
+| Ad           | AoGZ          | 26    | 1.770833333 |
+| Ad           | drhsr         | 26    | 1.770833333 |
+| Ad           | A_luette      | 26    | 1.770833333 |
+| 奶奶的龍         | tjnssxxy      | 16    | 1           |
+| 奶奶的龍         | Ding__Dongji  | 16    | 1           |
+| 奶奶的龍         | k9o5          | 16    | 1           |
+| 奶奶的龍         | luxinyuanxing | 16    | 1           |

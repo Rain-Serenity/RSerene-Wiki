@@ -179,7 +179,7 @@ export default defineUserConfig({
         },
         navbar: [
           { text: "首頁", link: "/zh-tw/" },
-          { text: "最新活動", children: [ {text: '雨潤九州·金秋床戰', link: '/zh-tw/event/golden-autumn-bedwars-2026.html'}, {text: '方塊協奏曲(已結束)', link: '/zh-tw/event/concerto-of-blocks-2026.html'}]},
+          { text: "最新活動", children: [ {text: '雨潤九州·金秋床戰(已結束)', link: '/zh-tw/event/golden-autumn-bedwars-2026.html'}, {text: '方塊協奏曲(已結束)', link: '/zh-tw/event/concerto-of-blocks-2026.html'}]},
           { text: '純淨生存', children: [ {text: '簡單介紹', link: '/zh-tw/survival/introduction.html'}, {text: '基本設定', link: '/zh-tw/survival/settings.html'}, {text: '指令列表', link: '/zh-tw/survival/command.html'}, {text: '常見問題', link: '/zh-tw/survival/faq.html'} ] },
           { text: '空島生存', children: [ {text: '簡單介紹', link: '/zh-tw/island/introduction.html'}, {text: '基本設定', link: '/zh-tw/island/settings.html'}, {text: '指令列表', link: '/zh-tw/island/command.html'}, {text: '常見問題', link: '/zh-tw/island/faq.html'} ] },
           { text: '關於我們', children: [ {text: '伺服器歷史', link: '/zh-tw/about/history.html'}, {text: '伺服器貢獻者', link: '/zh-tw/about/contributions.html'}, {text: '伺服器管理條例', link: '/zh-tw/about/rules.html'}, {text: '贊助伺服器', link: '/zh-tw/about/sponsor.html'} ] },
@@ -194,12 +194,12 @@ export default defineUserConfig({
               content: `<ul><li>伺服器已經更新到26.3！</li></ul>`,
               style: 'font-size: 12px;'
             },
-            {
-              type: 'text',
+//            {
+//              type: 'text',
               // 🎉🎉🎉
-              content: `<ul><li>伺服器現在正在舉辦<a href="/zh-tw/event/golden-autumn-bedwars-2026.html" style="color:#3498db;text-decoration:underline;">雨潤九州·金秋床戰</a>活動，歡迎點擊最新活動了解活動詳情！</li></ul>`,
-              style: 'font-size: 12px;'
-            },
+//              content: `<ul><li>伺服器現在正在舉辦<a href="/zh-tw/event/golden-autumn-bedwars-2026.html" style="color:#3498db;text-decoration:underline;">雨潤九州·金秋床戰</a>活動，歡迎點擊最新活動了解活動詳情！</li></ul>`,
+//              style: 'font-size: 12px;'
+//            },
             { type: 'hr' },
             { type: 'title', content: '社區' },
             {
@@ -267,7 +267,7 @@ export default defineUserConfig({
         },
         navbar: [
           { text: "Home", link: "/en-us/" },
-          { text: "Events", children: [ {text: 'RSerene Nine Provinces · Golden Autumn Bedwars', link: '/en-us/event/golden-autumn-bedwars-2026.html'}, {text: 'Concerto of Blocks (Ended)', link: '/en-us/event/concerto-of-blocks-2026.html'}]},
+          { text: "Events", children: [ {text: 'RSerene Nine Provinces · Golden Autumn Bedwars (Ended)', link: '/en-us/event/golden-autumn-bedwars-2026.html'}, {text: 'Concerto of Blocks (Ended)', link: '/en-us/event/concerto-of-blocks-2026.html'}]},
           { text: 'Survival Mode', children: [ {text: 'Introduction', link: '/en-us/survival/introduction.html'}, {text: 'Settings', link: '/en-us/survival/settings.html'}, {text: 'Command List', link: '/en-us/survival/command.html'}, {text: 'FAQ', link: '/en-us/survival/faq.html'} ] },
           { text: 'Skyblock Mode', children: [ {text: 'Introduction', link: '/en-us/island/introduction.html'}, {text: 'Settings', link: '/en-us/island/settings.html'}, {text: 'Command List', link: '/en-us/island/command.html'}, {text: 'FAQ', link: '/en-us/island/faq.html'} ] },
           { text: 'About Us', children: [ {text: 'Server History', link: '/en-us/about/history.html'}, {text: 'Contributors', link: '/en-us/about/contributions.html'}, {text: 'Server Rules', link: '/en-us/about/rules.html'}, {text: 'Sponsor', link: '/en-us/about/sponsor.html'} ] },
@@ -282,12 +282,12 @@ export default defineUserConfig({
               content: `<ul><li>The server has been updated to 26.3!</li></ul>`,
               style: 'font-size: 12px;'
             },
-            {
-              type: 'text',
+//            {
+//              type: 'text',
               // 🎉🎉🎉
-              content: `<ul><li>The server is now hosting <a href="/en-us/event/golden-autumn-bedwars-2026.html" style="color:#3498db;text-decoration:underline;">RSerene Nine Provinces · Golden Autumn Bedwars</a> event! Click Events to learn more!</li></ul>`,
-              style: 'font-size: 12px;'
-            },
+//              content: `<ul><li>The server is now hosting <a href="/en-us/event/golden-autumn-bedwars-2026.html" style="color:#3498db;text-decoration:underline;">RSerene Nine Provinces · Golden Autumn Bedwars</a> event! Click Events to learn more!</li></ul>`,
+//              style: 'font-size: 12px;'
+//            },
             { type: 'hr' },
             { type: 'title', content: 'Community' },
             {
@@ -355,7 +355,7 @@ export default defineUserConfig({
         },
         navbar: [
           { text: "Главная", link: "/ru-ru/" },
-          { text: "События", children: [ {text: 'RSerene Девять провинций · BedWars «Золотая осень»', link: '/ru-ru/event/golden-autumn-bedwars-2026.html'}, {text: 'Концерт блоков (завершён)', link: '/ru-ru/event/concerto-of-blocks-2026.html'}]},
+          { text: "События", children: [ {text: 'RSerene Девять провинций · BedWars «Золотая осень» (завершён)', link: '/ru-ru/event/golden-autumn-bedwars-2026.html'}, {text: 'Концерт блоков (завершён)', link: '/ru-ru/event/concerto-of-blocks-2026.html'}]},
           { text: 'Выживание', children: [ {text: 'Введение', link: '/ru-ru/survival/introduction.html'}, {text: 'Настройки', link: '/ru-ru/survival/settings.html'}, {text: 'Команды', link: '/ru-ru/survival/command.html'}, {text: 'FAQ', link: '/ru-ru/survival/faq.html'} ] },
           { text: 'Островной режим', children: [ {text: 'Введение', link: '/ru-ru/island/introduction.html'}, {text: 'Настройки', link: '/ru-ru/island/settings.html'}, {text: 'Команды', link: '/ru-ru/island/command.html'}, {text: 'FAQ', link: '/ru-ru/island/faq.html'} ] },
           { text: 'О нас', children: [ {text: 'История', link: '/ru-ru/about/history.html'}, {text: 'Авторы', link: '/ru-ru/about/contributions.html'}, {text: 'Правила', link: '/ru-ru/about/rules.html'}, {text: 'Спонсорство', link: '/ru-ru/about/sponsor.html'} ] },
@@ -370,12 +370,12 @@ export default defineUserConfig({
               content: `<ul><li>Сервер обновлён до версии 26.3!</li></ul>`,
               style: 'font-size: 12px;'
             },
-            {
-              type: 'text',
+//            {
+//              type: 'text',
               // 🎉🎉🎉
-              content: `<ul><li>На сервере сейчас проходят события <a href="/ru-ru/event/golden-autumn-bedwars-2026.html" style="color:#3498db;text-decoration:underline;">RSerene Девять провинций · BedWars «Золотая осень»</a>! Нажмите «События», чтобы узнать подробности!</li></ul>`,
-              style: 'font-size: 12px;'
-            },
+//              content: `<ul><li>На сервере сейчас проходят события <a href="/ru-ru/event/golden-autumn-bedwars-2026.html" style="color:#3498db;text-decoration:underline;">RSerene Девять провинций · BedWars «Золотая осень»</a>! Нажмите «События», чтобы узнать подробности!</li></ul>`,
+//              style: 'font-size: 12px;'
+//            },
             { type: 'hr' },
             { type: 'title', content: 'Сообщество' },
             {
@@ -443,7 +443,7 @@ export default defineUserConfig({
         },
         navbar: [
           { text: "ホーム", link: "/ja-jp/" },
-          { text: "イベント", children: [ {text: '雨潤九州・金秋ベッドウォーズ', link: '/ja-jp/event/golden-autumn-bedwars-2026.html'}, {text: 'ブロック協奏曲（終了）', link: '/ja-jp/event/concerto-of-blocks-2026.html'}]},
+          { text: "イベント", children: [ {text: '雨潤九州・金秋ベッドウォーズ（終了）', link: '/ja-jp/event/golden-autumn-bedwars-2026.html'}, {text: 'ブロック協奏曲（終了）', link: '/ja-jp/event/concerto-of-blocks-2026.html'}]},
           { text: 'サバイバル', children: [ {text: '紹介', link: '/ja-jp/survival/introduction.html'}, {text: '設定', link: '/ja-jp/survival/settings.html'}, {text: 'コマンド一覧', link: '/ja-jp/survival/command.html'}, {text: 'FAQ', link: '/ja-jp/survival/faq.html'} ] },
           { text: 'スカイブロック', children: [ {text: '紹介', link: '/ja-jp/island/introduction.html'}, {text: '設定', link: '/ja-jp/island/settings.html'}, {text: 'コマンド一覧', link: '/ja-jp/island/command.html'}, {text: 'FAQ', link: '/ja-jp/island/faq.html'} ] },
           { text: 'サーバーについて', children: [ {text: '歴史', link: '/ja-jp/about/history.html'}, {text: '貢献者', link: '/ja-jp/about/contributions.html'}, {text: 'ルール', link: '/ja-jp/about/rules.html'}, {text: 'スポンサー', link: '/ja-jp/about/sponsor.html'} ] },
@@ -458,12 +458,12 @@ export default defineUserConfig({
               content: `<ul><li>サーバーは26.3に更新されました！</li></ul>`,
               style: 'font-size: 12px;'
             },
-            {
-              type: 'text',
+//            {
+//              type: 'text',
               // 🎉🎉🎉
-              content: `<ul><li>サーバーでは現在<a href="/ja-jp/event/golden-autumn-bedwars-2026.html" style="color:#3498db;text-decoration:underline;">雨潤九州・金秋ベッドウォーズ</a>を開催中です！イベントページで詳細をご確認ください！</li></ul>`,
-              style: 'font-size: 12px;'
-            },
+//              content: `<ul><li>サーバーでは現在<a href="/ja-jp/event/golden-autumn-bedwars-2026.html" style="color:#3498db;text-decoration:underline;">雨潤九州・金秋ベッドウォーズ</a>を開催中です！イベントページで詳細をご確認ください！</li></ul>`,
+//              style: 'font-size: 12px;'
+//            },
             { type: 'hr' },
             { type: 'title', content: 'コミュニティ' },
             {
@@ -531,7 +531,7 @@ export default defineUserConfig({
         },
         navbar: [
           { text: "홈", link: "/ko-kr/" },
-          { text: "이벤트", children: [ {text: 'RSerene 구주·황금빛 가을 베드워즈', link: '/ko-kr/event/golden-autumn-bedwars-2026.html'}, {text: '블록 협주곡(종료)', link: '/ko-kr/event/concerto-of-blocks-2026.html'}]},
+          { text: "이벤트", children: [ {text: 'RSerene 구주·황금빛 가을 베드워즈(종료)', link: '/ko-kr/event/golden-autumn-bedwars-2026.html'}, {text: '블록 협주곡(종료)', link: '/ko-kr/event/concerto-of-blocks-2026.html'}]},
           { text: '서바이벌', children: [ {text: '소개', link: '/ko-kr/survival/introduction.html'}, {text: '설정', link: '/ko-kr/survival/settings.html'}, {text: '명령어 목록', link: '/ko-kr/survival/command.html'}, {text: 'FAQ', link: '/ko-kr/survival/faq.html'} ] },
           { text: '스카이블록', children: [ {text: '소개', link: '/ko-kr/island/introduction.html'}, {text: '설정', link: '/ko-kr/island/settings.html'}, {text: '명령어 목록', link: '/ko-kr/island/command.html'}, {text: 'FAQ', link: '/ko-kr/island/faq.html'} ] },
           { text: '서버 정보', children: [ {text: '역사', link: '/ko-kr/about/history.html'}, {text: '기여자', link: '/ko-kr/about/contributions.html'}, {text: '규칙', link: '/ko-kr/about/rules.html'}, {text: '후원', link: '/ko-kr/about/sponsor.html'} ] },
@@ -546,12 +546,12 @@ export default defineUserConfig({
               content: `<ul><li>서버가 26.3로 업데이트되었습니다!</li></ul>`,
               style: 'font-size: 12px;'
             },
-            {
-              type: 'text',
+//            {
+//              type: 'text',
               // 🎉🎉🎉
-              content: `<ul><li>서버에서 현재 <a href="/ko-kr/event/golden-autumn-bedwars-2026.html" style="color:#3498db;text-decoration:underline;">RSerene 구주·황금빛 가을 베드워즈</a> 이벤트를 진행 중입니다! 이벤트 페이지에서 자세한 내용을 확인하세요!</li></ul>`,
-              style: 'font-size: 12px;'
-            },
+//              content: `<ul><li>서버에서 현재 <a href="/ko-kr/event/golden-autumn-bedwars-2026.html" style="color:#3498db;text-decoration:underline;">RSerene 구주·황금빛 가을 베드워즈</a> 이벤트를 진행 중입니다! 이벤트 페이지에서 자세한 내용을 확인하세요!</li></ul>`,
+//              style: 'font-size: 12px;'
+//            },
             { type: 'hr' },
             { type: 'title', content: '커뮤니티' },
             {
@@ -619,7 +619,7 @@ export default defineUserConfig({
         },
         navbar: [
           { text: "Startseite", link: "/de-de/" },
-          { text: "Veranstaltungen", children: [ {text: 'Rain Serenity Neun Provinzen · Goldener Herbst BedWars', link: '/de-de/event/golden-autumn-bedwars-2026.html'}, {text: 'Block-Konzert (beendet)', link: '/de-de/event/concerto-of-blocks-2026.html'}]},
+          { text: "Veranstaltungen", children: [ {text: 'Rain Serenity Neun Provinzen · Goldener Herbst BedWars (beendet)', link: '/de-de/event/golden-autumn-bedwars-2026.html'}, {text: 'Block-Konzert (beendet)', link: '/de-de/event/concerto-of-blocks-2026.html'}]},
           { text: 'Survival', children: [ {text: 'Einführung', link: '/de-de/survival/introduction.html'}, {text: 'Einstellungen', link: '/de-de/survival/settings.html'}, {text: 'Befehlsliste', link: '/de-de/survival/command.html'}, {text: 'FAQ', link: '/de-de/survival/faq.html'} ] },
           { text: 'Skyblock', children: [ {text: 'Einführung', link: '/de-de/island/introduction.html'}, {text: 'Einstellungen', link: '/de-de/island/settings.html'}, {text: 'Befehlsliste', link: '/de-de/island/command.html'}, {text: 'FAQ', link: '/de-de/island/faq.html'} ] },
           { text: 'Über uns', children: [ {text: 'Servergeschichte', link: '/de-de/about/history.html'}, {text: 'Mitwirkende', link: '/de-de/about/contributions.html'}, {text: 'Serverregeln', link: '/de-de/about/rules.html'}, {text: 'Spenden', link: '/de-de/about/sponsor.html'} ] },
@@ -634,12 +634,12 @@ export default defineUserConfig({
               content: `<ul><li>Der Server wurde auf Version 26.3 aktualisiert!</li></ul>`,
               style: 'font-size: 12px;'
             },
-            {
-              type: 'text',
+//            {
+//              type: 'text',
               // 🎉🎉🎉
-              content: `<ul><li>Der Server veranstaltet derzeit das Event <a href="/de-de/event/golden-autumn-bedwars-2026.html" style="color:#3498db;text-decoration:underline;">Rain Serenity Neun Provinzen · Goldener Herbst BedWars</a>! Klicke auf „Veranstaltungen“, um mehr zu erfahren!</li></ul>`,
-              style: 'font-size: 12px;'
-            },
+//              content: `<ul><li>Der Server veranstaltet derzeit das Event <a href="/de-de/event/golden-autumn-bedwars-2026.html" style="color:#3498db;text-decoration:underline;">Rain Serenity Neun Provinzen · Goldener Herbst BedWars</a>! Klicke auf „Veranstaltungen“, um mehr zu erfahren!</li></ul>`,
+//              style: 'font-size: 12px;'
+//            },
             { type: 'hr' },
             { type: 'title', content: 'Community' },
             {

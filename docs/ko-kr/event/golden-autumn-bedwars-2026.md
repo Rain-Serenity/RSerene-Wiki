@@ -1,4 +1,4 @@
-# RSerene 구주·황금빛 가을 베드워즈
+# RSerene 구주·황금빛 가을 베드워즈(종료)
 
 > 지원 버전: **Minecraft Java Edition 26.3 (Wilderness Bound)**  
 > 서버: **RSerene** ｜ IP: `Event.RSerene.com` ｜ 게임 모드: **베드워즈**  
@@ -119,6 +119,27 @@
 
 6. **해킹과 치트**: 해킹, 치트 도구, 악의적인 버그 악용이 발각될 경우 즉시 실격 및 밴 처리되며, 신청비는 환불되지 않습니다.
 
-::: tip 팁
-**여기까지 읽었는데 아직도 참가하지 않겠어?**
-:::
+## 🎉최종 순위
+
+| 팀            | 팀원            | 팀 총점 | 팀원 1인당 평균 점수 |
+|:-------------|:--------------|:-----|:-------------|
+| Greenland    | Hetun233      | 143  | 8.9375       |
+| Greenland    | CH3Cl_        | 143  | 8.9375       |
+| Greenland    | Ellan__116    | 143  | 8.9375       |
+| Greenland    | Chosen_1st    | 143  | 8.9375       |
+| MLT          | Myth_EGO      | 76   | 4.75         |
+| MLT          | Tian_a233     | 76   | 4.75         |
+| MLT          | Luo_QingZhu   | 76   | 4.75         |
+| MLT          | w3kl          | 76   | 4.75         |
+| Zero Gravity | Korvahet      | 47   | 2.9375       |
+| Zero Gravity | YE__77        | 47   | 2.9375       |
+| Zero Gravity | HDD2603       | 47   | 2.9375       |
+| Zero Gravity | sensuikuuki   | 47   | 2.9375       |
+| Ad           | return_to_mc  | 26   | 1.770833333  |
+| Ad           | AoGZ          | 26   | 1.770833333  |
+| Ad           | drhsr         | 26   | 1.770833333  |
+| Ad           | A_luette      | 26   | 1.770833333  |
+| 奶奶的龙         | tjnssxxy      | 16   | 1            |
+| 奶奶的龙         | Ding__Dongji  | 16   | 1            |
+| 奶奶的龙         | k9o5          | 16   | 1            |
+| 奶奶的龙         | luxinyuanxing | 16   | 1            |

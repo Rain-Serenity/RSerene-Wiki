@@ -1,4 +1,4 @@
-# Rain Serenity Neun Provinzen · Goldener Herbst BedWars
+# Rain Serenity Neun Provinzen · Goldener Herbst BedWars (beendet)
 
 > Gültige Version: **Minecraft Java Edition 26.3 (Wilderness Bound)**  
 > Austragender Server: **Rain Serenity** ｜ IP: `Event.RSerene.com` ｜ Spielmodus: **BedWars**  
@@ -119,6 +119,27 @@ Alle erhaltenen Dracheneier dürfen **auf keinen Fall dupliziert** werden. Dupli
 
 6. **Hacks und Cheating**: Bei Feststellung der Verwendung von Hacks, Cheating-Werkzeugen oder böswilligem Ausnutzen von Fehlern erfolgt sofortige Disqualifikation und Ban; die Anmeldegebühr wird nicht erstattet.
 
-::: tip Hinweis
-**Du hast bis hier gelesen und willst immer noch nicht teilnehmen?**
-:::
+## 🎉Endergebnis
+
+| Team         | Spieler       | Gesamtpunktzahl des Teams | Durchschnittliche Punktzahl pro Spieler und Spiel |
+|:-------------|:--------------|:--------------------------|:--------------------------------------------------|
+| Greenland    | Hetun233      | 143                       | 8,9375                                            |
+| Greenland    | CH3Cl_        | 143                       | 8,9375                                            |
+| Greenland    | Ellan__116    | 143                       | 8,9375                                            |
+| Greenland    | Chosen_1st    | 143                       | 8,9375                                            |
+| MLT          | Myth_EGO      | 76                        | 4,75                                              |
+| MLT          | Tian_a233     | 76                        | 4,75                                              |
+| MLT          | Luo_QingZhu   | 76                        | 4,75                                              |
+| MLT          | w3kl          | 76                        | 4,75                                              |
+| Zero Gravity | Korvahet      | 47                        | 2,9375                                            |
+| Zero Gravity | YE__77        | 47                        | 2,9375                                            |
+| Zero Gravity | HDD2603       | 47                        | 2,9375                                            |
+| Zero Gravity | sensuikuuki   | 47                        | 2,9375                                            |
+| Ad           | return_to_mc  | 26                        | 1,770833333                                       |
+| Ad           | AoGZ          | 26                        | 1,770833333                                       |
+| Ad           | drhsr         | 26                        | 1,770833333                                       |
+| Ad           | A_luette      | 26                        | 1,770833333                                       |
+| 奶奶的龙         | tjnssxxy      | 16                        | 1                                                 |
+| 奶奶的龙         | Ding__Dongji  | 16                        | 1                                                 |
+| 奶奶的龙         | k9o5          | 16                        | 1                                                 |
+| 奶奶的龙         | luxinyuanxing | 16                        | 1                                                 |

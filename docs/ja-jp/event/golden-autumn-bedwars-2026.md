@@ -1,4 +1,4 @@
-# 雨潤九州・金秋ベッドウォーズ
+# 雨潤九州・金秋ベッドウォーズ（終了）
 
 > 対応バージョン：**Minecraft Java Edition 26.3（Wilderness Bound）**  
 > サーバー：**RSerene** ｜ IP：`Event.RSerene.com` ｜ ゲームモード：**ベッドウォーズ**  
@@ -119,6 +119,27 @@
 
 6. **ハックとチート**：ハック、チートツール、悪意あるバグ利用が発覚した場合は即時失格となりBAN処理となります。申込料の返金はありません。
 
-::: tip ヒント
-**ここまで読んでまだ参加しようと思わない？**
-:::
+## 🎉最終ランキング
+
+| チーム          | 選手            | チーム総得点 | 選手1人あたりの平均得点 |
+|:-------------|:--------------|:-------|:-------------|
+| Greenland    | Hetun233      | 143    | 8.9375       |
+| Greenland    | CH3Cl_        | 143    | 8.9375       |
+| Greenland    | Ellan__116    | 143    | 8.9375       |
+| Greenland    | Chosen_1st    | 143    | 8.9375       |
+| MLT          | Myth_EGO      | 76     | 4.75         |
+| MLT          | Tian_a233     | 76     | 4.75         |
+| MLT          | Luo_QingZhu   | 76     | 4.75         |
+| MLT          | w3kl          | 76     | 4.75         |
+| Zero Gravity | Korvahet      | 47     | 2.9375       |
+| Zero Gravity | YE__77        | 47     | 2.9375       |
+| Zero Gravity | HDD2603       | 47     | 2.9375       |
+| Zero Gravity | sensuikuuki   | 47     | 2.9375       |
+| Ad           | return_to_mc  | 26     | 1.770833333  |
+| Ad           | AoGZ          | 26     | 1.770833333  |
+| Ad           | drhsr         | 26     | 1.770833333  |
+| Ad           | A_luette      | 26     | 1.770833333  |
+| 奶奶的龙         | tjnssxxy      | 16     | 1            |
+| 奶奶的龙         | Ding__Dongji  | 16     | 1            |
+| 奶奶的龙         | k9o5          | 16     | 1            |
+| 奶奶的龙         | luxinyuanxing | 16     | 1            |
