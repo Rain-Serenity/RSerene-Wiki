@@ -9,7 +9,7 @@ Feel free to give feedback on other questions (≧∀≦)
 ## I. Login
 ### Q1: What is the server IP and what versions are supported?
 A: Server domain: Play.RSerene.com<br>
-Supported game version: 26.3
+Supported version: Minecraft Java Edition 26.3
 
 ### Q2: Why can't I connect with a non-premium account?
 A: For management purposes, the server has enabled premium and external login authentication.<br>
@@ -32,26 +32,26 @@ A:
 </div>
 
 ::: tip Tips
-HMCL is very simple — after registering a LittleSkin account and creating your game ID in LittleSkin, just click LittleSkin on the left side of the HMCL accounts list, enter the game ID and password you created in LittleSkin to log in.
+HMCL is even simpler: after registering a LittleSkin account and creating your game ID, just click LittleSkin on the left side of the HMCL accounts list, enter your game ID and password to log in.
 :::
 
 ### Q4: What if my skin doesn't show up after logging in?
-A: Here are some solutions:<br>
-1. Offline players should confirm they are logged into the correct <a href="https://littleskin.cn" target="_blank">LittleSkin</a> account; <br>
+A: You can try the following:<br>
+1. Offline players should confirm they are logged into the correct <a href="https://littleskin.cn" target="_blank">LittleSkin</a> account;<br>
 2. Exit the game and refresh the skin on the launcher page;<br>
-3. Install a universal skin mod.
+3. Install a universal skin patch.
 
 ### Q5: What should I do if network latency is too high in my region?
-A: Temporary solution: Use a game accelerator and select Minecraft China server;<br>
-The server is optimizing its routes to reduce lag in the long term.
+A: Temporary fix: use a game accelerator and select the "Minecraft China" server;<br>
+The server is optimizing its routes and will reduce lag as much as possible going forward.
 
 ### Q6: What should I do about high in-game latency?
 A: 1. Use /ping to check your latency;<br>
 2. Switch networks (mobile hotspot / broadband).
 
 ### Q7: What if the screen goes black or the game crashes when joining?
-A: 1. Check your game version.<br>
-2. Remove conflicting mods or shaders.
+A: 1. Check your game version;<br>
+2. Try removing conflicting mods or shaders.
 
 ## II. Server Mechanics & Rules
 ### Q1: Do I need to install any mods to join the server?
@@ -61,46 +61,46 @@ A: No mods are required. You can add local mods that do not interfere with serve
 A: Absolutely not. This server is purely non-profit with no paid features. Donations only cover server costs and cannot be used for flight, buffs, or any other perks.
 
 ### Q3: Will the server world reset periodically?
-A: There are no reset plans. The world will be preserved long-term. Only in the event of major failures will advance notice be given in the QQ group for backups.
+A: There are no reset plans; the world will be preserved long-term. Only in the event of major failures will notice be given in advance in the QQ group for backups.
 
 ### Q4: Is there a player limit?
 A: Maximum 40 players online. If full, you can wait on the skyblock server or join during off-peak hours. Paid capacity expansion is NOT available!
 
 ## III. Commands
 ### Q1: How to use the wooden hoe?
-A: Walk to the lowest, outermost corner block of your build. Left-click with a wooden hoe to mark Pos1;<br>
-Then go to the highest, opposite corner block and right-click with the wooden hoe to mark Pos2;<br>
-The rectangular region between the two points will be protected. It is recommended to leave extra room above and below to include the roof and basement.<br>
+A: Walk to the lowest, outermost corner block of your claim. Left-click with a wooden hoe to mark point Pos1;<br>
+Then go to the highest, opposite corner block and right-click with the wooden hoe to mark point Pos2;<br>
+The rectangular region between the two points will be protected. It is recommended to leave extra room above and below so the roof and basement stay inside.<br>
 After selecting the area, type /res create &lt;claim name&gt; to pay and create the claim;<br>
-For more claim-related commands, type /res help.
+For more claim commands, type /res help.
 
 ### Q2: Can players see who broke blocks?
-A: Players can type /co i to enter inspection mode. Left-click to see who broke or placed a block, right-click to see who took or placed items in a container;<br>
+A: Players can type /co i to enter inspection mode. Left-click shows block break/place records, right-click shows container item access records;<br>
 Type the command again to exit inspection mode.
 
 ### Q3: What if my claim is griefed?
-A: Do not repair it. Contact an admin or the server owner. The admin will penalize the offending player and the server owner will roll back the area.
+A: Do not repair it yourself. Contact an admin or the server owner; the admin will penalize the offending player and arrange a rollback of the area.
 
 ## IV. Global Economy & Market
 ### Q1: How do I earn money?
 A: New players can earn money by selling items to the system shop. Use /worthlist to view sellable items;<br>
-There are no pay-to-win features — you cannot purchase coins with real money!!
+There are no pay-to-win features — you cannot purchase coins with real money!
 
 ### Q2: What can I use money for?
-A: Players can use /gmp market gui to buy or sell items in the market.<br>
-You can also purchase land claims with a wooden hoe, which effectively protects your builds from griefers.
+A: Use /gmp market gui to buy or sell items on the market;<br>
+You can also buy land claims with a wooden hoe, which effectively protects against griefing.
 
 ### Q3: Why did my coin balance decrease after transferring or selling items?
-A: To prevent inflation, player-to-player transfers and market listings are charged 3% and 5% fees respectively.
+A: To prevent inflation, player-to-player transfers are charged a 3% fee and market listings a 5% fee.
 
 ::: warning Note
-Global market prices are set by players. To prevent inflation, system shop prices are set by the server (๑•́ω•̀๑)
+Global market prices are set by players; to prevent inflation, system shop prices are set by the server (๑•́ω•̀๑)
 :::
 
 ## V. Donations & Community
 ### Q1: What benefits do donations give? Will not donating affect gameplay?
-A: Donations are only to support server operations and provide no in-game privileges. Not donating does not affect any gameplay — the experience is identical.
+A: Donations only support server operations and provide no in-game privileges. Not donating does not affect any gameplay — the experience is identical.
 
 ### Q2: Where to report bugs or disputes?
-A: You can ask admins online in-game;<br>
-New players can join the official QQ group: 902620497 to provide feedback.
+A: You can ask an online admin in-game;<br>
+New players can join the official QQ group: 902620497 to give feedback.
