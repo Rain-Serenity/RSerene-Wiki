@@ -1,6 +1,6 @@
 # Befehlsliste
-::: warning Hinweis
-Der Skyblock-Server wird seit dem 29.07.2026 unabhängig vom Rain Serenity Server betrieben. Die folgenden Informationen stammen vom 29.07.2026 und werden nicht mehr aktualisiert.
+::: tip Hinweis
+Der Skyblock-Server wird von billyta betrieben.
 :::
 | Befehl             | Funktion                                                        | Anmerkung |
 |--------------------|-----------------------------------------------------------------|----|

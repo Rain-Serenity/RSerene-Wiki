@@ -1,6 +1,6 @@
 # 基本设定
-::: warning 注意
-空岛服务器已于2026.7.29日独立于雨润服务器运营，以下信息截止于2026.7.29且不再更新。
+::: tip 提示
+空岛服务器由billyta运营。
 :::
 ## 服务器基本配置
 **本服务器采用的是[Lophine](https://GitHub.com/LophineLabs/Lophine)核心。** <br>

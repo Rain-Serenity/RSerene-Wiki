@@ -1,6 +1,6 @@
 # Grundlegende Einführung
-::: warning Hinweis
-Der Skyblock-Server wird seit dem 29.07.2026 unabhängig vom Rain Serenity Server betrieben. Die folgenden Informationen stammen vom 29.07.2026 und werden nicht mehr aktualisiert.
+::: tip Hinweis
+Der Skyblock-Server wird von billyta betrieben.
 :::
 ## Rain Serenity Skyblock-Server
 **Stell dir vor, du wachst auf und hast nur eine kleine schwebende Insel unter den Füßen, über dir einen endlosen Sternenhimmel. Das ist unsere Welt – eine Skyblock-Herausforderung, die bei null beginnt und voller unendlicher Möglichkeiten steckt!** <br><br>

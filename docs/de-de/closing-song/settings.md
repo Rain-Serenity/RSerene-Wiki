@@ -4,15 +4,15 @@ Der Closing Song-Server wird von Korvahet betrieben.
 :::
 
 ## Grundlegende Serverkonfiguration
-**Dies ist ein 1.20.1-Forge-Mod-Server; die Loader-Version ist Forge 47.3.22, identisch mit dem Paket.**
-**Aktuelles Paket: [Closing Song (V1.6.7.1)](https://www.mcmod.cn/modpack/1133.html).**
-**Der Server läuft mit der originalen Mod-Liste des Pakets und fügt keine zusätzlichen Mods hinzu; ist eine Anpassung wirklich nötig, erklären wir sie zuerst in der Gruppe.**
+- **Dies ist ein 1.20.1-Forge-Mod-Server; die Loader-Version ist Forge 47.3.22, identisch mit dem Paket.**
+- **Aktuelles Paket: [Closing Song (V1.6.7.1)](https://www.mcmod.cn/modpack/1133.html).**
+- **Der Server läuft mit der originalen Mod-Liste des Pakets und fügt keine zusätzlichen Mods hinzu; ist eine Anpassung wirklich nötig, erklären wir sie zuerst in der Gruppe.**
 
 ## Paket & Version
-**Spielversion: 1.20.1**
-**Loader: Forge 47.3.22**
-**Java-Laufzeitumgebung: Java 17**
-**Lade das Paket aus den Gruppendateien der QQ-Gruppe 902620497 herunter, nutze das Original-Paket und füge keine Mods hinzu oder entferne welche.**
+- **Spielversion: 1.20.1**
+- **Loader: Forge 47.3.22**
+- **Java-Laufzeitumgebung: Java 17**
+- **Lade das Paket aus den Gruppendateien der QQ-Gruppe 902620497 oder von der [offiziellen Release-Seite](https://www.mcmod.cn/modpack/1133.html) herunter, nutze das Original-Paket und füge keine Mods hinzu oder entferne welche.**
 
 ## Updates & Ankündigungen
 - Aktuell: Das Paket **Closing Song** ist geöffnet.

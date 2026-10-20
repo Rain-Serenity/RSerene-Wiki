@@ -1,6 +1,6 @@
 # Basic Settings
-::: warning Note
-The skyblock server has been operating independently from the RSerene server since July 29, 2026. The following information is current as of that date and will no longer be updated.
+::: tip Tips
+The skyblock server is operated by billyta.
 :::
 ## Server Core Configuration
 **This server uses the [Lophine](https://GitHub.com/LophineLabs/Lophine) core.** <br>

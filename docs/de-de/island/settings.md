@@ -1,6 +1,6 @@
 # Grundeinstellungen
-::: warning Hinweis
-Der Skyblock-Server wird seit dem 29.07.2026 unabhängig vom Rain Serenity Server betrieben. Die folgenden Informationen stammen vom 29.07.2026 und werden nicht mehr aktualisiert.
+::: tip Hinweis
+Der Skyblock-Server wird von billyta betrieben.
 :::
 ## Grundkonfiguration des Servers
 **Dieser Server verwendet den [Lophine](https://GitHub.com/LophineLabs/Lophine)-Core.** <br>
