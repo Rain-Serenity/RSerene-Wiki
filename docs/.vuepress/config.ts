@@ -80,9 +80,9 @@ export default defineUserConfig({
             text: '纯净生存',
             children: ['/survival/introduction.md', '/survival/settings.md', '/survival/command.md', '/survival/faq.md'],
           }],
-          '/finale/': [{
+          '/closing-song/': [{
             text: '落幕曲',
-            children: ['/finale/introduction.md', '/finale/settings.md', '/finale/command.md', '/finale/faq.md'],
+            children: ['/closing-song/introduction.md', '/closing-song/settings.md', '/closing-song/command.md', '/closing-song/faq.md'],
           }],
           '/island/': [{
             text: '空岛生存',
@@ -97,7 +97,7 @@ export default defineUserConfig({
           { text: "主页", link: "/" },
           { text: "最新活动", children: [ {text: '雨润九州·金秋床战(已结束)', link: '/event/golden-autumn-bedwars-2026.html'}, {text: '方块协奏曲(已结束)', link: '/event/concerto-of-blocks-2026.html'}]},
           { text: '纯净生存', children: [ {text: '简单介绍', link: '/survival/introduction.html'}, {text: '基本设定', link: '/survival/settings.html'}, {text: '指令列表', link: '/survival/command.html'}, {text: '常见问题', link: '/survival/faq.html'} ] },
-          { text: '落幕曲', children: [ {text: '简单介绍', link: '/finale/introduction.html'}, {text: '基本设定', link: '/finale/settings.html'}, {text: '指令列表', link: '/finale/command.html'}, {text: '常见问题', link: '/finale/faq.html'} ] },
+          { text: '落幕曲', children: [ {text: '简单介绍', link: '/closing-song/introduction.html'}, {text: '基本设定', link: '/closing-song/settings.html'}, {text: '指令列表', link: '/closing-song/command.html'}, {text: '常见问题', link: '/closing-song/faq.html'} ] },
           { text: '空岛生存', children: [ {text: '简单介绍', link: '/island/introduction.html'}, {text: '基本设定', link: '/island/settings.html'}, {text: '指令列表', link: '/island/command.html'}, {text: '常见问题', link: '/island/faq.html'} ] },
           { text: '关于我们', children: [ {text: '服务器历史', link: '/about/history.html'}, {text: '服务器贡献者', link: '/about/contributions.html'}, {text: '服务器管理条例', link: '/about/rules.html'}, {text: '赞助服务器', link: '/about/sponsor.html'} ] },
           { text: '相关链接', children: [ {text: 'GitHub', link: 'https://GitHub.com/Rain-Serenity/'}, {text: 'MCBBS纪念版', link: 'https://www.MCBBS.co/thread-5031-1-1.html'}, {text: 'MineBBS', link: 'https://www.MineBBS.com/threads/1-21-1.28390/'}, {text: 'Minecraft Wiki', link: 'https://Minecraft.Wiki/'}, {text: 'NameMC', link: 'https://NameMC.com/server/play.rserene.com'}, {text: '服务器封禁列表', link: 'https://Bans.RSerene.com/'}, {text: '苦力怕论坛', link: 'https://KLPBBS.com/thread-171662-1-1.html'} ]}
@@ -173,9 +173,9 @@ export default defineUserConfig({
             text: '純淨生存',
             children: ['/zh-tw/survival/introduction.md', '/zh-tw/survival/settings.md', '/zh-tw/survival/command.md', '/zh-tw/survival/faq.md'],
           }],
-          '/zh-tw/finale/': [{
+          '/zh-tw/closing-song/': [{
             text: '落幕曲',
-            children: ['/zh-tw/finale/introduction.md', '/zh-tw/finale/settings.md', '/zh-tw/finale/command.md', '/zh-tw/finale/faq.md'],
+            children: ['/zh-tw/closing-song/introduction.md', '/zh-tw/closing-song/settings.md', '/zh-tw/closing-song/command.md', '/zh-tw/closing-song/faq.md'],
           }],
           '/zh-tw/island/': [{
             text: '空島生存',
@@ -190,7 +190,7 @@ export default defineUserConfig({
           { text: "首頁", link: "/zh-tw/" },
           { text: "最新活動", children: [ {text: '雨潤九州·金秋床戰(已結束)', link: '/zh-tw/event/golden-autumn-bedwars-2026.html'}, {text: '方塊協奏曲(已結束)', link: '/zh-tw/event/concerto-of-blocks-2026.html'}]},
           { text: '純淨生存', children: [ {text: '簡單介紹', link: '/zh-tw/survival/introduction.html'}, {text: '基本設定', link: '/zh-tw/survival/settings.html'}, {text: '指令列表', link: '/zh-tw/survival/command.html'}, {text: '常見問題', link: '/zh-tw/survival/faq.html'} ] },
-          { text: '落幕曲', children: [ {text: '簡單介紹', link: '/zh-tw/finale/introduction.html'}, {text: '基本設定', link: '/zh-tw/finale/settings.html'}, {text: '指令列表', link: '/zh-tw/finale/command.html'}, {text: '常見問題', link: '/zh-tw/finale/faq.html'} ] },
+          { text: '落幕曲', children: [ {text: '簡單介紹', link: '/zh-tw/closing-song/introduction.html'}, {text: '基本設定', link: '/zh-tw/closing-song/settings.html'}, {text: '指令列表', link: '/zh-tw/closing-song/command.html'}, {text: '常見問題', link: '/zh-tw/closing-song/faq.html'} ] },
           { text: '空島生存', children: [ {text: '簡單介紹', link: '/zh-tw/island/introduction.html'}, {text: '基本設定', link: '/zh-tw/island/settings.html'}, {text: '指令列表', link: '/zh-tw/island/command.html'}, {text: '常見問題', link: '/zh-tw/island/faq.html'} ] },
           { text: '關於我們', children: [ {text: '伺服器歷史', link: '/zh-tw/about/history.html'}, {text: '伺服器貢獻者', link: '/zh-tw/about/contributions.html'}, {text: '伺服器管理條例', link: '/zh-tw/about/rules.html'}, {text: '贊助伺服器', link: '/zh-tw/about/sponsor.html'} ] },
           { text: '相關連結', children: [ {text: 'GitHub', link: 'https://GitHub.com/Rain-Serenity/'}, {text: 'MCBBS紀念版', link: 'https://www.MCBBS.co/thread-5031-1-1.html'}, {text: 'MineBBS', link: 'https://www.MineBBS.com/threads/1-21-1.28390/'}, {text: 'Minecraft Wiki', link: 'https://Minecraft.Wiki/'}, {text: 'NameMC', link: 'https://NameMC.com/server/play.rserene.com'}, {text: '伺服器封禁列表', link: 'https://Bans.RSerene.com/'}, {text: '苦力怕論壇', link: 'https://KLPBBS.com/thread-171662-1-1.html'} ]}
@@ -266,9 +266,9 @@ export default defineUserConfig({
             text: 'Survival Mode',
             children: ['/en-us/survival/introduction.md', '/en-us/survival/settings.md', '/en-us/survival/command.md', '/en-us/survival/faq.md'],
           }],
-          '/en-us/finale/': [{
-            text: 'Finale',
-            children: ['/en-us/finale/introduction.md', '/en-us/finale/settings.md', '/en-us/finale/command.md', '/en-us/finale/faq.md'],
+          '/en-us/closing-song/': [{
+            text: 'Closing Song',
+            children: ['/en-us/closing-song/introduction.md', '/en-us/closing-song/settings.md', '/en-us/closing-song/command.md', '/en-us/closing-song/faq.md'],
           }],
           '/en-us/island/': [{
             text: 'Skyblock Mode',
@@ -283,7 +283,7 @@ export default defineUserConfig({
           { text: "Home", link: "/en-us/" },
           { text: "Events", children: [ {text: 'RSerene Nine Provinces · Golden Autumn Bedwars (Ended)', link: '/en-us/event/golden-autumn-bedwars-2026.html'}, {text: 'Concerto of Blocks (Ended)', link: '/en-us/event/concerto-of-blocks-2026.html'}]},
           { text: 'Survival Mode', children: [ {text: 'Introduction', link: '/en-us/survival/introduction.html'}, {text: 'Settings', link: '/en-us/survival/settings.html'}, {text: 'Command List', link: '/en-us/survival/command.html'}, {text: 'FAQ', link: '/en-us/survival/faq.html'} ] },
-          { text: 'Finale', children: [ {text: 'Introduction', link: '/en-us/finale/introduction.html'}, {text: 'Settings', link: '/en-us/finale/settings.html'}, {text: 'Command List', link: '/en-us/finale/command.html'}, {text: 'FAQ', link: '/en-us/finale/faq.html'} ] },
+          { text: 'Closing Song', children: [ {text: 'Introduction', link: '/en-us/closing-song/introduction.html'}, {text: 'Settings', link: '/en-us/closing-song/settings.html'}, {text: 'Command List', link: '/en-us/closing-song/command.html'}, {text: 'FAQ', link: '/en-us/closing-song/faq.html'} ] },
           { text: 'Skyblock Mode', children: [ {text: 'Introduction', link: '/en-us/island/introduction.html'}, {text: 'Settings', link: '/en-us/island/settings.html'}, {text: 'Command List', link: '/en-us/island/command.html'}, {text: 'FAQ', link: '/en-us/island/faq.html'} ] },
           { text: 'About Us', children: [ {text: 'Server History', link: '/en-us/about/history.html'}, {text: 'Contributors', link: '/en-us/about/contributions.html'}, {text: 'Server Rules', link: '/en-us/about/rules.html'}, {text: 'Sponsor', link: '/en-us/about/sponsor.html'} ] },
           { text: 'Related Links', children: [ {text: 'GitHub', link: 'https://GitHub.com/Rain-Serenity/'}, {text: 'MCBBS Memorial', link: 'https://www.MCBBS.co/thread-5031-1-1.html'}, {text: 'MineBBS', link: 'https://www.MineBBS.com/threads/1-21-1.28390/'}, {text: 'Minecraft Wiki', link: 'https://Minecraft.Wiki/'}, {text: 'NameMC', link: 'https://NameMC.com/server/play.rserene.com'}, {text: 'Ban List', link: 'https://Bans.RSerene.com/'}, {text: 'KLPBBS', link: 'https://KLPBBS.com/thread-171662-1-1.html'} ]}
@@ -359,9 +359,9 @@ export default defineUserConfig({
             text: 'Режим выживания',
             children: ['/ru-ru/survival/introduction.md', '/ru-ru/survival/settings.md', '/ru-ru/survival/command.md', '/ru-ru/survival/faq.md'],
           }],
-          '/ru-ru/finale/': [{
-            text: 'Финал',
-            children: ['/ru-ru/finale/introduction.md', '/ru-ru/finale/settings.md', '/ru-ru/finale/command.md', '/ru-ru/finale/faq.md'],
+          '/ru-ru/closing-song/': [{
+            text: 'Closing Song',
+            children: ['/ru-ru/closing-song/introduction.md', '/ru-ru/closing-song/settings.md', '/ru-ru/closing-song/command.md', '/ru-ru/closing-song/faq.md'],
           }],
           '/ru-ru/island/': [{
             text: 'Островной режим',
@@ -376,7 +376,7 @@ export default defineUserConfig({
           { text: "Главная", link: "/ru-ru/" },
           { text: "События", children: [ {text: 'RSerene Девять провинций · BedWars «Золотая осень» (завершён)', link: '/ru-ru/event/golden-autumn-bedwars-2026.html'}, {text: 'Концерт блоков (завершён)', link: '/ru-ru/event/concerto-of-blocks-2026.html'}]},
           { text: 'Выживание', children: [ {text: 'Введение', link: '/ru-ru/survival/introduction.html'}, {text: 'Настройки', link: '/ru-ru/survival/settings.html'}, {text: 'Команды', link: '/ru-ru/survival/command.html'}, {text: 'FAQ', link: '/ru-ru/survival/faq.html'} ] },
-          { text: 'Финал', children: [ {text: 'Введение', link: '/ru-ru/finale/introduction.html'}, {text: 'Настройки', link: '/ru-ru/finale/settings.html'}, {text: 'Команды', link: '/ru-ru/finale/command.html'}, {text: 'FAQ', link: '/ru-ru/finale/faq.html'} ] },
+          { text: 'Closing Song', children: [ {text: 'Введение', link: '/ru-ru/closing-song/introduction.html'}, {text: 'Настройки', link: '/ru-ru/closing-song/settings.html'}, {text: 'Команды', link: '/ru-ru/closing-song/command.html'}, {text: 'FAQ', link: '/ru-ru/closing-song/faq.html'} ] },
           { text: 'Островной режим', children: [ {text: 'Введение', link: '/ru-ru/island/introduction.html'}, {text: 'Настройки', link: '/ru-ru/island/settings.html'}, {text: 'Команды', link: '/ru-ru/island/command.html'}, {text: 'FAQ', link: '/ru-ru/island/faq.html'} ] },
           { text: 'О нас', children: [ {text: 'История', link: '/ru-ru/about/history.html'}, {text: 'Авторы', link: '/ru-ru/about/contributions.html'}, {text: 'Правила', link: '/ru-ru/about/rules.html'}, {text: 'Спонсорство', link: '/ru-ru/about/sponsor.html'} ] },
           { text: 'Ссылки', children: [ {text: 'GitHub', link: 'https://GitHub.com/Rain-Serenity/'}, {text: 'MCBBS Memorial', link: 'https://www.MCBBS.co/thread-5031-1-1.html'}, {text: 'MineBBS', link: 'https://www.MineBBS.com/threads/1-21-1.28390/'}, {text: 'Minecraft Wiki', link: 'https://Minecraft.Wiki/'}, {text: 'NameMC', link: 'https://NameMC.com/server/play.rserene.com'}, {text: 'Список банов', link: 'https://Bans.RSerene.com/'}, {text: 'KLPBBS', link: 'https://KLPBBS.com/thread-171662-1-1.html'} ]}
@@ -452,9 +452,9 @@ export default defineUserConfig({
             text: 'サバイバルモード',
             children: ['/ja-jp/survival/introduction.md', '/ja-jp/survival/settings.md', '/ja-jp/survival/command.md', '/ja-jp/survival/faq.md'],
           }],
-          '/ja-jp/finale/': [{
-            text: 'フィナーレ',
-            children: ['/ja-jp/finale/introduction.md', '/ja-jp/finale/settings.md', '/ja-jp/finale/command.md', '/ja-jp/finale/faq.md'],
+          '/ja-jp/closing-song/': [{
+            text: 'Closing Song',
+            children: ['/ja-jp/closing-song/introduction.md', '/ja-jp/closing-song/settings.md', '/ja-jp/closing-song/command.md', '/ja-jp/closing-song/faq.md'],
           }],
           '/ja-jp/island/': [{
             text: 'スカイブロックモード',
@@ -469,7 +469,7 @@ export default defineUserConfig({
           { text: "ホーム", link: "/ja-jp/" },
           { text: "イベント", children: [ {text: '雨潤九州・金秋ベッドウォーズ（終了）', link: '/ja-jp/event/golden-autumn-bedwars-2026.html'}, {text: 'ブロック協奏曲（終了）', link: '/ja-jp/event/concerto-of-blocks-2026.html'}]},
           { text: 'サバイバル', children: [ {text: '紹介', link: '/ja-jp/survival/introduction.html'}, {text: '設定', link: '/ja-jp/survival/settings.html'}, {text: 'コマンド一覧', link: '/ja-jp/survival/command.html'}, {text: 'FAQ', link: '/ja-jp/survival/faq.html'} ] },
-          { text: 'フィナーレ', children: [ {text: '紹介', link: '/ja-jp/finale/introduction.html'}, {text: '設定', link: '/ja-jp/finale/settings.html'}, {text: 'コマンド一覧', link: '/ja-jp/finale/command.html'}, {text: 'FAQ', link: '/ja-jp/finale/faq.html'} ] },
+          { text: 'Closing Song', children: [ {text: '紹介', link: '/ja-jp/closing-song/introduction.html'}, {text: '設定', link: '/ja-jp/closing-song/settings.html'}, {text: 'コマンド一覧', link: '/ja-jp/closing-song/command.html'}, {text: 'FAQ', link: '/ja-jp/closing-song/faq.html'} ] },
           { text: 'スカイブロック', children: [ {text: '紹介', link: '/ja-jp/island/introduction.html'}, {text: '設定', link: '/ja-jp/island/settings.html'}, {text: 'コマンド一覧', link: '/ja-jp/island/command.html'}, {text: 'FAQ', link: '/ja-jp/island/faq.html'} ] },
           { text: 'サーバーについて', children: [ {text: '歴史', link: '/ja-jp/about/history.html'}, {text: '貢献者', link: '/ja-jp/about/contributions.html'}, {text: 'ルール', link: '/ja-jp/about/rules.html'}, {text: 'スポンサー', link: '/ja-jp/about/sponsor.html'} ] },
           { text: '関連リンク', children: [ {text: 'GitHub', link: 'https://GitHub.com/Rain-Serenity/'}, {text: 'MCBBS Memorial', link: 'https://www.MCBBS.co/thread-5031-1-1.html'}, {text: 'MineBBS', link: 'https://www.MineBBS.com/threads/1-21-1.28390/'}, {text: 'Minecraft Wiki', link: 'https://Minecraft.Wiki/'}, {text: 'NameMC', link: 'https://NameMC.com/server/play.rserene.com'}, {text: 'BANリスト', link: 'https://Bans.RSerene.com/'}, {text: 'KLPBBS', link: 'https://KLPBBS.com/thread-171662-1-1.html'} ]}
@@ -545,9 +545,9 @@ export default defineUserConfig({
             text: '서바이벌 모드',
             children: ['/ko-kr/survival/introduction.md', '/ko-kr/survival/settings.md', '/ko-kr/survival/command.md', '/ko-kr/survival/faq.md'],
           }],
-          '/ko-kr/finale/': [{
-            text: '피날레',
-            children: ['/ko-kr/finale/introduction.md', '/ko-kr/finale/settings.md', '/ko-kr/finale/command.md', '/ko-kr/finale/faq.md'],
+          '/ko-kr/closing-song/': [{
+            text: 'Closing Song',
+            children: ['/ko-kr/closing-song/introduction.md', '/ko-kr/closing-song/settings.md', '/ko-kr/closing-song/command.md', '/ko-kr/closing-song/faq.md'],
           }],
           '/ko-kr/island/': [{
             text: '스카이블록 모드',
@@ -562,7 +562,7 @@ export default defineUserConfig({
           { text: "홈", link: "/ko-kr/" },
           { text: "이벤트", children: [ {text: 'RSerene 구주·황금빛 가을 베드워즈(종료)', link: '/ko-kr/event/golden-autumn-bedwars-2026.html'}, {text: '블록 협주곡(종료)', link: '/ko-kr/event/concerto-of-blocks-2026.html'}]},
           { text: '서바이벌', children: [ {text: '소개', link: '/ko-kr/survival/introduction.html'}, {text: '설정', link: '/ko-kr/survival/settings.html'}, {text: '명령어 목록', link: '/ko-kr/survival/command.html'}, {text: 'FAQ', link: '/ko-kr/survival/faq.html'} ] },
-          { text: '피날레', children: [ {text: '소개', link: '/ko-kr/finale/introduction.html'}, {text: '설정', link: '/ko-kr/finale/settings.html'}, {text: '명령어 목록', link: '/ko-kr/finale/command.html'}, {text: 'FAQ', link: '/ko-kr/finale/faq.html'} ] },
+          { text: 'Closing Song', children: [ {text: '소개', link: '/ko-kr/closing-song/introduction.html'}, {text: '설정', link: '/ko-kr/closing-song/settings.html'}, {text: '명령어 목록', link: '/ko-kr/closing-song/command.html'}, {text: 'FAQ', link: '/ko-kr/closing-song/faq.html'} ] },
           { text: '스카이블록', children: [ {text: '소개', link: '/ko-kr/island/introduction.html'}, {text: '설정', link: '/ko-kr/island/settings.html'}, {text: '명령어 목록', link: '/ko-kr/island/command.html'}, {text: 'FAQ', link: '/ko-kr/island/faq.html'} ] },
           { text: '서버 정보', children: [ {text: '역사', link: '/ko-kr/about/history.html'}, {text: '기여자', link: '/ko-kr/about/contributions.html'}, {text: '규칙', link: '/ko-kr/about/rules.html'}, {text: '후원', link: '/ko-kr/about/sponsor.html'} ] },
           { text: '관련 링크', children: [ {text: 'GitHub', link: 'https://GitHub.com/Rain-Serenity/'}, {text: 'MCBBS Memorial', link: 'https://www.MCBBS.co/thread-5031-1-1.html'}, {text: 'MineBBS', link: 'https://www.MineBBS.com/threads/1-21-1.28390/'}, {text: 'Minecraft Wiki', link: 'https://Minecraft.Wiki/'}, {text: 'NameMC', link: 'https://NameMC.com/server/play.rserene.com'}, {text: '밴 목록', link: 'https://Bans.RSerene.com/'}, {text: 'KLPBBS', link: 'https://KLPBBS.com/thread-171662-1-1.html'} ]}
@@ -638,9 +638,9 @@ export default defineUserConfig({
             text: 'Survival-Modus',
             children: ['/de-de/survival/introduction.md', '/de-de/survival/settings.md', '/de-de/survival/command.md', '/de-de/survival/faq.md'],
           }],
-          '/de-de/finale/': [{
-            text: 'Finale',
-            children: ['/de-de/finale/introduction.md', '/de-de/finale/settings.md', '/de-de/finale/command.md', '/de-de/finale/faq.md'],
+          '/de-de/closing-song/': [{
+            text: 'Closing Song',
+            children: ['/de-de/closing-song/introduction.md', '/de-de/closing-song/settings.md', '/de-de/closing-song/command.md', '/de-de/closing-song/faq.md'],
           }],
           '/de-de/island/': [{
             text: 'Skyblock-Modus',
@@ -655,7 +655,7 @@ export default defineUserConfig({
           { text: "Startseite", link: "/de-de/" },
           { text: "Veranstaltungen", children: [ {text: 'Rain Serenity Neun Provinzen · Goldener Herbst BedWars (beendet)', link: '/de-de/event/golden-autumn-bedwars-2026.html'}, {text: 'Block-Konzert (beendet)', link: '/de-de/event/concerto-of-blocks-2026.html'}]},
           { text: 'Survival', children: [ {text: 'Einführung', link: '/de-de/survival/introduction.html'}, {text: 'Einstellungen', link: '/de-de/survival/settings.html'}, {text: 'Befehlsliste', link: '/de-de/survival/command.html'}, {text: 'FAQ', link: '/de-de/survival/faq.html'} ] },
-          { text: 'Finale', children: [ {text: 'Einführung', link: '/de-de/finale/introduction.html'}, {text: 'Einstellungen', link: '/de-de/finale/settings.html'}, {text: 'Befehlsliste', link: '/de-de/finale/command.html'}, {text: 'FAQ', link: '/de-de/finale/faq.html'} ] },
+          { text: 'Closing Song', children: [ {text: 'Einführung', link: '/de-de/closing-song/introduction.html'}, {text: 'Einstellungen', link: '/de-de/closing-song/settings.html'}, {text: 'Befehlsliste', link: '/de-de/closing-song/command.html'}, {text: 'FAQ', link: '/de-de/closing-song/faq.html'} ] },
           { text: 'Skyblock', children: [ {text: 'Einführung', link: '/de-de/island/introduction.html'}, {text: 'Einstellungen', link: '/de-de/island/settings.html'}, {text: 'Befehlsliste', link: '/de-de/island/command.html'}, {text: 'FAQ', link: '/de-de/island/faq.html'} ] },
           { text: 'Über uns', children: [ {text: 'Servergeschichte', link: '/de-de/about/history.html'}, {text: 'Mitwirkende', link: '/de-de/about/contributions.html'}, {text: 'Serverregeln', link: '/de-de/about/rules.html'}, {text: 'Spenden', link: '/de-de/about/sponsor.html'} ] },
           { text: 'Relevante Links', children: [ {text: 'GitHub', link: 'https://GitHub.com/Rain-Serenity/'}, {text: 'MCBBS Memorial', link: 'https://www.MCBBS.co/thread-5031-1-1.html'}, {text: 'MineBBS', link: 'https://www.MineBBS.com/threads/1-21-1.28390/'}, {text: 'Minecraft Wiki', link: 'https://Minecraft.Wiki/'}, {text: 'NameMC', link: 'https://NameMC.com/server/play.rserene.com'}, {text: 'Bannliste', link: 'https://Bans.RSerene.com/'}, {text: 'KLPBBS', link: 'https://KLPBBS.com/thread-171662-1-1.html'} ]}

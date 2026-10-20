@@ -14,14 +14,14 @@ A: No. Both premium and offline accounts can join directly, with no whitelist ap
 A: From the **group files** of QQ group 902620497. Use the original pack and do not add or remove mods; you can also search the internet for the original author's release page.
 
 ### Q3: How do I join the server?
-A: 1. Join QQ group 902620497 and download the "Curtain Call" modpack from the **group files**;<br>
+A: 1. Join QQ group 902620497 and download the "Closing Song" modpack from the **group files**;<br>
 2. Use PCL, HMCL or another launcher to "import the modpack" directly — do not reinstall or add/remove mods;<br>
-3. After launching, confirm the version is 1.20.1-Forge;<br>
+3. After launching, confirm the version is 1.20.1-Forge and that you are running Java 17;<br>
 4. Multiplayer → Add server, address `CLSO.RSerene.com`;<br>
 5. On your first join you can ask an admin for starter supplies; see the group announcement for details.
 
 ### Q4: Why can't I connect / why do I keep reconnecting?
-A: First confirm the version is 1.20.1-Forge and the mods match the pack; the address is `CLSO.RSerene.com`. If it still fails, ask in the group — the address may have changed.
+A: First confirm the version is 1.20.1-Forge, that you are running Java 17, and that the mods match the pack; the address is `CLSO.RSerene.com`. If it still fails, ask in the group — the address may have changed.
 
 ### Q5: Does it cost money?
 A: No, playing is free (donations are entirely voluntary, never required).

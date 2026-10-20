@@ -14,14 +14,14 @@ A: Nein. Sowohl Premium- als auch Offline-Accounts können direkt beitreten, ohn
 A: Aus den **Gruppendateien** der QQ-Gruppe 902620497. Nutze das Original-Paket und füge keine Mods hinzu oder entferne welche; du kannst auch die Release-Seite des ursprünglichen Autors im Internet suchen.
 
 ### F3: Wie trete ich dem Server bei?
-A: 1. Tritt der QQ-Gruppe 902620497 bei und lade das Paket „Finale“ aus den **Gruppendateien**;<br>
+A: 1. Tritt der QQ-Gruppe 902620497 bei und lade das Paket „Closing Song“ aus den **Gruppendateien**;<br>
 2. Importiere das Paket direkt in PCL, HMCL oder einen anderen Launcher — installiere nichts neu und ändere keine Mods;<br>
-3. Prüfe nach dem Start, ob die Version 1.20.1-Forge ist;<br>
+3. Prüfe nach dem Start, ob die Version 1.20.1-Forge ist und du Java 17 nutzt;<br>
 4. Mehrspieler → Server hinzufügen, Adresse `CLSO.RSerene.com`;<br>
 5. Beim ersten Beitreten kannst du einen Admin nach Startmaterial fragen; Details laut Gruppen-Ankündigung.
 
 ### F4: Warum komme ich nicht drauf / warum reconnectet es ständig?
-A: Prüfe zuerst, ob die Version 1.20.1-Forge ist und die Mods zum Paket passen; die Adresse ist `CLSO.RSerene.com`. Wenn es weiterhin nicht geht, frage in der Gruppe — die Adresse könnte sich geändert haben.
+A: Prüfe zuerst, ob die Version 1.20.1-Forge ist, du Java 17 nutzt und die Mods zum Paket passen; die Adresse ist `CLSO.RSerene.com`. Wenn es weiterhin nicht geht, frage in der Gruppe — die Adresse könnte sich geändert haben.
 
 ### F5: Kostet das Geld?
 A: Nein, das Spielen ist kostenlos (Spenden sind völlig freiwillig, nie verpflichtend).
