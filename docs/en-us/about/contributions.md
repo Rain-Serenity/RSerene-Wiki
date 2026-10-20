@@ -2,15 +2,17 @@
 ## Core Members
 ### Server Director (Overall Responsibility)
 * Chosen_1st
-### Operations Staff (Server Management, Funding)
+### Server Affairs Staff (Server Management, Funding)
 * maomaozhanshi
 * starpole2007
+### Server Operators (operate any one server)
+* billyta
+* Chosen_1st
+* Korvahet
 ### General Moderators (Server Order, Ban/Kick Permissions)
-* eeeprime
 * ENDINGBRINER
 * Twigbone
-### Other Moderators (QQ Group Affairs)
-* billyta
+### Other Moderators (responsible for managing the server QQ group)
 * purplepeachblbl
 
 ### Heartfelt thanks to all server members for their unconditional dedication

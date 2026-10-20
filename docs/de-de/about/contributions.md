@@ -2,15 +2,17 @@
 ## Kernteam des Servers
 ### Hauptverantwortlicher des Rain Serenity Servers (zuständig für alle Serverangelegenheiten)
 * Chosen_1st
-### Weitere Betriebsmitglieder (zuständig für Serververwaltung, Finanzen usw.)
+### Mitarbeiter für Serverangelegenheiten (Serververwaltung, Finanzen usw.)
 * maomaozhanshi
 * starpole2007
+### Server-Betreiber (betreiben einen der Server)
+* billyta
+* Chosen_1st
+* Korvahet
 ### Allgemeine Administratoren (zuständig für die Aufrechterhaltung der Ordnung, mit Rechten zum Bannen, Kicken usw.)
-* eeeprime
 * ENDINGBRINER
 * Twigbone
-### Weitere Administratoren (zuständig für die Angelegenheiten der QQ-Gruppe)
-* billyta
+### Weitere Administratoren (verwalten die QQ-Gruppe des Servers)
 * purplepeachblbl
 
 ### Herzlichen Dank an alle Mitglieder des Servers für ihren bedingungslosen Einsatz
