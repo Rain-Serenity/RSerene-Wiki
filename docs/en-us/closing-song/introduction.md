@@ -1,33 +1,35 @@
 ---
-author: Chosen_1st , maomaozhanshi
+author: Chosen_1st ,  Korvahet
 ---
 # Introduction
-
-## Rain Serene Modded Server
-**Welcome to the Rain Serene modded server, a long-running 1.20.1 Forge modded survival server currently running the "Closing Song" modpack. Both premium and offline accounts can join directly, with no whitelist application; once you get tired of a modpack we simply move on to the next one — the server and the community stay.**
-::: tip Note
-This server has premium verification disabled. Premium accounts can log in directly, and offline accounts can join just as easily — no login plugins required.
+::: tip Tips
+The Closing Song server is operated by Korvahet.
 :::
 
-| Type                   | Status                                                        |
+## Closing Song
+**Welcome to Closing Song, a long-running 1.20.1 Forge modded survival server currently running the "[Closing Song](https://www.mcmod.cn/modpack/1133.html)" modpack. Both premium and offline accounts can join directly, with no whitelist application; once you get tired of a modpack we simply move on to the next one — the server and the community stay.**
+::: tip Note
+Although the server does not have premium authentication enabled, non-premium users need <a href="https://littleskin.cn" target="_blank">LittleSkin</a> login to join the server. Therefore, non-premium users, please register an account at <a href="https://littleskin.cn" target="_blank">LittleSkin</a> and log in with your <a href="https://littleskin.cn" target="_blank">LittleSkin</a> account in a third-party launcher before joining the server!
+:::
+
+| Type                     | Status                                                                     |
 |----------------------|-----------------------------------------------------------|
-| Server Name            | RSerene Modded Server                                         |
-| Server IP / Domain     | CLSO.RSerene.com                                              |
-| Supported Version      | 1.20.1                                                        |
-| Loader                 | Forge 47.3.22 (matches the modpack)                           |
-| Required Java          | Java 17                                                       |
-| Current Modpack        | Closing Song (V1.6.7.1, subject to group announcement)        |
-| Business Model         | Non-profit server » completely free + voluntary donations     |
-| Game Mode              | Survival (modded)                                             |
-| Network Type           | Multi-line                                                    |
-| Premium Verification   | None (both premium and offline accounts can join)             |
-| Max Online Players     | 15                                                            |
-| Whitelist              | None                                                          |
-| Contact                | QQ Group: 902620497 (modpack in group files)                  |
+| Server Name               | Closing Song                                                               |
+| Server IP / Domain       | CLSO.RSerene.com                                                           |
+| Supported Version        | 1.20.1                                                                     |
+| Loader                   | Forge 47.3.22                                                              |
+| Current Modpack          | [Closing Song (V1.6.7.1)](https://www.mcmod.cn/modpack/1133.html)          |
+| Business Model           | Non-profit server » completely free + voluntary donations                  |
+| Game Mode                | Survival (modded)                                                          |
+| Network Type             | Multi-line                                                                 |
+| Premium Verification     | None (both premium and offline accounts can join)                          |
+| Max Online Players       | 15                                                                         |
+| Whitelist                | None                                                                       |
+| Contact                  | QQ Group: 902620497 (modpack in group files)                               |
 
 <ClientOnly>
   <iframe
-    src="https://zh-cn.namemc.com/server/clso.rserene.com/embed"
+    src="https://zh-cn.namemc.com/server/play.rserene.com/embed"
     width="728"
     height="90"
     style="width: 100%; max-width: 728px; height: 90px; border: none; display: block; margin: 0 auto;"

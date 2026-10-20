@@ -1,33 +1,35 @@
 ---
-author: Chosen_1st , maomaozhanshi
+author: Chosen_1st ,  Korvahet
 ---
 # 소개
-
-## 라인 세레니티 모드 서버
-**라인 세레니티 모드 서버에 오신 것을 환영합니다. 장기 운영 중인 1.20.1 Forge 모드 생존 서버이며, 현재 팩은 "Closing Song"입니다. 정품과 오프라인 계정 모두 바로 입장할 수 있고 화이트리스트 신청은 필요하지 않습니다. 팩에 질리면 다음 팩으로 교체하면 되며, 서버와 커뮤니티는 그대로 유지됩니다.**
-::: tip 안내
-본 서버는 정품 인증이 비활성화되어 있습니다. 정품 계정은 바로 로그인할 수 있고, 오프라인 계정도 동일하게 입장할 수 있으며 로그인 플러그인 설치는 필요하지 않습니다.
+::: tip 팁
+Closing Song 서버는 Korvahet이 운영합니다.
 :::
 
-| 유형          | 상태                                              |
+## Closing Song
+**Closing Song에 오신 것을 환영합니다. 장기 운영 중인 1.20.1 Forge 모드 생존 서버이며, 현재 팩은 "Closing Song"입니다. 정품과 오프라인 계정 모두 바로 입장할 수 있고 화이트리스트 신청은 필요하지 않습니다. 팩에 질리면 다음 팩으로 교체하면 되며, 서버와 커뮤니티는 그대로 유지됩니다.**
+::: tip 주의
+서버가 정품 인증을 활성화하지 않았지만, 비정품 사용자가 서버에 접속하려면 <a href="https://littleskin.cn" target="_blank">LittleSkin</a> 로그인이 필요합니다. 따라서 비정품 사용자는 먼저 <a href="https://littleskin.cn" target="_blank">LittleSkin</a>에서 계정을 등록하고 서드파티 런처에서 <a href="https://littleskin.cn" target="_blank">LittleSkin</a> 계정으로 로그인한 후 서버에 접속해 주세요!
+:::
+
+| 유형            | 상태                                                                        |
 |-----------|------------------------------------|
-| 서버 이름       | RSerene 모드 서버                                   |
-| 서버 IP/도메인   | CLSO.RSerene.com                                |
-| 지원 버전       | 1.20.1                                          |
-| 로더          | Forge 47.3.22 (팩과 동일)                           |
-| 필요 Java     | Java 17                                         |
-| 현재 팩        | Closing Song (V1.6.7.1, 정확한 버전은 그룹 공지 참고)       |
-| 운영 모델       | 비영리 서버 » 전면 무료 + 자발적 기부 수락                      |
-| 게임 모드       | 생존 (모드)                                         |
-| 네트워크 유형     | 다중 회선                                           |
-| 정품 인증       | 없음 (정품·오프라인 모두 입장 가능)                           |
-| 최대 동시 접속    | 15                                              |
-| 화이트리스트      | 없음                                              |
-| 연락처         | QQ 그룹: 902620497 (팩은 그룹 파일에서 다운로드)              |
+| 서버 이름          | Closing Song                                                              |
+| 서버 IP/도메인     | CLSO.RSerene.com                                                          |
+| 지원 버전         | 1.20.1                                                                    |
+| 로더            | Forge 47.3.22                                                             |
+| 현재 팩          | [Closing Song (V1.6.7.1)](https://www.mcmod.cn/modpack/1133.html)         |
+| 운영 모델         | 비영리 서버 » 전면 무료 + 자발적 기부 수락                                                |
+| 게임 모드         | 생존 (모드)                                                                   |
+| 네트워크 유형       | 다중 회선                                                                     |
+| 정품 인증         | 없음 (정품·오프라인 모두 입장 가능)                                                     |
+| 최대 동시 접속      | 15                                                                        |
+| 화이트리스트        | 없음                                                                        |
+| 연락처           | QQ 그룹: 902620497 (팩은 그룹 파일에서 다운로드)                                        |
 
 <ClientOnly>
   <iframe
-    src="https://zh-cn.namemc.com/server/clso.rserene.com/embed"
+    src="https://zh-cn.namemc.com/server/play.rserene.com/embed"
     width="728"
     height="90"
     style="width: 100%; max-width: 728px; height: 90px; border: none; display: block; margin: 0 auto;"
