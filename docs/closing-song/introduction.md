@@ -12,20 +12,20 @@ author: Chosen_1st ,  Korvahet
 服务器虽然没有开启正版验证，但非正版用户加入服务器需要 <a href="https://littleskin.cn" target="_blank">LittleSkin</a> 登录，因此非正版用户请先到 <a href="https://littleskin.cn" target="_blank">LittleSkin</a> 注册账号，并在第三方启动器登录你的 <a href="https://littleskin.cn" target="_blank">LittleSkin</a> 账户后才能加入服务器！
 :::
 
-| 类型           | 状况                                                          |
+| 类型       | 状况                                                      |
 |----------|---------------------------------------------------------|
-| 服务器名称         | 落幕曲                                                         |
-| 服务器IP/域名     | CLSO.RSerene.com                                            |
-| 支持版本         | 1.20.1                                                      |
-| 加载器          | Forge 47.3.22                                               |
-| 当前整合包        | [落幕曲（V1.6.7.1）](https://www.mcmod.cn/modpack/1133.html)     |
-| 营利模式         | 公益服务器 » 全部免费+接受“无条件”捐助                                      |
-| 游戏模式         | 生存（模组）                                                      |
-| 网络类型         | 多线                                                          |
-| 正版验证         | 无                                                           |
-| 最大在线人数       | 15                                                          |
-| 有无白名单        | 无                                                           |
-| 联系方式         | QQ群: 902620497                                              |
+| 服务器名称    | 落幕曲                                                     |
+| 服务器IP/域名 | CLSO.RSerene.com                                        |
+| 支持版本     | 1.20.1                                                  |
+| 加载器      | Forge 47.3.22                                           |
+| 当前整合包    | [落幕曲（V1.6.7.1）](https://www.mcmod.cn/modpack/1133.html) |
+| 营利模式     | 公益服务器 » 全部免费+接受“无条件”捐助                                  |
+| 游戏模式     | 生存（模组）                                                  |
+| 网络类型     | 多线                                                      |
+| 正版验证     | 无                                                       |
+| 最大在线人数   | 15                                                      |
+| 有无白名单    | 无                                                       |
+| 联系方式     | QQ群: 902620497                                          |
 
 <ClientOnly>
   <iframe
