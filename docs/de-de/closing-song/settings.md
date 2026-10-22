@@ -1,3 +1,6 @@
+---
+author: Chosen_1st ,  Korvahet
+---
 # Grundeinstellungen
 ::: tip Hinweis
 Der Closing Song-Server wird von Korvahet betrieben.

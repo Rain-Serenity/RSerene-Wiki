@@ -61,43 +61,43 @@ Die Verkaufspreise werden noch angepasst — Feedback ist willkommen.
 ### Konkrete Einstellungen
 | Entity                      | Max. Tick-Verarbeitungen pro Tick (limit) | Maximale Existenzzahl (removal) |
 |:----------------------------|:------------------------------------------|:--------------------------------|
-| Zombifizierter Piglin       | 120                                       | 480                             |
-| Blaze                       | 100                                       | 400                             |
-| Magmawürfel                 | 100                                       | 400                             |
-| Schleim                     | 120                                       | 480                             |
-| Ghast                       | 30                                        | 120                             |
-| Hexe                        | 80                                        | 320                             |
-| Witherskelett               | 100                                       | 400                             |
-| Enderman                    | 80                                        | 320                             |
-| Ertrunkener                 | 100                                       | 400                             |
-| Guardian                    | 100                                       | 400                             |
-| Zombie                      | 150                                       | 600                             |
-| Skelett                     | 150                                       | 600                             |
-| Creeper                     | 120                                       | 480                             |
-| Spinne                      | 120                                       | 480                             |
-| Endermite                   | 30                                        | 120                             |
-| Schwein                     | 150                                       | 600                             |
-| Kuh                         | 150                                       | 600                             |
-| Schaf                       | 150                                       | 600                             |
-| Huhn                        | 180                                       | 720                             |
-| Hase                        | 100                                       | 400                             |
-| Pferd                       | 40                                        | 160                             |
-| Wolf                        | 40                                        | 160                             |
-| Katze                       | 40                                        | 160                             |
-| Ozelot                      | 15                                        | 60                              |
-| Papagei                     | 15                                        | 60                              |
-| Dorfbewohner                | 250                                       | 1000                            |
-| Eisengolem                  | 80                                        | 320                             |
-| Fallengelassener Gegenstand | 400                                       | 1600                            |
-| Erfahrungskugel             | 400                                       | 1600                            |
-| Rüstungsständer             | 150                                       | 600                             |
-| Rahmen                      | 150                                       | 600                             |
-| Leuchtender Rahmen          | 150                                       | 600                             |
-| Boot                        | 80                                        | 320                             |
-| Lore                        | 80                                        | 320                             |
-| TNT                         | 80                                        | 320                             |
-| Pfeil                       | 150                                       | 600                             |
-| Schneeball                  | 150                                       | 600                             |
-| Feuerwerksrakete            | 80                                        | 320                             |
-| Enderperle                  | 30                                        | 120                             |
-| Fallender Block             | 80                                        | 320                             |
+| Zombifizierter Piglin       | 100                                       | 400                             |
+| Blaze                       | 80                                        | 320                             |
+| Magmawürfel                 | 80                                        | 320                             |
+| Schleim                     | 100                                       | 400                             |
+| Ghast                       | 20                                        | 80                              |
+| Hexe                        | 60                                        | 240                             |
+| Witherskelett               | 80                                        | 320                             |
+| Enderman                    | 60                                        | 240                             |
+| Ertrunkener                 | 80                                        | 320                             |
+| Guardian                    | 80                                        | 320                             |
+| Zombie                      | 120                                       | 480                             |
+| Skelett                     | 120                                       | 480                             |
+| Creeper                     | 100                                       | 400                             |
+| Spinne                      | 100                                       | 400                             |
+| Endermite                   | 20                                        | 80                              |
+| Schwein                     | 120                                       | 480                             |
+| Kuh                         | 120                                       | 480                             |
+| Schaf                       | 120                                       | 480                             |
+| Huhn                        | 150                                       | 600                             |
+| Hase                        | 80                                        | 320                             |
+| Pferd                       | 30                                        | 120                             |
+| Wolf                        | 30                                        | 120                             |
+| Katze                       | 30                                        | 120                             |
+| Ozelot                      | 10                                        | 40                              |
+| Papagei                     | 10                                        | 40                              |
+| Dorfbewohner                | 200                                       | 800                             |
+| Eisengolem                  | 60                                        | 240                             |
+| Fallengelassener Gegenstand | 300                                       | 1200                            |
+| Erfahrungskugel             | 300                                       | 1200                            |
+| Rüstungsständer             | 120                                       | 480                             |
+| Rahmen                      | 120                                       | 480                             |
+| Leuchtender Rahmen          | 120                                       | 480                             |
+| Boot                        | 60                                        | 240                             |
+| Lore                        | 60                                        | 240                             |
+| TNT                         | 60                                        | 240                             |
+| Pfeil                       | 120                                       | 480                             |
+| Schneeball                  | 120                                       | 480                             |
+| Feuerwerksrakete            | 60                                        | 240                             |
+| Enderperle                  | 20                                        | 80                              |
+| Fallender Block             | 60                                        | 240                             |

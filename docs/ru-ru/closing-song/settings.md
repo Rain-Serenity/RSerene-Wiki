@@ -1,3 +1,6 @@
+---
+author: Chosen_1st ,  Korvahet
+---
 # Основные настройки
 ::: tip Подсказка
 Сервером Closing Song управляет Korvahet.

@@ -1,3 +1,6 @@
+---
+author: Chosen_1st ,  Korvahet
+---
 # Settings
 ::: tip Tips
 The Closing Song server is operated by Korvahet.

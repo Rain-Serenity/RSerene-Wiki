@@ -1,3 +1,6 @@
+---
+author: Chosen_1st ,  Korvahet
+---
 # 기본 설정
 ::: tip 팁
 Closing Song 서버는 Korvahet이 운영합니다.

@@ -1,3 +1,6 @@
+---
+author: Chosen_1st ,  Korvahet
+---
 # 基本設定
 ::: tip ヒント
 Closing Song サーバーは Korvahet が運営しています。

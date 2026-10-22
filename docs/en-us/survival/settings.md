@@ -61,43 +61,43 @@ Selling prices are still being adjusted; feedback is welcome.
 ### Specific Settings
 | Entity           | Max Ticks Processed per Tick (limit) | Maximum Existing Count (removal) |
 |:-----------------|:-------------------------------------|:---------------------------------|
-| Zombified Piglin | 120                                  | 480                              |
-| Blaze            | 100                                  | 400                              |
-| Magma Cube       | 100                                  | 400                              |
-| Slime            | 120                                  | 480                              |
-| Ghast            | 30                                   | 120                              |
-| Witch            | 80                                   | 320                              |
-| Wither Skeleton  | 100                                  | 400                              |
-| Enderman         | 80                                   | 320                              |
-| Drowned          | 100                                  | 400                              |
-| Guardian         | 100                                  | 400                              |
-| Zombie           | 150                                  | 600                              |
-| Skeleton         | 150                                  | 600                              |
-| Creeper          | 120                                  | 480                              |
-| Spider           | 120                                  | 480                              |
-| Endermite        | 30                                   | 120                              |
-| Pig              | 150                                  | 600                              |
-| Cow              | 150                                  | 600                              |
-| Sheep            | 150                                  | 600                              |
-| Chicken          | 180                                  | 720                              |
-| Rabbit           | 100                                  | 400                              |
-| Horse            | 40                                   | 160                              |
-| Wolf             | 40                                   | 160                              |
-| Cat              | 40                                   | 160                              |
-| Ocelot           | 15                                   | 60                               |
-| Parrot           | 15                                   | 60                               |
-| Villager         | 250                                  | 1000                             |
-| Iron Golem       | 80                                   | 320                              |
-| Dropped Item     | 400                                  | 1600                             |
-| Experience Orb   | 400                                  | 1600                             |
-| Armor Stand      | 150                                  | 600                              |
-| Item Frame       | 150                                  | 600                              |
-| Glow Item Frame  | 150                                  | 600                              |
-| Boat             | 80                                   | 320                              |
-| Minecart         | 80                                   | 320                              |
-| TNT              | 80                                   | 320                              |
-| Arrow            | 150                                  | 600                              |
-| Snowball         | 150                                  | 600                              |
-| Firework Rocket  | 80                                   | 320                              |
-| Ender Pearl      | 30                                   | 120                              |
-| Falling Block    | 80                                   | 320                              |
+| Zombified Piglin | 100                                  | 400                              |
+| Blaze            | 80                                   | 320                              |
+| Magma Cube       | 80                                   | 320                              |
+| Slime            | 100                                  | 400                              |
+| Ghast            | 20                                   | 80                               |
+| Witch            | 60                                   | 240                              |
+| Wither Skeleton  | 80                                   | 320                              |
+| Enderman         | 60                                   | 240                              |
+| Drowned          | 80                                   | 320                              |
+| Guardian         | 80                                   | 320                              |
+| Zombie           | 120                                  | 480                              |
+| Skeleton         | 120                                  | 480                              |
+| Creeper          | 100                                  | 400                              |
+| Spider           | 100                                  | 400                              |
+| Endermite        | 20                                   | 80                               |
+| Pig              | 120                                  | 480                              |
+| Cow              | 120                                  | 480                              |
+| Sheep            | 120                                  | 480                              |
+| Chicken          | 150                                  | 600                              |
+| Rabbit           | 80                                   | 320                              |
+| Horse            | 30                                   | 120                              |
+| Wolf             | 30                                   | 120                              |
+| Cat              | 30                                   | 120                              |
+| Ocelot           | 10                                   | 40                               |
+| Parrot           | 10                                   | 40                               |
+| Villager         | 200                                  | 800                              |
+| Iron Golem       | 60                                   | 240                              |
+| Dropped Item     | 300                                  | 1200                             |
+| Experience Orb   | 300                                  | 1200                             |
+| Armor Stand      | 120                                  | 480                              |
+| Item Frame       | 120                                  | 480                              |
+| Glow Item Frame  | 120                                  | 480                              |
+| Boat             | 60                                   | 240                              |
+| Minecart         | 60                                   | 240                              |
+| TNT              | 60                                   | 240                              |
+| Arrow            | 120                                  | 480                              |
+| Snowball         | 120                                  | 480                              |
+| Firework Rocket  | 60                                   | 240                              |
+| Ender Pearl      | 20                                   | 80                               |
+| Falling Block    | 60                                   | 240                              |

@@ -1,3 +1,6 @@
+---
+author: Chosen_1st ,  Korvahet
+---
 # 基本設定
 ::: tip 提示
 落幕曲伺服器由Korvahet營運。

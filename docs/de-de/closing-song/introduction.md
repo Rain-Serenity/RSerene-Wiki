@@ -12,20 +12,20 @@ Der Closing Song-Server wird von Korvahet betrieben.
 Obwohl auf dem Server keine Premium-Authentifizierung aktiviert ist, benötigen Nicht-Premium-Nutzer einen <a href="https://littleskin.cn" target="_blank">LittleSkin</a>-Login, um dem Server beizutreten. Daher registrieren sich Nicht-Premium-Nutzer bitte zuerst bei <a href="https://littleskin.cn" target="_blank">LittleSkin</a> und melden sich in einem Drittanbieter-Launcher mit ihrem <a href="https://littleskin.cn" target="_blank">LittleSkin</a>-Konto an, bevor sie dem Server beitreten!
 :::
 
-| Typ                       | Status                                                                        |
-|-----------------------|------------------------------------------------------------------|
-| Servername                 | Closing Song                                                                  |
-| Server-IP / Domain        | CLSO.RSerene.com                                                              |
-| Unterstützte Version      | 1.20.1                                                                        |
-| Loader                    | Forge 47.3.22                                                                 |
-| Aktuelles Paket           | [Closing Song (V1.6.7.1)](https://www.mcmod.cn/modpack/1133.html)             |
-| Betriebsmodell            | Gemeinnütziger Server » komplett kostenlos + freiwillige Spenden              |
-| Spielmodus                | Survival (mit Mods)                                                           |
-| Netzwerktyp               | Mehrere Leitungen                                                             |
-| Premium-Verifizierung     | Keine (Premium und Offline können beide betreten)                             |
-| Maximale Spielerzahl      | 15                                                                            |
-| Whitelist                 | Keine                                                                         |
-| Kontakt                   | QQ-Gruppe: 902620497 (Paket in den Gruppendateien)                            |
+| Typ      | Status                                                  |
+|----------|---------------------------------------------------------|
+| Servername | Closing Song                                            |
+| Server-IP / Domain | CLSO.RSerene.com                                        |
+| Unterstützte Version | 1.20.1                                                  |
+| Loader   | Forge 47.3.22                                           |
+| Aktuelles Paket | [Closing Song (V1.6.7.1)](https://www.mcmod.cn/modpack/1133.html) |
+| Betriebsmodell | Gemeinnütziger Server » komplett kostenlos + freiwillige Spenden |
+| Spielmodus | Survival (mit Mods)                                     |
+| Netzwerktyp | Mehrere Leitungen                                       |
+| Premium-Verifizierung | Keine (Premium und Offline können beide betreten)       |
+| Maximale Spielerzahl | 15                                                      |
+| Whitelist | Keine                                                   |
+| Kontakt  | QQ-Gruppe: 902620497 (Paket in den Gruppendateien)      |
 
 <ClientOnly>
   <iframe
