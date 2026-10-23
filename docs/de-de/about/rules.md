@@ -1,100 +1,98 @@
-# Server-Verwaltungsordnung
+# Serverregeln
 
-## I. Allgemeine Bestimmungen
+## I. Servernatur & Verhaltensregeln für Spieler
 
-### 1. **Gemeinnützigkeit**
-- Der Rain Serenity Server ist ein gemeinnütziger Server für Minecraft Java Edition.
+### 1. Servernatur
+- **Gemeinnütziger Charakter**: Rain Serenity ist ein gemeinnütziger Minecraft-Java-Edition-Server.
+- **Spendenprinzip**: Dieser Server enthält keinerlei kostenpflichtige Angebote, akzeptiert aber freiwillige und bedingungslose Spenden von Spielern.
+- **Haftungsausschluss für Realkäufe**: Dieser Server schränkt Spieler nicht darin ein, Spielgegenstände in der realen Welt gegen Geld zu handeln, übernimmt jedoch keinerlei rechtliche oder gesamtschuldnerische Haftung für realwirtschaftliche Streitigkeiten zwischen Spielern.
 
-### 2. **Spendengrundsatz**
-- Dieser Server enthält keinerlei kostenpflichtige Inhalte, akzeptiert jedoch freiwillige und bedingungslose Spenden von Spielern.
+### 2. Grundlegende Verhaltensregeln für Spieler
+- **Altersempfehlung**: Gemäß den offiziellen regionalen Einstufungen ist dieses Spiel im europäischen PEGI-System ab **7 Jahren**, im nordamerikanischen ESRB-System ab **10 Jahren** und auf dem chinesischen Festland (CADPA) ab **8 Jahren** geeignet (die Einstufung im iOS App Store ist 9+). Wenn Sie das entsprechende Alter nicht erreicht haben, wird empfohlen, unter Aufsicht eines Erziehungsberechtigten zu spielen.
+- **Spielerübereinkunft**: Bitte behandeln Sie jeden Spieler respektvoll und freundlich.
+- **Kontosicherheit und Verantwortung**: Spieler müssen ihre Spielkonten und Passwörter sorgfältig aufbewahren. Item-Verluste, Banns und andere Folgen, die durch Verleihen, Teilen oder Verkaufen eines Kontos oder durch ein Passwort-Leck entstehen, trägt der Spieler selbst.
 
-### 3. **Haftungsausschluss für Echtgeldhandel**
-- Dieser Server verbietet es Spielern nicht, In-Game-Gegenstände in der realen Welt gegen Entgelt zu handeln, übernimmt jedoch keinerlei rechtliche oder gesamtschuldnerische Verantwortung für reale wirtschaftliche Streitigkeiten zwischen Spielern.
+### 3. Streitbeilegung
+- Wenn Sie während des Spiels auf Probleme, Konflikte oder Streitigkeiten stoßen, bleiben Sie ruhig und vernünftig und wenden Sie sich bei Bedarf an einen Administrator zur Vermittlung.
 
-### 4. **Umgang mit Konflikten**
-- Wenn du beim Spielen auf Probleme, Konflikte oder Streitigkeiten stößt, bleib bitte ruhig und vernünftig und wende dich bei Bedarf an einen Administrator.
+## II. Dienstleistungsgrenzen & Haftungsausschluss
 
-### 5. **Spieler-Kodex**
-- Bitte behandle jeden mit Respekt und Freundlichkeit.
+### 1. Dienstleistungsgrenzen
+- Dies ist ein gemeinnütziger Server. Das Managementteam ist **ausschließlich** für den grundlegenden Betrieb des Servers, die Einhaltung der Regeln und die Bearbeitung von Verstößen zuständig und bietet **keine** „Rundum-Betreuung“-Personalisierung an.
+- Das Managementteam übernimmt grundsätzlich keine Verantwortung für Folgendes:
+  1. **Bauten und Gelände**: Hilft Spielern nicht beim Verschieben, Umzug, Kopieren, Reparieren, Wiederaufbauen oder Abreißen von Bauten oder Baugruppen; hilft nicht beim Brechen von Grundgestein, Räumen von Gelände oder beim Erstellen oder Bereitstellen von Leerflächen.
+  2. **Unfälle und Verluste**: Bietet keine Entschädigung, Rollback, Erstattung oder Wiederherstellung für Item-, Bau- oder Geländeverluste, die durch Maschinenschäden des Spielers, Redstone-Fehlfunktionen, Sprengstoffe, Creeper, fehlgeschlagene Experimente oder Fehlbedienung verursacht wurden.
+  3. **Streitigkeiten zwischen Spielern**: Mischt sich nicht in spielinterne Streitigkeiten ein, die aus freiwilliger Zusammenarbeit, Leihen, Schenken, Handeln oder gemeinsamer Nutzung von Einrichtungen zwischen Spielern entstehen; Verstöße wie Cheaten, Diebstahl, bösartige Zerstörung oder bösartiges PvP werden jedoch weiterhin nach den Regeln geahndet.
 
-### 6. **Altersempfehlung**
-- Laut der offiziellen Empfehlung von Minecraft liegt das Mindestalter bei 9 Jahren. Wenn du jünger bist, spiele bitte in Begleitung eines Erziehungsberechtigten.
+### 2. Risikotragung & Meldung von Verstößen
+- Spieler sollten die Risiken von Bau, Redstone, Sprengstoffen und Experimenten im Spiel selbst einschätzen und tragen.
+- Wird ein Verlust durch den Verstoß eines anderen Spielers verursacht, bewahren Sie Beweise auf und melden Sie ihn über Kanäle wie die QQ-Gruppe; das Managementteam wird nach den Regeln verfahren.
 
-### 7. **Servicenumfang & Haftungsausschluss**
-- Dieser Server ist ein gemeinnütziger Server; das Verwaltungsteam ist **ausschließlich verantwortlich** für den Grundbetrieb des Servers, die Durchsetzung der Regeln und die Behandlung eindeutiger Verstöße und bietet **keine** „Rundum-Betreuung" („Nanny-Service") im individuellen Sinne an.
-- Das Verwaltungsteam nimmt grundsätzlich keine der folgenden Angelegenheiten an, übernimmt sie nicht und entschädigt nicht dafür:
-  1. **Bauten & Gelände**: Wir helfen Spielern nicht, Gebäude oder Bauwerke zu verschieben, zu verlagern, zu kopieren, zu reparieren, neu zu errichten oder abzubrechen; wir helfen nicht, Bedrock zu brechen, Gelände zu räumen oder Leerräume zu erstellen oder bereitzustellen.
-  2. **Unfälle & Verluste**: Wir bieten keine Regulierung, Rollbacks, Entschädigungen oder Wiederherstellung für Verluste von Gegenständen, Bauten oder Gelände durch Maschinenausfälle, Redstone-Störungen, Sprengstoffe, Creeper, fehlgeschlagene Experimente, Fehlbedienungen usw.
-  3. **Spielerstreitigkeiten**: Wir greifen nicht in Spielerkonflikte ein, die aus freiwilliger Kooperation, Leihen, Schenkungen, Handel, gemeinsam genutzten Maschinen/Einrichtungen usw. entstehen; Verstöße wie Cheaten, Stehlen, bösartiges Griefing und bösartiges PvP werden jedoch weiterhin nach den Regeln behandelt.
-- Spieler sollen die Risiken von Bauten, Redstone, Sprengstoff und Experimentieren im Spiel selbst bewerten und tragen.
-- Wurde der Verlust durch einen Regelverstoß eines anderen Spielers verursacht, bewahre bitte Beweise auf und melde es über die QQ-Gruppe oder andere Kanäle; das Verwaltungsteam wird nach den Regeln handeln.
-- Ob das Verwaltungsteam zusätzliche Hilfe leistet, liegt in seinem eigenen Ermessen; jede Hilfe stellt keine Verpflichtung, Zusage oder Präzedenz dar.
-- Bitte belästige, beschimpfe oder spame das Verwaltungsteam nicht, weil du die oben genannte nicht verpflichtende Hilfe nicht erhalten hast; andernfalls wird dies nach den Klauseln „unangemessene Äußerungen" und „bösartiges Spam" dieser Regeln behandelt.
+### 3. Hinweise zur Unterstützung durch das Managementteam
+- Ob das Managementteam zusätzliche Unterstützung leistet, entscheidet das Managementteam selbst; jede Unterstützung stellt weder eine Verpflichtung, ein Versprechen noch einen Präzedenzfall dar.
+- Bitte belästigen, beleidigen oder spammen Sie das Managementteam nicht, weil Sie die oben genannte nicht-verpflichtende Unterstützung nicht erhalten haben; andernfalls wird nach Bestimmungen wie „unangemessenen Äußerungen“ und „bösartigem Spam“ in diesen Regeln verfahren.
 
-## II. Streng verbotene Handlungen
+## III. Verstöße & Behandlung
 
-::: warning Hinweis zu Verstößen und Strafen
-Handlungen, die **entdeckt** werden, aber **keine schwerwiegenden Folgen** haben, werden vom Verwaltungsteam je nach **Schweregrad** mit einer **Verwarnung, einem temporären Bann** oder einem **Kick** geahndet.
+::: warning Hinweis zur Verstoßbehandlung
+Für die folgenden Verstöße wird das Managementteam je nach **Schwere** und **tatsächlich verursachter Auswirkung** Strafen wie Verwarnungen, temporäre Banns, permanente Banns oder das Entfernen aus dem Community-Gruppenchat verhängen. Betrifft ein Verstoß mehrere Konten, wird er als Verstoß des Hauptkontos behandelt.
 :::
 
-### 1. Richtlinien für das Community-Verhalten
+### 1. Verhaltensstandards in der Community
+- **Unangemessene Äußerungen**: diskriminierende, angreifende oder schwer unangemessene Äußerungen (Einzelheiten siehe Abschnitt IV).
+- **Schädliche Inhalte**: Veröffentlichung von pornografischem, abstoßendem oder übermäßig gewalttätigem Inhalt.
+- **Bösartiger Spam**: Versenden von Spam oder bösartiges Spammen.
+- **Identitätsdiebstahl & Werbung**: Sich als andere ausgeben, unerlaubte Werbung veröffentlichen oder anderes unangemessenes Verhalten.
 
-* **Unangemessene Äußerungen**
-    * Verbreiten diskriminierender, angriffslustiger oder grob unangemessener Äußerungen. *(Einzelheiten siehe Abschnitt III unten)*
-* **Anstößige Inhalte**
-    * Veröffentlichen pornografischer, anstößiger oder übermäßig gewalttätiger Inhalte.
-* **Bösartiges Spammen**
-    * Versenden von Junk-Nachrichten oder bösartiges Fluten des Chats.
-* **Regelwidriges Verhalten**
-    * Sich als andere ausgeben, unerlaubte Werbung verbreiten oder sonstiges unangemessenes Verhalten an den Tag legen.
+### 2. Verhaltensstandards im Spiel
+- **Cheaten**
+  - Verwendung von Cheat-Clients, Hacks oder nicht erlaubten Mods.
+  - Böswilliges Ausnutzen von Server- oder Spiel-Schwachstellen.
+- **Bösartige Zerstörung**
+  - Zerstören oder Manipulieren der Bauten und Arbeitsergebnisse anderer ohne Erlaubnis.
+  - Nehmen oder Stehlen von Items aus den Behältern anderer ohne Erlaubnis.
+  - Böswilliges PvP (erzwungenes Töten von Spielern in nicht erlaubten Bereichen oder ohne gegenseitige Zustimmung).
+- **Mechanismus-Missbrauch**
+  - Missbrauch von Plugin-Funktionen (z. B. Nutzung des Grundstücks-Plugins zum Einzäunen fremder Bauten).
+  - Absichtliches Wiederholen desselben Befehls oder Verwendung von Makros/Skripten zur Erzeugung von Befehls-Spam.
+- **Regelwidrige Bauten**
+  - Errichten von unanständigen, regelwidrigen oder abstoßenden Bauten.
+- **Umgehung von Strafen**
+  - Erstellen oder Verwenden von Zweitkonten (Ersatzkonten), um Banns zu umgehen, Vorrat zu farmen oder Verstöße zu begehen.
 
-### 2. Richtlinien für das Verhalten im Spiel
+## IV. Null-Toleranz-Prinzip
 
-**Cheating**
-* a. Verwenden von Cheat-Clients, Hacks oder regelwidrigen Mods.
-* b. Bösartiges Ausnutzen von Schwachstellen des Servers oder des Spiels selbst.
-
-**Bösartige Zerstörung**
-* a. Unerlaubtes Zerstören oder Verändern der Bauwerke und Arbeitsergebnisse anderer.
-* b. Unerlaubtes Nehmen bzw. Stehlen von Gegenständen aus den Behältern anderer.
-* c. Bösartiger PvP (gewaltsames Töten von Spielern in nicht erlaubten Gebieten oder ohne Zustimmung beider Seiten).
-
-**Missbrauch von Mechaniken**
-* a. Missbrauch von Plugin-Funktionen (z. B. das Einzäunen fremder Bauwerke mit dem Grundstücks-Plugin).
-* b. Absichtliches, wiederholtes Senden desselben Befehls (Befehls-Spam).
-
-**Regelwidrige Bauwerke**
-* Errichten anstößiger, regelwidriger oder verabscheuungswürdiger Bauwerke.
-
-## III. Null-Toleranz-Punkte
-
-::: danger Äußerst wichtig | Absolute rote Linie
-Werden die folgenden Handlungen festgestellt, führt dies zu einem **sofortigen, dauerhaften Bann ohne vorherige Verwarnung sowie zum Ausschluss aus den Community-Gruppen**; Widerspruch ist in keiner Form möglich.
+::: danger Besondere Erklärung
+Die folgenden Verstöße führen nach bestätigter Feststellung zu einem **sofortigen permanenten Bann und zum Entfernen aus dem Community-Gruppenchat**, und **keinerlei Form von Einspruch wird akzeptiert**.
 :::
 
-### 1. Rote Linie bei Äußerungen
+### 1. Sprach- und Datenschutz-Grenzlinien
 
-| Verstoß                          | Beschreibung des Verstoßes                                                          |
-|:---------------------------------|:-----------------------------------------------------------------------------------|
-| **Rassismus**                    | Rassistische Diskriminierung, Rassenhass oder entsprechende beleidigende Äußerungen. |
-| **Sexismus**                     | Sexistische Äußerungen oder Angriffe gegen ein bestimmtes Geschlecht.                |
-| **Diskriminierung sexueller Minderheiten** | Diskriminierung, Beleidigung oder Hassäußerungen gegenüber homosexuellen, transgeschlechtlichen und anderen LGBTQ+-Gruppen. |
-| **Beleidigung von Menschen mit Behinderung** | Beleidigung, Verspottung oder Hassäußerungen gegenüber Menschen mit Behinderung. |
-| **Sonstige Hassäußerungen**      | Jede andere Form von Hassäußerungen, die oben nicht aufgeführt ist.                  |
-| **Verletzung der Privatsphäre**  | Unerlaubtes Veröffentlichen, Verbreiten oder Handeln mit privaten oder echten Daten anderer aus der realen Welt. |
-| **Schwere persönliche Angriffe** | Üble persönliche Angriffe oder toxische Äußerungen mit anhaltendem Belästigungscharakter. |
+| Verstoß                                     | Beschreibung                                                                                                                                  |
+|:------|:------------|
+| **Rassismus & Sexismus**                    | Äußerungen mit rassistischer oder sexistischer Diskriminierung oder Angriffen auf ein bestimmtes Geschlecht.                                  |
+| **LGBTQ+-Diskriminierung**                  | Diskriminierung, Beleidigung oder Hassreden gegen Gruppen wie Homosexuelle und Transgender.                                                   |
+| **Beleidigung schutzbedürftiger Gruppen**   | Beleidigungen, Spott oder Hassreden gegen Gruppen wie Menschen mit Behinderung.                                                               |
+| **Sonstige Hassreden**                      | Alle weiteren oben nicht aufgeführten Formen von Hassreden.                                                                                   |
+| **Datenschutzverletzung**                   | Unerlaubtes Offenlegen, Verbreiten oder Weiterverkaufen der persönlichen Privatsphäre oder echter Informationen anderer in der realen Welt.   |
+| **Bösartige persönliche Angriffe**          | Böswillige persönliche Angriffe oder toxische Äußerungen von anhaltend belästigendem Charakter.                                               |
 
-### 2. Verstöße gegen Abschnitt II (streng verbotene Handlungen) mit schwerwiegenden Folgen
+### 2. Schwere bösartige Verstöße
 
-| Verstoß                                     | Beschreibung des Verstoßes                                                                                      |
-|:--------------------------------------------|:---------------------------------------------------------------------------------------------------------------|
-| **Schwerer Verstoß gegen die Community-Richtlinien** | Verbreiten unangemessener Äußerungen, anstößiger Inhalte, bösartiges Spammen oder ähnliche Verstöße mit schwerwiegenden Folgen. |
-| **Schwerer Verstoß gegen die In-Game-Richtlinien**   | Cheating, bösartige Zerstörung, Missbrauch von Mechaniken, Errichten regelwidriger Bauwerke und andere Handlungen, die das Servererlebnis schwer beeinträchtigen. |
+| Verstoß                                       | Beschreibung                                                                                                                                                                                               |
+|:------|:------------|
+| **Schwere Schädigung der Community**          | Wiederholtes Äußern unangemessener Inhalte, schädlicher Inhalte oder bösartigen Spams, das die Community-Atmosphäre schwer schädigt.                                                                       |
+| **Schwere Schädigung des Spielerlebnisses**   | Besonders bösartiges Cheaten, Zerstörung, Mechanismus-Missbrauch oder regelwidrige Bauten, die den normalen Serverbetrieb schwer beeinträchtigen.                                                          |
+| **Bedrohung der Serversicherheit**            | Verhalten, das die Serversicherheit gefährdet, wie Netzwerkangriffe (z. B. DDoS) auf den Server, bösartiges Suchen nach Schwachstellen oder Ausnutzung von Low-Level-Schwachstellen zur Gewinnerzielung.   |
+| **Verbindung zu realen Rechtsverstößen**      | Durchführung oder Verbreitung illegaler oder krimineller Aktivitäten der realen Welt im Spiel oder im Community-Gruppenchat.                                                                               |
 
-## IV. Einspruch gegen Banns
+## V. Bann-Einsprüche & Schlussbestimmungen
 
-### 1. Fälle, in denen kein Einspruch möglich ist
-- Verstoß gegen einen der Null-Toleranz-Punkte.
+### 1. Einspruchsverfahren
+- Sind Sie mit einem Bann-Ergebnis, das nicht unter das „**Null-Toleranz-Prinzip**“ fällt, nicht einverstanden, können Sie innerhalb von **7 Tagen** nach Erhalt der Bann-Mitteilung über Kanäle wie die Server-QQ-Gruppe einen Einspruch beim Administrator einreichen und eine Strafmilderung oder Bann-Aufhebung beantragen. Bei Fristablauf gilt das Strafmaß als akzeptiert.
+- Banns für Verstöße gegen eine beliebige Bestimmung des Abschnitts IV „Null-Toleranz-Prinzip“ dieser Regeln werden nicht mehr zum Einspruch angenommen.
 
-### 2. Ablauf des Einspruchs
-- Wenn du mit dem Ergebnis eines Banns, der nicht auf einen Null-Toleranz-Punkt zurückzuführen ist, nicht einverstanden bist, kannst du über Kanäle wie die QQ-Gruppe des Servers bei einem Administrator Einspruch einlegen, um eine Milderung der Strafe oder die Aufhebung des Banns zu beantragen.
+### 2. Schlussbestimmungen
+- **Erklärung des Managementteams**: Alle Mitglieder des Managementteams sind Spieler, die sich freiwillig an der Serververwaltung beteiligen; bitte respektieren Sie die Arbeit der Administratoren. Sind Sie mit einer Administrator-Entscheidung nicht einverstanden, lösen Sie dies über ordentliche Kanäle (z. B. Einspruch); persönliche Angriffe, Beleidigungen oder Spam gegen Administratoren in der Gruppe oder im Spiel sind strengstens untersagt.
+- **Letztes Auslegungsrecht**: Das Managementteam behält sich das letzte Auslegungs- und Änderungsrecht dieser Serverregeln vor.
+- **Regeländerungen**: Diese Regeln werden je nach tatsächlichem Serverbetrieb unregelmäßig geändert. Neue Regeln treten sofort nach Veröffentlichung in Kraft; bei Widersprüchen gilt die neueste Version.
