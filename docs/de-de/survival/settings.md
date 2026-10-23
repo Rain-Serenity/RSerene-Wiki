@@ -39,7 +39,7 @@ Anders als im Original werden die Drop-Items nach 3 Minuten neu generiert!
 | Kohleerz           | 2,80   | Rohkupferblock      | 5,40    | Roheisenblock  | 10,80     |
 | Diamant            | 12,00  | Rohgoldblock        | 14,40   | Smaragderz     | 25,00    |
 | Herz des Meeres    | 50,00  | Netheritbarren      | 90,00   | Diamantblock   | 108,00   |
-| Verzauberter Goldapfel | 200,00 | Tiefenkohleerz    | 420,00  | Tiefensmaragderz | 680,00 |
+| Verzauberter Goldapfel | 200,00 | Tiefenkohleerz    | 360,00  | Tiefensmaragderz | 680,00 |
 | Schwerer Kern      | 3.200,00 |                    |         |                |          |
 ::: tip Hinweis
 Die Verkaufspreise werden noch angepasst — Feedback ist willkommen.

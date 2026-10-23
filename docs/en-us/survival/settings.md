@@ -39,7 +39,7 @@ Unlike vanilla, dropped items will despawn after 3 minutes!
 | Coal Ore           | 2.80  | Raw Copper Block       | 5.40  | Raw Iron Block         | 10.80 |
 | Diamond            | 12.00 | Raw Gold Block         | 14.40 | Emerald Ore            | 25.00 |
 | Heart of the Sea   | 50.00 | Netherite Ingot        | 90.00 | Diamond Block          | 108.00 |
-| Enchanted Golden Apple | 200.00 | Deepslate Coal Ore   | 420.00 | Deepslate Emerald Ore | 680.00 |
+| Enchanted Golden Apple | 200.00 | Deepslate Coal Ore   | 360.00 | Deepslate Emerald Ore | 680.00 |
 | Heavy Core         | 3200.00 |                      |       |                      |       |
 ::: tip Note
 Selling prices are still being adjusted; feedback is welcome.
