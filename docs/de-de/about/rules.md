@@ -55,6 +55,10 @@ Für die folgenden Verstöße wird das Managementteam je nach **Schwere** und **
 - **Mechanismus-Missbrauch**
   - Missbrauch von Plugin-Funktionen (z. B. Nutzung des Grundstücks-Plugins zum Einzäunen fremder Bauten).
   - Absichtliches Wiederholen desselben Befehls oder Verwendung von Makros/Skripten zur Erzeugung von Befehls-Spam.
+- **Gefährdung des Serverbetriebs**
+  - **Verursachen von Lag**: böswilliges Bauen von Hochfrequenz-Redstone, massives Anhäufen von Entities oder Nutzung anderer Mechanismen, um absichtlich schweren Server-Lag zu verursachen.
+  - **Verweigerung der Behebung**: Nach ausdrücklicher Verwarnung durch einen Administrator weiterhin die Weigerung, lagverursachende Einrichtungen zu entfernen oder zu beheben.
+  - **Wiederholte Verstöße**: Wird nach einer Verwarnung wegen Lag-Problemen und deren Behebung erneut dasselbe Verhalten gezeigt, wird strenger bestraft; **in schweren Fällen gilt Abschnitt IV Null-Toleranz-Prinzip direkt**.
 - **Regelwidrige Bauten**
   - Errichten von unanständigen, regelwidrigen oder abstoßenden Bauten.
 - **Umgehung von Strafen**
@@ -68,23 +72,24 @@ Die folgenden Verstöße führen nach bestätigter Feststellung zu einem **sofor
 
 ### 1. Sprach- und Datenschutz-Grenzlinien
 
-| Verstoß                                     | Beschreibung                                                                                                                                  |
+| Verstoß                                       | Beschreibung                                                                                                                                    |
 |:------|:------------|
-| **Rassismus & Sexismus**                    | Äußerungen mit rassistischer oder sexistischer Diskriminierung oder Angriffen auf ein bestimmtes Geschlecht.                                  |
-| **LGBTQ+-Diskriminierung**                  | Diskriminierung, Beleidigung oder Hassreden gegen Gruppen wie Homosexuelle und Transgender.                                                   |
-| **Beleidigung schutzbedürftiger Gruppen**   | Beleidigungen, Spott oder Hassreden gegen Gruppen wie Menschen mit Behinderung.                                                               |
-| **Sonstige Hassreden**                      | Alle weiteren oben nicht aufgeführten Formen von Hassreden.                                                                                   |
-| **Datenschutzverletzung**                   | Unerlaubtes Offenlegen, Verbreiten oder Weiterverkaufen der persönlichen Privatsphäre oder echter Informationen anderer in der realen Welt.   |
-| **Bösartige persönliche Angriffe**          | Böswillige persönliche Angriffe oder toxische Äußerungen von anhaltend belästigendem Charakter.                                               |
+| **Rassismus & Sexismus**                      | Äußerungen mit rassistischer oder sexistischer Diskriminierung oder Angriffen auf ein bestimmtes Geschlecht.                                    |
+| **LGBTQ+-Diskriminierung**                    | Diskriminierung, Beleidigung oder Hassreden gegen Gruppen wie Homosexuelle und Transgender.                                                     |
+| **Beleidigung schutzbedürftiger Gruppen**     | Beleidigungen, Spott oder Hassreden gegen Gruppen wie Menschen mit Behinderung.                                                                 |
+| **Sonstige Hassreden**                        | Alle weiteren oben nicht aufgeführten Formen von Hassreden.                                                                                     |
+| **Datenschutzverletzung**                     | Unerlaubtes Offenlegen, Verbreiten oder Weiterverkaufen der persönlichen Privatsphäre oder echter Informationen anderer in der realen Welt.     |
+| **Bösartige persönliche Angriffe**            | Böswillige persönliche Angriffe oder toxische Äußerungen von anhaltend belästigendem Charakter.                                                 |
 
 ### 2. Schwere bösartige Verstöße
 
-| Verstoß                                       | Beschreibung                                                                                                                                                                                               |
+| Verstoß                                         | Beschreibung                                                                                                                                                                                                 |
 |:------|:------------|
-| **Schwere Schädigung der Community**          | Wiederholtes Äußern unangemessener Inhalte, schädlicher Inhalte oder bösartigen Spams, das die Community-Atmosphäre schwer schädigt.                                                                       |
-| **Schwere Schädigung des Spielerlebnisses**   | Besonders bösartiges Cheaten, Zerstörung, Mechanismus-Missbrauch oder regelwidrige Bauten, die den normalen Serverbetrieb schwer beeinträchtigen.                                                          |
-| **Bedrohung der Serversicherheit**            | Verhalten, das die Serversicherheit gefährdet, wie Netzwerkangriffe (z. B. DDoS) auf den Server, bösartiges Suchen nach Schwachstellen oder Ausnutzung von Low-Level-Schwachstellen zur Gewinnerzielung.   |
-| **Verbindung zu realen Rechtsverstößen**      | Durchführung oder Verbreitung illegaler oder krimineller Aktivitäten der realen Welt im Spiel oder im Community-Gruppenchat.                                                                               |
+| **Schwere Schädigung der Community**            | Wiederholtes Äußern unangemessener Inhalte, schädlicher Inhalte oder bösartigen Spams, das die Community-Atmosphäre schwer schädigt.                                                                         |
+| **Schwere Schädigung des Spielerlebnisses**     | Besonders bösartiges Cheaten, Zerstörung, Mechanismus-Missbrauch oder regelwidrige Bauten, die den normalen Serverbetrieb schwer beeinträchtigen.                                                            |
+| **Bedrohung der Serversicherheit**              | Verhalten, das die Serversicherheit gefährdet, wie Netzwerkangriffe (z. B. DDoS) auf den Server, bösartiges Suchen nach Schwachstellen oder Ausnutzung von Low-Level-Schwachstellen zur Gewinnerzielung.     |
+| **Böswilliges Server-Lahmlegen**                | Nutzung riesiger Entity-Bomben, böswilliger Chunk-Loader-Schwachstellen oder extremer Hochfrequenz-Redstone, um direkt Serverabstürze, Deadlocks oder großflächige Rollbacks zu verursachen.                 |
+| **Verbindung zu realen Rechtsverstößen**        | Durchführung oder Verbreitung illegaler oder krimineller Aktivitäten der realen Welt im Spiel oder im Community-Gruppenchat.                                                                                 |
 
 ## V. Bann-Einsprüche & Schlussbestimmungen
 

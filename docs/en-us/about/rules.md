@@ -55,6 +55,10 @@ For the following violations, the management team will impose penalties such as 
 - **Mechanism abuse**
   - Abusing plugin features (such as using the claim plugin to fence off others' buildings).
   - Deliberately repeating the same command, or using macros/scripts to cause command spam.
+- **Endangering server operation**
+  - **Causing lag**: maliciously building high-frequency redstone, piling up large numbers of entities, or using other mechanisms to deliberately cause severe server lag.
+  - **Refusing to fix**: after an explicit administrator warning, still refusing to remove or fix the facilities causing lag.
+  - **Repeated offences**: after being warned by an administrator and fixing a lag-causing issue, committing the same type of behaviour again will be punished more severely; **in serious cases Section IV Zero-Tolerance Principle applies directly**.
 - **Illegal buildings**
   - Building anything indecent, illegal or offensive.
 - **Evading punishment**
@@ -68,23 +72,24 @@ Once verified, the following violations will result in an **immediate permanent 
 
 ### 1. Speech & Privacy Red Lines
 
-| Violation                            | Description                                                                                                   |
+| Violation                              | Description                                                                                                     |
 |:--------|:------------|
-| **Racial & gender discrimination**   | Speech containing racial or gender discrimination, or attacks targeting a specific gender.                    |
-| **LGBTQ+ discrimination**            | Discrimination, insult or hate speech against groups such as homosexual and transgender people.               |
-| **Insulting vulnerable groups**      | Insults, mockery or hate speech against groups such as people with disabilities.                              |
-| **Other hate speech**                | Any other form of hate speech not listed above.                                                               |
-| **Privacy leaks**                    | Leaking, spreading or reselling others' real-world personal privacy or true information without permission.   |
-| **Malicious personal attacks**       | Vicious personal attacks or toxic speech of a persistent harassing nature.                                    |
+| **Racial & gender discrimination**     | Speech containing racial or gender discrimination, or attacks targeting a specific gender.                      |
+| **LGBTQ+ discrimination**              | Discrimination, insult or hate speech against groups such as homosexual and transgender people.                 |
+| **Insulting vulnerable groups**        | Insults, mockery or hate speech against groups such as people with disabilities.                                |
+| **Other hate speech**                  | Any other form of hate speech not listed above.                                                                 |
+| **Privacy leaks**                      | Leaking, spreading or reselling others' real-world personal privacy or true information without permission.     |
+| **Malicious personal attacks**         | Vicious personal attacks or toxic speech of a persistent harassing nature.                                      |
 
 ### 2. Major Serious Violations
 
-| Violation                                   | Description                                                                                                                                                                                  |
+| Violation                                     | Description                                                                                                                                                                                    |
 |:--------|:------------|
-| **Severely damaging the community**         | Repeatedly posting inappropriate speech, harmful content or malicious spam, seriously damaging the community atmosphere.                                                                     |
-| **Severely damaging the game experience**   | Egregious cheating, malicious destruction, mechanism abuse or illegal buildings that seriously affect the normal operation of the server.                                                    |
-| **Threatening server security**             | Behaviour endangering server security such as network attacks (e.g. DDoS) against the server, maliciously probing for vulnerabilities, or exploiting low-level vulnerabilities for profit.   |
-| **Real-world illegal connections**          | Conducting or promoting real-world illegal or criminal activities in game or in the community group chat.                                                                                    |
+| **Severely damaging the community**           | Repeatedly posting inappropriate speech, harmful content or malicious spam, seriously damaging the community atmosphere.                                                                       |
+| **Severely damaging the game experience**     | Egregious cheating, malicious destruction, mechanism abuse or illegal buildings that seriously affect the normal operation of the server.                                                      |
+| **Threatening server security**               | Behaviour endangering server security such as network attacks (e.g. DDoS) against the server, maliciously probing for vulnerabilities, or exploiting low-level vulnerabilities for profit.     |
+| **Maliciously causing server collapse**       | Using huge entity bombs, malicious chunk-loading exploits or extreme high-frequency redstone to directly cause server crashes, deadlocks or large-scale rollbacks.                             |
+| **Real-world illegal connections**            | Conducting or promoting real-world illegal or criminal activities in game or in the community group chat.                                                                                      |
 
 ## V. Ban Appeals & Supplementary Provisions
 
