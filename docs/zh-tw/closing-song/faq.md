@@ -14,7 +14,7 @@ author: Chosen_1st ,  Korvahet
 A：伺服器雖然沒有開啟正版驗證，但非正版用戶加入伺服器需要 <a href="https://littleskin.cn" target="_blank">LittleSkin</a> 登入，因此非正版用戶請先到 <a href="https://littleskin.cn" target="_blank">LittleSkin</a> 註冊帳號，並在第三方啟動器登入你的 <a href="https://littleskin.cn" target="_blank">LittleSkin</a> 帳戶後才能加入伺服器！
 
 ### Q2：整合包在哪裡下載？
-A：在 QQ 群 902620497 的**群檔案**裡下載，請使用原版整合包，不要自行增刪 mod；也可以在網上搜尋原作者的發布頁自行下載。
+A：在 QQ 群 902620497 的**群檔案**裡下載，請使用原版整合包，不要自行增刪 mod；也可以在[原作者的發布頁](https://www.mcmod.cn/modpack/1133.html)自行下載。
 
 ### Q3：如何加入伺服器？
 A：1. 加 QQ 群 902620497，在**群檔案**裡下載「落幕曲」整合包；或在[落幕曲官方頁面](https://www.mcmod.cn/modpack/1133.html)下載整合包。<br>

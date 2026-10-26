@@ -42,7 +42,7 @@ A: Sobald dieses Paket durchgespielt ist; vor dem Wechsel gibt es in der Gruppe 
 A: Prüfe zuerst die Gruppen-Ankündigung auf Neustart-Zeiten; wenn viele gleichzeitig fliegen, ist es meist ein Server-Neustart oder eine Netzschwankung — kurz warten und wieder joinen.
 
 ### F5: Welche Regeln gelten auf dem Server?
-A: Keine Hacks, X-Ray, Flug, Auto-AFK oder Skript-Item-Farmen; kein böswilliges PvP, keine Basen-Plünderung, keine Zerstörung fremder Builds, kein Spam, keine Beleidigungen; Vanilla-Redstone-Mechanismen und Mob-Farmen sind erlaubt, aber den Server absichtlich zu laggen oder Chunk-Loader zu missbrauchen ist verboten. Konkrete Bestimmungen laut Gruppen-Ankündigung.
+A: Keine Hacks, X-Ray, Flug, Auto-AFK oder Skript-Item-Farmen; kein böswilliges PvP, keine Basen-Plünderung, keine Zerstörung fremder Builds, kein Spam, keine Beleidigungen; Vanilla-Redstone-Mechanismen und Mob-Farmen sind erlaubt, aber den Server absichtlich zu laggen oder Chunk-Loader zu missbrauchen ist verboten. Konkrete Bestimmungen laut [Serverregeln](/de-de/about/rules.html).
 
 ## III. Urheberrecht und Community
 ### F1: Darf ich das Paket selbst verbreiten oder verkaufen?

@@ -7,7 +7,7 @@ Closing Song 서버는 Korvahet이 운영합니다.
 :::
 
 ## Closing Song
-**Closing Song에 오신 것을 환영합니다. 장기 운영 중인 1.20.1 Forge 모드 생존 서버이며, 현재 팩은 "Closing Song"입니다. 정품과 오프라인 계정 모두 바로 입장할 수 있고 화이트리스트 신청은 필요하지 않습니다. 팩에 질리면 다음 팩으로 교체하면 되며, 서버와 커뮤니티는 그대로 유지됩니다.**
+**Closing Song에 오신 것을 환영합니다. 장기 운영 중인 1.20.1 Forge 모드 생존 서버이며, 현재 팩은 "[Closing Song](https://www.mcmod.cn/modpack/1133.html)"입니다. 정품과 오프라인 계정 모두 바로 입장할 수 있고 화이트리스트 신청은 필요하지 않습니다. 팩에 질리면 다음 팩으로 교체하면 되며, 서버와 커뮤니티는 그대로 유지됩니다.**
 ::: tip 주의
 서버가 정품 인증을 활성화하지 않았지만, 비정품 사용자가 서버에 접속하려면 <a href="https://littleskin.cn" target="_blank">LittleSkin</a> 로그인이 필요합니다. 따라서 비정품 사용자는 먼저 <a href="https://littleskin.cn" target="_blank">LittleSkin</a>에서 계정을 등록하고 서드파티 런처에서 <a href="https://littleskin.cn" target="_blank">LittleSkin</a> 계정으로 로그인한 후 서버에 접속해 주세요!
 :::
