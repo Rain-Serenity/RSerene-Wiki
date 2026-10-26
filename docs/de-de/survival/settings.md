@@ -86,7 +86,7 @@ Die Verkaufspreise werden noch angepasst — Feedback ist willkommen.
 | Katze                       | 30                                        | 120                             |
 | Ozelot                      | 10                                        | 40                              |
 | Papagei                     | 10                                        | 40                              |
-| Dorfbewohner                | 200                                       | 800                             |
+| Dorfbewohner                | 100                                       | 200                             |
 | Eisengolem                  | 60                                        | 240                             |
 | Fallengelassener Gegenstand | 300                                       | 1200                            |
 | Erfahrungskugel             | 300                                       | 1200                            |

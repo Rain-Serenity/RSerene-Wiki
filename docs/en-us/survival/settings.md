@@ -86,7 +86,7 @@ Selling prices are still being adjusted; feedback is welcome.
 | Cat              | 30                                   | 120                              |
 | Ocelot           | 10                                   | 40                               |
 | Parrot           | 10                                   | 40                               |
-| Villager         | 200                                  | 800                              |
+| Villager         | 100                                  | 200                              |
 | Iron Golem       | 60                                   | 240                              |
 | Dropped Item     | 300                                  | 1200                             |
 | Experience Orb   | 300                                  | 1200                             |
