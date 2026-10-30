@@ -1,7 +1,7 @@
 ---
 author: Chosen_1st ,  Korvahet
 ---
-# 完美算数工坊 (CirnoArk) 服务器基本设定
+# 基本设定
 
 ::: tip 提示
 完美算数工坊服务器由 Korvahet 运营。
