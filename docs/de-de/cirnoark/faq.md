@@ -17,7 +17,7 @@ A: Nein. Auf dem Server ist **keine Premium-Verifizierung aktiviert**, Offline-A
 A: Füge den Server unter „Mehrspieler → Server hinzufügen" mit der Adresse `CirnoArk.RSerene.com` hinzu; alternativ wählst du in der Serverliste des RSerene-Masters „**CirnoArk**" aus (im Master steht der englische Name `CirnoArk`).
 
 ### F3: Welche Spielversionen werden unterstützt?
-A: Der Server selbst läuft auf **26.3** hinter einem Velocity-Proxy und ist dank der Cross-Version-Plugins zusammen mit dem Proxy mit Clients von **1.7.2 ~ 26.3** kompatibel. Zu alte Clients werden abgewiesen – bitte upgrade auf eine nutzbare Version.
+A: Der Server selbst läuft auf **26.3** und ist dank der Cross-Version-Plugins mit Clients von **1.8 ~ 26.3** kompatibel. Zu alte Clients werden abgewiesen – bitte upgrade auf eine nutzbare Version.
 
 ### F4: Kostet das Geld?
 A: Nein, das Spielen ist komplett kostenlos (Spenden sind völlig freiwillig, nie verpflichtend).
@@ -66,7 +66,7 @@ A: Ja. Die Gruppengröße ist **nicht begrenzt**, Erfahrung wird im Umkreis von 
 A: Verkaufe Items aus deinem Inventar mit `/sell` (Umrechnung nach der Preistabelle); `/worth` zeigt den Wert des Items in deiner Hand, `/worthlist` die komplette Preistabelle. Zwischen Spielern überweist du Geld mit `/pay` &lt;spieler&gt; &lt;betrag&gt;, **Gebühr 3 %**, die der Zahlende zusätzlich trägt. Neue Spieler starten mit **￥100**.
 
 ### F13: Wie praktisch ist AFK?
-A: Wer **10 Minuten** nichts bewegt, wird automatisch AFK (Berechtigung `cmi.command.afk.auto`). Sobald aber **mehr als 35 Spieler** online sind, wirst du nach **5 Minuten** AFK wieder vom Server gekickt – so bleibt der Server aktiv.
+A: Wer **10 Minuten** nichts bewegt, wird automatisch AFK (Berechtigung `cmi.command.afk.auto`). Bleibst du noch **5 Minuten** im AFK, wirst du wieder vom Server gekickt – mit dem Hinweis, dass du länger als 15 Minuten AFK warst.
 
 ### F14: Startet der Server neu? Geht dabei etwas verloren?
 A: Der Server **startet alle 72 Stunden planmäßig neu** (vorher läuft im Spiel ein Countdown), **stündlich werden die Drops auf dem Boden automatisch entfernt**. Grundstücke und Items werden von CoreProtect protokolliert und lassen sich zurückrollen.

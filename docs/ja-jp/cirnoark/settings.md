@@ -7,8 +7,8 @@ CirnoArk サーバーは Chosen_1st が運営しています。
 :::
 
 ## サーバー基本構成
-- **サーバーコアは Leaf（Paper 系）で、その前段に Velocity プロキシが置かれています。ゲームバージョンは 26.3、ViaVersion / ViaBackwards とプロキシにより 1.7.2 ~ 26.3 のクライアントに対応しています。**
-- **最大同時接続数は 40、難易度はハード、視界距離 12、シミュレーション距離 10、スポーン地点の保護半径は 16 ブロック。**
+- **サーバーコアは Leaf（Paper 系）、ゲームバージョンは 26.3、ViaVersion / ViaBackwards により 1.8 ~ 26.3 のクライアントに対応しています。**
+- **最大同時接続数は 20、難易度はハード、視界距離 12、シミュレーション距離 10、スポーン地点の保護半径は 16 ブロック。**
 - **サーバーアドレスは `CirnoArk.RSerene.com` です。RSerene メインコントロールのサーバーリストから「CirnoArk」を選んで参加することもできます。参加方法については[よくある質問](/ja-jp/cirnoark/faq.html)をご確認ください。**
 
 ## コアゲームシステム
@@ -145,7 +145,7 @@ CirnoArk サーバーは Chosen_1st が運営しています。
 
 | 項目 | 数値 |
 |---|---|
-| 最大同時接続数 | 40 |
+| 最大同時接続数 | 20 |
 | ゲーム難易度 | ハード |
 | 視界距離 / シミュレーション距離 | 12 / 10 |
 | スポーン地点の保護 | 16 ブロック |
@@ -198,6 +198,7 @@ CirnoArk サーバーは Chosen_1st が運営しています。
 | 内容 | 出典ファイル |
 |---|---|
 | バージョン、人数、難易度、距離 | `D:\Dev\server.properties` |
+| サーバーアドレス | 運営元から提供（CirnoArk.RSerene.com） |
 | Slimefun の研究レベル、放射線、鎧、ネットワーク、ガイド | `D:\Dev\plugins\Slimefun-8c866e3-Beta.jar` → `config.yml` |
 | 工房のリスト | `D:\Dev\plugins\SlimeTinker-Build 57 (git 41be204).jar` → `io/github/sefiraat/slimetinker/items/workstations/` |
 | 注入、進化、ポーション | `D:\Dev\plugins\AlchimiaVitae-Build 9 (git 95fc682).jar` → `config.yml` |

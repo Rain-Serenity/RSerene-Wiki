@@ -17,12 +17,12 @@ Auf dem Server ist keine Premium-Verifizierung aktiviert, Offline-Accounts könn
 | Servername    | CirnoArk                                                 |
 | Englischer Name    | CirnoArk                                                 |
 | Server-IP/Domain | CirnoArk.RSerene.com                                    |
-| Spielversion     | 26.3 (kompatibel mit Clients von 1.7.2 ~ 26.3)                            |
-| Server-Core    | Leaf (Paper-Familie) + Velocity-Proxy                            |
+| Spielversion     | 26.3 (kompatibel mit Clients von 1.8 ~ 26.3)                              |
+| Server-Core    | Leaf (Paper-Familie)                                           |
 | Spielmodus     | Survival (Slimefun-Industrie + mcMMO-Skills)                            |
 | Schwierigkeit        | Schwierig                                                       |
 | Premium-Verifizierung     | Keine                                                       |
-| Maximale Spielerzahl   | 40                                                      |
+| Maximale Spielerzahl   | 20                                                      |
 | Whitelist    | Keine                                                       |
 | Website        | www.RSerene.com                                          |
 | Kontakt     | QQ-Gruppe: 902620497                                          |

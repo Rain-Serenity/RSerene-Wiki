@@ -7,8 +7,8 @@ Der CirnoArk-Server wird von Chosen_1st betrieben.
 :::
 
 ## Grundkonfiguration des Servers
-- **Der Server-Core ist Leaf (Paper-Familie) mit vorgeschaltetem Velocity-Proxy, die Spielversion ist 26.3, und ViaVersion / ViaBackwards sorgen zusammen mit dem Proxy dafür, dass Clients von 1.7.2 ~ 26.3 kompatibel sind.**
-- **Maximal 40 Spieler online, Schwierigkeitsgrad Schwierig, Sichtweite 12, Simulationsdistanz 10, Spawn-Schutzzone mit 16 Blöcken Radius.**
+- **Der Server-Core ist Leaf (Paper-Familie), die Spielversion ist 26.3, und ViaVersion / ViaBackwards sorgen dafür, dass Clients von 1.8 ~ 26.3 kompatibel sind.**
+- **Maximal 20 Spieler online, Schwierigkeitsgrad Schwierig, Sichtweite 12, Simulationsdistanz 10, Spawn-Schutzzone mit 16 Blöcken Radius.**
 - **Die Serveradresse ist `CirnoArk.RSerene.com`; du kannst auch „CirnoArk" aus der Serverliste des RSerene-Masters wählen — wie du beitrittst, steht in den [häufigen Fragen](/de-de/cirnoark/faq.html).**
 
 ## Kernsystems des Gameplays
@@ -145,7 +145,7 @@ Mit der Holzhacke markierst du dein Grundstück.
 
 | Punkt | Wert |
 |---|---|
-| Maximale Spielerzahl | 40 |
+| Maximale Spielerzahl | 20 |
 | Schwierigkeitsgrad | Schwierig |
 | Sichtweite / Simulationsdistanz | 12 / 10 |
 | Spawn-Schutz | 16 Blöcke |
@@ -199,6 +199,7 @@ Alle Werte auf dieser Seite stammen aus den tatsächlichen Serverdateien; was in
 | Inhalt | Quelldatei |
 |---|---|
 | Version, Spielerzahl, Schwierigkeit, Distanzen | `D:\Dev\server.properties` |
+| Serveradresse | Vom Betreiber bereitgestellt (CirnoArk.RSerene.com) |
 | Slimefun-Forschungsstufen, Strahlung, Rüstung, Netzwerke, Guide | `D:\Dev\plugins\Slimefun-8c866e3-Beta.jar` → `config.yml` |
 | Werkstatt-Liste | `D:\Dev\plugins\SlimeTinker-Build 57 (git 41be204).jar` → `io/github/sefiraat/slimetinker/items/workstations/` |
 | Injektionen, Evolutionen, Tränke | `D:\Dev\plugins\AlchimiaVitae-Build 9 (git 95fc682).jar` → `config.yml` |

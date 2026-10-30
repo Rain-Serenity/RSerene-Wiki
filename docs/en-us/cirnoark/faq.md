@@ -17,7 +17,7 @@ A: No. The server **does not have premium authentication enabled**, so offline a
 A: Just add the server in "Multiplayer → Add Server" using the address `CirnoArk.RSerene.com`; you can also pick **"CirnoArk"** from the server list in the RSerene main control panel (the English name shown in the panel is `CirnoArk`).
 
 ### Q3: Which game versions are supported?
-A: The server itself runs on **26.3** behind a Velocity proxy, and cross-version plugins together with the proxy keep clients from **1.7.2 ~ 26.3** compatible. Clients that are too old will be rejected, so please upgrade to a supported version.
+A: The server itself runs on **26.3**, and cross-version plugins keep clients from **1.8 ~ 26.3** compatible. Clients that are too old will be rejected, so please upgrade to a supported version.
 
 ### Q4: Does it cost money?
 A: No, playing is completely free (donations are entirely voluntary and never required).
@@ -66,7 +66,7 @@ A: Yes. There is **no limit on party size**, and the experience sharing range is
 A: Use `/sell` to sell items from your inventory, valued by the price table; `/worth` checks the value of the item in your hand and `/worthlist` shows the full price table. Players can transfer money to each other with `/pay &lt;player&gt; &lt;amount&gt;`, with a **3% fee** paid on top by the sender. New players start with a balance of **￥100**.
 
 ### Q13: Is AFK convenient?
-A: Standing still for **10 minutes** puts you into AFK automatically (you need the `cmi.command.afk.auto` permission). But once **35 or more players** are online, AFKing for **5 minutes** gets you kicked from the server — this is to keep the server active.
+A: Standing still for **10 minutes** puts you into AFK automatically (you need the `cmi.command.afk.auto` permission). Staying in AFK for another **5 minutes** gets you kicked from the server, with the notice that you have been AFK for more than 15 minutes.
 
 ### Q14: Does the server restart? Will I lose my stuff?
 A: The server **restarts on a fixed schedule every 72 hours** (a countdown is broadcast in game before the restart), and **ground drops are cleared automatically once an hour**. Claims and items are logged by CoreProtect, so they can be rolled back.

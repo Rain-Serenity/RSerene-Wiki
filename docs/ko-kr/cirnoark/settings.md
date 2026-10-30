@@ -7,8 +7,8 @@ CirnoArk 서버는 Chosen_1st가 운영합니다.
 :::
 
 ## 서버 기본 구성
-- **서버 코어는 Leaf(Paper 계열)이며 앞에 Velocity 프록시가 붙어 있고, 게임 버전은 26.3, ViaVersion / ViaBackwards와 프록시가 함께 1.7.2 ~ 26.3 클라이언트를 지원합니다.**
-- **최대 동시 접속은 40명, 난이도는 어려움, 시야 거리는 12, 시뮬레이션 거리는 10, 스폰 보호 반경은 16블록입니다.**
+- **서버 코어는 Leaf(Paper 계열)이며, 게임 버전은 26.3, ViaVersion / ViaBackwards로 1.8 ~ 26.3 클라이언트를 지원합니다.**
+- **최대 동시 접속은 20명, 난이도는 어려움, 시야 거리는 12, 시뮬레이션 거리는 10, 스폰 보호 반경은 16블록입니다.**
 - **서버 주소는 `CirnoArk.RSerene.com`이며, RSerene 컨트롤의 서버 목록에서 「CirnoArk」를 선택해 입장할 수도 있습니다. 입장 방법은 [자주 묻는 질문](/ko-kr/cirnoark/faq.html)을 참고하세요.**
 
 ## 핵심 플레이 시스템
@@ -145,7 +145,7 @@ CirnoArk 서버는 Chosen_1st가 운영합니다.
 
 | 항목 | 수치 |
 |---|---|
-| 최대 동시 접속 | 40 |
+| 최대 동시 접속 | 20 |
 | 게임 난이도 | 어려움 |
 | 시야 거리 / 시뮬레이션 거리 | 12 / 10 |
 | 스폰 보호 | 16블록 |
@@ -199,6 +199,7 @@ CirnoArk 서버는 Chosen_1st가 운영합니다.
 | 내용 | 출처 파일 |
 |---|---|
 | 버전, 인원, 난이도, 거리 | `D:\Dev\server.properties` |
+| 서버 주소 | 운영자 제공 (CirnoArk.RSerene.com) |
 | 슬라임 기술 연구 등급, 방사선, 방어구, 네트워크, 가이드 | `D:\Dev\plugins\Slimefun-8c866e3-Beta.jar` → `config.yml` |
 | 워크숍 목록 | `D:\Dev\plugins\SlimeTinker-Build 57 (git 41be204).jar` → `io/github/sefiraat/slimetinker/items/workstations/` |
 | 주입, 진화, 물약 | `D:\Dev\plugins\AlchimiaVitae-Build 9 (git 95fc682).jar` → `config.yml` |

@@ -7,8 +7,8 @@ author: Chosen_1st
 :::
 
 ## 伺服器基本設定
-- **伺服器核心為 Leaf（Paper 系），前方由 Velocity 代理，遊戲版本 26.3，透過 ViaVersion / ViaBackwards 與代理共同相容 1.7.2 ~ 26.3 的客戶端。**
-- **最大在線人數 40，難度困難，視野距離 12、模擬距離 10，出生點保護半徑 16 格。**
+- **伺服器核心為 Leaf（Paper 系），遊戲版本 26.3，透過 ViaVersion / ViaBackwards 相容 1.8 ~ 26.3 的客戶端。**
+- **最大在線人數 20，難度困難，視野距離 12、模擬距離 10，出生點保護半徑 16 格。**
 - **伺服器位址為 `CirnoArk.RSerene.com`，可從雨潤主控的伺服器清單選擇「完美算術工坊」進入；進入方式請見[常見問題](/zh-tw/cirnoark/faq.html)。**
 
 ## 核心玩法系統
@@ -145,7 +145,7 @@ author: Chosen_1st
 
 | 項目 | 數值 |
 |---|---|
-| 最大在線人數 | 40 |
+| 最大在線人數 | 20 |
 | 遊戲難度 | 困難 |
 | 視野距離 / 模擬距離 | 12 / 10 |
 | 出生點保護 | 16 格 |
@@ -199,6 +199,7 @@ author: Chosen_1st
 | 內容 | 來源檔案 |
 |---|---|
 | 版本、人數、難度、距離 | `D:\Dev\server.properties` |
+| 伺服器位址 | 營運方提供（CirnoArk.RSerene.com） |
 | 黏液科技研究等級、輻射、護甲、網路、指南 | `D:\Dev\plugins\Slimefun-8c866e3-Beta.jar` → `config.yml` |
 | 工坊清單 | `D:\Dev\plugins\SlimeTinker-Build 57 (git 41be204).jar` → `io/github/sefiraat/slimetinker/items/workstations/` |
 | 注入、演變、藥水 | `D:\Dev\plugins\AlchimiaVitae-Build 9 (git 95fc682).jar` → `config.yml` |

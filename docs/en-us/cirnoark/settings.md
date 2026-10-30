@@ -7,8 +7,8 @@ The CirnoArk server is operated by Chosen_1st.
 :::
 
 ## Basic Server Configuration
-- **The server core is Leaf (Paper-based) behind a Velocity proxy, the game version is 26.3, and ViaVersion / ViaBackwards together with the proxy keep clients from 1.7.2 ~ 26.3 compatible.**
-- **Max online players is 40, difficulty is hard, view distance is 12, simulation distance is 10, and the spawn protection radius is 16 blocks.**
+- **The server core is Leaf (Paper-based), the game version is 26.3, and ViaVersion / ViaBackwards keep clients from 1.8 ~ 26.3 compatible.**
+- **Max online players is 20, difficulty is hard, view distance is 12, simulation distance is 10, and the spawn protection radius is 16 blocks.**
 - **The server address is `CirnoArk.RSerene.com`, and you can also pick "CirnoArk" from the RSerene main control panel; see the [FAQ](/en-us/cirnoark/faq.html) for how to join.**
 
 ## Core Gameplay Systems
@@ -145,7 +145,7 @@ Select an area with a wooden hoe to claim land.
 
 | Item | Value |
 |---|---|
-| Max online players | 40 |
+| Max online players | 20 |
 | Game difficulty | Hard |
 | View distance / simulation distance | 12 / 10 |
 | Spawn protection | 16 blocks |
@@ -199,6 +199,7 @@ Every value on this page comes from the server's actual files, and anything that
 | Content | Source File |
 |---|---|
 | Version, player count, difficulty, distances | `D:\Dev\server.properties` |
+| Server address | Provided by the operator (CirnoArk.RSerene.com) |
 | Slimefun research levels, radiation, armor, networks, guide | `D:\Dev\plugins\Slimefun-8c866e3-Beta.jar` → `config.yml` |
 | Workshop list | `D:\Dev\plugins\SlimeTinker-Build 57 (git 41be204).jar` → `io/github/sefiraat/slimetinker/items/workstations/` |
 | Imbuements, evolutions, potions | `D:\Dev\plugins\AlchimiaVitae-Build 9 (git 95fc682).jar` → `config.yml` |
