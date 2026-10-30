@@ -12,20 +12,20 @@ author: Chosen_1st ,  Korvahet
 伺服器雖然沒有開啟正版驗證，但非正版使用者加入伺服器需要 <a href="https://littleskin.cn" target="_blank">LittleSkin</a> 登入，因此非正版使用者請先到 <a href="https://littleskin.cn" target="_blank">LittleSkin</a> 註冊帳號，並在第三方啟動器登入你的 <a href="https://littleskin.cn" target="_blank">LittleSkin</a> 帳戶後才能加入伺服器！位址填 `CirnoArk.RSerene.com`。
 :::
 
-| 類型       | 狀況                                                      |
-|----------|---------------------------------------------------------|
-| 伺服器名稱    | 完美算術工坊                                                 |
-| 英文名稱    | CirnoArk                                                 |
-| 伺服器IP/域名 | CirnoArk.RSerene.com                                    |
-| 遊戲版本     | 26.3（相容 1.8 ~ 26.3 的客戶端）                            |
-| 伺服器核心    | Leaf（Paper 系）                                           |
-| 遊戲模式     | 生存（黏液科技工業 + mcMMO 技能）                            |
-| 難度        | 困難                                                       |
-| 正版驗證     | 無                                                       |
-| 最大在線人數   | 20                                                      |
-| 有無白名單    | 無                                                       |
-| 官網        | www.RSerene.com                                          |
-| 聯絡方式     | QQ群: 902620497                                          |
+| 類型       | 狀況                     |
+|----------|------------------------|
+| 遊戲版本     | 26.3                   |
+| 營利模式     | 公益伺服器 » 全部免費+接受「無條件」捐助 |
+| 遊戲模式     | 生存                     |
+| 網路類型     | 多線                     |
+| 正版驗證     | 無                      |
+| 最大在線人數   | 20                     |
+| 有無白名單    | 無                      |
+| 聯絡方式     | QQ群: 902620497         |
+| 伺服器IP/域名 | CirnoArk.RSerene.com   |
+
+
+
 
 <ClientOnly>
   <iframe

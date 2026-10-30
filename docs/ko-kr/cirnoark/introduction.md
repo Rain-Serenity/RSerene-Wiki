@@ -12,20 +12,20 @@ CirnoArk 서버는 Korvahet가 운영합니다.
 서버는 정품 인증을 요구하지 않지만, 비정품 사용자가 접속하려면 <a href="https://littleskin.cn" target="_blank">LittleSkin</a> 로그인이 필요합니다. 먼저 <a href="https://littleskin.cn" target="_blank">LittleSkin</a>에서 계정을 등록하고, 서드파티 런처에서 <a href="https://littleskin.cn" target="_blank">LittleSkin</a> 계정으로 로그인한 뒤 접속하세요. 주소는 `CirnoArk.RSerene.com`입니다.
 :::
 
-| 유형       | 상태                                                      |
-|----------|---------------------------------------------------------|
-| 서버 이름    | CirnoArk                                                 |
-| 영문 이름    | CirnoArk                                                 |
-| 서버 IP/도메인 | CirnoArk.RSerene.com                                    |
-| 게임 버전     | 26.3 (1.8 ~ 26.3 클라이언트 호환)                            |
-| 서버 코어    | Leaf (Paper 계열)                                           |
-| 게임 모드     | 생존 (슬라임 기술 산업 + mcMMO 스킬)                            |
-| 난이도        | 어려움                                                       |
-| 정품 인증     | 없음                                                       |
-| 최대 동시 접속   | 20                                                      |
-| 화이트리스트    | 없음                                                       |
-| 공식 홈페이지   | www.RSerene.com                                          |
-| 연락처     | QQ 그룹: 902620497                                          |
+| 유형        | 상태                          |
+|-----------|-----------------------------|
+| 게임 버전     | 26.3                        |
+| 운영 방식     | 공익 서버 » 완전 무료 + 「무조건」 기부 수락 |
+| 게임 모드     | 서바이벌                        |
+| 네트워크 유형   | 멀티라인                        |
+| 정품 인증     | 없음                          |
+| 최대 동시 접속  | 20                          |
+| 화이트리스트    | 없음                          |
+| 연락처       | QQ 그룹: 902620497            |
+| 서버 IP/도메인 | CirnoArk.RSerene.com        |
+
+
+
 
 <ClientOnly>
   <iframe

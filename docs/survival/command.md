@@ -9,7 +9,7 @@
 | /gmp mailbox                            | 打开你的邮箱，你在全球市场下架的东西都会存放在这里   |                                                           |
 | /gmp market gui                         | 打开全球市场                      |                                                           |
 | /gmp market help                        | 查看全球市场的可用指令功能               |                                                           |
-| /gmp market sell <价格> <数量>              | 将你手上的物品以一定的价格上架到全球市场        |
+| /gmp market sell <价格> <数量>              | 将你手上的物品以一定的价格上架到全球市场        |                                                             |
 | /home                                   | 传送到你的家                      |                                                           |
 | /homes                                  | 查看你的所有家                     |                                                           |
 | /money                                  | 查看你的余额                      |                                                           |

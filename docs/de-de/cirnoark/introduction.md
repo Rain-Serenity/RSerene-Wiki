@@ -12,20 +12,20 @@ Der CirnoArk-Server wird von Korvahet betrieben.
 Der Server verlangt keine Premium-Verifizierung, aber Nicht-Premium-Accounts müssen sich über <a href="https://littleskin.cn" target="_blank">LittleSkin</a> anmelden. Registriere dich zuerst bei <a href="https://littleskin.cn" target="_blank">LittleSkin</a> und melde dich in einem Drittanbieter-Launcher mit deinem <a href="https://littleskin.cn" target="_blank">LittleSkin</a>-Konto an, bevor du beitrittst. Die Adresse lautet `CirnoArk.RSerene.com`.
 :::
 
-| Typ       | Status                                                      |
-|----------|---------------------------------------------------------|
-| Servername    | CirnoArk                                                 |
-| Englischer Name    | CirnoArk                                                 |
-| Server-IP/Domain | CirnoArk.RSerene.com                                    |
-| Spielversion     | 26.3 (kompatibel mit Clients von 1.8 ~ 26.3)                              |
-| Server-Core    | Leaf (Paper-Familie)                                           |
-| Spielmodus     | Survival (Slimefun-Industrie + mcMMO-Skills)                            |
-| Schwierigkeit        | Schwierig                                                       |
-| Premium-Verifizierung     | Keine                                                       |
-| Maximale Spielerzahl   | 20                                                      |
-| Whitelist    | Keine                                                       |
-| Website        | www.RSerene.com                                          |
-| Kontakt     | QQ-Gruppe: 902620497                                          |
+| Typ                   | Status                                                                        |
+|-----------------------|-------------------------------------------------------------------------------|
+| Spielversion          | 26.3                                                                          |
+| Finanzierung          | Gemeinnütziger Server » alles kostenlos + „bedingungslose“ Spenden willkommen |
+| Spielmodus            | Survival                                                                      |
+| Netztyp               | Multi-Linie                                                                   |
+| Premium-Verifizierung | Keine                                                                         |
+| Maximale Spielerzahl  | 20                                                                            |
+| Whitelist             | Keine                                                                         |
+| Kontakt               | QQ-Gruppe: 902620497                                                          |
+| Server-IP/Domain      | CirnoArk.RSerene.com                                                          |
+
+
+
 
 <ClientOnly>
   <iframe

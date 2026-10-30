@@ -51,7 +51,7 @@ A: Ja. Nach dem Setzen einer Basis auf einem Planeten bekommst du einen eigenen 
 A: Drei Wege – im Spiel mit `/sf guide` in den Guide; über den Hauptbefehl `/sf` für Rezepte und Forschungsfortschritt; und mit `/sfcalc calc` &lt;gegenstand&gt; [&lt;anzahl&gt;] direkt die Materialien berechnen (auch gekürzt `/sfc calc` &lt;gegenstand&gt;).
 
 ### F8: Wie steige ich in den Forschungsstufen auf?
-A: Slimefun kennt **38 Forschungsstufen**, von 小鸡、牛牛君、蜘蛛、村民、开拓者 über 童生、学生、学徒、魔术师、巫师 bis hin zu 大师 und 天选之子. Forschung **kostet nichts**, nach dem Freischalten eines Rezepts geht es weiter.
+A: Slimefun kennt **38 Forschungsstufen**, von 小鸡, 牛牛君, 蜘蛛, 村民, 开拓者 über 童生, 学生, 学徒, 魔术师, 巫师 bis hin zu 大师 und 天选之子. Forschung **kostet nichts**, nach dem Freischalten eines Rezepts geht es weiter.
 
 ### F9: Wie trainiere ich Skills und wie hoch ist das Limit?
 A: Auf dem Server läuft mcMMO mit insgesamt **19 Skills** (Acrobatics, Alchemy, Archery, Axe, Digging, Fishing, Herbalism, Mining, Repair, Disassembling, Smelting, Sword, Taming, Unarmed, Woodcutting, Crossbow, Trident, Mace, Spear), das Levelmaximum liegt bei **1000 Level**. Skill-Level-Ups werden im Chat angekündigt.
@@ -63,7 +63,7 @@ A: **Nein.** Der Hardcore-Modus mit Levelverlust und Lifeleech-Strafe ist abgesc
 A: Ja. Die Gruppengröße ist **nicht begrenzt**, Erfahrung wird im Umkreis von **75 Blöcken** geteilt; die Gruppenfunktionen werden nach Level freigeschaltet: Chat 1, Teleport 2, Bündnis 5, Item-Teilen 8, Erfahrungsteilung 10.
 
 ### F12: Wie verdiene ich Geld? Wie verkaufe ich Items?
-A: Verkaufe Items aus deinem Inventar mit `/sell` (Umrechnung nach der Preistabelle); `/worth` zeigt den Wert des Items in deiner Hand, `/worthlist` die komplette Preistabelle. Zwischen Spielern überweist du Geld mit `/pay` &lt;spieler&gt; &lt;betrag&gt;, **Gebühr 3 %**, die der Zahlende zusätzlich trägt. Neue Spieler starten mit **￥100**.
+A: Verkaufe Items aus deinem Inventar mit `/sell gui` (Umrechnung nach der Preistabelle); `/worth` zeigt den Wert des Items in deiner Hand, `/worthlist` die komplette Preistabelle. Zwischen Spielern überweist du Geld mit `/pay` &lt;spieler&gt; &lt;betrag&gt;, **Gebühr 3 %**, die der Zahlende zusätzlich trägt. Neue Spieler starten mit **￥100**.
 
 ### F13: Wie praktisch ist AFK?
 A: Wer **10 Minuten** nichts bewegt, wird automatisch AFK (Berechtigung `cmi.command.afk.auto`). Bleibst du noch **5 Minuten** im AFK, wirst du wieder vom Server gekickt – mit dem Hinweis, dass du länger als 15 Minuten AFK warst.
@@ -85,37 +85,8 @@ A: Endertruhen sind privat. Mit `[inv]`, `[ender]` und `[item]` im Chat kannst d
 
 ## III. Regeln & Verwaltung
 ### F1: Welche Regeln gelten auf dem Server?
-A: Spieler müssen die folgenden 14 Punkte beachten:
+Maßgeblich sind die [Serverregeln](/de-de/about/rules.html).
 
-1. Keine Zerstörung fremder Bauten (No Griefing)
-2. Kein Spam (No Spamming)
-3. Keine Werbung (No Advertising)
-4. Keine Beleidigungen, kein anhaltendes Fluchen (No Cursing)
-5. Kein Trollen, keine Belästigung von Spielern (No Trolling / Flaming)
-6. Keine gesperrten Items benutzen (No Banned Items)
-7. Nicht nach OP, Rängen oder Items fragen (No Asking for OP, Ranks, or Items)
-8. Alle Spieler respektieren (Respect all Players)
-9. Dem Personal gehorchen (Obey Staff)
-10. Keine rassistischen oder sexistischen Äußerungen
-11. Keine Mods und keine Hacks (No Mods / Hacks)
-12. Keine Nachrichten komplett in Großbuchstaben (No Full Caps Messages)
-13. Keine Bauten nahe am Spawnpunkt (No Builds Near Spawn)
-14. Keine 1×1-Mobfarmen (No 1x1 Towers)
-
-Die vollständigen Bestimmungen stehen in den [Serverregeln](/de-de/about/rules.html). Bei Regelverstößen drohen Verwarnung, Mute, temporärer oder permanenter Bann.
-
-### F2: Was passiert, wenn ich gebannt oder gemutet werde?
-A: Bans und Mutes setzt LiteBans um, und das Ganze unterstützt **verknüpfte Alts** – wird ein neuer Account registriert, der mit einem gebannten Account zusammenhängt, wird dieser ebenfalls gebannt. Auf der Ban-Seite steht ein Hinweis, in der QQ-Gruppe einen Admin zu kontaktieren.
-
-### F3: Kann ich im Mute noch per Befehl kommunizieren?
-A: Nein. Während eines Mutes sind Chatbefehle wie `/me`, `/tell`, `/msg` und `/reply` wirkungslos.
-
-### F4: Gibt es Einschränkungen im Chat?
-A: **2 Sekunden Sprechkühlzeit**, eine Nachricht darf **höchstens 100 Zeichen** lang sein. `/shout` hat 3 Sekunden Abklingzeit; `@jemand` 30 Sekunden; `@all` 5 Minuten und benötigt zusätzliche Berechtigung.
-
-## IV. Urheberrecht & Community
-### F1: Darf ich die Plugins des Servers eigenmächtig verbreiten oder verkaufen?
-A: Nein. Dieser Server erhebt von Spielern keinerlei Gebühren und verbreitet keine Plugins oder Modpacks gegen Entgelt; die Inhalte dienen nur dem normalen Spiel der Spieler dieses Servers.
-
-### F2: Wo melde ich Probleme?
-A: Frage einen online Admin im Spiel oder tritt der offiziellen QQ-Gruppe **902620497** bei und schreibe dort @Chosen_1st. Website: www.RSerene.com.
+## IV. Community
+### F1: Wo melde ich Probleme?
+A: Frage einen online Admin im Spiel oder tritt der offiziellen QQ-Gruppe **902620497** bei und schreibe dort @Chosen_1st oder @Korvahet.

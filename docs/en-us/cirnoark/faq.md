@@ -63,10 +63,10 @@ A: **No.** The server has hardcore mode's level loss and life-steal penalties tu
 A: Yes. There is **no limit on party size**, and the experience sharing range is **75 blocks**; party features unlock by level: chat at level 1, teleport at level 2, alliances at level 5, item sharing at level 8, experience sharing at level 10.
 
 ### Q12: How do I earn money? How do I sell things?
-A: Use `/sell` to sell items from your inventory, valued by the price table; `/worth` checks the value of the item in your hand and `/worthlist` shows the full price table. Players can transfer money to each other with `/pay &lt;player&gt; &lt;amount&gt;`, with a **3% fee** paid on top by the sender. New players start with a balance of **￥100**.
+A: Use `/sell gui` to sell items from your inventory, valued by the price table; `/worth` checks the value of the item in your hand and `/worthlist` shows the full price table. Players can transfer money to each other with `/pay &lt;player&gt; &lt;amount&gt;`, with a **3% fee** paid on top by the sender. New players start with a balance of **￥100**.
 
 ### Q13: Is AFK convenient?
-A: Standing still for **10 minutes** puts you into AFK automatically (you need the `cmi.command.afk.auto` permission). Staying in AFK for another **5 minutes** gets you kicked from the server, with the notice that you have been AFK for more than 15 minutes.
+A: Standing still for **10 minutes** puts you into AFK automatically. Staying in AFK for another **5 minutes** gets you kicked from the server, with the notice that you have been AFK for more than 15 minutes.
 
 ### Q14: Does the server restart? Will I lose my stuff?
 A: The server **restarts on a fixed schedule every 72 hours** (a countdown is broadcast in game before the restart), and **ground drops are cleared automatically once an hour**. Claims and items are logged by CoreProtect, so they can be rolled back.
@@ -85,37 +85,8 @@ A: Ender chests are private. Typing `[inv]`, `[ender]` or `[item]` in chat lets 
 
 ## III. Rules & Moderation
 ### Q1: What are the server rules?
-A: Players must follow these 14 rules:
+See the [Server Rules](/en-us/about/rules.html) — that page is the definitive reference.
 
-1. No griefing others' builds (No Griefing)
-2. No spamming (No Spamming)
-3. No advertising (No Advertising)
-4. No cursing, no persistent profanity (No Cursing)
-5. No trolling, no harassing players (No Trolling / Flaming)
-6. No using banned items (No Banned Items)
-7. No asking for OP, ranks or items (No Asking for OP, Ranks, or Items)
-8. Respect all players (Respect all Players)
-9. Obey the staff (Obey Staff)
-10. No racist or sexist remarks
-11. No mods or hacks (No Mods / Hacks)
-12. No all-caps messages (No Full Caps Messages)
-13. No building near spawn (No Builds Near Spawn)
-14. No 1×1 mob farms (No 1x1 Towers)
-
-The full terms are in the [Server Rules](/en-us/about/rules.html). Breaking the rules can lead to a warning, mute, temporary ban or permanent ban.
-
-### Q2: What if I get banned or muted?
-A: Bans and mutes are handled by LiteBans, and they support **alt-account linking** — a newly registered account that is linked to a banned account will be banned as well. The ban screen tells you to join the QQ group and contact an admin to appeal.
-
-### Q3: Can I still use commands to talk while muted?
-A: No. While muted, chat commands such as `/me`, `/tell`, `/msg` and `/reply` do not work at all.
-
-### Q4: Are there any chat limits?
-A: A **2 second cooldown** between messages, and a maximum of **100 characters** per message. `/shout` has a 3 second cooldown; `@someone` has a 30 second cooldown; `@all` has a 5 minute cooldown and requires extra permission.
-
-## IV. Copyright & Community
-### Q1: Can I redistribute or sell the plugins used by the server?
-A: No. This server charges players no fees and does not sell or distribute any plugin or modpack content for money; the content is only for normal play by players of this server.
-
-### Q2: Where do I report problems?
-A: You can ask an online admin in game, or join the official QQ group: **902620497** and @Chosen_1st in the group. Official site: www.RSerene.com.
+## IV. Community
+### Q1: Where do I report problems?
+A: You can ask an online admin in game, or join the official QQ group: **902620497** and mention @Chosen_1st or @Korvahet in the group.

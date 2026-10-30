@@ -12,20 +12,20 @@ The CirnoArk server is operated by Korvahet.
 The server does not require premium authentication, but non-premium accounts must sign in through <a href="https://littleskin.cn" target="_blank">LittleSkin</a> to join. Register an account on <a href="https://littleskin.cn" target="_blank">LittleSkin</a> first, then log in with your <a href="https://littleskin.cn" target="_blank">LittleSkin</a> account in a third-party launcher before joining. The address is `CirnoArk.RSerene.com`.
 :::
 
-| Type     | Status                                                      |
-|----------|-------------------------------------------------------------|
-| Server Name | CirnoArk                                                 |
-| English Name | CirnoArk                                                 |
-| Server IP / Domain | CirnoArk.RSerene.com                                    |
-| Game Version | 26.3 (clients from 1.8 ~ 26.3 are supported)                |
-| Server Core | Leaf (Paper-based)                                         |
-| Game Mode | Survival (Slimefun industry + mcMMO skills)                |
-| Difficulty | Hard                                                       |
-| Premium Verification | None                                                |
-| Max Online Players | 20                                                      |
-| Whitelist | None                                                       |
-| Official Site | www.RSerene.com                                          |
-| Contact | QQ Group: 902620497                                         |
+| Type                 | Status                                                                      |
+|----------------------|-----------------------------------------------------------------------------|
+| Game Version         | 26.3                                                                        |
+| Monetization         | Non-profit server » entirely free, "no-strings-attached" donations accepted |
+| Game Mode            | Survival                                                                    |
+| Network Type         | Multi-line                                                                  |
+| Premium Verification | None                                                                        |
+| Max Online Players   | 20                                                                          |
+| Whitelist            | None                                                                        |
+| Contact              | QQ Group: 902620497                                                         |
+| Server IP / Domain   | CirnoArk.RSerene.com                                                        |
+
+
+
 
 <ClientOnly>
   <iframe

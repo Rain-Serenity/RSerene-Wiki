@@ -9,23 +9,23 @@ CirnoArk サーバーは Korvahet が運営しています。
 ## CirnoArk
 **CirnoArk へようこそ。Slimefun 工業を中心に、RPG スキルの育成と星間探査のプレーを重ね合わせた、長期公開のサバイバルサーバーです。**
 ::: tip 注意
-サーバーでは正版認証を有効にしていませんが、非正版ユーザーが参加するには <a href="https://littleskin.cn" target="_blank">LittleSkin</a> でのログインが必要です。<a href="https://littleskin.cn" target="_blank">LittleSkin</a> でアカウントを登録し、サードパーティランチャーから <a href="https://littleskin.cn" target="_blank">LittleSkin</a> アカウントでログインしてから参加してください。アドレスは `CirnoArk.RSerene.com` です。
+サーバーでは正規認証を有効にしていませんが、非正規ユーザーが参加するには <a href="https://littleskin.cn" target="_blank">LittleSkin</a> でのログインが必要です。そのため、非正規ユーザーは先に <a href="https://littleskin.cn" target="_blank">LittleSkin</a> でアカウントを登録し、サードパーティ製ランチャーで <a href="https://littleskin.cn" target="_blank">LittleSkin</a> アカウントにログインしてから参加してください！アドレスには `CirnoArk.RSerene.com` を入力します。
 :::
 
-| 種類       | 状況                                                      |
-|----------|---------------------------------------------------------|
-| サーバー名    | CirnoArk                                                 |
-| 英語名    | CirnoArk                                                 |
-| サーバーIP/ドメイン | CirnoArk.RSerene.com                                    |
-| ゲームバージョン     | 26.3（1.8 ~ 26.3 のクライアントに対応）                            |
-| サーバーコア    | Leaf（Paper 系）                                           |
-| ゲームモード     | サバイバル（Slimefun 工業 + mcMMO スキル）                            |
-| 難易度        | ハード                                                       |
-| 正規認証     | なし                                                       |
-| 最大同時接続数   | 20                                                      |
-| ホワイトリスト    | なし                                                       |
-| 公式サイト    | www.RSerene.com                                          |
-| 連絡先     | QQグループ: 902620497                                          |
+| 種類          | 状況                           |
+|-------------|------------------------------|
+| ゲームバージョン    | 26.3                         |
+| 運営形態        | 公益サーバー » すべて無料+「無条件」の寄付を受け付け |
+| ゲームモード      | サバイバル                        |
+| ネットワーク種別    | 複数回線                         |
+| 正規認証        | なし                           |
+| 最大同時接続数     | 20                           |
+| ホワイトリスト     | なし                           |
+| 連絡先         | QQグループ: 902620497            |
+| サーバーIP/ドメイン | CirnoArk.RSerene.com         |
+
+
+
 
 <ClientOnly>
   <iframe
