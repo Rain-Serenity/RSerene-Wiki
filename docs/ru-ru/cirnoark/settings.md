@@ -1,9 +1,9 @@
 ---
-author: Chosen_1st
+author: Chosen_1st ,  Korvahet
 ---
 # Основные настройки
 ::: tip Подсказка
-Сервер Perfect Arithmetic Workshop (CirnoArk) управляется игроком Chosen_1st.
+Сервер Perfect Arithmetic Workshop (CirnoArk) управляется игроком Korvahet.
 :::
 
 ## Основная конфигурация сервера
@@ -169,45 +169,14 @@ author: Chosen_1st
 
 | Категория | Плагины |
 |---|---|
-| Промышленность и геймплей | Slimefun, SlimeTinker, AlchimiaVitae, ClayTech, InfinityExpansion, CompressionCraft, EcoPower, SimpleStorage, PrivateStorage, ColoredEnderChests, MiniBlocks, HardcoreSlimefun, TranscEndence, HotbarPets, SlimefunTimeit, SmallSpace, SFCalc, GuizhanLibPlugin, SlimeGlue |
-| Навыки и развитие | mcMMO |
-| Участки | Residence |
-| Экономика и телепорты | CMI, CMILib, Vault |
-| Чат | TrChat, PlaceholderAPI, PAPIProxyBridge |
-| Управление и безопасность | LuckPerms, LiteBans, CoreProtect, GrimAC, NoPhantomSleep |
-| Кросс-версии | ViaVersion, ViaBackwards |
+| Slimefun | Slimefun |
+| Дополнения Slimefun | SlimeTinker, AlchimiaVitae, ClayTech, InfinityExpansion, CompressionCraft, EcoPower, SimpleStorage, PrivateStorage, ColoredEnderChests, MiniBlocks, HardcoreSlimefun, TranscEndence, HotbarPets, SlimefunTimeit, SmallSpace, SFCalc, GuizhanLibPlugin, SlimeGlue |
 
 ## Обновления и объявления
 - Сейчас: Perfect Arithmetic Workshop (CirnoArk) открыт.
 - Изменения (рецепты, баланс, значения) объявляются в QQ-группе.
 
-## Авторские права и отказ от ответственности
-- Используемые открытые плагины и интегрированный контент **собраны из публичных проектов в интернете**; авторские права принадлежат их авторам и издателям.
-- Сервер **не берёт с игроков никаких денег** (донаты полностью добровольные) и не распространяет плагины или сборки за плату.
-- Контент используется только для обычной игры на этом сервере; если автор или издатель не хочет распространения — напишите нам, и мы немедленно уберём файлы.
-- Поддержать авторов: скачивайте плагины с их официальных страниц и следите за обновлениями.
-
 ## Как связаться с нами
 - Сайт: www.RSerene.com
 - QQ-группа: 902620497
 - Обратная связь: напишите @Chosen_1st в группе
-
-## Источники данных
-
-Все значения на этой странице взяты из реальных файлов сервера; то, чего в файлах нет, отмечено как «待補充». Основные источники:
-
-| Содержание | Источник |
-|---|---|
-| Версия, число игроков, сложность, дистанции | `D:\Dev\server.properties` |
-| Адрес сервера | Предоставлен оператором (CirnoArk.RSerene.com) |
-| Исследовательские ранги, радиация, броня, сети, руководство | `D:\Dev\plugins\Slimefun-8c866e3-Beta.jar` → `config.yml` |
-| Перечень верстаков | `D:\Dev\plugins\SlimeTinker-Build 57 (git 41be204).jar` → `io/github/sefiraat/slimetinker/items/workstations/` |
-| Вплетения, превращения, зелья | `D:\Dev\plugins\AlchimiaVitae-Build 9 (git 95fc682).jar` → `config.yml` |
-| Планеты, перелёты, скафандры, базы | `D:\Dev\plugins\ClayTech-fixed-Build 4 (git 02b7234).jar` → `planets.yml`, `config.yml`, `lang/zh-CN.yml` |
-| Команда калькулятора | `D:\Dev\plugins\SFCalc-Build 6 (git 3441e14).jar` → `plugin.yml` |
-| Навыки, уровни, группы, опыт | `D:\Dev\plugins\mcMMO\config.yml`, `skillranks.yml`, `advanced.yml`, `experience.yml`, `party.yml` |
-| Размеры участков и флаги | `D:\Dev\plugins\Residence\groups.yml`, `flags.yml`, `config.yml` |
-| Экономика, цены, дома, телепорты | `D:\Dev\plugins\CMI\config.yml`, `Settings/Homes.yml`, `Settings/Alias.yml`, `Saves/Worth.yml` |
-| Чат | `D:\Dev\plugins\TrChat\settings.yml`, `channels/Normal.yml` |
-| Группы прав | `D:\Dev\plugins\LuckPerms\luckperms-h2-v2.mv.db` |
-| Приветствие и правила сервера | `D:\Dev\plugins\CMI\CustomText\welcomeMessage.txt`, `rules.txt` |

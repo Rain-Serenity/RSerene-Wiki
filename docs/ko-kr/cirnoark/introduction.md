@@ -1,15 +1,15 @@
 ---
-author: Chosen_1st
+author: Chosen_1st ,  Korvahet
 ---
 # 기본 소개
 ::: tip 팁
-CirnoArk 서버는 Chosen_1st가 운영합니다.
+CirnoArk 서버는 Korvahet가 운영합니다.
 :::
 
 ## CirnoArk
 **CirnoArk에 오신 것을 환영합니다. 슬라임 기술 산업을 중심으로 RPG 스킬 성장과 우주 탐험 요소를 더한 장기 운영 생존 서버입니다.**
 ::: tip 주의
-서버가 정품 인증을 활성화하지 않아 오프라인 계정도 바로 입장할 수 있습니다. 주소로 `CirnoArk.RSerene.com`을 입력하면 됩니다.
+서버는 정품 인증을 요구하지 않지만, 비정품 사용자가 접속하려면 <a href="https://littleskin.cn" target="_blank">LittleSkin</a> 로그인이 필요합니다. 먼저 <a href="https://littleskin.cn" target="_blank">LittleSkin</a>에서 계정을 등록하고, 서드파티 런처에서 <a href="https://littleskin.cn" target="_blank">LittleSkin</a> 계정으로 로그인한 뒤 접속하세요. 주소는 `CirnoArk.RSerene.com`입니다.
 :::
 
 | 유형       | 상태                                                      |

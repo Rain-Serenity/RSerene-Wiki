@@ -1,9 +1,9 @@
 ---
-author: Chosen_1st
+author: Chosen_1st ,  Korvahet
 ---
 # Basic Settings
 ::: tip Tips
-The CirnoArk server is operated by Chosen_1st.
+The CirnoArk server is operated by Korvahet.
 :::
 
 ## Basic Server Configuration
@@ -169,45 +169,14 @@ Select an area with a wooden hoe to claim land.
 
 | Category | Plugins |
 |---|---|
-| Industry & gameplay | Slimefun, SlimeTinker, AlchimiaVitae, ClayTech, InfinityExpansion, CompressionCraft, EcoPower, SimpleStorage, PrivateStorage, ColoredEnderChests, MiniBlocks, HardcoreSlimefun, TranscEndence, HotbarPets, SlimefunTimeit, SmallSpace, SFCalc, GuizhanLibPlugin, SlimeGlue |
-| Skills & growth | mcMMO |
-| Claims | Residence |
-| Economy & teleportation | CMI, CMILib, Vault |
-| Chat | TrChat, PlaceholderAPI, PAPIProxyBridge |
-| Administration & security | LuckPerms, LiteBans, CoreProtect, GrimAC, NoPhantomSleep |
-| Cross-version | ViaVersion, ViaBackwards |
+| Slimefun | Slimefun |
+| Slimefun add-ons | SlimeTinker, AlchimiaVitae, ClayTech, InfinityExpansion, CompressionCraft, EcoPower, SimpleStorage, PrivateStorage, ColoredEnderChests, MiniBlocks, HardcoreSlimefun, TranscEndence, HotbarPets, SlimefunTimeit, SmallSpace, SFCalc, GuizhanLibPlugin, SlimeGlue |
 
 ## Updates & Announcements
 - Currently: CirnoArk is open.
 - Changes (recipes, balance, values) are announced in the QQ group.
 
-## Copyright & Disclaimer
-- The open-source plugins and modpack content used by this server **come from public projects online**, and all copyrights belong to their respective authors and publishers.
-- This server **charges players no fees** (donations are entirely voluntary), and does not sell or distribute any plugin or modpack for money.
-- The content is only for normal play by players of this server; if the original author or publisher does not want it distributed, contact us and we will remove and delete the relevant files immediately.
-- Please support the original authors: download from each plugin's official page and follow their updates.
-
 ## Contact Us
 - Official site: www.RSerene.com
 - QQ group: 902620497
 - Problem reports: @Chosen_1st in the group
-
-## Data Sources & Verification
-
-Every value on this page comes from the server's actual files, and anything that does not appear in those files is marked "to be added". Main sources:
-
-| Content | Source File |
-|---|---|
-| Version, player count, difficulty, distances | `D:\Dev\server.properties` |
-| Server address | Provided by the operator (CirnoArk.RSerene.com) |
-| Slimefun research levels, radiation, armor, networks, guide | `D:\Dev\plugins\Slimefun-8c866e3-Beta.jar` → `config.yml` |
-| Workshop list | `D:\Dev\plugins\SlimeTinker-Build 57 (git 41be204).jar` → `io/github/sefiraat/slimetinker/items/workstations/` |
-| Imbuements, evolutions, potions | `D:\Dev\plugins\AlchimiaVitae-Build 9 (git 95fc682).jar` → `config.yml` |
-| Celestial bodies, travel, spacesuits, bases | `D:\Dev\plugins\ClayTech-fixed-Build 4 (git 02b7234).jar` → `planets.yml`, `config.yml`, `lang/zh-CN.yml` |
-| Calculator command | `D:\Dev\plugins\SFCalc-Build 6 (git 3441e14).jar` → `plugin.yml` |
-| Skills, levels, parties, experience | `D:\Dev\plugins\mcMMO\config.yml`, `skillranks.yml`, `advanced.yml`, `experience.yml`, `party.yml` |
-| Claim sizes, flags | `D:\Dev\plugins\Residence\groups.yml`, `flags.yml`, `config.yml` |
-| Economy, prices, homes, teleportation | `D:\Dev\plugins\CMI\config.yml`, `Settings/Homes.yml`, `Settings/Alias.yml`, `Saves/Worth.yml` |
-| Chat | `D:\Dev\plugins\TrChat\settings.yml`, `channels/Normal.yml` |
-| Permission groups | `D:\Dev\plugins\LuckPerms\luckperms-h2-v2.mv.db` |
-| Server welcome message and rules | `D:\Dev\plugins\CMI\CustomText\welcomeMessage.txt`, `rules.txt` |

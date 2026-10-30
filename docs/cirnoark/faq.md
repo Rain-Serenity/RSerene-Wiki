@@ -1,9 +1,9 @@
 ---
-author: Chosen_1st
+author: Chosen_1st ,  Korvahet
 ---
 # 常见问题
 ::: tip 提示
-完美算数工坊服务器由 Chosen_1st 运营。
+完美算数工坊服务器由 Korvahet 运营。
 :::
 ::: tip 提示
 后续有其他问题欢迎反馈！
@@ -11,10 +11,10 @@ author: Chosen_1st
 
 ## 一、登入与加入相关
 ### Q1：需要正版账号吗？
-A：不需要。服务器**没有开启正版验证**，离线账号也可以直接进入。
+A：服务器虽然没有开启正版验证，但非正版用户加入服务器需要 <a href="https://littleskin.cn" target="_blank">LittleSkin</a> 登录，因此非正版用户请先到 <a href="https://littleskin.cn" target="_blank">LittleSkin</a> 注册账号，并在第三方启动器登录你的 <a href="https://littleskin.cn" target="_blank">LittleSkin</a> 账户后才能加入服务器！
 
 ### Q2：怎么才能进到服务器？
-A：直接用「多人游戏 → 添加服务器」填入 `CirnoArk.RSerene.com` 即可；也可以在雨润主控的服务器列表中选择「**完美算数工坊**」（主控内显示的英文名是 `CirnoArk`）进入。
+A：直接用「多人游戏 → 添加服务器」填入 `CirnoArk.RSerene.com` 即可；也可以在雨润主控的服务器列表中选择「**完美算数工坊**」（主控内显示的英文名是 `CirnoArk`）进入。 非正版用户请先按上一条完成 LittleSkin 注册与登录。
 
 ### Q3：支持哪些游戏版本？
 A：服务器本体运行在 **26.3**，并通过跨版本插件兼容 **1.8 ~ 26.3** 的客户端。客户端版本过旧时会被拒绝，请升级到可用的版本。

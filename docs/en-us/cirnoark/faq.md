@@ -1,9 +1,9 @@
 ---
-author: Chosen_1st
+author: Chosen_1st ,  Korvahet
 ---
 # FAQ
 ::: tip Tips
-The CirnoArk server is operated by Chosen_1st.
+The CirnoArk server is operated by Korvahet.
 :::
 ::: tip Tips
 Feel free to give feedback on any other questions!
@@ -11,10 +11,10 @@ Feel free to give feedback on any other questions!
 
 ## I. Login & Joining
 ### Q1: Do I need a premium account?
-A: No. The server **does not have premium authentication enabled**, so offline accounts can join directly as well.
+A: The server does not require premium authentication, but non-premium accounts must sign in through <a href="https://littleskin.cn" target="_blank">LittleSkin</a> to join. Register an account on <a href="https://littleskin.cn" target="_blank">LittleSkin</a> first, then log in with your <a href="https://littleskin.cn" target="_blank">LittleSkin</a> account in a third-party launcher before joining the server!
 
 ### Q2: How do I get onto the server?
-A: Just add the server in "Multiplayer → Add Server" using the address `CirnoArk.RSerene.com`; you can also pick **"CirnoArk"** from the server list in the RSerene main control panel (the English name shown in the panel is `CirnoArk`).
+A: Just add the server in "Multiplayer → Add Server" using the address `CirnoArk.RSerene.com`; you can also pick **"CirnoArk"** from the server list in the RSerene main control panel (the English name shown in the panel is `CirnoArk`). Non-premium accounts have to complete the LittleSkin registration and sign-in described above first.
 
 ### Q3: Which game versions are supported?
 A: The server itself runs on **26.3**, and cross-version plugins keep clients from **1.8 ~ 26.3** compatible. Clients that are too old will be rejected, so please upgrade to a supported version.

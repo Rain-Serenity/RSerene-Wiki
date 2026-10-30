@@ -1,9 +1,9 @@
 ---
-author: Chosen_1st
+author: Chosen_1st ,  Korvahet
 ---
 # 基本設定
 ::: tip ヒント
-CirnoArk サーバーは Chosen_1st が運営しています。
+CirnoArk サーバーは Korvahet が運営しています。
 :::
 
 ## サーバー基本構成
@@ -167,46 +167,16 @@ CirnoArk サーバーは Chosen_1st が運営しています。
 
 ## プラグイン一覧
 
-| 分類 | プラグイン |
+| 区分 | プラグイン |
 |---|---|
-| 工業・ゲームプレイ | Slimefun、SlimeTinker、AlchimiaVitae、ClayTech、InfinityExpansion、CompressionCraft、EcoPower、SimpleStorage、PrivateStorage、ColoredEnderChests、MiniBlocks、HardcoreSlimefun、TranscEndence、HotbarPets、SlimefunTimeit、SmallSpace、SFCalc、GuizhanLibPlugin、SlimeGlue |
-| スキル・成長 | mcMMO |
-| 領地 | Residence |
-| 経済・テレポート | CMI、CMILib、Vault |
-| チャット | TrChat、PlaceholderAPI、PAPIProxyBridge |
-| 管理・セキュリティ | LuckPerms、LiteBans、CoreProtect、GrimAC、NoPhantomSleep |
-| バージョン跨ぎ | ViaVersion、ViaBackwards |
+| 粘液科技 | Slimefun |
+| 粘液科技アドオン | SlimeTinker、AlchimiaVitae、ClayTech、InfinityExpansion、CompressionCraft、EcoPower、SimpleStorage、PrivateStorage、ColoredEnderChests、MiniBlocks、HardcoreSlimefun、TranscEndence、HotbarPets、SlimefunTimeit、SmallSpace、SFCalc、GuizhanLibPlugin、SlimeGlue |
 
 ## 更新とお知らせ
 - 現在：CirnoArk が稼働中です。
 - 調整内容（レシピ、バランス、数値）はグループ内でお知らせします。
 
-## 著作権と免責事項
-- 本サーバーで使用しているオープンソースプラグインと統合コンテンツは**ネット上の公開プロジェクトから取得**したものであり、関連する著作権は各作者および公開者に帰属します。
-- 本サーバーは**プレイヤーからいかなる費用も徴収しません**（寄付は完全に任意）。また、いかなるプラグインや統合パックによる有料配信も行いません。
-- 関連コンテンツは本サーバーのプレイヤーが通常プレイするためだけに使用されます。原作者や公開者が配布を希望しない場合はご連絡ください。速やかに関連ファイルを削除します。
-- 原作者への支援を推奨します。各プラグインの公式ページからダウンロードし、作者の動向を追ってください。
-
 ## お問い合わせ
 - 公式サイト：www.RSerene.com
 - QQ グループ：902620497
 - フィードバック：グループ内で @Chosen_1st
-
-## データ出典と照合
-本ページの数値はすべてサーバーの実ファイルに基づいています。ファイルに現れない項目は「要追記」と記載しています。主な出典：
-
-| 内容 | 出典ファイル |
-|---|---|
-| バージョン、人数、難易度、距離 | `D:\Dev\server.properties` |
-| サーバーアドレス | 運営元から提供（CirnoArk.RSerene.com） |
-| Slimefun の研究レベル、放射線、鎧、ネットワーク、ガイド | `D:\Dev\plugins\Slimefun-8c866e3-Beta.jar` → `config.yml` |
-| 工房のリスト | `D:\Dev\plugins\SlimeTinker-Build 57 (git 41be204).jar` → `io/github/sefiraat/slimetinker/items/workstations/` |
-| 注入、進化、ポーション | `D:\Dev\plugins\AlchimiaVitae-Build 9 (git 95fc682).jar` → `config.yml` |
-| 天体、旅行、スペーススーツ、基地 | `D:\Dev\plugins\ClayTech-fixed-Build 4 (git 02b7234).jar` → `planets.yml`、`config.yml`、`lang/zh-CN.yml` |
-| 計算機のコマンド | `D:\Dev\plugins\SFCalc-Build 6 (git 3441e14).jar` → `plugin.yml` |
-| スキル、レベル、パーティ、経験値 | `D:\Dev\plugins\mcMMO\config.yml`、`skillranks.yml`、`advanced.yml`、`experience.yml`、`party.yml` |
-| 領地のサイズ、フラグ | `D:\Dev\plugins\Residence\groups.yml`、`flags.yml`、`config.yml` |
-| 経済、価格、家、テレポート | `D:\Dev\plugins\CMI\config.yml`、`Settings/Homes.yml`、`Settings/Alias.yml`、`Saves/Worth.yml` |
-| チャット | `D:\Dev\plugins\TrChat\settings.yml`、`channels/Normal.yml` |
-| 権限グループ | `D:\Dev\plugins\LuckPerms\luckperms-h2-v2.mv.db` |
-| サーバーの歓迎メッセージとルール | `D:\Dev\plugins\CMI\CustomText\welcomeMessage.txt`、`rules.txt` |

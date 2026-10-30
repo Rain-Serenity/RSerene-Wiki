@@ -1,9 +1,9 @@
 ---
-author: Chosen_1st
+author: Chosen_1st ,  Korvahet
 ---
 # 자주 묻는 질문
 ::: tip 팁
-CirnoArk 서버는 Chosen_1st가 운영합니다.
+CirnoArk 서버는 Korvahet가 운영합니다.
 :::
 ::: tip 팁
 다른 질문이 있으시면 언제든지 피드백해 주세요!
@@ -11,10 +11,10 @@ CirnoArk 서버는 Chosen_1st가 운영합니다.
 
 ## I. 로그인과 참여 관련
 ### Q1：정품 계정이 필요한가요？
-A：아닙니다. 서버는 **정품 인증을 활성화하지 않았으며**, 오프라인 계정도 바로 입장할 수 있습니다.
+A：서버는 정품 인증을 요구하지 않지만, 비정품 사용자가 접속하려면 <a href="https://littleskin.cn" target="_blank">LittleSkin</a> 로그인이 필요합니다. 먼저 <a href="https://littleskin.cn" target="_blank">LittleSkin</a>에서 계정을 등록하고, 서드파티 런처에서 <a href="https://littleskin.cn" target="_blank">LittleSkin</a> 계정으로 로그인한 뒤 서버에 접속하세요!
 
 ### Q2：어떻게 서버에 접속하나요？
-A：「멀티플레이 → 서버 추가」에서 주소로 `CirnoArk.RSerene.com`을 입력하면 됩니다. RSerene 컨트롤의 서버 목록에서 「**CirnoArk**」(컨트롤에 표시되는 영문 이름은 `CirnoArk`)를 선택해 입장해도 됩니다.
+A：「멀티플레이 → 서버 추가」에서 주소로 `CirnoArk.RSerene.com`을 입력하면 됩니다. RSerene 컨트롤의 서버 목록에서 「**CirnoArk**」(컨트롤에 표시되는 영문 이름은 `CirnoArk`)를 선택해 입장해도 됩니다. 비정품 계정은 먼저 위의 LittleSkin 가입과 로그인을 마쳐야 합니다.
 
 ### Q3：어떤 게임 버전을 지원하나요？
 A：서버 본체는 **26.3**에서 동작하며, 크로스 버전 플러그인이 **1.8 ~ 26.3** 클라이언트를 지원합니다. 클라이언트 버전이 너무 오래된 경우에는 접속이 거부되니 사용 가능한 버전으로 업그레이드해 주세요.

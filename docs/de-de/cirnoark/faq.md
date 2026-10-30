@@ -1,9 +1,9 @@
 ---
-author: Chosen_1st
+author: Chosen_1st ,  Korvahet
 ---
 # Häufig gestellte Fragen
 ::: tip Hinweis
-Der CirnoArk-Server wird von Chosen_1st betrieben.
+Der CirnoArk-Server wird von Korvahet betrieben.
 :::
 ::: tip Hinweis
 Weitere Fragen sind jederzeit willkommen, melde sie uns gerne!
@@ -11,10 +11,10 @@ Weitere Fragen sind jederzeit willkommen, melde sie uns gerne!
 
 ## I. Anmeldung & Beitritt
 ### F1: Brauche ich einen Premium-Account?
-A: Nein. Auf dem Server ist **keine Premium-Verifizierung aktiviert**, Offline-Accounts können also direkt beitreten.
+A: Der Server verlangt keine Premium-Verifizierung, aber Nicht-Premium-Accounts müssen sich über <a href="https://littleskin.cn" target="_blank">LittleSkin</a> anmelden. Registriere dich zuerst bei <a href="https://littleskin.cn" target="_blank">LittleSkin</a> und melde dich in einem Drittanbieter-Launcher mit deinem <a href="https://littleskin.cn" target="_blank">LittleSkin</a>-Konto an, bevor du den Server betrittst!
 
 ### F2: Wie komme ich auf den Server?
-A: Füge den Server unter „Mehrspieler → Server hinzufügen" mit der Adresse `CirnoArk.RSerene.com` hinzu; alternativ wählst du in der Serverliste des RSerene-Masters „**CirnoArk**" aus (im Master steht der englische Name `CirnoArk`).
+A: Füge den Server unter „Mehrspieler → Server hinzufügen" mit der Adresse `CirnoArk.RSerene.com` hinzu; alternativ wählst du in der Serverliste des RSerene-Masters „**CirnoArk**" aus (im Master steht der englische Name `CirnoArk`). Nicht-Premium-Accounts müssen zuerst die oben beschriebene LittleSkin-Registrierung und -Anmeldung durchführen.
 
 ### F3: Welche Spielversionen werden unterstützt?
 A: Der Server selbst läuft auf **26.3** und ist dank der Cross-Version-Plugins mit Clients von **1.8 ~ 26.3** kompatibel. Zu alte Clients werden abgewiesen – bitte upgrade auf eine nutzbare Version.

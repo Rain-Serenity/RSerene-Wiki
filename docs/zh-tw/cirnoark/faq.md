@@ -1,9 +1,9 @@
 ---
-author: Chosen_1st
+author: Chosen_1st ,  Korvahet
 ---
 # 常見問題
 ::: tip 提示
-完美算術工坊伺服器由 Chosen_1st 營運。
+完美算術工坊伺服器由 Korvahet 營運。
 :::
 ::: tip 提示
 後續有其他問題歡迎回饋！
@@ -11,10 +11,10 @@ author: Chosen_1st
 
 ## 一、登入與加入相關
 ### Q1：需要正版帳號嗎？
-A：不需要。伺服器**沒有開啟正版驗證**，離線帳號也可以直接進入。
+A：伺服器雖然沒有開啟正版驗證，但非正版使用者加入伺服器需要 <a href="https://littleskin.cn" target="_blank">LittleSkin</a> 登入，因此非正版使用者請先到 <a href="https://littleskin.cn" target="_blank">LittleSkin</a> 註冊帳號，並在第三方啟動器登入你的 <a href="https://littleskin.cn" target="_blank">LittleSkin</a> 帳戶後才能加入伺服器！
 
 ### Q2：怎麼才能進到伺服器？
-A：直接用「多人遊戲 → 新增伺服器」填入 `CirnoArk.RSerene.com` 即可；也可以在雨潤主控的伺服器清單中選擇「**完美算術工坊**」（主控內顯示的英文名是 `CirnoArk`）進入。
+A：直接用「多人遊戲 → 新增伺服器」填入 `CirnoArk.RSerene.com` 即可；也可以在雨潤主控的伺服器清單中選擇「**完美算術工坊**」（主控內顯示的英文名是 `CirnoArk`）進入。 非正版使用者請先依上一條完成 LittleSkin 註冊與登入。
 
 ### Q3：支援哪些遊戲版本？
 A：伺服器本體執行在 **26.3**，並透過跨版本插件相容 **1.8 ~ 26.3** 的客戶端。客戶端版本過舊時會被拒絕，請升級到可用的版本。

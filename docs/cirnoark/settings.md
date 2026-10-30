@@ -1,9 +1,9 @@
 ---
-author: Chosen_1st
+author: Chosen_1st ,  Korvahet
 ---
 # 基本设定
 ::: tip 提示
-完美算数工坊服务器由 Chosen_1st 运营。
+完美算数工坊服务器由 Korvahet 运营。
 :::
 
 ## 服务器基本配置
@@ -169,45 +169,14 @@ author: Chosen_1st
 
 | 分类 | 插件 |
 |---|---|
-| 工业与玩法 | Slimefun、SlimeTinker、AlchimiaVitae、ClayTech、InfinityExpansion、CompressionCraft、EcoPower、SimpleStorage、PrivateStorage、ColoredEnderChests、MiniBlocks、HardcoreSlimefun、TranscEndence、HotbarPets、SlimefunTimeit、SmallSpace、SFCalc、GuizhanLibPlugin、SlimeGlue |
-| 技能与成长 | mcMMO |
-| 领地 | Residence |
-| 经济与传送 | CMI、CMILib、Vault |
-| 聊天 | TrChat、PlaceholderAPI、PAPIProxyBridge |
-| 管理与安全 | LuckPerms、LiteBans、CoreProtect、GrimAC、NoPhantomSleep |
-| 跨版本 | ViaVersion、ViaBackwards |
+| 粘液科技 | Slimefun |
+| 粘液科技附属插件 | SlimeTinker、AlchimiaVitae、ClayTech、InfinityExpansion、CompressionCraft、EcoPower、SimpleStorage、PrivateStorage、ColoredEnderChests、MiniBlocks、HardcoreSlimefun、TranscEndence、HotbarPets、SlimefunTimeit、SmallSpace、SFCalc、GuizhanLibPlugin、SlimeGlue |
 
 ## 更新与公告
 - 当前：完美算数工坊（CirnoArk）开放中。
 - 调整内容（配方、平衡、数值）会在群内公告。
 
-## 版权与免责声明
-- 本服使用的开源插件与整合内容**来自网络公开项目**，相关著作权归各作者及发布者所有。
-- 本服**不向玩家收取任何费用**（赞助完全自愿），也不以任何插件或整合包进行付费传播。
-- 相关内容仅用于本服玩家正常游玩；若原作者或发布者不希望被传播，请联系我们，我们会第一时间下架并删除相关文件。
-- 建议支持原作者：请到各插件的官方页面下载、关注作者动态。
-
 ## 联系我们
 - 官网：www.RSerene.com
 - QQ 群：902620497
 - 问题反馈：群内 @Chosen_1st
-
-## 数据来源与核对
-
-本页所有数值均来自服务器实际文件，未在文件中出现的项目一律标注"待补充"。主要来源：
-
-| 内容 | 来源文件 |
-|---|---|
-| 版本、人数、难度、距离 | `D:\Dev\server.properties` |
-| 服务器地址 | 运营方提供（CirnoArk.RSerene.com） |
-| 粘液科技研究等级、辐射、护甲、网络、指南 | `D:\Dev\plugins\Slimefun-8c866e3-Beta.jar` → `config.yml` |
-| 工坊清单 | `D:\Dev\plugins\SlimeTinker-Build 57 (git 41be204).jar` → `io/github/sefiraat/slimetinker/items/workstations/` |
-| 注入、演变、药水 | `D:\Dev\plugins\AlchimiaVitae-Build 9 (git 95fc682).jar` → `config.yml` |
-| 天体、旅行、宇航服、基地 | `D:\Dev\plugins\ClayTech-fixed-Build 4 (git 02b7234).jar` → `planets.yml`、`config.yml`、`lang/zh-CN.yml` |
-| 计算器指令 | `D:\Dev\plugins\SFCalc-Build 6 (git 3441e14).jar` → `plugin.yml` |
-| 技能、等级、队伍、经验 | `D:\Dev\plugins\mcMMO\config.yml`、`skillranks.yml`、`advanced.yml`、`experience.yml`、`party.yml` |
-| 领地尺寸、旗标 | `D:\Dev\plugins\Residence\groups.yml`、`flags.yml`、`config.yml` |
-| 经济、售价、家、传送 | `D:\Dev\plugins\CMI\config.yml`、`Settings/Homes.yml`、`Settings/Alias.yml`、`Saves/Worth.yml` |
-| 聊天 | `D:\Dev\plugins\TrChat\settings.yml`、`channels/Normal.yml` |
-| 权限组 | `D:\Dev\plugins\LuckPerms\luckperms-h2-v2.mv.db` |
-| 服务器欢迎语与规则 | `D:\Dev\plugins\CMI\CustomText\welcomeMessage.txt`、`rules.txt` |

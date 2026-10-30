@@ -1,15 +1,15 @@
 ---
-author: Chosen_1st
+author: Chosen_1st ,  Korvahet
 ---
 # 基本紹介
 ::: tip ヒント
-CirnoArk サーバーは Chosen_1st が運営しています。
+CirnoArk サーバーは Korvahet が運営しています。
 :::
 
 ## CirnoArk
 **CirnoArk へようこそ。Slimefun 工業を中心に、RPG スキルの育成と星間探査のプレーを重ね合わせた、長期公開のサバイバルサーバーです。**
 ::: tip 注意
-サーバーは正規認証を有効にしていませんが、オフラインアカウントでもそのまま入室できます。アドレスに `CirnoArk.RSerene.com` を入力すれば接続できます。
+サーバーでは正版認証を有効にしていませんが、非正版ユーザーが参加するには <a href="https://littleskin.cn" target="_blank">LittleSkin</a> でのログインが必要です。<a href="https://littleskin.cn" target="_blank">LittleSkin</a> でアカウントを登録し、サードパーティランチャーから <a href="https://littleskin.cn" target="_blank">LittleSkin</a> アカウントでログインしてから参加してください。アドレスは `CirnoArk.RSerene.com` です。
 :::
 
 | 種類       | 状況                                                      |

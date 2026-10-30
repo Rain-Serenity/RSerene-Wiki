@@ -1,15 +1,15 @@
 ---
-author: Chosen_1st
+author: Chosen_1st ,  Korvahet
 ---
 # Основная информация
 ::: tip Подсказка
-Сервер Perfect Arithmetic Workshop (CirnoArk) управляется игроком Chosen_1st.
+Сервер Perfect Arithmetic Workshop (CirnoArk) управляется игроком Korvahet.
 :::
 
 ## Perfect Arithmetic Workshop
 **Добро пожаловать в Perfect Arithmetic Workshop (CirnoArk) — постоянно открытый survival-сервер, в основе которого лежит промышленность Slimefun, дополненная прокачкой RPG-навыков и космическими путешествиями.**
 ::: tip Внимание
-Сервер не включает проверку подлинности, поэтому офлайн-аккаунты тоже заходят напрямую — просто укажите адрес `CirnoArk.RSerene.com`.
+Сервер не включает проверку подлинности, но для входа с нелицензионного аккаунта нужно авторизоваться через <a href="https://littleskin.cn" target="_blank">LittleSkin</a>. Зарегистрируйтесь на <a href="https://littleskin.cn" target="_blank">LittleSkin</a>, затем войдите под своим аккаунтом <a href="https://littleskin.cn" target="_blank">LittleSkin</a> в стороннем лаунчере — только после этого можно подключиться. Адрес сервера — `CirnoArk.RSerene.com`.
 :::
 
 | Тип       | Значение                                                      |

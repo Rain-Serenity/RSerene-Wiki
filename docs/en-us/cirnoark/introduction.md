@@ -1,15 +1,15 @@
 ---
-author: Chosen_1st
+author: Chosen_1st ,  Korvahet
 ---
 # Basic Introduction
 ::: tip Tips
-The CirnoArk server is operated by Chosen_1st.
+The CirnoArk server is operated by Korvahet.
 :::
 
 ## CirnoArk
 **Welcome to CirnoArk, a long-running open survival server built around Slimefun industry, with RPG skill progression and interstellar exploration layered on top.**
 ::: tip Note
-The server does not have premium authentication enabled, so offline accounts can join directly — just point your client at `CirnoArk.RSerene.com`.
+The server does not require premium authentication, but non-premium accounts must sign in through <a href="https://littleskin.cn" target="_blank">LittleSkin</a> to join. Register an account on <a href="https://littleskin.cn" target="_blank">LittleSkin</a> first, then log in with your <a href="https://littleskin.cn" target="_blank">LittleSkin</a> account in a third-party launcher before joining. The address is `CirnoArk.RSerene.com`.
 :::
 
 | Type     | Status                                                      |

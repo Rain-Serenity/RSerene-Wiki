@@ -1,15 +1,15 @@
 ---
-author: Chosen_1st
+author: Chosen_1st ,  Korvahet
 ---
 # 基本介紹
 ::: tip 提示
-完美算術工坊伺服器由 Chosen_1st 營運。
+完美算術工坊伺服器由 Korvahet 營運。
 :::
 
 ## 完美算術工坊
 **歡迎來到完美算術工坊（CirnoArk），一個以黏液科技工業為核心、加上 RPG 技能成長與星際探索玩法的長期開放生存伺服器。**
 ::: tip 注意
-伺服器沒有開啟正版驗證，離線帳號同樣可以直接進入，位址填 `CirnoArk.RSerene.com` 即可。
+伺服器雖然沒有開啟正版驗證，但非正版使用者加入伺服器需要 <a href="https://littleskin.cn" target="_blank">LittleSkin</a> 登入，因此非正版使用者請先到 <a href="https://littleskin.cn" target="_blank">LittleSkin</a> 註冊帳號，並在第三方啟動器登入你的 <a href="https://littleskin.cn" target="_blank">LittleSkin</a> 帳戶後才能加入伺服器！位址填 `CirnoArk.RSerene.com`。
 :::
 
 | 類型       | 狀況                                                      |
