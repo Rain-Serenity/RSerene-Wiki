@@ -12,20 +12,20 @@ author: Chosen_1st ,  Korvahet
 服务器虽然没有开启正版验证，但非正版用户加入服务器需要 <a href="https://littleskin.cn" target="_blank">LittleSkin</a> 登录，因此非正版用户请先到 <a href="https://littleskin.cn" target="_blank">LittleSkin</a> 注册账号，并在第三方启动器登录你的 <a href="https://littleskin.cn" target="_blank">LittleSkin</a> 账户后才能加入服务器！地址填 `CirnoArk.RSerene.com`。
 :::
 
-| 类型       | 状况                                                      |
-|----------|---------------------------------------------------------|
-| 服务器名称    | 完美算数工坊                                                 |
-| 英文名称    | CirnoArk                                                 |
-| 服务器IP/域名 | CirnoArk.RSerene.com                                    |
-| 游戏版本     | 26.3（兼容 1.8 ~ 26.3 的客户端）                            |
-| 服务端内核    | Leaf（Paper 系）                                           |
-| 游戏模式     | 生存（粘液科技工业 + mcMMO 技能）                            |
-| 难度        | 困难                                                       |
-| 正版验证     | 无                                                       |
-| 最大在线人数   | 20                                                      |
-| 有无白名单    | 无                                                       |
-| 官网        | www.RSerene.com                                          |
-| 联系方式     | QQ群: 902620497                                          |
+| 类型       | 状况                   |
+|----------|----------------------|
+| 服务器名称    | 完美算数工坊               |
+| 英文名称     | CirnoArk             |
+| 服务器IP/域名 | CirnoArk.RSerene.com |
+| 游戏版本     | 26.3                 |
+| 服务端核心    | Leaf                 |
+| 游戏模式     | 生存                   |
+| 难度       | 困难                   |
+| 正版验证     | 无                    |
+| 最大在线人数   | 20                   |
+| 有无白名单    | 无                    |
+| 官网       | www.RSerene.com      |
+| 联系方式     | QQ群: 902620497       |
 
 <ClientOnly>
   <iframe
