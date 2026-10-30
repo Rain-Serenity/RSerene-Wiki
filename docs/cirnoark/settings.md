@@ -125,11 +125,3 @@ author: Chosen_1st ,  Korvahet
 
 - **核心基础**：Slimefun
 - **粘液科技附属**：SlimeTinker、AlchimiaVitae、ClayTech、InfinityExpansion、CompressionCraft、EcoPower、SimpleStorage、PrivateStorage、ColoredEnderChests、MiniBlocks、HardcoreSlimefun、TranscEndence、HotbarPets、SlimefunTimeit、SmallSpace、SFCalc、GuizhanLibPlugin、SlimeGlue。
-
-## 更新与公告 & 联系我们
-
-- 当前状态：完美算数工坊（CirnoArk）开放中。
-- 调整内容（配方、平衡、数值）会在群内公告。
-- **官网**：www.RSerene.com
-- **QQ 群**：902620497
-- **问题反馈**：群内 @Chosen_1st 或 @Korvahet
