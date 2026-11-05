@@ -66,7 +66,7 @@ A: Ja. Die Gruppengröße ist **nicht begrenzt**, Erfahrung wird im Umkreis von 
 A: Verkaufe Items aus deinem Inventar mit `/sell gui` (Umrechnung nach der Preistabelle); `/worth` zeigt den Wert des Items in deiner Hand, `/worthlist` die komplette Preistabelle. Zwischen Spielern überweist du Geld mit `/pay` &lt;spieler&gt; &lt;betrag&gt;, **Gebühr 3 %**, die der Zahlende zusätzlich trägt. Neue Spieler starten mit **￥100**.
 
 ### F13: Wie praktisch ist AFK?
-A: Wer **10 Minuten** nichts bewegt, wird automatisch AFK (Berechtigung `cmi.command.afk.auto`). Bleibst du noch **5 Minuten** im AFK, wirst du wieder vom Server gekickt – mit dem Hinweis, dass du länger als 15 Minuten AFK warst.
+A: Wer **10 Minuten** nichts bewegt, wird automatisch AFK. Bleibst du noch **5 Minuten** im AFK, wirst du wieder vom Server gekickt – mit dem Hinweis, dass du länger als 15 Minuten AFK warst.
 
 ### F14: Startet der Server neu? Geht dabei etwas verloren?
 A: Der Server **startet alle 72 Stunden planmäßig neu** (vorher läuft im Spiel ein Countdown), **stündlich werden die Drops auf dem Boden automatisch entfernt**. Grundstücke und Items werden von CoreProtect protokolliert und lassen sich zurückrollen.

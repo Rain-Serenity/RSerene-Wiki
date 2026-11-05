@@ -1,21 +1,21 @@
 # Grundeinstellungen
 
 ## Server-Basisinformationen
-- **Serveradresse**：`Play.RSerene.com`(du kannst auch von einem anderen RSerene-Server den Befehl `/server Survival` ausführen)。
-- **Server-Core**：[Lophine](https://GitHub.com/LophineLabs/Lophine)。
-- **Client-Kompatibilität**：Kompatibel mit Clients von 1.8 ~ 26.3。
-- **Empfohlene Client-Version**：26.3
-- **Spielerzahl und Schwierigkeit**：Maximal 40 Spieler online, Schwierigkeitsgrad: Schwer。
-- **Sichtweite**：Sichtweite 16, Simulationsdistanz 12。
-- **Schlafmechanik**：Wenn 30 % der Spieler im Bett liegen, startet die Nachtbeschleunigung. Durch das eigene Plugin [NoPhantomSleep](https://GitHub.com/Rain-Serenity/NoPhantomSleep) gilt ein Rechtsklick auf ein Bett in der Nacht als Überstehen der gesamten Nacht, und es spawnen keine Phantoms。
-- **Inventar beim Tod behalten**：Der Server hat „Inventar beim Tod behalten“ aktiviert。
+- **Serveradresse**: `Play.RSerene.com` (du kannst auch von einem anderen RSerene-Server den Befehl `/server Survival` ausführen).
+- **Server-Core**: [Lophine](https://GitHub.com/LophineLabs/Lophine).
+- **Client-Kompatibilität**: Kompatibel mit Clients von 1.8 ~ 26.3.
+- **Empfohlene Client-Version**: 26.3
+- **Spielerzahl und Schwierigkeit**: Maximal 40 Spieler online, Schwierigkeitsgrad: Schwer.
+- **Sichtweite**: Sichtweite 16, Simulationsdistanz 12.
+- **Schlafmechanik**: Wenn 30 % der Spieler im Bett liegen, startet die Nachtbeschleunigung. Durch das eigene Plugin [NoPhantomSleep](https://GitHub.com/Rain-Serenity/NoPhantomSleep) gilt ein Rechtsklick auf ein Bett in der Nacht als Überstehen der gesamten Nacht, und es spawnen keine Phantoms.
+- **Inventar beim Tod behalten**: Der Server hat „Inventar beim Tod behalten“ aktiviert.
 
 ## Welt- und Survival-Systeme
 
 ### 1. Teleportation und Zuhause
-- **Befehle**：`/back`(letzte Position), `/dback`(Todesort), `/home`, `/homes`, `/sethome`, `/removehome`, `/spawn`, `/tpa`, `/tpahere`, `/rtp`。
-- **Zahlen und Limits**：Du kannst bis zu 8 Zuhause setzen; eine `/tpa`-Anfrage ist 60 Sekunden lang gültig; `/rtp` hat 10 Minuten Abklingzeit, der Zielpunkt liegt in der Overworld zwischen 3200 ~ 32000 Blöcken。
-- **Unverwundbarkeit**：Nach dem Teleport bist du 5 Sekunden unverwundbar, das endet aber vorzeitig, sobald du Blöcke zerstörst oder mit Blöcken interagierst。
+- **Befehle**: `/back` (letzte Position), `/dback` (Todesort), `/home`, `/homes`, `/sethome`, `/removehome`, `/spawn`, `/tpa`, `/tpahere`, `/rtp`.
+- **Zahlen und Limits**: Du kannst bis zu 8 Zuhause setzen; eine `/tpa`-Anfrage ist 60 Sekunden lang gültig; `/rtp` hat 10 Minuten Abklingzeit, der Zielpunkt liegt in der Overworld zwischen 3200 ~ 32000 Blöcken.
+- **Unverwundbarkeit**: Nach dem Teleport bist du 5 Sekunden unverwundbar, das endet aber vorzeitig, sobald du Blöcke zerstörst oder mit Blöcken interagierst.
 
 ### 2. Grundstücke
 | Punkt                                | Wert                |
@@ -27,16 +27,16 @@
 | Auswahlwerkzeug / Werkzeug für Infos | Holzhacke / Schnur  |
 | Preis pro Block                      | 0,05 Spielmünzen    |
 
-- **Rechte und Sicherheit**：In Grundstücken ist PvP standardmäßig verboten, **Explosionen sind aber standardmäßig erlaubt**. Der Eigentümer kann die Rechte einzeln umschalten。
-- **Vertrauensmechanik**：`/res padd` gibt anderen die Rechte Bauen, Zerstören, Container und Interaktion, **aber kein** PvP und keine Zündel-Rechte. Für vollständiges Vertrauen brauchst du `/res pset &lt;ID&gt; admin true`。
-- **Deaktivierte Funktionen**：Flug, Sprunghöhe, Erfahrung/Items behalten, Backups, Zeit & Wetter, Heilung, Grundstücks-Chat (selbst mit Grundstücks-Admin-Rechten nicht aktivierbar)。
-- **Handelsregeln**：Miete und Verkauf von Grundstücken sind deaktiviert, beim Löschen eines Grundstücks wird kein Gold erstattet。
+- **Rechte und Sicherheit**: In Grundstücken ist PvP standardmäßig verboten, **Explosionen sind aber standardmäßig erlaubt**. Der Eigentümer kann die Rechte einzeln umschalten.
+- **Vertrauensmechanik**: `/res padd` gibt anderen die Rechte Bauen, Zerstören, Container und Interaktion, **aber kein** PvP und keine Zündel-Rechte. Für vollständiges Vertrauen brauchst du `/res pset &lt;ID&gt; admin true`.
+- **Deaktivierte Funktionen**: Flug, Sprunghöhe, Erfahrung/Items behalten, Backups, Zeit & Wetter, Heilung, Grundstücks-Chat (selbst mit Grundstücks-Admin-Rechten nicht aktivierbar).
+- **Handelsregeln**: Miete und Verkauf von Grundstücken sind deaktiviert, beim Löschen eines Grundstücks wird kein Gold erstattet.
 
 ### 3. Wirtschaftssystem
-- **Währung**：Symbol `￥`, neue Spieler starten mit 100, kein Limit, Dezimalwerte sind möglich。
-- **Handel und Gebühren**：`/pay`-Überweisungen kosten 3 % Gebühren (vom Zahlenden zusätzlich getragen)。
-- **Globaler Markt**：Mit `/gmp market gui` öffnest du den globalen Markt (weitere Befehle siehe „Befehlsliste“), darin liegt die Steuer bei 5 %。
-- **Systemankauf**：Mit `/sell gui` öffnest du das Menü; leg die vom System-Shop ankaufbaren Items hinein und schließe das Menü, dann wird automatisch verkauft; Reparaturen sind kostenlos; beim Recycling verschrotteter Maschinen wird ein Teil der Materialien zurückgegeben。
+- **Währung**: Symbol `￥`, neue Spieler starten mit 100, kein Limit, Dezimalwerte sind möglich.
+- **Handel und Gebühren**: `/pay`-Überweisungen kosten 3 % Gebühren (vom Zahlenden zusätzlich getragen).
+- **Globaler Markt**: Mit `/gmp market gui` öffnest du den globalen Markt (weitere Befehle siehe „Befehlsliste“), darin liegt die Steuer bei 5 %.
+- **Systemankauf**: Mit `/sell gui` öffnest du das Menü; leg die vom System-Shop ankaufbaren Items hinein und schließe das Menü, dann wird automatisch verkauft; Reparaturen sind kostenlos; beim Recycling verschrotteter Maschinen wird ein Teil der Materialien zurückgegeben.
 - **Vom System-Shop ankaufbare Items:**
 
 | Item           | Preis | Item                      | Preis    |
@@ -51,27 +51,27 @@
 | Rohgoldblock   | 14,40 | Schwerer Kern             | 3.200,00 |
 
 ::: tip Hinweis
-Die Verkaufspreise werden noch angepasst – Feedback ist willkommen。
+Die Verkaufspreise werden noch angepasst – Feedback ist willkommen.
 :::
 
 ### 4. Chatsystem
-- **Grundlimits**：Ein Chat-Kanal, 2 Sekunden Sprechkühlzeit, maximal 100 Zeichen pro Nachricht。
-- **Schnellanzeige**：Mit `[inv]`, `[ender]` und `[item]` im Chat zeigst du direkt dein Inventar, deine Endertruhe oder das Item in deiner Hand。
-- **Mute-Einschränkung**：Während eines Mutes sind Befehle wie `/me`, `/tell` und `/msg` wirkungslos。
+- **Grundlimits**: Ein Chat-Kanal, 2 Sekunden Sprechkühlzeit, maximal 100 Zeichen pro Nachricht.
+- **Schnellanzeige**: Mit `[inv]`, `[ender]` und `[item]` im Chat zeigst du direkt dein Inventar, deine Endertruhe oder das Item in deiner Hand.
+- **Mute-Einschränkung**: Während eines Mutes sind Befehle wie `/me`, `/tell` und `/msg` wirkungslos.
 
 ## Drosselungs-Einstellungen
 
 ### 1. Tick-Verarbeitungen pro Tick (limit)
-- **Bedeutung**：Wie oft diese Entity pro Tick innerhalb einer einzelnen Folia-Region maximal verarbeitet wird。
-- **Auslöser**：Die Drosselung startet, wenn die Zahl der Entities in der Region den Wert limit übersteigt。
-- **Wirkung**：Pro Tick werden nur so viele Entities verarbeitet, wie limit erlaubt; die Ticks der übrigen Entities werden übersprungen。
-- **Beispiel**：limit = 100 bei tatsächlich 300 Entities in der Region → pro Tick werden nur 100 verarbeitet, jede Entity wird also durchschnittlich nur alle 3 Ticks verarbeitet。
+- **Bedeutung**: Wie oft diese Entity pro Tick innerhalb einer einzelnen Folia-Region maximal verarbeitet wird.
+- **Auslöser**: Die Drosselung startet, wenn die Zahl der Entities in der Region den Wert limit übersteigt.
+- **Wirkung**: Pro Tick werden nur so viele Entities verarbeitet, wie limit erlaubt; die Ticks der übrigen Entities werden übersprungen.
+- **Beispiel**: limit = 100 bei tatsächlich 300 Entities in der Region → pro Tick werden nur 100 verarbeitet, jede Entity wird also durchschnittlich nur alle 3 Ticks verarbeitet.
 
 ### 2. Maximale Existenzzahl (removal)
-- **Bedeutung**：Die harte Obergrenze, wie viele dieser Entity in einer einzelnen Folia-Region existieren dürfen。
-- **Auslöser**：Die Entfernung startet, wenn die Zahl der Entities in der Region removal übersteigt。
-- **Wirkung**：Der Kern entfernt Entities beginnend mit den am frühesten gespawnten, bis die Zahl unter removal sinkt。
-- **Zweck**：Verhindert, dass sich Entities unbegrenzt ansammeln, und vermeidet, dass Speicher oder Rechenlast einer Region explodieren。
+- **Bedeutung**: Die harte Obergrenze, wie viele dieser Entity in einer einzelnen Folia-Region existieren dürfen.
+- **Auslöser**: Die Entfernung startet, wenn die Zahl der Entities in der Region removal übersteigt.
+- **Wirkung**: Der Kern entfernt Entities beginnend mit den am frühesten gespawnten, bis die Zahl unter removal sinkt.
+- **Zweck**: Verhindert, dass sich Entities unbegrenzt ansammeln, und vermeidet, dass Speicher oder Rechenlast einer Region explodieren.
 
 ### 3. Konkrete Einstellungen
 | Entity                      | Tick-Verarbeitungen pro Tick (limit) | Maximale Existenzzahl (removal) |
