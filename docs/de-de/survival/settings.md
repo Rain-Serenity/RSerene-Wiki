@@ -106,8 +106,8 @@ Die Verkaufspreise werden noch angepasst – Feedback ist willkommen.
 | Fallengelassener Gegenstand | 300                                  | 1.200                           |
 | Erfahrungskugel             | 300                                  | 1.200                           |
 | Rüstungsständer             | 120                                  | 480                             |
-| Rahmen                      | 120                                  | 480                             |
-| Leuchtender Rahmen          | 120                                  | 480                             |
+| Rahmen                      | 400                                  | 480                             |
+| Leuchtender Rahmen          | 400                                  | 480                             |
 | Boot                        | 60                                   | 240                             |
 | Lore                        | 60                                   | 240                             |
 | TNT                         | 60                                   | 240                             |

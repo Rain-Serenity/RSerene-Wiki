@@ -106,8 +106,8 @@ Selling prices are still being adjusted; feedback is welcome.
 | Dropped Item     | 300                              | 1200                             |
 | Experience Orb   | 300                              | 1200                             |
 | Armor Stand      | 120                              | 480                              |
-| Item Frame       | 120                              | 480                              |
-| Glow Item Frame  | 120                              | 480                              |
+| Item Frame       | 400                              | 480                              |
+| Glow Item Frame  | 400                              | 480                              |
 | Boat             | 60                               | 240                              |
 | Minecart         | 60                               | 240                              |
 | TNT              | 60                               | 240                              |
