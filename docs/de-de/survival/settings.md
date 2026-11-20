@@ -46,9 +46,9 @@
 | Rohgold        | 1,60  | Netheritbarren            | 90,00    |
 | Kohleerz       | 2,80  | Diamantblock              | 108,00   |
 | Rohkupferblock | 5,40  | Verzauberter Goldapfel    | 200,00   |
-| Roheisenblock  | 10,80 | Tiefenschieferkohleerz    | 360,00   |
+| Roheisenblock  | 10,80 | Tiefenschieferkohleerz    | 320,00   |
 | Diamant        | 12,00 | Tiefenschiefer-Smaragderz | 680,00   |
-| Rohgoldblock   | 14,40 | Schwerer Kern             | 3.200,00 |
+| Rohgoldblock   | 14,40 | Schwerer Kern             | 2.800,00 |
 
 ::: tip Hinweis
 Die Verkaufspreise werden noch angepasst – Feedback ist willkommen.
