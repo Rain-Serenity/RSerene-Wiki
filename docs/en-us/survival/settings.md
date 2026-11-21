@@ -46,9 +46,9 @@
 | Raw Gold            | 1.60  | Netherite Ingot        | 90.00   |
 | Coal Ore            | 2.80  | Block of Diamond       | 108.00  |
 | Block of Raw Copper | 5.40  | Enchanted Golden Apple | 200.00  |
-| Block of Raw Iron   | 10.80 | Deepslate Coal Ore     | 320.00  |
+| Block of Raw Iron   | 10.80 | Deepslate Coal Ore     | 250.00  |
 | Diamond             | 12.00 | Deepslate Emerald Ore  | 680.00  |
-| Block of Raw Gold   | 14.40 | Heavy Core             | 2800.00 |
+| Block of Raw Gold   | 14.40 | Heavy Core             | 2500.00 |
 
 ::: tip Note
 Selling prices are still being adjusted; feedback is welcome.
